@@ -6,8 +6,8 @@ on:
     branches:
       - main
   schedule:
-    # Run every 10 minutes
-    - cron: "*/10 * * * *"
+    - cron: "*/120 * * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -48,8 +48,8 @@ jobs:
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated 9 minutes Ago ⚡️"
+        message: "Updated ⚡️"
         add: "."
-        push: "https://github.com/barry-far/V2ray-Configs.git"
+        push: "https://github.com/coldwater-10/V2ray-Configs.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
