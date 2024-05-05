@@ -170,7 +170,7 @@ def main():
         "https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/v2ray.txt",
         "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all2",
-        "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/donated'
+        "https://raw.githubusercontent.com/1Shervin/Sub/main/v2ray'
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed'
         "https://panel.quickservice.sbs/gWQfDehzDHyfmKXWUK9N4sSL6fRn/2d0c6203-f715-4b14-973a-ac25e560b03e/all.txt?name=panel.quickservice.sbs-unknown&asn=unknown&mode=new'
         "https://confighub.site/sub.txt",
