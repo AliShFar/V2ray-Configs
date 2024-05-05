@@ -1,67 +1,67 @@
 # 🔒 免费的 V2ray 配置 🌐
 💻 这个仓库包含了一系列免费的 V2ray 配置文件，你可以在你的 V2ray 客户端中使用它们来安全、匿名地访问互联网。
 
-[ورژن فارسی](https://github.com/barry-far/V2ray-Configs/blob/main/Persian-README.md) | [English Version](https://github.com/barry-far/V2ray-Configs)
+[ورژن فارسی](https://github.com/coldwater-10/V2ray-Configs/blob/main/Persian-README.md) | [English Version](https://github.com/coldwater-10/V2ray-Configs)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/barry-far/V2ray-Configs.svg)](https://github.com/barry-far/V2ray-Configs/stargazers) [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/barry-far/V2ray-Configs)  
+![GitHub last commit](https://img.shields.io/github/last-commit/coldwater-10/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/coldwater-10/V2ray-Configs.svg)](https://github.com/coldwater-10/V2ray-Configs/stargazers) [![Update Configs](https://github.com/coldwater-10/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/coldwater-10/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/coldwater-10/V2ray-Configs)  
 
 
 
 ## 使用方法
 👉 要使用这些配置之一，只需打开位于根目录的 All_Configs_Sub.txt 文件。该文件包含各种 V2ray 配置文件的链接列表，你可以在 V2ray 客户端中使用它们。从 All_Configs_Sub.txt 文件中复制想要使用的配置文件的这个链接，然后导入到你的 V2ray 客户端中。有关更多信息，请参阅客户端的文档。
 
-如果上面的链接对您不起作用，请使用这个链接：[All_Config_base64_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_base64_Sub.txt)。
+如果上面的链接对您不起作用，请使用这个链接：[All_Config_base64_Sub.txt](https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/All_Configs_base64_Sub.txt)。
 
 只需将这些链接复制到您的客户端即可使用：
 
 - Subscription 1:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub1.txt
 ```
 
 - Subscription 2: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub2.txt
 ```
 
 - Subscription 3: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub3.txt
 ```
 
 - Subscription 4: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub4.txt
 ```
 
 - Subscription 5: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub5.txt
 ```
 
 - Subscription 6: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub6.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub6.txt
 ```
 
 - Subscription 7: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub7.txt
 ```
 
 - Subscription 8: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub8.txt
 ```
 
 - Subscription 9: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub9.txt
 ```
 
 - Subscription 10: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub10.txt
 ```
 
 
@@ -72,45 +72,45 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
 
 - Vmess: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
 ```
 
 - Vless: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
 ```
 
 - Trojan: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
 ```
 
 - ShadowSocks: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
 ```
 
 - ShadowSocksR: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
 ```
 
 - Tuic:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
 ```
 
 - hy2:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
 ```
 
 - Warp (只是 Hiddify):
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Warp_sub.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Warp_sub.txt
 ```
 
-如果上面的链接对您不起作用，请查看这个文件夹：[Base64 文件夹](https://github.com/barry-far/V2ray-Configs/tree/dev/Base64)。
+如果上面的链接对您不起作用，请查看这个文件夹：[Base64 文件夹](https://github.com/coldwater-10/V2ray-Configs/tree/dev/Base64)。
 
 ℹ️ 此外，我们创建了一个 Wiki 页面，详细介绍如何在不同的操作系统上设置 V2ray。欢迎访问我们的 Wiki 获取更多信息。
 
