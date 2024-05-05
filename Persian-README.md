@@ -2,112 +2,112 @@
 💻 این مخزن مجموعه‌ای از کانفیگ‌های V2ray رایگان است که می توانید با اپلیکیشن کلاینت V2ray خود برای دسترسی به اینترنت به صورت امن و ناشناس استفاده کنید. 
 
 
-[ENGLISH VERSION](https://github.com/barry-far/Free-V2ray-Config) | [中文版](https://github.com/barry-far/Free-V2ray-Config/blob/main/Chinese-README.md)
+[ENGLISH VERSION](https://github.com/coldwater-10/Free-V2ray-Config) | [中文版](https://github.com/coldwater-10/Free-V2ray-Config/blob/main/Chinese-README.md)
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/barry-far/V2ray-Configs.svg)](https://github.com/barry-far/V2ray-Configs/stargazers) [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/barry-far/V2ray-Configs) 
+![GitHub last commit](https://img.shields.io/github/last-commit/coldwater-10/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/coldwater-10/V2ray-Configs.svg)](https://github.com/coldwater-10/V2ray-Configs/stargazers) [![Update Configs](https://github.com/coldwater-10/V2ray-Configs/actions/workflows/main.yml/badge.svg)](https://github.com/coldwater-10/V2ray-Configs/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/coldwater-10/V2ray-Configs) 
 
 ## راه‌اندازی
 
 
-💡روش **1** برای استفاده از یکی از این کانفیگ‌ها فقط فایل [All_Config_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt) را که در روت اصلی پروژه مشاهده می‌کنید را باز کنید. این فایل شامل لینک‌های مختلفی به کانفیگ‌های V2ray است که می توانید با کلاینت V2ray خود استفاده کنید، باید ذکر شود که این فایل هزاران کانفیگ را شامل می‌شود بنابراین احتمال هنگ کردن اپلیکیشن کلاینت شما وجود دارد.
+💡روش **1** برای استفاده از یکی از این کانفیگ‌ها فقط فایل [All_Config_Sub.txt](https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/All_Configs_Sub.txt) را که در روت اصلی پروژه مشاهده می‌کنید را باز کنید. این فایل شامل لینک‌های مختلفی به کانفیگ‌های V2ray است که می توانید با کلاینت V2ray خود استفاده کنید، باید ذکر شود که این فایل هزاران کانفیگ را شامل می‌شود بنابراین احتمال هنگ کردن اپلیکیشن کلاینت شما وجود دارد.
 
-❕اگر لینک بالا روی کلاینت شما کار نکرد ، از این لینک استفاده کنید : [All_Config_base64_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_base64_Sub.txt)
+❕اگر لینک بالا روی کلاینت شما کار نکرد ، از این لینک استفاده کنید : [All_Config_base64_Sub.txt](https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/All_Configs_base64_Sub.txt)
 
 💡روش **2** برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را داخل نرم‌افزار خود قرار بدهید:
 - لینک 1:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub1.txt
 ```
 
 - لینک 2: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub2.txt
 ```
 
 - لینک 3: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub3.txt
 ```
 
 - لینک 4: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub4.txt
 ```
 
 - لینک 5: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub5.txt
 ```
 
 - لینک 6: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub6.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub6.txt
 ```
 
 - لینک 7: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub7.txt
 ```
 
 - لینک 8: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub8.txt
 ```
 
 - لینک 9: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub9.txt
 ```
 
 - لینک 10: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub10.txt
 ```
 
-❕اگر لینکهای بالا روی کلاینت شما کار نکرد ، به این فولدر سر بزنید : [Base64 Folder](https://github.com/barry-far/V2ray-Configs/tree/dev/Base64)
+❕اگر لینکهای بالا روی کلاینت شما کار نکرد ، به این فولدر سر بزنید : [Base64 Folder](https://github.com/coldwater-10/V2ray-Configs/tree/dev/Base64)
 
 
 💡روش **3** برای مدیریت آسان‌تر، فایل‌های کانفیگ به گروه‌های جداگانه بر اساس نوع پروتکل تقسیم شده‌اند. جهت دسترسی آسان به کانفیگ‌های جداگانه از لینک‌های زیر استفاده کنید:
 
 - Vmess: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
 ```
 
 - Vless: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
 ```
 
 - Trojan: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
 ```
 
 - ShadowSocks: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
 ```
 
 - ShadowSocksR: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/ssr.txt
 ```
 
 - Tuic:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
 ```
 
 - hy2:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
 ```
 
 - Warp (فقط هیدیفای):
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Warp_sub.txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Warp_sub.txt
 ```
 
 
