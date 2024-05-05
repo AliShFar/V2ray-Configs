@@ -11,8 +11,8 @@ TIMEOUT = 20  # seconds
 fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-Configs
-#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+#support-url: https://github.com/coldwater-10/V2ray-Configs
+#profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
 """
 
 # Base64 decoding function
@@ -147,8 +147,8 @@ def main():
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-Configs
-#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+#support-url: https://github.com/coldwater-10/V2ray-Configs
+#profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
 """
 
         input_filename = os.path.join(output_folder, f"Sub{i + 1}.txt")
