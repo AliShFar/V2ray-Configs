@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://90a0c9d0-2a2e-4d32-91b0-3c92ebc02b0c@172.67.138.106:443?security=tls&sni=proxystore1.kodaksho.eu.org&type=ws&host=proxystore1.kodaksho.eu.org&path=%2F%3Fed%3D2048&fp=randomized#4Sarina-7520
 vless://90a0c9d0-2a2e-4d32-91b0-3c92ebc02b0c@172.67.138.106:80?security=none&type=ws&host=proxystore1.kodaksho.eu.org&path=%2F%3Fed%3D2048#4Sarina-7521
 vless://90a3d5e6-2627-4c15-aac4-efcd52dd55bc@104.21.5.251:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#4Sarina-7522
 vless://90a3d5e6-2627-4c15-aac4-efcd52dd55bc@172.67.134.22:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#4Sarina-7523
@@ -602,4 +603,3 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.162.88:8080?sni=cdn-allxn--b
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.17.135:8080?encryption=none&security=none&sni=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#4Sarina-8117
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.17.135:8080?security=none&sni=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#4Sarina-8118
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.232.61:8080?security=none&type=ws&path=%2F#4Sarina-8119
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.35.200:8080?type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=/#4Sarina-8120

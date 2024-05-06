@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vmess://eyJhZGQiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJhaWQiOiAiMCIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIjRTYXJpbmEtMTM1MjAiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJhaWQiOiAwLCAiaG9zdCI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwgImlkIjogImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICI0U2FyaW5hLTEzNTIxIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
 vmess://eyJhZGQiOiAibGlub2RlLmFwcGxlaWQuYmYiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJndy5hbGljZG4uY29tIiwgImlkIjogIjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQ0FUIiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICI0U2FyaW5hLTEzNTIyIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAibGludXhoaW50LmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzYW5kLmJsYW5rdS5tZSIsICJpZCI6ICJjOGFiZjY2YS0xOTAzLTQ2MzgtYTQ0OC05Yzg2NzMzZTQyNTQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzczEzNDgwIiwgInBvcnQiOiA0NDMsICJwcyI6ICI0U2FyaW5hLTEzNTIzIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInNhbmRwLmJsYW5rdS5tZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
@@ -602,4 +603,3 @@ vless://Telegram-ipV2Ray-zew@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed
 vless://Telegram-ipV2Ray-cep@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=15.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#🔗 Vauth - 77
 vless://Telegram-ipV2Ray-vro@172.66.213.5:80?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=13.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#🔗 Vauth - 78
 vless://Telegram-ipV2Ray-xrs@172.66.213.5:80?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=14.ftp.debian.org.www.speedtest.net.免费上网68.Site.&security=none#🔗 Vauth - 79
-vless://Telegram-ipV2Ray-cdo@172.66.213.5:80?type=ws&path=/Telegram-ipV2Ray?ed=2048&host=11.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#🔗 Vauth - 80

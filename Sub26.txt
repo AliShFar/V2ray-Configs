@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://LVGK3fGfek2r@18.142.249.182:17417?allowInsecure=1&sni=appsvs.shop#4Sarina-3920
 trojan://LVGK3fGfek2r@18.142.249.182:17417?sni=appsvs.shop#4Sarina-3921
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?security=tls&sni=cdn.cjhh.lol&type=tcp#4Sarina-3922
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.7:889?security=tls&sni=cdn.cjhh.lol&type=tcp#4Sarina-3923
@@ -602,4 +603,3 @@ trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=trj.rollingnex
 trojan://telegram-id-privatevpns@13.37.11.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-4517
 trojan://telegram-id-privatevpns@13.37.11.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Sarina-4518
 trojan://telegram-id-privatevpns@13.37.160.184:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-4519
-trojan://telegram-id-privatevpns@13.37.161.163:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Sarina-4520
