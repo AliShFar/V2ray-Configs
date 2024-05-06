@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0506081586
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.76.11:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=%2Ffreecodes#%E6%9C%AA%E7%9F%A5_0506081587
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?encryption=none&security=tls&sni=test24.pages.dev&type=ws&host=test24.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E6%9C%AA%E7%9F%A5_0506081588
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?security=tls&sni=test30.pages.dev&type=ws&host=test30.pages.dev&path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0506081589
@@ -603,3 +602,4 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.0.0:2083?encryption=none&typ
 vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@104.21.5.224:443?encryption=none&type=ws&host=ed.ariesver.online&path=free_vpn&security=tls&sni=ed.ariesver.online#%E6%9C%AA%E7%9F%A5_0506083240
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.0.96:2096?encryption=none&type=ws&host=pages.20230619.love&path=free_vpn&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0506083241
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.4.99:2087?encryption=none&type=ws&host=edgood.king361.cf&path=free_vpn&security=tls&sni=edgood.king361.cf#%E6%9C%AA%E7%9F%A5_0506083242
+vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@104.21.5.89:2087?encryption=none&type=ws&host=ed.ariesver.online&path=free_vpn&security=tls&sni=ed.ariesver.online#%E6%9C%AA%E7%9F%A5_0506083243
