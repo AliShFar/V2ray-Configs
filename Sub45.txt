@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@172.64.150.28:443?security=tls&sni=help.melov2ray.shop&type=grpc&serviceName=melov2ray&fp=chrome#🔗 Vauth - 1749
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.21.41:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 1750
-vless://6822284b-66f0-448d-bab9-d294fa649ed5@104.21.9.159:443?security=tls&sni=ppaL03.ToD-sCHUpPe-iV.woRkeRs.DEV&type=ws&host=PpAL03.TOd-SChUppe-iv.woRKerS.DeV&path=%2FJKzcqHbRjVt4oP-c%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 1751
-vless://0e91a1ff-fd1d-41ad-a911-e3dd9b04fda3@188.114.97.6:443?security=tls&sni=fr1-vless.sshmax.xyz&type=ws&path=%2Fvless#🔗 Vauth - 1752
-vless://41481906-f144-40ea-8527-945e8c455e45@198.41.200.247:8443?security=tls&sni=dl3.parhamtraberthos.ir&type=grpc&fp=chrome&alpn=http%2F1.1#🔗 Vauth - 1753
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2053?security=tls&sni=folani.iiipok.WoRkeRS.deV&type=ws&host=folani.iiipok.WoRkeRS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔗 Vauth - 1754
 vless://9d2e79b4-93dd-4130-bb56-42b60008dbd3@188.114.97.2:2083?security=tls&sni=sp.knshop22.ir&type=ws&host=sp.knshop22.ir&path=%2Fadmin%3Fed%3D2048&fp=chrome&alpn=h2#🔗 Vauth - 1755
 vless://158a2a18-ba82-4208-af52-3bf650c94036@104.21.43.22:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON%3Fed%3D1024#🔗 Vauth - 1756
 vless://d7f36d12-2ae1-42c0-9fd5-84d8f4efbb02@172.66.47.189:443?security=tls&sni=161f5c4e.mahdiserver-cmr.pages.dev&type=ws&host=161f5c4e.mahdiserver-cmr.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔗 Vauth - 1757
@@ -603,3 +597,9 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.183.136:80?security=none&typ
 vless://0f706d06-85b6-4e85-a954-63da05f79760@140.99.233.11:80?security=none&type=ws&host=m.speedur.site&path=%2Fspeed#🔗 Vauth - 2346
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔗 Vauth - 2347
 vless://d2f106da-b99a-454f-aae6-2c4a9e527670@172.67.213.169:443?security=tls&sni=help.melov2ray.shop&type=ws&path=/melov2ray&fp=chrome#🔗 Vauth - 2348
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔗 Vauth - 2349
+vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.4:8880?security=none&type=ws&host=xn---qhnayawi--d-vdk4borp32aj02aoha8dw0a0a1c46444eckia.xn--48jyb6eya.tech.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray#🔗 Vauth - 2350
+vless://ea79df40-43cc-477e-9be4-a19de539714a@172.67.73.163:2053?security=tls&sni=lan.protoeinpaitakht.com&type=ws&host=lan.protoeinpaitakht.com&path=%2F%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za&fp=firefox#🔗 Vauth - 2351
+vless://580002ae-8265-4f3d-83a2-7c6659730ac8@172.67.138.107:2096?security=tls&sni=trv2rat-cd.iraniposhal.ir&type=grpc&fp=chrome&alpn=h2#🔗 Vauth - 2352
+vless://6f3ea586-91e8-4e56-87cd-24da82eae3d4@172.67.189.15:2083?security=tls&sni=600.lancerdomains.com&type=grpc&serviceName=master#🔗 Vauth - 2353
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔗 Vauth - 2354
