@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.116:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0506131137
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#%E7%BE%8E%E5%9B%BD_0506131138
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.134:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0506131139
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@pardazeshvpn-tg3.pages.dev:443?encryption=none&fp=randomized&host=pardazeshvpn-tg3.pages.dev&path=%2F%3Fed&security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws#%E7%BE%8E%E5%9B%BD_050613114
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.193:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0506131140
@@ -601,5 +603,3 @@ vless://ab1bc042-f20d-491f-8b0a-4382f3c06b70@172.67.154.8:443?security=tls&sni=p
 vless://acca9938-3695-43df-872a-9c7d2b11f3bd@172.67.193.36:8443?security=tls&sni=felinetest.site&type=ws&path=/&host=felinetest.site&encryption=none#%E7%BE%8E%E5%9B%BD_0506131725
 vless://adbb17ae-b8cb-4aee-a890-6329965abcac@172.64.80.1:2053?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0506131726
 vless://adbb17ae-b8cb-4aee-a890-6329965abcac@172.67.175.132:2053?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0506131727
-vless://adbb17ae-b8cb-4aee-a890-6329965abcac@172.67.175.132:8443?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0506131728
-vless://ae143fd0-3fad-4a3e-bc14-064de037b578@172.67.162.197:443?security=tls&type=ws&sni=c1.gem2.cfd&path=/&encryption=none&headerType=none#%E7%BE%8E%E5%9B%BD_0506131729
