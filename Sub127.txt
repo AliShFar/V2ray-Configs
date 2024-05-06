@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://55X9v3np3p@68.183.180.244:36889?security=tls&headerType=none&type=tcp#ADD+HOST
+trojan://3b11409f-91ee-4457-b291-b281e11a1cbb@172.104.63.96:443?security=tls&headerType=none&type=tcp&sni=store.steampowered.com#%F0%9F%90%B9Hutch+Gameing+%5BUltra+Vpn%5D
+trojan://telegram-id-directvpn@34.254.23.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#EuServer+%7C+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88+%D8%A8%D8%B4%DB%8C%D8%AF🔗2
+trojan://telegram-id-privatevpns@13.50.211.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+trojan://354ca566-3ab4-4e4e-9594-8693d78bc2c7@209.97.134.140:443?security=tls&sni=uk2-full.privateip.net&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281422%29%20GB
+trojan://telegram-id-privatevpns@13.50.128.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪Sweden-کانالتلگرام:@V2rayweb
+trojan://telegram-id-privatevpns@13.36.121.210:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%28S105%29%F0%9F%87%A8%F0%9F%87%B5t.me%2Feliv2
+trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#🔒TR-GRPC-TLS🇺🇸US-172.67.204.84:443📡PING-001.57-MS
+trojan://telegram-id-directvpn@13.40.90.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
+trojan://c7eacb30-a099-11ee-acc9-1239d0255272@51.210.182.170:443/?security=tls&type=tcp&sni=m.zoom.us#AllZoom
+trojan://jTtHWxwDE5@zula.ir:443?mode=gun&security=tls&type=grpc&serviceName=18336/asdw&sni=xxbest2xxx.channeltest.uno#%40v2ray_best_iran+%F0%9F%87%A9%F0%9F%87%AA+All
+trojan://telegram-id-directvpn@3.97.211.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://wIcY2HF0g8@xkalindu.xconfigz.win:52625?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=m.zoom.us#SLT%2FHutch%20Zoom-v0yh5sz8
+trojan://cba32ac1-abbb-4371-ba50-19eb5c38748c@135.181.253.237:443?security=tls&headerType=none&type=tcp&sni=xvqn.de#%F0%9F%87%B8%F0%9F%87%AC+%40khass_storyy+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B8+%7C+%40V2rayTG+mci
+trojan://vHUogh3Mbc@free1.atlasdn3.sbs:2087?type=ws&path=%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver+%40Vpn_vetiver&security=none#%40Vpn_vetver%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-19
 trojan://telegram-id-privatevpns@18.200.4.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
 trojan://telegram-id-privatevpns@3.8.42.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.13.246.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@ehsawn8
@@ -587,19 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVmNkY3NKVDZmME9XTDVzRXlNMzhB@158.69.0.27:10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40darktunnelv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%E2%9C%A8+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9
 ss://YWVzLTI1Ni1nY206ODMzOTQ0NmEtMzBlNy00M2EwLWEyNWQtZGZlNTlkNDdmYTlm@150.230.81.97:7702#Tel+Channel%F0%9F%91%89+configsCen
-ss://YWVzLTI1Ni1nY206cXdlclJFV1FAQA==@218.237.185.230:54345#Tel+Channel%F0%9F%91%89+configsCen
-��𝐍ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM2VGMFBlZHpqYUh3VU5XUHI3NE5P@195.2.76.71:60422#%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%E2%9E%A0%40%F0%9D%90%88%F0%9D%90%91_%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%85%F0%9D%90%88%F0%9D%90%86_%F0%9D%90%80%F0%9D%90%8D𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦➠@𝐈𝐑_𝐂𝐎𝐍𝐅𝐈𝐆
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVURuclhFeHBiMElWVkhzRXhzS1dM@51.21.126.136:443#%40daredevill_
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.19:8888#%F0%9F%A5%95+%40Moft_Vpn+%DA%A9%D8%A7%D9%86%D8%A7%D9
-ss://YWVzLTEyOC1nY206ZmFzdGVy@193.142.30.155:2120#%40V2RayCactus
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@217.30.10.68:9043#%40ProxyCom10%20
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.21:5600#Tel+Channel%F0%9F%91%89+configsCen
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#%F0%9F%87%AB%F0%9F%87%B7FR+%40v2rayan%E2%9D%A4%EF%B8%8F%F0%9F%98%8D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aXZyR0VIWTg4c1FrM0RQ@account-mec.emofid.co:443#%40LOCKEY_VPN+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+-+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3306#%40v2rayngvpn
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#%F0%9F%87%A9%F0%9F%87%AA+%40V2ray_Alpha+5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll2.fast2rayy.eu.org:443#iroazadi
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SnFkSGd0ODk5RVMxbGJsbDc1YWZQRkMxbGJOVGtjb25CMzFmTXJZMnBzPQ==@3.70.188.142:8080#Kiava-T30
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#%40V2ray1_Ng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTM:wNTplSFpaT1l3U1hheXRId0FRbnJwWkR6@46.226.164.2:16006/?outline=1U
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@94.228.165.234:15214#https%3A%2F%2Ft.me%2FVTWORAY_WOLF+%F0%9F%87%B8%F0%9F%87
