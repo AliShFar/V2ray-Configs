@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#AUTO+53+ID%28%40Outline_Vpn%29+%F0%9F%9B%A1%EF%B8%8F
-vless://75868952-5985-4470-949a-51ded5c97728@185.146.173.59:8880/?type=ws&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C%20%40LIGHTNING6#@MrV2Ray
-vless://bc2a87ed-6753-47cd-9938-6a844ffe1a71@185.146.173.32:80/?type=ws&encryption=none&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40OpenSSTPVpn_2.8
-vless://Parsashonam-25@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%40IRAN_access
-vless://feed264d-a3dd-41e8-a081-dd5b54902700@fdcservers.net:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=re4.v2logy.xyz#2147
 vless://d9b3134e-007e-41e0-a146-8c53977e27f5@U_CONFINGVPN:443?encryption=none&security=tls&sni=academivpn1-bo7.pages.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=academivpn1-bo7.pages.dev&path=Telegram_U_CONFINGVPN%2F%3Fed%3D2048#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40U_CONFINGVPN
 vless://009b7af9-7a82-4fd1-9a96-1605139fe7ed@23.227.60.130:80?path=%40HAJIMAMADVPN%3Fed%3D2048&security=none&encryption=none&host=bia-channel-hajimamadvpn.timeclassic.ir&type=ws#%F0%9F%93%B61%40oneclickvpnkeys
 vless://9a485885-3781-4343-b872-e782c181d468@join.v2team.cfd:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#%40V2_TEAM
@@ -603,3 +598,8 @@ vless://v2ray_best_iran_2@[2001:41d0:303:daca:f589:1fde:0:1]:443/?encryption=non
 vless://37286391-945b-4aed-853c-f596534851c4@167.172.33.237:443?mode=gun&security=reality&encryption=none&pbk=FPoJ6qv2BN0UjsA463kK2aU2TmhDtXtGk07xb4dX1A4&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=a5e77643#Telegram+%3A+%40frev2ray+%7C+8
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#%40V2aryng_vpn
 vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.24.197.20:443?security=tls&sni=hdfy6c1.freeairlaines.com&type=grpc#🔒VL-GRPC-TLS🏴‍☠️NA-104.24.197.20:443📡PING-002.49-MS
+vless://V2RAXX@v2raxx.hadiv2.shop:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@V2RAXX@V2RAXX@V2RAXX@V2RAXX&sni=v2raxx.hadiv2.SHOP.#%F0%9F%87%A9%F0%9F%87%AA+ALL%E2%81%B4+%40V2RAXX
+vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?path=%2Fwebsocket&security=tls&encryption=none&type=ws&sni=st-fr-1.brocdn.com#Telegram%28%40kingofilter%29+62
+vless://bc96fc46-141d-41b4-b627-c10c42c90f07@154.53.164.147:49015?mode=gun&security=reality&encryption=none&pbk=lOiOGZ9yPUTnCcSEiUJbr1boJ6-QCNXScr-T3-5jtxo&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=a50291dd#%40v2ray16%E2%99%A1
+vless://6ec23107-119b-479c-b7fa-9d8ae9def4b8@2.189.130.94:10128?path=%2F&security=none&encryption=none&type=ws#%40IP_Ramzi+%7C+%D8%A8%D9%87+%D8%B3%D9%88%DB%8C+%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C
+vless://64242c64-ef0f-47e7-a9c6-9ade23eb7a99@discord.gg:8080?path=%2F&security=none&encryption=none&host=de.vpncustomize.Website&type=ws#@Garnet_Free

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@172.67.66.177:443?security=tls&sni=hdfy6c1.freeairlaines.com&type=grpc#🔒VL-GRPC-TLS🏴‍☠️NA-172.67.66.177:443📡PING-002.40-MS
-vless://a34a4b8f-88fe-48d0-956e-20f4c787dc5d@91.107.180.193:42347?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=chrome&pbk=nqKcqNNx-cICMs1R3MgspGDouK-UURFXxvBH_kob8mg&sid=df&type=tcp&headerType=none#%40vmessprotocl%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
-vless://18f20b69-c5ae-4869-a39a-a9ff64d07e2b@77.91.84.45:22/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=chrome&security=reality&pbk=oNgWZDeltSz1uTyg548E8ZPqc6LazEcg8HZ--XP153Y&sid=19c11f25ea20091c#@Capital_NET|MCI
-vless://baedde3f-6fd4-4f16-bcb2-8c4ab17f31fa@185.146.173.59:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn-Mikey.%E6%AC%A2%E8%BF%8E%E8%AE%BF%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E4%B8%AD.website.&type=ws#@V2ray_one1
-vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@172.67.216.94:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&fp=randomized&type=ws&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev#DailyV2ray☂️(تلگرام👉DailyV2RY)
 vless://064363e7-d60e-11ee-aaa8-00505603e70d@162.159.135.234:443?path=%2Fwebsocket&security=tls&encryption=none&alpn=h2,http/1.1&host=st-fr-1.brocdn.com&fp=ios&type=ws&sni=st-fr-1.brocdn.com#%40vpn11_v2%F0%9F%92%9BMTN
 vless://9221b170-e8a3-4abf-a303-224b31558ec3@104.25.255.244:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cc2.kosnanatfilterchi.eu.org&fp=chrome&type=ws&sni=cc2.kosnanatfilterchi.eu.org#%40vpn_v2ray_v2box
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.230:443?path=TELEGRAM..%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88+%D8%A8%D8%B4%DB%8C%D8%AF+%7C++EuServer%40🔗2
@@ -603,3 +598,8 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D
 vless://d0401694-a49a-4a3d-83bc-ae60dfa5c749@206.189.100.75:443?type=tcp&security=reality&pbk=Ox6_kb9kVCywgFT7RHAKpGeYpjcP_acRiFPh3O9ooQM&sni=www.speedtest.net&sid=4912263a&spx=%2F&fp=firefox#kesslervpn
 vless://6b1d5ec7-71ed-4523-98b7-4562972937e3@31.14.122.73:18312?security=none&encryption=none&host=Zula.ir&headerType=http&type=tcp#%40v2rayngvpn
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@vip-01.f-sub.com:8919?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D8%AA%D8%B3%D8%AA+%3C+v2ret+%3C+vip+%7E%F0%9F%8C%9F
+vless://0c64418d-2988-4f32-b976-c8ae42772596@207.154.251.167:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=Germany1.vpn-mikey.cfd#@Qand_shecan
+vless://3dfbfb8a-7fd6-4d7d-959b-864aa14a127e@zula.ir:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%40Vpn_Midas+%7C+MCI
+vless://2f400e3d-598b-4d85-a608-f736092065f7@159.89.20.34:443?mode=gun&security=reality&encryption=none&pbk=zjCTB4N5EF05kLDs7ulanv9pCyClSb3YT420wUFbYjg&fp=chrome&spx=%2F&type=grpc&serviceName=@VpnProSec&sni=zula.ir&sid=316a#%40V2rayHubVip
+vless://joinchannelfoxrayiran@78.46.231.131:443?mode=gun&security=reality&encryption=none&pbk=Zg1jDD26UgHq8krQkwmcSC6xmaEYr155tnII2CM9CiE&fp=firefox&spx=%2F&type=grpc&serviceName=Foxrayiran_channel_foxrayiran_channel_foxrayiran_channel_foxrayiran_channel_foxrayiran_channel_foxrayiran_channel_foxrayiran&sni=flutter.dev&sid=3f5ab9c9#new+11+join+telegram+channel+%3A+%40foxrayiran
+vless://4882ab86-4383-4ce3-96dc-edde92ab7b6e@3.77.151.153:2087?encryption=none&security=reality&sni=www.tgju.org&fp=randomized&pbk=eiX6rafEOu1xTvqWtOR__vMD3UimIyb05mK_9UeqcBg&sid=e0a50eb1&spx=%2Fnews&type=grpc&serviceName=www.tgju.org&mode=multi#Kiava-T37

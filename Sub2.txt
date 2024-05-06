@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704031
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704032
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704033
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704034
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.59:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704035
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704036
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@176.124.223.55:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704037
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.67.215.2:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050704038
@@ -603,3 +598,8 @@ vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@104.31.16.98:443?security=tls&sni=h
 vless://68c31a7c-49df-456f-8df5-ac8d651b60b6@104.21.24.72:443?security=tls&sni=telegram-falcunargo.c54a5410b0.workers.Dev&type=ws&host=telegram-falcunargo.c54a5410b0.workers.Dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0507041021
 vless://68ee80f1-d864-4946-f2d9-080c44b0ecc8@162.159.152.2:2086?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#%E6%9C%AA%E7%9F%A5_0507041022
 vless://6979dec5-bf73-42d8-89b3-58a25e069f6b@104.18.26.94:8080?encryption=none&security=none&type=ws&host=v2raylandd-64.utsxgao.workers.deV&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5_0507041023
+vless://6979dec5-bf73-42d8-89b3-58a25e069f6b@104.18.27.94:8080?encryption=none&security=none&type=ws&host=v2raylandd-64.utsxgao.workers.deV&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5_0507041024
+vless://69b5a790-cc05-4733-a6d0-7ce0e5b79c25@104.17.68.244:443?security=tls&sni=shop.sooshiant.link&type=ws&host=shop.sooshiant.link&path=%2Fsg&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#%E6%9C%AA%E7%9F%A5_0507041025
+vless://6a0cf63e-1d5b-4d83-b931-f96e613148a0@104.21.13.96:2053?security=tls&sni=pwjman.pejmanmoshtagh40.workers.dev&type=ws&host=pwjman.pejmanmoshtagh40.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#%E6%9C%AA%E7%9F%A5_0507041026
+vless://6a4421d8-0f25-46a3-a658-75a3f65f88ae@104.21.42.240:443?security=tls&sni=freedom4.hapeyeb115.workers.dev&type=ws&host=freedom4.hapeyeb115.workers.dev&path=%2F&fp=chrome#%E6%9C%AA%E7%9F%A5_0507041027
+vless://6a70102d-eca6-4abc-b607-867616ef8782@104.18.203.232:2083?security=tls&sni=all3.savagev2ray.site&type=grpc&serviceName=@SavageV2ray%2C@SavageV2ray#%E6%9C%AA%E7%9F%A5_0507041028

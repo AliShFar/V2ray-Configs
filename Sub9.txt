@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.47:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507041107
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507041108
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.81:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507041109
-vless://7f55b425-a623-439b-bbd5-0b1778162054@V2rayGodVip--mci1.V2rayGod.Site:80?encryption=none&host=v2raygodvip--free24.Azaronline.Org.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&type=ws#%E7%BE%8E%E5%9B%BD_050704111
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.13:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#%E7%BE%8E%E5%9B%BD_0507041110
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.158:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507041111
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.174:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507041112
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507041113
@@ -603,3 +598,8 @@ vless://a8b6e685-2122-4b87-b616-77143fa4f90c@172.64.80.1:80?security=none&type=w
 vless://a91d7e91-8c06-441f-8eaa-5b72aaeb61bc@172.66.213.38:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0507041678
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@108.162.195.89:80?type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507041679
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@172.64.160.149:80?security=none&type=ws&host=esten.free.hr&path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507041680
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@190.93.244.37:80?security=none&type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507041681
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@190.93.245.220:80?type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507041682
+vless://a9ad321f-c27c-466a-afdb-d8d9ad349380@172.66.44.129:443?security=tls&sni=pardazesh4.pages.dev&type=ws&host=pardazesh4.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E7%BE%8E%E5%9B%BD_0507041683
+vless://a9ad321f-c27c-466a-afdb-d8d9ad349380@172.66.47.127:443?security=tls&sni=pardazesh4.pages.dev&type=ws&host=pardazesh4.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E7%BE%8E%E5%9B%BD_0507041684
+vless://aa114e98-541e-4cf4-ab1b-a75911dae52a@172.66.44.178:443?security=tls&sni=8b155a5b.joinmahdiserver-o00.pages.dev&type=ws&host=8b155a5b.joinmahdiserver-o00.pages.dev&fp=randomized#%E7%BE%8E%E5%9B%BD_0507041685

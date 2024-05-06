@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@w3.org:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=api2.shabazian.ir&fp=chrome&type=ws&sni=api2.shabazian.ir#🔗 Vauth - 453
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.12.170:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=Bia-PAIN-baChe.paGEs.DeV&fp=randomized&type=ws&sni=BIa-PaiN-baChE.pageS.dev#🔗 Vauth - 454
-vless://aab09ae2-7fb0-4531-8b00-bf923553ae37@209.38.242.189:59735?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔗 Vauth - 455
-vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?path=\&security=none&encryption=none&host=anten.ir&type=ws#🔗 Vauth - 456
-vless://0a4acf58-cc3c-4f99-89c1-70d7ca3fbd92@all.vipxali.cfd:443?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=mx.XsV2ray.cfd#🔗 Vauth - 457
 vless://XsV2ray---XsV2ray---XsV2ray@all.vipxali.cfd:2095?path=/XsV2ray,@XsV2ray,@XsV2ray?ed=2048&security=none&encryption=none&host=xali.mmxvip.cfd&type=ws#🔗 Vauth - 458
 vless://74c2c452-9cb4-4c97-be11-2cfef6a8e635@all.vipxali.cfd:443?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=mx.XsV2ray.cfd#🔗 Vauth - 459
 vless://9f3d6a0a-492c-47dc-b2c5-6889eabeb940@vip.alonext.com:443?type=grpc&serviceName=@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=vip.alonext.com#🔗 Vauth - 460
@@ -603,3 +598,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.165:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.177:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 1050
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.125:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 1051
 vless://f269033e-a955-4dee-9345-948ed5b77838@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔗 Vauth - 1052
+vless://b7a0cf39-99fa-47a4-8d9f-5263806e8cce@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔗 Vauth - 1053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.124:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 1054
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.58.51:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔗 Vauth - 1055
+vless://8ac97b01-23f3-4d87-b78f-44ecb577cd8b@188.119.113.68:443?security=tls&sni=jidj-nnxns-----nnnxxx-telegram-TLS-v2ray-nnnxxx.vikehay275.workers.dev&type=tcp&host=nl1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔗 Vauth - 1056
+vless://d0c54145-59d2-4573-baf6-93401f7064fe@178.62.209.129:48902?security=none&type=ws&host=Google.com&path=%2F#🔗 Vauth - 1057
