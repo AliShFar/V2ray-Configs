@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"method" : "chacha20-ietf",
 			"protocol" : "auth_aes128_md5",
 			"protocolparam" : "135238:ekBYebTKgsF",
 			"obfs" : "plain",
@@ -313,8 +314,6 @@ hy2://dongtaiwang.com@109.104.152.89:22441/?insecure=1&sni=google.com#🌎2@onec
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#♾️1@oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&sni=bing.com#🇫🇷h1@oneclickvpnkeys
 hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&sni=www.bing.com#🇫🇷h2@oneclickvpnkeys
-hy2://fokaS4id3bretay-7rit@hys8.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=fokaS4id3bretay-7rit#♾️2@oneclickvpnkeys
-hy2://sTeki1$re5!8swohopro@hys9.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#♾️3@oneclickvpnkeys
 vmess://eyJ0eXBlIjoiIiwicHMiOiIxLfCfh7Pwn4exTkxfMTg2OF9AU3VyZmJvYXJkdjJyYXktd29ya2VyIiwiYWRkIjoiY3JhY2t0aGVjb2RlLmZ0cC5zaCIsInBvcnQiOjQ0MywiaWQiOiJlNzRmNThkYy1iZGZkLTRkNzAtOGM5Mi0wZjg3Yzg0NGM0NmYiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoidmNwMy5kZWhlbDE1MzU0LldvcktFUnMuZEVWIiwibmV0Ijoid3MiLCJwYXRoIjoiL25vMi12bWVzcy5zc2htYXgueHl6OjQ0My92bWVzcyIsImhvc3QiOiJ2Y3AzLmRlaGVsMTUzNTQuV29yS0VScy5kRVYiLCJhbHBuIjoiaDIiLCJmcCI6ImVkZ2UifQ==
 vless://548dc8b6-ed5f-4484-8a21-b578302e1159@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fall5.savagev2ray.site%3A443%2F&host=vcp3.dehel15354.WORKErs.DEv&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=vcp3.dehel15354.WORKErs.DEv#2-%F0%9F%87%A8%F0%9F%87%B7CR_615_%40Surfboardv2ray-worker
 vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fthorianite.toptechnonews.com%3A443%2Fnimws&host=vcp3.dehel15354.WoRkers.dEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=vcp3.dehel15354.WoRkers.dEV#3-%F0%9F%87%A8%F0%9F%87%A6CA_54_%40Surfboardv2ray-worker
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#%F0%9F%87%BA%F0%9
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#%F0%9F%87%BA%F0%9F%87%B8US-169.197.142.216-225
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-250
 vmess://ewogICAgImFkZCI6ICIxODMuMTgxLjM2LjE5NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNGE2ZWFhMmQtNTYwMy00YzA1LWQ5NjctZmI2ZjQyMjUwYTVhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQxNTk3LAogICAgInBzIjogIvCfh6/wn4e1SlAtMTgzLjE4MS4zNi4xOTQtMDg2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTk5LjE4NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm9paWN0dy55eWRzaWkuY29tIiwKICAgICJpZCI6ICJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE5OS4xODUtMDU4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
