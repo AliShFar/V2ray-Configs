@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@144.24.206.147:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#%E6%B3%95%E5%9B%BD_050723085
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@89.168.48.239:443?security=tls&flow=xtls-rprx-vision&sni=b-29fr3-296bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#%E6%B3%95%E5%9B%BD_050723086
-vless://a46a732f-5488-4f73-b040-9297ba7d1351@141.95.162.118:82?security=none&type=tcp&host=www.speedtest.net&headerType=http#%E6%B3%95%E5%9B%BD_050723087
 vless://a77a08f2-134e-4fa0-82cc-514d9b21dd02@173.245.49.110:80?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed#%E6%B3%95%E5%9B%BD_050723088
 vless://abde5060-ce81-4ca2-b688-d7e4ac2aebb7@94.131.9.201:80?type=tcp#%E6%B3%95%E5%9B%BD_050723089
 vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?security=tls&sni=snapppay.ir&type=grpc&serviceName=vpn_xw.t.me&fp=chrome#%E6%B3%95%E5%9B%BD_050723090
@@ -603,3 +600,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231142
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231143
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.182:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231144
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.207:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231145
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.223:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231146
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231147

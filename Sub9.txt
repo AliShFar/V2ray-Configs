@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.207:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231145
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.223:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231146
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231147
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231148
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507231149
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vpnmarket-8bm.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=vpnmarket-8bm.pages.dev&type=ws#%E7%BE%8E%E5%9B%BD_050723115
@@ -603,3 +600,6 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.232.61:8080?security=none&ty
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.35.200:8080?type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=#%E7%BE%8E%E5%9B%BD_0507231729
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.64.81:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD_0507231730
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.65.180:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD_0507231731
+vless://aa5d7f73-1c7f-424b-a325-3a8e5764a014@213.165.248.28:443?security=reality&sni=zula.ir&type=grpc&fp=chrome&pbk=55GHNh3HeJMmLkY0cRwZNJXGvWaLvSaDi7DoLf09Q0A&sid=94772f12#%E7%BE%8E%E5%9B%BD_0507231732
+vless://ab1bc042-f20d-491f-8b0a-4382f3c06b70@172.67.154.8:443?security=tls&sni=pPAL03.elta-tiLlMaN.WorkerS.dev&type=ws&host=ppal03.eLtA-TILlMAN.WorkeRS.DEv&path=%2FN59FwME5A01-69I7%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0507231733
+vless://ac3fa2ff-53f0-400c-a015-77281e0e3cde@172.66.213.5:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+%40LiV2ray#%E7%BE%8E%E5%9B%BD_0507231734
