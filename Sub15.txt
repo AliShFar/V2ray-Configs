@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMTguMzYuMTE5IiwicG9ydCI6IjIwNTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWVjODJmYTYtYWI3MC00ZDBhLWU3ZmItNDIyZWY3MjlkOTYxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiaGVsYW52NmNmLmluZWtva2trLnRvcCIsInRscyI6IiJ9
+trojan://telegram-id-directvpn@16.170.107.162:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%83%A0%E6%99%AEHP
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7og5L+E572X5pavIHYycmF5ZnJlZS5ldS5vcmciLCJhZGQiOiJoay1mdWxsLnByaXZhdGVpcC5uZXQiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImYyYzQ4YjJmLWM1ODEtNGQ3ZC04NDZlLThiZDk3ZDkzYmQ2NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvUkFDRVZQTiIsImhvc3QiOiJoay1mdWxsLnByaXZhdGVpcC5uZXQiLCJ0bHMiOiJ0bHMifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJmY2RuLmZsaGEucnUiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJmY2RuLmZsaGEucnUiLCJ0bHMiOiIifQ==
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2BOVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
@@ -601,5 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.55.99.62:58916?encryption=none&s
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0851
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.130.56:20010?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b0%f0%9f%87%b7+KR+%e9%9f%a9%e5%9b%bd+40
 ssr://dmlwMy5uaXVuaXVwcmVtaXVtLnh5ejoxMTQyMDphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOlJtaGlaVEI2Lz9vYmZzcGFyYW09TldSaU9Ua3hNREU0TWk1dGFXTnliM052Wm5RdVkyOXQmcHJvdG9wYXJhbT1NVEF4T0RJNlJXUTNkVEJIJnJlbWFya3M9NmFhWjVyaXZNM3hBY21sd1lXOXFhV1ZrYVdGdQ
-trojan://7b0ed263-ed4d-375f-9002-a932b1da098a@19249tj.matrixxx888.com:19249?security=tls&sni=eplcgame.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.66.128.216:2000?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%af%f0%9f%87%b5+JP+%e6%97%a5%e6%9c%ac+24
