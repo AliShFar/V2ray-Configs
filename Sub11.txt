@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.209.235:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0507183000
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.220.231:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0507183001
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.104.216:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0507183002
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.83.25:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0507183003
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.91.12:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0507183004
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.141.137:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0507183005
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.90.105:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0507183006
 vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@172.67.193.36:8880?encryption=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTeleg...#%E7%BE%8E%E5%9B%BD_0507183007
@@ -603,3 +598,8 @@ vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@188.166.67.124:8080?security=none&t
 vless://aa850d80-061d-4988-931e-67e91ccfe6e7@45.131.209.200:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#%E8%8D%B7%E5%85%B0_050718136
 vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&sni=zamimm.e59b57f84c.workers.dev&type=ws&host=zamimm.e59b57f84c.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#%E8%8D%B7%E5%85%B0_050718137
 vless://ad88ec60-27b9-46b8-8604-be686577fe5e@188.114.98.224:2095?path=/V2rayCUSTOMIZE?ed=1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#%E8%8D%B7%E5%85%B0_050718138
+vless://b0080418-ecc7-4b21-a395-c1a057bc3f87@188.114.98.220:443?security=tls&sni=xn--hgb3a0cs.irquran.shop&type=ws&host=xn--hgb3a0cs.irquran.shop&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#%E8%8D%B7%E5%85%B0_050718139
+vless://b366b572-9ff1-465f-85d1-acb60eb103ef@188.114.98.159:443?security=tls&sni=06444.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#%E8%8D%B7%E5%85%B0_050718140
+vless://b7a0cf39-99fa-47a4-8d9f-5263806e8cce@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#%E8%8D%B7%E5%85%B0_050718141
+vless://b7a0cf39-99fa-47a4-8d9f-5263806e8cce@176.126.113.161:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#%E8%8D%B7%E5%85%B0_050718142
+vless://baba5dd3-7945-4b50-86f1-b123d02b9342@188.114.99.99:2095?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#%E8%8D%B7%E5%85%B0_050718143

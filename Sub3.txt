@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://43c684d7-2674-45c9-bd55-d6e803fed92b@104.21.75.194:80?security=none&type=ws&host=uk1-vless.vpnhack.xyz&path=%2Fvless#%E6%9C%AA%E7%9F%A5_0507181026
-vless://43e2d326-44d2-4362-ac59-88f316944d16@104.21.94.76:443?security=tls&sni=trv2rat-cd.iraniposhal.ir&type=ws&host=trv2rat-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_0507181027
-vless://4437af3d-9d06-4f36-86c6-bd41638a6657@104.21.77.3:443?security=tls&sni=pPAl03.fredeRIQuE-sTEuBeR.woRkERs.dEV&type=ws&host=PPaL03.FredERIQUE-STeubER.workERS.DeV&path=%2Fs_32l-L18cLsxQMv%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0507181028
-vless://44429467-1ddb-4461-887e-69f2fdcfebcb@104.31.16.91:80?security=none&type=ws&host=ZTL5iDkNDQmHZb6v4RNC.OPeENup.coM&path=%2Fbackup#%E6%9C%AA%E7%9F%A5_0507181029
-vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?encryption=none&host=academivpn1-bo7.pages.dev&path=%2F&security=tls&sni=academivpn1-bo7.pages.dev&type=ws#%E6%9C%AA%E7%9F%A5_050718103
 vless://451d16de-c07a-452a-98eb-21e3a3b85526@104.21.202.147:443?security=tls&sni=lt1-vless.sshmax.xyz&type=ws&host=lt1-vless.sshmax.xyz&path=%2Fvless#%E6%9C%AA%E7%9F%A5_0507181030
 vless://4529aaed-7492-4bf7-a31d-0c314f5d78f1@104.19.221.26:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#%E6%9C%AA%E7%9F%A5_0507181031
 vless://4529aaed-7492-4bf7-a31d-0c314f5d78f1@104.20.82.247:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#%E6%9C%AA%E7%9F%A5_0507181032
@@ -603,3 +598,8 @@ vless://b837e366-6768-4bb3-937a-387afbf86477@104.16.102.112:80?security=none&typ
 vless://b837e366-6768-4bb3-937a-387afbf86477@104.16.103.112:80?security=none&type=ws&host=mmd.net.v2rayng6.6.6.6.ir.com.site.%E5%83%AC%E4%B8%8A%E6%BE%A8%E4%B8%95%E8%96%97%E4%B8%95%E5%83%AB%E7%83%93%E5%83%AB%E6%BE%A7%E4%B8%91.ZeoTreX.Lol.&path=%2FZeoTreXsHop1348900sg%2F-hhrigkdgeotYlln.%3D2053#%E6%9C%AA%E7%9F%A5_0507181593
 vless://b8ce0288-e7c4-482a-be24-364f7d724585@104.21.4.8:8880?security=&type=ws&path=/?ed%3D2048&host=nl20.vlessx.us&encryption=none#%E6%9C%AA%E7%9F%A5_0507181594
 vless://b8ce0288-e7c4-482a-be24-364f7d724585@104.21.94.85:8880?security=&type=ws&path=/?ed%3D2048&host=nl20.vlessx.us&encryption=none#%E6%9C%AA%E7%9F%A5_0507181595
+vless://b91131f7-c382-4be8-9e7d-a373a3d23d77@104.21.20.148:443?security=tls&sni=finland.kanal-tel-nufilter.site&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&encryption=none#%E6%9C%AA%E7%9F%A5_0507181596
+vless://b91131f7-c382-4be8-9e7d-a373a3d23d77@104.21.63.160:443?security=tls&sni=finland.kanal-tel-nufilter.site&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&encryption=none#%E6%9C%AA%E7%9F%A5_0507181597
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.16.60.8:2052?type=ws&host=cafe.zhaal.ir&path=#%E6%9C%AA%E7%9F%A5_0507181598
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.16.61.8:2052?type=ws&host=cafe.zhaal.ir&path=#%E6%9C%AA%E7%9F%A5_0507181599
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.16.67.38:2052?type=ws&host=cafe.zhaal.ir&path=#%E6%9C%AA%E7%9F%A5_0507181600
