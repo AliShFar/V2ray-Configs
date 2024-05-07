@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://b14e6774-c983-42d0-abc8-02d13b10aff0@190.93.244.206:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507131706
 vless://b14e6774-c983-42d0-abc8-02d13b10aff0@190.93.245.253:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507131707
 vless://b1b78c33-83fa-4106-b08d-6738b4bd9314@172.64.146.80:443?security=tls&sni=us2.v2vless.xyz&type=ws&path=%40Freeiranweb%2C%40AstroVPN_official#%E7%BE%8E%E5%9B%BD_0507131708
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@45.205.0.50:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#%E7%BE%8E%E5%9B%BD_0507131709
@@ -602,4 +603,3 @@ vless://ec2e8ff7-e794-4ac4-9585-7ad28f188269@216.205.52.173:2053?encryption=none
 vless://bdad0d0b-15a0-4754-b1ba-72c696c83740@172.67.178.200:2083?encryption=none&type=grpc&security=tls&sni=vip.in01.tech#%E7%BE%8E%E5%9B%BD_0507132942
 vless://2186b438-8b2c-4679-9977-ac36c84b640c@172.67.185.129:2053?encryption=none&type=ws&host=amsterdam.stay-out-of-my-territory.shop&path=%2F&security=tls&sni=amsterdam.stay-out-of-my-territory.shop&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD_0507132943
 vless://d062e1c1-233d-4a1b-be05-6ecf74eceebe@190.93.245.137:8443?encryption=none&type=grpc&serviceName=%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE&security=tls&sni=20ns2-V2ray.Vpncustomize.Com#%E7%BE%8E%E5%9B%BD_0507132944
-vless://75a18282-636c-452a-954a-434265c7bb85@172.67.137.174:2052?encryption=none&type=ws&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507132945
