@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050708034
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@176.124.223.55:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050708035
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.67.215.2:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050708036
 vless://4a4494eb-0340-40c4-ba4e-7a07c16a0a59@185.59.218.87:2095?security=none&type=ws&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&host=V2ray-_-_-_-_-_-%56%50%4E%43%55%53%54%4F%4D%49%5A%45.keLLekcoLLection.com.&path=%2F%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D1024#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050708037
 vless://7a70979c-1ec9-4bb7-a0e0-91e94ad0448b@185.59.218.226:8080?security=none&type=ws&host=sleepingdogs%E9%82%AA%E6%81%B6%E5%B9%B6%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%BA%B3%E8%B5%AB%E7%89%B9%E7%93%A6%E5%B0%94%E5%BE%B7a.darkdiamond.top.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050708038
@@ -601,5 +603,3 @@ vless://4d7c9f6c-edfa-4ba9-91a9-3abb1c6b60e7@104.21.70.162:443?security=tls&sni=
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@104.26.4.123:443?security=tls&sni=ww.2023hk.eu.org&type=ws&path=%2F%3Fed&fp=chrome#%E6%9C%AA%E7%9F%A5_0507081042
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.153.251:443?security=tls&sni=ww.2023hk.eu.org&type=ws&path=%2F%3Fed#%E6%9C%AA%E7%9F%A5_0507081043
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.248.60:2082?security=none&type=ws&path=%2F%3Fed#%E6%9C%AA%E7%9F%A5_0507081044
-vless://4daa4b5d-fe69-4e44-b00c-4b7d1243b077@104.20.52.151:2053?security=tls&sni=dl3.chicagoland.ir&type=ws&host=dl3.chicagoland.ir&path=%2F%3Fed%3D2048&fp=random&alpn=h2#%E6%9C%AA%E7%9F%A5_0507081045
-vless://4eb12f72-c0b7-434f-bfc1-4dd7f87169e8@104.20.104.209:2096?security=tls&sni=ram.49z.info&type=grpc&serviceName=/Telegram:@v2ray_fd,Telegram:@v2ray_fd,Telegram:@v2ray_fd,Telegram:@v2ray_fd&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_0507081046

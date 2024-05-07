@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://4daa4b5d-fe69-4e44-b00c-4b7d1243b077@104.20.52.151:2053?security=tls&sni=dl3.chicagoland.ir&type=ws&host=dl3.chicagoland.ir&path=%2F%3Fed%3D2048&fp=random&alpn=h2#%E6%9C%AA%E7%9F%A5_0507081045
+vless://4eb12f72-c0b7-434f-bfc1-4dd7f87169e8@104.20.104.209:2096?security=tls&sni=ram.49z.info&type=grpc&serviceName=/Telegram:@v2ray_fd,Telegram:@v2ray_fd,Telegram:@v2ray_fd,Telegram:@v2ray_fd&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_0507081046
 vless://4f158135-88d8-4cad-91ad-11316f3b1220@104.16.169.81:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#%E6%9C%AA%E7%9F%A5_0507081047
 vless://4f9b3f00-a962-491d-8869-69945383ab8c@104.24.177.7:2096?security=tls&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site&type=grpc&serviceName=Telegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMgonTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM#%E6%9C%AA%E7%9F%A5_0507081048
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?path=/irhfpYO0S9VRvTSg?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bIA-PAIN-BacHe.pAGeS.DEV&fp=randomized&type=ws&sni=BiA-PAiN-bAcHe.PAGes.deV#%E6%9C%AA%E7%9F%A5_0507081049
@@ -601,5 +603,3 @@ vless://bd2abbe2-d18d-4b2a-8ee5-543465ab7a7f@104.18.201.168:2096?security=tls&sn
 vless://be29f77a-4b98-4d92-b3f4-b37caff45e94@104.21.25.32:443?security=tls&sni=no2-vless.sshmax.xyz&type=ws&host=no2-vless.sshmax.xyz&path=/vless#%E6%9C%AA%E7%9F%A5_0507081591
 vless://be6f3bee-f21d-4035-a2c0-1fac85edc6c6@104.21.16.138:443?security=tls&sni=shah67.servernet.cfd&type=ws&host=shah67.servernet.cfd&path=%40VPNHTTPInjectorfree#%E6%9C%AA%E7%9F%A5_0507081592
 vless://bf44c0a7-0b7d-49d0-b849-ac63a0176749@104.18.202.232:2095?security=none&type=ws&host=Reza_OFF.markazdl.ir.&path=%40Proxy_1%40Proxy_1#%E6%9C%AA%E7%9F%A5_0507081593
-vless://bf44c0a7-0b7d-49d0-b849-ac63a0176749@104.18.203.232:2095?security=none&type=ws&host=Reza_OFF.markazdl.ir.&path=%40Proxy_1%40Proxy_1#%E6%9C%AA%E7%9F%A5_0507081594
-vless://bf44c0a7-0b7d-49d0-b849-ac63a0176749@www.speedtest.net:2095?path=%40Proxy_1%40Proxy_1&security=none&encryption=none&host=Reza_OFF.markazdl.ir.&type=ws#%E6%9C%AA%E7%9F%A5_0507081595

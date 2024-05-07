@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://-DIGIV2RAY--@173.245.59.100:2087?encryption=none&type=ws&host=ConnectionDigiV2ray.radiotehran.org&path=%2FDigiV%3Fed%3D2048&security=tls&sni=ConnectionDigiV2ray.radiotehran.org&alpn=h2#%E7%BE%8E%E5%9B%BD_0507082931
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@172.64.80.150:80?encryption=none&type=ws&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed#%E7%BE%8E%E5%9B%BD_0507082932
 vless://74a5f75d-fd88-4dfc-9b89-0f9afd477cb3@shhproxy.varzesh3-cnd.site:8080?encryption=none&type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&path=%2F#%E7%BE%8E%E5%9B%BD_0507082933
 vless://f754c706-9dde-4a14-bb39-b87a76a9bd3b@172.67.219.62:2053?encryption=none&type=ws&host=uae-f6ac41787Bb9B04c5a482c3e3eea6825.mitsonic.com&path=%2F%3Fed%3D2048&security=tls#%E7%BE%8E%E5%9B%BD_0507082934
 vless://SVNTEAMx@172.67.163.123:8080?encryption=none&type=ws&host=SvnTeam-V2ray-Two.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.com&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0507082935
@@ -601,5 +603,3 @@ vless://31c8ace0-0495-4326-a47e-c3db49786ecc@188.114.96.6:443?security=tls&sni=u
 vless://384193af-acf4-4e3d-a570-5720befa42ee@45.131.4.245:80?security=&type=ws&path=/backup&host=Okhvod.KAshTI.WOrLd&encryption=none#%E8%8D%B7%E5%85%B0_050708071
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.129:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_050708072
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.165:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_050708073
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.96:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_050708074
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.29.220:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#%E8%8D%B7%E5%85%B0_050708075
