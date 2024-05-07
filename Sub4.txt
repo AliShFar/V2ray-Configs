@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.16.68.38:2052?type=ws&host=cafe.zhaal.ir&path=#%E6%9C%AA%E7%9F%A5_0507181601
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.90.218:2052?type=ws&path=%2F#%E6%9C%AA%E7%9F%A5_0507181602
 vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@104.21.96.87:443?security=tls&sni=pPaL03.JesSy-PADBerg.WorkeRS.DEv&type=ws&host=pPAL03.JESSy-pAdbErg.workERs.deV&path=%2FlMuv-8IfB5AOf3_-%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0507181603
 vless://b991a802-5478-4fc0-97af-46324ab74d20@104.18.181.217:2096?security=tls&sni=tarasvalat.ps4lavazemjanebi.ir&type=grpc&fp=chrome&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0507181604
@@ -603,3 +602,4 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.0.51:2087?encryption=none&ty
 vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@104.21.5.66:2096?encryption=none&type=ws&security=tls#%E6%9C%AA%E7%9F%A5_0507183391
 vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@104.21.5.69:443?encryption=none&type=ws&security=tls#%E6%9C%AA%E7%9F%A5_0507183392
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.21.1.5:2096?encryption=none&type=ws&security=tls#%E6%9C%AA%E7%9F%A5_0507183393
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.4.82:2087?encryption=none&type=ws&security=tls#%E6%9C%AA%E7%9F%A5_0507183394

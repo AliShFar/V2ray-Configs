@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.116:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507181136
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#%E7%BE%8E%E5%9B%BD_0507181137
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.134:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507181138
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.193:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0507181139
@@ -603,3 +602,4 @@ vless://aa1faf7c-3c47-4b9c-aa88-4ff15d06a6d2@172.66.209.87:2095?security=none&ty
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.64.80.35:8080?security=none&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD_0507181726
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.64.84.90:8080?security=none&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD_0507181727
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.133.19:8080?security=none&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD_0507181728
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.162.88:8080?sni=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=/&fp=%E9%9A%8F%E6%9C%BA#%E7%BE%8E%E5%9B%BD_0507181729
