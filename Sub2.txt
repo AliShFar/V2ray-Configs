@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://86335524-a8c9-4805-9854-7195c57ca19b@213.159.64.5:443?security=none&type=tcp&host=france24.com&headerType=http#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050713046
 vless://99e44f7f-3541-44e1-9d89-d2c4be65d89a@109.120.135.113:44843?security=none&type=tcp&host=fast.com&headerType=http#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050713047
 vless://a698f2b0-130b-4625-8b57-ff888f7cc063@95.183.13.203:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=thzNE1MsvEBRenhjsQaob_M6G7vhmpQDfS1sLe8AflQ&sid=c93743d8&type=tcp&flow=xtls-rprx-vision&encryption=none#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050713048
 vless://b3dc92ae-bac0-47ab-9844-f701e7a54561@185.59.218.226:8880?security=none&type=ws&host=immaculate%E5%95%84%E6%9C%A8%E4%BC%8D%E8%BF%AA%E5%8E%BB%E8%90%A5%E5%9C%B0%E7%9A%87%E9%AA%A8%E7%81%B0watanmer.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050713049
@@ -603,3 +602,4 @@ vless://614cef89-a0a2-4afb-b4e8-8cc6fda8f792@104.22.30.97:2095?type=ws&host=%E5%
 vless://61a491db-7749-49fd-b3d2-e339a3fa1db2@104.17.127.233:443?security=tls&sni=v2.baradweb.com&type=ws&host=v2.baradweb.com&path=%2Fvless%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0507131053
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@104.21.26.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#%E6%9C%AA%E7%9F%A5_0507131054
 vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?security=tls&sni=w26io.deonta-yancy.workers.dev&type=ws&host=w26io.deonta-yancy.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0507131055
+vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0507131056

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://9b8042f4-1b95-4c46-930a-f8bc61e34acd@dnschecker.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=%40%69%70%56%32%52%61%79&sni=fm.irandtehran.org#@V2GNG
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.17.94.171:2096?path=%E3%80%90TG%EF%BC%9A%40juzibaipiao%E3%80%91%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#➠Telegram🆔:@Net_Private
-vless://a149ee0c-b6ea-4547-89fd-394ad96c1e8b@49.13.117.54:33481?type=ws&path=%2F&security=none#Http%20Custom-ej7wzrpc
 vless://6b7376dd-11d8-443c-804a-996072aefd81@13.50.17.135:8443?security=reality&encryption=none&pbk=r-HKnECUD1n2k2dYyabE3KTJRnA7E0C65Drtp4dOZBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Tiny_VPN_Official
 vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&fp=randomized&type=ws&sni=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev#%401selinc1
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FTelegram-MARAMBASHI%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#TelegramID%28%40Outline_Vpn%29+764
@@ -603,3 +600,6 @@ vless://2afd3c93-98cc-4fb7-b119-3b1d11d3b499@tun.ferdowsi.shop:443?security=tls&
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.231.210:443?encryption=none&security=tls&sni=current.iraniancp.click&type=ws&host=current.iraniancp.click&path=%2F%3Fed%3D2048#%40V2RayOpen%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20526
 vless://2b612623-7e72-4dff-a240-b047969148ca@188.114.99.99:443?type=ws&host=NIKa.hIdEaNDSuRf.COm&path=/@Happy_Bam?ed%3D2048@SinaBigo&security=tls&fp=chrome&sni=NIKa.hIdEaNDSuRf.COm&alpn=h2,http/1.1&fragment=10-20,1-2,tlshello#%F0%9F%A4%BD%E2%80%8D%E2%99%80%EF%B8%8F@SINABIGO%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://7c2eb079-5e02-4812-97ce-bdc72fc6ab59@188.114.98.224:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-%53%68%68%50%72%6f%78%79.TelegramChannelJoinBede.com.&type=ws#🇩🇪MKH|@BigSmoke_Config
+vless://0a1c7295-3a1c-4722-b7a6-6c8e37ebb421@piavpngo.vipgermany.lol:2053?type=grpc&serviceName=%40piavpngo-%40piavpngo-%40piavpngo-%40piavpngo-%40piavpngo-%40piavpngo-%40piavpngo-&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Loop.v2rayvpn2.sbs#%40PiaVpnGo
+vless://telegram-id-ArV2ray@check-host.net:80?path=%2F%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%3Fed%3D2048&security=none&encryption=none&host=t.t.t.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B781.tech&type=ws#%40V2logy+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#%40V2ray_NG
