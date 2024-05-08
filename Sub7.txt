@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.217:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046733
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.219:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046734
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.221:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046735
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.222:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046736
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.223:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046737
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.224:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046738
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.225:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046739
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.68.173:8443?security=tls&sni=folani.iiipok.wORkeRs.DEV&type=ws&host=folani.iiipok.wORkeRs.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#%E6%9C%AA%E7%9F%A5_050804674
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.226:80?encryption=none&type=ws&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0508046740
@@ -603,3 +597,9 @@ vless://46f72049-4c32-455c-af5b-d6a6c0039679@104.21.20.34:80?security=none&type=
 vless://4755a271-e240-41aa-b638-5bff727918e3@104.21.96.66:2053?security=tls&sni=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&type=ws&host=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_050804961
 vless://4755a271-e240-41aa-b638-5bff727918e3@104.21.96.66:2087?security=tls&sni=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&type=ws&host=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_050804962
 vless://476058ef-b67a-4664-aab4-e10268ee3b71@104.17.63.18:443?security=tls&sni=fALcUnaRgO.3086bDEe98.WOrKErs.DEV&type=ws&host=faLcUnArGO.3086Bdee98.WOrKeRs.deV&path=%2F594IUhlREsfEUExK%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_050804963
+vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.24.185.137:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=/backup#%E6%9C%AA%E7%9F%A5_050804964
+vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.31.16.121:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#%E6%9C%AA%E7%9F%A5_050804965
+vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.31.16.50:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#%E6%9C%AA%E7%9F%A5_050804966
+vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.31.16.90:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#%E6%9C%AA%E7%9F%A5_050804967
+vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.31.16.95:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#%E6%9C%AA%E7%9F%A5_050804968
+vless://47e80a2e-3629-45b6-8b38-0edc7164dd9a@104.20.21.111:443?security=tls&sni=hello-world-red-feather-78a7.basay80682.WoRKerS.DEV&type=ws&host=hello-world-red-feather-78a7.basay80682.WoRKerS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_050804969
