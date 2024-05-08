@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.144.101:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182982
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.79.102:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182983
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.209.235:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182984
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.220.231:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182985
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.104.216:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182986
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.83.25:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182987
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.91.12:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182988
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.141.137:8080?encryption=none&type=ws&host=dash.irpick.sbs&path=%2F#%E7%BE%8E%E5%9B%BD_0508182989
@@ -603,3 +598,8 @@ vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.1:8880?security=none&typ
 vless://9bb36300-163b-4f2b-d404-ea52ec7aa240@188.114.98.224:2086?security=none&type=ws&host=zula.ir.www.speedtest.net.AfV2ray.Sbs.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#%E8%8D%B7%E5%85%B0_050818129
 vless://9cdeb389-c7fe-4a0a-8989-facd9a981188@188.114.98.223:8880?security=none&type=ws&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6#%E8%8D%B7%E5%85%B0_050818130
 vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#%E8%8D%B7%E5%85%B0_050818131
+vless://9d2e79b4-93dd-4130-bb56-42b60008dbd3@188.114.97.2:2083?security=tls&sni=sp.knshop22.ir&type=ws&host=sp.knshop22.ir&path=%2Fadmin%3Fed%3D2048&fp=chrome&alpn=h2#%E8%8D%B7%E5%85%B0_050818132
+vless://9e9550b3-93a9-43f6-95dc-a8b97a0b133f@188.114.96.127:2053?security=tls&sni=ligliyglyugliygghy.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome&type=grpc&serviceName=Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-Telegramjoin:@V2ray_ip1-&encryption=none#%E8%8D%B7%E5%85%B0_050818133
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.108:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_050818134
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.109:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_050818135
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.124:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_050818136
