@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzQt8J+HqPCfh6ZDQV8xOTMzX0BTdXJmYm9hcmR2MnJheS13b3JrZXIiLCJhZGQiOiJjcmFja3RoZWNvZGUuZnRwLnNoIiwicG9ydCI6NDQzLCJpZCI6ImRmYmJjOGRlLThhNGYtNDA3ZC04MDY5LTZkZTM4ZDgzYzRlMSIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Y3AzLmRlaGVsMTUzNTQuV09SS2VScy5ERVYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY3Bpc3ViNy5DUElGb3JwRVJzaUEuVUs6NDQzL2hkZnk0YzEuaXJhbmlhbmNwaS51ay9XZ0NtcDhweFJXQnRMVGxUTCIsImhvc3QiOiJ2Y3AzLmRlaGVsMTUzNTQuV09SS2VScy5ERVYiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImFuZHJvaWQifQ==
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fjd.wxgqlfx.top%3A443%2F%3Fed&host=vcp3.dehel15354.WorkERs.DeV&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C10-20%2C20-50&sni=vcp3.dehel15354.WorkERs.DeV#35-%F0%9F%87%A8%F0%9F%87%A6CA_384_%40Surfboardv2ray-worker
-vless://966f33ad-16db-44ee-aefe-1047f8a8d30b@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fall3.savagev2ray.site%3A443%2F&host=vcp3.dehel15354.wOrkeRs.dev&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C30-80%2C10-50&sni=vcp3.dehel15354.wOrkeRs.dev#36-%F0%9F%87%A8%F0%9F%87%B7CR_1040_%40Surfboardv2ray-worker
 vless://f4f69ee1-09df-4ca2-a002-89ee0ec8156a@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Faccolade.toptechnonews.com%3A443%2Fnimws&host=vcp3.dehel15354.WoRkERs.dEV&security=tls&alpn=http%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-50&sni=vcp3.dehel15354.WoRkERs.dEV#37-%F0%9F%87%A8%F0%9F%87%A6CA_1797_%40Surfboardv2ray-worker
 vmess://eyJ0eXBlIjoiIiwicHMiOiIzOC3wn4eo8J+HpkNBXzE5ODlfQFN1cmZib2FyZHYycmF5LXdvcmtlciIsImFkZCI6ImNyYWNrdGhlY29kZS5mdHAuc2giLCJwb3J0Ijo0NDMsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6InZjcDMuZGVoZWwxNTM1NC5XT3JrZVJTLkRldiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5kZTA2LmluZGlhdmlkZW8uc2JzOjQ0My9saW5rd3MiLCJob3N0IjoidmNwMy5kZWhlbDE1MzU0LldPcmtlUlMuRGV2IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJzYWZhcmkifQ==
 vless://19e9946f-ff17-4dc6-bdf7-d004dabb1350@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fpt2-vless.sshmax.xyz%3A443%2Fvless&host=vcp3.dehel15354.wOrKeRS.DeV&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C20-50%2C10-20&sni=vcp3.dehel15354.wOrKeRS.DeV#39-%F0%9F%87%A8%F0%9F%87%A6CA_225_%40Surfboardv2ray-worker
@@ -603,3 +600,6 @@ trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10823?allowInsecure=1
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10823?allowInsecure=1#%e7%be%8e%e5%9b%bd31
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10824?allowInsecure=1#%e7%be%8e%e5%9b%bd32
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10824?allowInsecure=1#%e7%be%8e%e5%9b%bd33
+
+trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?allowInsecure=1#Australia-%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a
