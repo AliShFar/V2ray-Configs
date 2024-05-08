@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
 	},
 	"portMap" : {
 
@@ -594,12 +603,3 @@ vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?encryption=
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&type=ws&path=Telegram%40SiNABiGO%2F%3Fed%3D2048&host=e10c0e4b.oodaeq2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=e10c0e4b.oodaeq2.pages.dev#162-%F0%9F%87%B3%F0%9F%87%B1NL_1625_%40Surfboardv2ray
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?encryption=none&type=ws&path=%2FTelegram-MARAMBASHI%2F%3Fed&host=bIA-paiN-BaCHE.pAGES.Dev&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=bIA-paIn-bacHE.PAGeS.DEv#163-%F0%9F%87%A8%F0%9F%87%A6CA_574_%40Surfboardv2ray
 vless://4f43d8c6-eb82-4bd0-90de-0f03b96c8109@www.zula.ir:443?encryption=none&type=ws&path=%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%2F%3Fed%3D2048&host=MCI-Shatel-aSIaTeCH-pARsoNlINe-HiweB.PAges.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=MCI-Shatel-aSIaTeCH-pARsoNlINe-HiweB.PAges.dEv#164-%F0%9F%87%A8%F0%9F%87%A6CA_533_%40Surfboardv2ray
-vless://efe46371-74a8-44e5-9aa9-69d2a8d422d4@ws2.tranfer-game.site:443?encryption=none&type=ws&path=%2FMore_links%3A%40holderproxy&host=NoLimitV2ray.tranfer-Game.site&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=NoLimitV2ray.tranfer-Game.site#165-%F0%9F%87%A8%F0%9F%87%A6CA_1770_%40Surfboardv2ray
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C10-50&sni=jd.wxgqlfx.top#166-%F0%9F%87%A8%F0%9F%87%A6CA_407_%40Surfboardv2ray
-vless://18cb1e84-aec2-44b3-aadd-5d040f47a842@104.25.5.222:443?encryption=none&type=ws&path=%40VPNHTTPInjectorfree&host=pardazeshvpn-tg44.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=pardazeshvpn-tg44.pages.dev#167-%F0%9F%87%A8%F0%9F%87%A6CA_221_%40Surfboardv2ray
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@190.93.247.155:443?encryption=none&type=ws&path=Path%2FTelegram%40LOCKEY_VPN%2F%3Fed%3D2048&host=test50.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-20%2C20-50&sni=test50.pages.dev#168-%F0%9F%87%A8%F0%9F%87%B7CR_1592_%40Surfboardv2ray
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?encryption=none&type=ws&path=%2F&host=bIA-paiN-BaCHE.pAGES.Dev&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=bIA-paIn-bacHE.PAGeS.DEv#169-%F0%9F%87%A8%F0%9F%87%A6CA_561_%40Surfboardv2ray
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&type=ws&path=Telegram%40SiNABiGO%2F%3Fed%3D2048&host=e10c0e4b.oodaeq2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=e10c0e4b.oodaeq2.pages.dev#170-%F0%9F%87%B3%F0%9F%87%B1NL_1627_%40Surfboardv2ray
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?encryption=none&type=ws&path=TELEGRAM-FILTERK0SH%2F%3Fed%3D2048&host=bIA-paiN-BaCHE.pAGES.Dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=bIA-paIn-bacHE.PAGeS.DEv#171-%F0%9F%87%A8%F0%9F%87%A6CA_565_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxNzIt8J+HqPCfh6ZDQV8xOTc5X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yNi42LjY1IiwicG9ydCI6NDQzLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.96.3:443?encryption=none&type=ws&path=%2FTelegram%20Join%3A%20%40DisVpn%2CTelegram%20Join%3A%20%40DisVpn&host=join-telegraam-channel-disvpn.pages.dev&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C20-50%2C10-20&sni=join-telegraam-channel-disvpn.pages.dev#173-%F0%9F%87%B3%F0%9F%87%B1NL_1565_%40Surfboardv2ray
