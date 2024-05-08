@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#github.com/freefq%20-%20%E6%B3%A2%E5%85%B0%20%205
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.78.16.178:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-HK-Hong%20Kong5
 hysteria2://sharecentrepro@210.231.184.93:4433?peer=jpntt2.sharecentre.online&obfs=none#SCP2
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInloMS5mcmVlaDEueHl6IiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICJlZjhjOTU0ZS0wMTRmLTRiMzYtODI3My05YjUwODZhZmFiMzQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJpYmxpb2dyYXBoaWMtc3dvcmQtc2VxdWVuY2UtYWR2ZXJ0aXNlcnMudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICJlZjhjOTU0ZS0wMTRmLTRiMzYtODI3My05YjUwODZhZmFiMzQtdm0iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
@@ -603,3 +602,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDEgQG5vZHBhaSIsImFk
 			"server_port" : 11421,
 			"server_udp_port" : 0,
 			"password" : "Fhbe0z",
+			"method" : "chacha20-ietf",

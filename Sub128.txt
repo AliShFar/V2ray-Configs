@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://dcf0fcec-3800-4f42-9b78-1323f6a4a004@de2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%86%973%40oneclickvpnk
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@nljs.liangyuandiancloud.com:443#Relay_%F0%9F%87%AD%F0%9F%87%B0HK-%F0%9F%87%BA%F0%9F%87%B8US_70
+trojan://telegram-id-privatevpns@3.252.224.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S886)
+trojan://354ca566-3ab4-4e4e-9594-8693d78bc2c7@209.97.134.140:443?security=tls&sni=uk2-full.privateip.net&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281422%29%20GB
+trojan://telegram-id-privatevpns@35.181.228.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
+trojan://telegram-id-privatevpns@52.59.40.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D9%88+%DA%AF%D9%88%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF%F0%9F%98%8E%F0%9F%8E%81%F0%9F%94%B0+%40V2RAYNG_Outline_VPN
+trojan://telegram-id-privatevpns@13.39.250.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-directvpn@54.188.136.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://YDE0pZnfYA@ec2-13-50-110-83.eu-north-1.compute.amazonaws.com:5001?security=none&type=quic&headerType=srtp&quicSecurity=chacha20-poly1305&key=p72gkqusKM#Kiava-S5
 trojan://telegram-id-privatevpns@35.176.91.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D8%B9%D8%B6%D9%88+%D8%A8%D8%B4%DB%8C%D8%AF+%7C++EuServer%40🔗8
 trojan://1ZTbMoSRnm@172.67.10.53:2083?path=%2F%40MikasaVPN%2F%3Fed%3D2048&security=tls&alpn=h3,h2,http/1.1&host=mikasa.megafair.store&fp=firefox&type=ws&sni=mikasa.megafair.store#Join+Us%3A+%F0%9F%91%89@MikasaVPNGift%F0%9F%92%A5
 trojan://3df22ece-e33a-429a-bbbc-72f468755d5c@59.16.152.27:443#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD
@@ -594,12 +603,3 @@ trojan://telegram-id-directvpn@18.168.135.218:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@16.16.55.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
 trojan://telegram-id-directvpn@35.181.203.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
 trojan://telegram-id-directvpn@51.20.157.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
-trojan://4d48aeee-ee05-426e-b35b-8b1ccfd74e3d@sg01.freeflyingcloud.xyz:35702?type=tcp&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%7C%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://telegram-id-privatevpns@34.246.113.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
-trojan://telegram-id-directvpn@51.21.67.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇸🇪Sweden-کانالتلگرام:@V2rayweb
-trojan://telegram-id-privatevpns@16.170.5.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#%40v2naptv+%F0%9F%87%BA%F0%9F%87%B2
-trojan://d622d1e6-4fb3-4d0e-b5cf-1f802e3d1195@ust2.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%BA%F0%9F%87%B2
-trojan://telegram-id-directvpn@13.53.62.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@13.39.177.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40v2rayngvpn
-trojan://9gXaviJZMj@109.230.206.167:80?security=none&type=ws&host=n-5-75-195-185-o-w.scriptboy.ir&path=%2F%2CTurk#%40TeiknoVPN%20%E2%9C%8C%EF%B8%8F%20%2010

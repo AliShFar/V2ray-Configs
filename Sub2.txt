@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@185.174.138.112:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050904050
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050904051
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050904052
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050904053
@@ -603,3 +602,4 @@ vless://63b31b2f-7df8-47aa-9eb2-f0deacbe0ee7@104.21.53.184:2053?security=tls&sni
 vless://63e0ccc3-bceb-46ce-a418-1c6a71d20e3f@104.21.42.56:443?security=tls&sni=182z9jcb6ezumr1jfpg50pa12rebmhitb24aynjgmflkcv78khyhgfit4563fdk.myy1h3.workers.Dev&type=ws&host=182z9jcb6ezumr1jfpg50pa12rebmhitb24aynjgmflkcv78khyhgfit4563fdk.myy1h3.workers.Dev&path=%2FTelegram%2Bchannel%2B%3A%2B@pandavpntc&fp=chrome#%E6%9C%AA%E7%9F%A5_0509041108
 vless://648d41d2-ae83-4ee0-961a-a6c0acbece13@104.21.90.112:443?security=tls&sni=hashemjavid1367.hashemjavid1988.workers.dev&type=ws&host=hashemjavid1367.hashemjavid1988.workers.dev&path=%2F#%E6%9C%AA%E7%9F%A5_0509041109
 vless://17bfbf37-3514-41a3-992d-06034ea346db@discord.gg:2095?encryption=none&host=zedmodeon2.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&type=ws#%E6%9C%AA%E7%9F%A5_050904111
+vless://64921a6f-d4ca-4f4c-b279-73b96e32a9d3@104.21.49.245:443?security=tls&sni=z-v2-007203.kailib.com&type=ws&host=z-v2-007203.kailib.com&path=%2Fstore%3Fed#%E6%9C%AA%E7%9F%A5_0509041110

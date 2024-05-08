@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://806d002e-8507-4c21-d31e-eb836c6c01de@190.93.244.239:443?encryption=none&type=ws&host=max-allnet.mpyana.ir&path=%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023&security=tls&sni=max-allnet.mpyana.ir&alpn=h2#%E7%BE%8E%E5%9B%BD_0509043028
 vless://vpn_xw@www.visa.com:2086?encryption=none&type=ws&host=mci.xn--4gq0a0fu2d74d5z7ajgm893a7c3d4tf.website.&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0509043029
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@108.162.193.237:443?encryption=none&type=ws&host=test57.pages.dev&path=%2Ffreecodes&security=tls&sni=test57.pages.dev#%E7%BE%8E%E5%9B%BD_0509043030
 vless://c5a974bc-a657-4e42-d4a7-eacef0f546ac@172.67.204.84:2053?encryption=none&type=grpc&serviceName=Teleg...&security=tls&sni=digi4.kanal-tel-nufilter.site#%E7%BE%8E%E5%9B%BD_0509043031
@@ -603,3 +602,4 @@ vless://82494092-bd0c-405b-920c-8ebfaf5d8b81@188.114.97.170:443?security=tls&sni
 vless://82494092-bd0c-405b-920c-8ebfaf5d8b81@188.114.97.170:80?security=none&type=ws&host=sssds433600.2b5c6c9f0d.workers.dev&path=%2F%3Fed%3D2560#%E8%8D%B7%E5%85%B0_050904126
 vless://83741900-d53e-43eb-87bc-c807be94c8a2@188.114.98.225:2053?security=tls&sni=trk_V2ray.naziitness.com&type=ws&host=trk_V2ray.naziitness.com&path=%2F%3Fed%3D1024#%E8%8D%B7%E5%85%B0_050904127
 vless://87e38f06-89c2-470f-9de3-ce9660c0bb9f@45.131.4.6:443?security=tls&sni=de.tehransvip.site&type=ws&host=de.tehransvip.site&path=/ts5ZScuIX9BjHL8DNYIIOPbwV6&fp=chrome&alpn=h2#%E8%8D%B7%E5%85%B0_050904128
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.109:8443?security=tls&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev&path=/&encryption=none&headerType=none#%E8%8D%B7%E5%85%B0_050904129
