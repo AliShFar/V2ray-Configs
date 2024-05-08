@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vpnmarket-8bm.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=vpnmarket-8bm.pages.dev&type=ws#%E7%BE%8E%E5%9B%BD_050818117
 vless://319235a8-b8c0-4a39-d420-9a1e82add3d5@172.67.133.87:2083?security=tls&sni=g1.korda.top&type=grpc&serviceName=g1.korda.top&fp=chrome#%E7%BE%8E%E5%9B%BD_0508181170
 vless://319d602e-6e67-49e4-a608-3ac665cd402c@173.245.58.18:443?security=tls&sni=arsurf.arkarain-co.worKErS.dEV&type=ws&host=arsurf.arkarain-co.worKErS.dEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0508181171
 vless://319d602e-6e67-49e4-a608-3ac665cd402c@173.245.58.202:2096?security=tls&sni=arsurf.arkarain-co.WorKeRS.Dev&type=ws&host=arsurf.arkarain-co.WorKeRS.Dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD_0508181172
@@ -603,3 +602,4 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.166.119:443?security=tls&sni=bypassfilter.nuktsv.workers.dev&type=ws&host=bypassfilter.nuktsv.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0508181755
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.186.98:443?security=tls&sni=bypass-filter2.sczfymb.workers.dev&type=ws&host=bypass-filter2.sczfymb.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0508181756
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.190.58:443?security=tls&sni=bypassfilter.wrevdav.workers.dev&type=ws&host=bypassfilter.wrevdav.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0508181757
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#%E7%BE%8E%E5%9B%BD_0508181758

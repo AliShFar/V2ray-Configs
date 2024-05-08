@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#%E7%BE%8E%E5%9B%BD_0508181758
 vless://b14e6774-c983-42d0-abc8-02d13b10aff0@172.66.213.71:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0508181759
 vless://b14e6774-c983-42d0-abc8-02d13b10aff0@190.93.244.206:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0508181760
 vless://b14e6774-c983-42d0-abc8-02d13b10aff0@190.93.245.253:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0508181761
@@ -603,3 +602,4 @@ vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@172.67.188.149:443?encryption=none&
 vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@172.67.204.84:2087?encryption=none&type=grpc&security=tls&sni=pizznew4.spiritueelpersonalcoach.info#%E7%BE%8E%E5%9B%BD_0508183003
 vless://92ec2ea8-3d4a-4dff-99b6-06fbb75cfd9d@172.67.214.179:2083?encryption=none&type=grpc&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C&security=tls&sni=le.bo3kot.com&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0508183004
 vless://4d4bb175-27b0-4cf7-ad48-a5b18e9b06a4@92.38.145.145:80?encryption=none&type=ws&host=mamanodamind.com&path=%2Fws#%E7%BE%8E%E5%9B%BD_0508183005
+vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@172.67.204.84:2083?encryption=none&type=ws&host=U6ZGHN5zYTARet4s838q76Kqgd9MN61UfLu53560XV8NmU68Gd7q25y3PX.PAGES.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&sni=U6ZGHN5zYTARet4s838q76Kqgd9MN61UfLu53560XV8NmU68Gd7q25y3PX.PAGES.dev&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0508183006
