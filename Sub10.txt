@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.232.61:8080?security=none&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD_0508131727
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.35.200:8080?type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=#%E7%BE%8E%E5%9B%BD_0508131728
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.64.81:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD_0508131729
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.65.180:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD_0508131730
@@ -603,3 +602,4 @@ vless://bfb8f50c-4736-4cdd-e664-23844e61d129@u.today:443?encryption=none&type=gr
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@172.67.148.122:2087?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=5.irancloudflare.cab#%E7%BE%8E%E5%9B%BD_0508132962
 vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@172.67.188.149:443?encryption=none&type=ws&host=csub5.cpIfORpERsIa.uk&path=vless-ws%2F%3Fed%3D2048%2FV2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=csub5.cpIfORpERsIa.uk#%E7%BE%8E%E5%9B%BD_0508132963
 vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@172.67.204.84:2087?encryption=none&type=grpc&security=tls&sni=pizznew4.spiritueelpersonalcoach.info#%E7%BE%8E%E5%9B%BD_0508132964
+vless://92ec2ea8-3d4a-4dff-99b6-06fbb75cfd9d@172.67.214.179:2083?encryption=none&type=grpc&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C&security=tls&sni=le.bo3kot.com&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0508132965
