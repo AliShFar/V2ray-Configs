@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-directvpn@16.16.119.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
-trojan://telegram-id-directvpn@16.170.107.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#%F0%9F%86%9521%40oneclickvpnkeys
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%86%9520%40oneclickvpnkeys
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?path=6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#%40gh_v2rayng
-trojan://3b11409f-91ee-4457-b291-b281e11a1cbb@172.104.63.96:443?security=tls&headerType=none&type=tcp&sni=aka.ms#%F0%9F%90%B9Dialog+Zoom+%5BUltra+Vpn%5D
-trojan://telegram-id-privatevpns@18.170.245.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-directvpn@15.237.207.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
-trojan://telegram-id-privatevpns@15.237.245.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
-trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?path=%2F6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#%40v2rayN_red
-trojan://10e02afd-787e-4d52-856d-8a73e0fcc4d4@173.245.49.87:443?path=%2FU13Hsk6pJ3kV6p1uO5Avv&security=tls&alpn=h2&host=PlS5UY.gsgsgsg.shop&fp=chrome&type=ws&sni=PlS5UY.gsgsgsg.shop#%40V2rayServer_VIP
-trojan://telegram-id-privatevpns@3.121.183.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S899)
-trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S460)
-trojan://telegram-id-privatevpns@34.245.120.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)
-trojan://telegram-id-directvpn@34.241.59.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://b2fbaeb0-e27b-4434-a8e3-9c5ad41885e6@hdfy1d2.foriran.trade:443?path=%2FQz8F1WYdH3qY7wwF&security=tls&host=hdfy1d2.foriran.trade&type=ws&sni=hdfy1d2.foriran.trade#Channel+%40proxy48
 trojan://telegram-id-privatevpns@18.168.216.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.10.194.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
 trojan://telegram-id-directvpn@15.156.27.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
@@ -603,3 +587,19 @@ trojan://telegram-id-privatevpns@3.77.140.56:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@18.169.143.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://telegram-id-directvpn@3.73.13.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://xxoo@us.blazeppn.info:443?encryption=none&security=tls&sni=telewebion.com&type=tcp&headerType=none#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%BA%F0%9F%87%B8US+%F0%9F%94%BA%F0%9F%87%BA%F0%9F%87%B8US+%E2%98%91ADSL+%E2%8F%B05%2F4%2F2024
+trojan://1ZTbMoSRnm@[2a04:52c0:122:f8a7::1]:2083?path=%2F%40MikasaVPN%2F%3Fed%3D2048&security=tls&alpn=h3,h2,http/1.1&host=mikasa.megafair.store&fp=firefox&type=ws&sni=mikasa.megafair.store#Join+Us%3A+%F0%9F%91%89@MikasaVPNGift%F0%9F%92%A5
+trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&headerType=none&type=tcp&sni=z-v2-002750.kailib.com#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://YDE0pZnfYA@ec2-16-16-197-247.eu-north-1.compute.amazonaws.com:5001?security=none&type=quic&headerType=srtp&quicSecurity=aes-128-gcm&key=aV64KaXoCX#Kiava-S2
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp#%F0%9F%A7%9F+%7C+8185
+trojan://8f542640-0366-11ef-9c32-1239d0255272@zula.ir:443?path=%2Fhowdy&security=tls&host=fr1.test3.net&type=ws&sni=fr1.test3.net#%40Moft_Vpn+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
+trojan://telegram-id-privatevpns@54.220.112.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
+trojan://telegram-id-privatevpns@18.157.225.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
+trojan://telegram-id-directvpn@13.53.145.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://e8105dfd24414268b6c7652c63731097@lol.ps:443?path=6b777a91&security=tls&alpn=h2,http/1.1&host=avianrecruit.com&fp=chrome&type=ws&sni=avianrecruit.com#%E2%98%91%EF%B8%8F%40V2ray_Alpha+5
+trojan://telegram-id-directvpn@3.21.110.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%E2%80%8C%D8%B1%DB%8C+%7C+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=z-v2-003289.kailib.com#%E2%98%91%EF%B8%8F%40V2ray_Alpha+4
+trojan://b6lglRburG@104.21.48.84:8443?path=%2F%40MikasaVPN%2F%3Fed%3D2048&security=tls&alpn=h3,h2,http/1.1&host=mega.megafair.store&fp=firefox&type=ws&sni=mega.megafair.store#Jon+US%3A+%F0%9F%91%89+@MikasaVPN+%F0%9F%98%8E
+trojan://KyiT6N1Wxo@zula.ir:80?security=none&type=ws&host=k04-u.cloudka.us.to&path=%2F#Kiava-K4-U118
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40vless_vmess

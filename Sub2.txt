@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d0662757-bc64-44f9-9a6f-b60fa505ca6c@2.189.255.205:2001?encryption=none&type=tcp&headerType=http&host=speedtest.net#%E4%BC%8A%E6%9C%97_050808069
+vless://3607c9c2-9351-4b05-901e-39f343a46047@176.65.242.93:1325?encryption=none&type=grpc&serviceName=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-#%E4%BC%8A%E6%9C%97_050808070
 vless://23100327-3ed3-4c5a-9289-1a7f8d18d714@87.248.152.68:443?encryption=none&type=ws&host=Google.com&path=%2F#%E4%BC%8A%E6%9C%97_050808071
 vless://45c5918a-7eba-4e4c-ab80-a5464c2d307b@78.109.198.78:56694?encryption=none&type=tcp&headerType=http&host=speedtest.net#%E4%BC%8A%E6%9C%97_050808072
 vless://7b1d5aef-f606-4d30-8469-7ed6ea0b03de@78.157.36.139:8443?encryption=none&type=tcp#%E4%BC%8A%E6%9C%97_050808073
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.146.173:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.160.239:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#%E6%9C%AA%E7%9F%A5_0508081064
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.163.55:80?security=none&type=ws&path=%2F#%E6%9C%AA%E7%9F%A5_0508081065
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.168.54:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#%E6%9C%AA%E7%9F%A5_0508081066
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.20.49.64:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#%E6%9C%AA%E7%9F%A5_0508081067
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.20.53.106:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#%E6%9C%AA%E7%9F%A5_0508081068

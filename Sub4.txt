@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://ba04bcf2-2153-4c55-ac6b-4b44f66dde19@www.speedtest.net:443?alpn=h3&encryption=none&fp=randomized&host=garywelch.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=garywelch.pages.dev&type=ws#%E6%9C%AA%E7%9F%A5_050808164
+vless://adbb17ae-b8cb-4aee-a890-6329965abcac@104.21.96.84:8443?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0508081640
 vless://adbf8aca-39fd-4aeb-a7ff-bbac9e758f95@104.18.202.232:2053?security=tls&sni=jo0o0o0in.golestan-vpn.link&type=ws&host=jo0o0o0in.golestan-vpn.link&path=%2F%2Fgoli&fp=chrome#%E6%9C%AA%E7%9F%A5_0508081641
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@104.27.19.27:2083?security=tls&sni=serv.revol8ting.online&type=grpc&encryption=none#%E6%9C%AA%E7%9F%A5_0508081642
 vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473cb@104.25.196.220:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0508081643
@@ -601,5 +603,3 @@ vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.188:2083?encryption=none&
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.191:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0508083303
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.193:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0508083304
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.194:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0508083305
-vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.201:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0508083306
-vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.202:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0508083307
