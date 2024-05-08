@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050823055
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050823056
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050823057
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050823058
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.56:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_050823062
@@ -603,3 +601,5 @@ vless://5a3ce743-f5f9-498d-b2f6-07087e318856@104.21.34.229:443?security=tls&sni=
 vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=%2F#%E6%9C%AA%E7%9F%A5_0508231108
 vless://5a84001d-87f0-4972-98bf-e836e3599b9c@web.bbv2ry.pics:443?type=ws&path=/&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Skyy.bbv2ry.pics#%E6%9C%AA%E7%9F%A5_0508231109
 vless://8f261e6d-b1ab-4c2f-822c-5f7864f461a2@discord.gg:80?encryption=none&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&path=%2F&security=none&type=ws#%E6%9C%AA%E7%9F%A5_050823111
+vless://5aa06d39-b6d5-4527-89b6-5e16cf73275a@us1.vlessx.us:80?security=&type=ws&path=/?ed%3D2048&host=us1.vlessx.us&encryption=none#%E6%9C%AA%E7%9F%A5_0508231110
+vless://5b2b9a07-9038-4c19-9a8e-59646e571efa@104.21.45.181:8443?security=tls&sni=finex.salarvand.org&type=ws#%E6%9C%AA%E7%9F%A5_0508231111

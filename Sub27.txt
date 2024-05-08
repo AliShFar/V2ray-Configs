@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-directvpn@18.153.223.103:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Kian-5054
-trojan://telegram-id-directvpn@18.158.31.112:22222?security=tls&sni=trojan.burgerip.co.uk#4Kian-5055
-trojan://telegram-id-directvpn@18.170.149.165:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#4Kian-5056
-trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5057
-trojan://telegram-id-directvpn@18.217.125.44:22222?security=tls&sni=trojan.burgerip.co.uk#4Kian-5058
-trojan://telegram-id-directvpn@18.220.3.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5059
-trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5060
-trojan://telegram-id-directvpn@3.10.194.42:22222?security=tls&sni=trojan.burgerip.co.uk#4Kian-5061
-trojan://telegram-id-directvpn@3.11.169.54:22222?security=tls&sni=trojan.burgerip.co.uk#4Kian-5062
-trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5063
-trojan://telegram-id-directvpn@3.136.24.239:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#4Kian-5064
-trojan://telegram-id-directvpn@3.136.24.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5065
-trojan://telegram-id-directvpn@3.136.24.239:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5066
-trojan://telegram-id-directvpn@3.136.24.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Kian-5067
 trojan://telegram-id-directvpn@3.140.52.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5068
 trojan://telegram-id-directvpn@3.140.52.242:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Kian-5069
 trojan://telegram-id-directvpn@3.141.130.47:22222?type=tcp&sni=trojan.burgerip.co.uk#4Kian-5070
@@ -603,3 +589,17 @@ vless://0f706d06-85b6-4e85-a954-63da05f79760@140.99.233.8:80?type=ws&host=m.spee
 vless://0f706d06-85b6-4e85-a954-63da05f79760@188.164.158.108:80?security=none&type=ws&host=m.speedur.site&path=%2Fspeed#4Kian-5651
 vless://0f706d06-85b6-4e85-a954-63da05f79760@188.164.158.3:80?security=none&type=ws&host=m.speedur.site&path=%2Fspeed#4Kian-5652
 vless://0f706d06-85b6-4e85-a954-63da05f79760@188.164.159.93:80?security=none&type=ws&host=m.speedur.site&path=%2Fspeed#4Kian-5653
+vless://0f737293-71ce-4ccd-9ba7-1fb7f7a499ed@5.199.136.180:20601?security=tls&sni=a2.mgtoken.net&type=ws&path=%2F&fp=randomized#4Kian-5654
+vless://0f8eab4c-4d27-44fa-bf1f-21d2dd787d74@trojan.wefuckgfw.ga:2586?encryption=none&security=tls&type=kcp&headerType=wechat-video&seed=wIgMD0us#4Kian-5655
+vless://0fb7a7c5-b82a-49ba-89a8-fc2e3f213a35@94.228.169.211:10565?type=grpc&encryption=none&sni=aws.amazon.com&fp=chrome&security=reality&pbk=NLmLDtMcz9aKs3JXtuM0O3hw_4d7r4eEULHlezwLRG0&sid=ea05036f#4Kian-5656
+vless://0fc6e6f1-a0d7-4754-88cf-0310e695502f@104.21.3.56:443?security=tls&sni=YUshikVpN-Iran-wWW.lmlVDwc.wOrkErs.Dev&type=ws&host=YusHIkvpn-iraN-wwW.LmLvdwc.WORKERS.DeV&path=%2FaeEV5Zl6c-51bAk4%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#4Kian-5657
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.228:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2F%3Fed%3D2048#4Kian-5658
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.64.162.251:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#4Kian-5659
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.64.167.76:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#4Kian-5660
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.64.175.101:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#4Kian-5661
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.66.1.113:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#4Kian-5662
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.67.134.218:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2F%3Fed%3D2048#4Kian-5663
+vless://102e76a5-0f4c-4d71-b018-a76985e4617b@104.21.8.238:2087?path=/vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=hamedmrx.kijenov996.workers.dev&fp=edge&type=ws&sni=hamedmrx.kijenov996.workers.dev#4Kian-5664
+vless://102e76a5-0f4c-4d71-b018-a76985e4617b@104.21.8.238:2087?security=tls&sni=hamedmrx.kijenov996.workers.dev&type=ws&host=hamedmrx.kijenov996.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#4Kian-5665
+vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443?security=tls&sni=famil-5c8.pages.dev&type=ws&host=famil-5c8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#4Kian-5666
+vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.47.201:443?security=tls&sni=famil-5c8.pages.dev&type=ws&host=famil-5c8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#4Kian-5667
