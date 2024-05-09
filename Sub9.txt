@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.44.123:443?encryption=none&type=ws&host=pardazesh8.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazesh8.pages.dev#%E7%BE%8E%E5%9B%BD_0509232695
+vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.47.133:443?encryption=none&type=ws&host=pardazesh8.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazesh8.pages.dev#%E7%BE%8E%E5%9B%BD_0509232696
 vless://4e1208fc-0610-47e3-8258-33f2186cfefe@172.66.44.148:443?encryption=none&type=ws&host=pardazesh7.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazesh7.pages.dev#%E7%BE%8E%E5%9B%BD_0509232697
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@amiralter.pages.dev:443?encryption=none&type=ws&host=amiralter.pages.dev&path=By-%40Amir_Alternative_Official&security=tls&sni=amiralter.pages.dev&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD_0509232699
 vless://33df8732-151a-424d-9d02-001d4e47f951@esetsecuritylicense15.pages.dev:443?encryption=none&type=ws&host=esetsecuritylicense15.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=esetsecuritylicense15.pages.dev#%E7%BE%8E%E5%9B%BD_0509232704
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNDUuMjM5LjEuMTAwOjgwODA=#%E6%B3%95%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQ5LjIwMi44Mi4xNzI6NTYwMA==#%E6%B3%95%E5%9B%BD_121320024
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQ5LjIwMi44Mi4xNzI6NTYwMQ==#%E6%B3%95%E5%9B%BD_121320025
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE0OS4yMDIuODIuMTcyOjgxMTg=#%E6%B3%95%E5%9B%BD_121320026
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE0OS4yMDIuODIuMTcyOjY2OTc=#%E6%B3%95%E5%9B%BD_121320027
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE0OS4yMDIuODIuMTcyOjczMDY=#%E6%B3%95%E5%9B%BD_121320028
