@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0509131664
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0509131665
 vless://955fdd46-8d1b-4891-a379-1c1c5066c85d@104.21.20.45:443?security=tls&sni=nl1-vless.sshmax.xyz&type=ws&host=nl1-vless.sshmax.xyz&path=/vless#%E6%9C%AA%E7%9F%A5_0509131666
 vless://95faeb0c-2eaf-4a76-9a30-0db9efd9ab51@104.21.63.142:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#%E6%9C%AA%E7%9F%A5_0509131667
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:2083?security=tls&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fahmedquran19.xyz%2Fcurrent_time&fp=chrome&alpn=http%2F1.1#%E6%9C%AA%E7%9F%A5_0509131668
@@ -601,5 +603,3 @@ vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.31.16.162:2083?security=tls&sni
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#%E6%9C%AA%E7%9F%A5_050913221
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#%E6%9C%AA%E7%9F%A5_050913222
 vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#%E6%9C%AA%E7%9F%A5_050913223
-vless://12e9debb-5f13-4981-b600-073f5e9307c9@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Sky1.bbv2ry.pics&path=%2F&security=tls&sni=Sky1.bbv2ry.pics&type=ws#%E6%9C%AA%E7%9F%A5_050913224
-vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@104.21.40.63:443?encryption=none&host=thorianite.toptechnonews.com&path=%2Fnimws&security=tls&sni=thorianite.toptechnonews.com&type=ws#%E6%9C%AA%E7%9F%A5_050913225
