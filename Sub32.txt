@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://ea21f8b9-24af-4e97-a98b-f0873d78eddd@104.17.169.114:80?encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&type=ws#4Sarina-7896
 vless://ea21f8b9-24af-4e97-a98b-f0873d78eddd@104.17.169.114:80?host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024&security=none&type=ws#4Sarina-7897
 vless://ea21f8b9-24af-4e97-a98b-f0873d78eddd@104.17.169.114:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none#4Sarina-7898
 vless://ea21f8b9-24af-4e97-a98b-f0873d78eddd@bia-to2.unlimiteddev.site.:80?host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048&security=none&type=ws#4Sarina-7899
@@ -603,3 +602,4 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjQzLjI0MCIsICJhaWQiOiAiMCIsICJob3N0IjogIm9zYWthLnhs
 vmess://eyJhZGQiOiAiMTA0LjE5LjQzLjI0MCIsICJhaWQiOiAwLCAiaG9zdCI6ICJvc2FrYS54bGI4LmV1Lm9yZyIsICJpZCI6ICJjMDQ1M2ExNi02N2U5LTRlYWItYmRjOS1iOTYyNGFkNmJkMjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICI0U2FyaW5hLTg0OTMiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8ifQ==
 vmess://eyJhZGQiOiAiMTA0LjE5LjQzLjI0MyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJjMDQ1M2ExNi02N2U5LTRlYWItYmRjOS1iOTYyNGFkNmJkMjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIjRTYXJpbmEtODQ5NCIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMTA0LjE5LjQzLjI0MyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiNFNhcmluYS04NDk1IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
+vmess://eyJhZGQiOiAiMTA0LjE5LjQzLjI0NCIsICJhaWQiOiAiMCIsICJob3N0IjogIm9zYWthLnhsYjguZXUub3JnIiwgImlkIjogImMwNDUzYTE2LTY3ZTktNGVhYi1iZGM5LWI5NjI0YWQ2YmQyOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiNFNhcmluYS04NDk2IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9

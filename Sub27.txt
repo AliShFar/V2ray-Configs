@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-directvpn@52.60.84.99:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-4896
 trojan://telegram-id-directvpn@54.201.233.102:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-4897
 trojan://telegram-id-directvpn@54.201.233.102:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Sarina-4898
 trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#4Sarina-4899
@@ -603,3 +602,4 @@ vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.130.234:443?security=tls&sn
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.133.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=%2F#4Sarina-5493
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.134.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=%2F#4Sarina-5494
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.136.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=%2F#4Sarina-5495
+vless://1da545b0-2395-4d5c-abe8-8aee6671c859@198.41.209.216:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=Path%2FTelegram%40NETMelliAnti%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#4Sarina-5496

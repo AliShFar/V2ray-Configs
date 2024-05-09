@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a61ef647-36c6-40c1-8fff-a3a65e473c7a@www.footyfull.com:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=proxy.ir-notting-hill.com&fp=chrome&type=ws&sni=p30download.ir-notting-hill.com#%E7%BE%8E%E5%9B%BD_0509181719
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0509181720
 vless://a646b695-f10c-42ef-8288-9021ded98927@172.67.81.238:8080?security=&type=ws&path=@v2box&host=v2box.aaaaa1.sbs&encryption=none#%E7%BE%8E%E5%9B%BD_0509181721
 vless://a6e6cd6b-a508-40ce-cccf-2d4750f95ec1@45.159.217.97:8080?security=none&type=ws&host=Daily-Configs-Join.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0509181722
@@ -603,3 +602,4 @@ vless://0f197c3a-7485-42d0-ad8d-051c9eaeebfb@172.64.153.205:8443?encryption=none
 vless://e2354c39-9bab-4517-a06a-19030bd5b81f@172.67.157.151:443?encryption=none&type=grpc&security=tls&sni=troll.ankitfa.ir&alpn=http%2F1.1%2Ch2#%E7%BE%8E%E5%9B%BD_0509182929
 vless://b95b6365-4d1f-43aa-e00a-6e9eaf27926a@172.64.141.33:8443?encryption=none&type=grpc&serviceName=%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia%2C%40v2pedia&security=tls&sni=storevv7.v2logy.ir&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0509182930
 vless://3d1438c8-be71-4af9-8c1b-51ad64264d2c@190.93.244.138:8080?encryption=none&type=ws&host=hi-hi.v2raxx.shop&path=%2F#%E7%BE%8E%E5%9B%BD_0509182931
+vless://28e715c2-9d4c-4f29-af65-cc44e303a240@172.67.148.6:2095?encryption=none&type=ws&host=hello-world-calm-wind-eb4f.hassane69m.workers.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0509182932

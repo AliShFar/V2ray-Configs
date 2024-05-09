@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://2fadf1dc-f401-4225-ac95-da030118eaef@falungong.19890604.day:10823?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#4Sarina-3696
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xibaozi.19890604.day:10850?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#4Sarina-3697
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xijinping.19890604.day:10813?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#4Sarina-3698
 trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xijinping.19890604.day:10817?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#4Sarina-3699
@@ -603,3 +602,4 @@ trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer
 trojan://KYAawE5EGp@45.63.106.86:39277?type=tcp&allowInsecure=1#4Sarina-4293
 trojan://LESPXZbu6LoC@13.125.197.151:12629?allowInsecure=0&sni=appsvs.shop#4Sarina-4294
 trojan://LESPXZbu6LoC@13.125.197.151:12629?allowInsecure=1&sni=appsvs.shop#4Sarina-4295
+trojan://LESPXZbu6LoC@13.125.197.151:12629?sni=appsvs.shop#4Sarina-4296
