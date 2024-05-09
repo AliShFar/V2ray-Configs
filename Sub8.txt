@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@144.24.206.147:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#%E6%B3%95%E5%9B%BD_050908088
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@89.168.48.239:443?security=tls&flow=xtls-rprx-vision&sni=b-29fr3-296bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#%E6%B3%95%E5%9B%BD_050908089
 vless://a46a732f-5488-4f73-b040-9297ba7d1351@141.95.162.118:82?security=none&type=tcp&host=www.speedtest.net&headerType=http#%E6%B3%95%E5%9B%BD_050908090
 vless://abde5060-ce81-4ca2-b688-d7e4ac2aebb7@94.131.9.201:80?type=tcp#%E6%B3%95%E5%9B%BD_050908091
@@ -603,3 +602,4 @@ vless://372f2713-64d8-4f11-8fed-aa709638c02b@172.66.47.63:443?security=tls&sni=p
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?encryption=none&fp=randomized&host=pardazeshvpn-tg3.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws#%E7%BE%8E%E5%9B%BD_050908115
 vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@172.67.185.6:443?security=tls&sni=freedom11.fmnxmt.workers.dev&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD_0509081150
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@216.116.134.227:443?security=tls&sni=lmn59.sbs&type=ws&path=/fflsws&host=lmn59.sbs&encryption=none#%E7%BE%8E%E5%9B%BD_0509081151
+vless://37b09f89-e52a-42ba-9ff4-c885355f2940@172.67.204.84:80?encryption=none&security=none&type=ws&host=11332274633.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0509081152

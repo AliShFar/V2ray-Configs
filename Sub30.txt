@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.93:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Nika-6560
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.67.215.2:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#4Nika-6561
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.5.223:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Nika-6562
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.254.66.75:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Nika-6563
@@ -603,3 +602,4 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&sni
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@188.114.97.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=bia-PAin-baChE.PaGEs.dev&path=%2F7CJZ3UQqgT5csLy0%3Fed%3D2560&security=tls&sni=bia-PAIn-Bache.PAGES.DEV&type=ws#4Nika-7157
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@188.114.97.3:443?path=/7CJZ3UQqgT5csLy0?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bia-PAin-baChE.PaGEs.dev&fp=randomized&type=ws&sni=bia-PAIn-Bache.PAGES.DEV#4Nika-7158
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@188.114.97.3:443?security=tls&sni=bia-PAIn-Bache.PAGES.DEV&type=ws&host=bia-PAin-baChE.PaGEs.dev&path=%2F7CJZ3UQqgT5csLy0%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#4Nika-7159
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&path=%2F&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#4Nika-7160

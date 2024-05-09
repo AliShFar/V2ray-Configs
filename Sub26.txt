@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://6x8HcghsjS@103.214.68.57:10003?allowInsecure=1&sni=yes998.chickenkiller.com#4Nika-4160
 trojan://6x8HcghsjS@103.214.68.57:10003?security=tls&sni=yes998.chickenkiller.com#4Nika-4161
 trojan://70eb38a6-673c-4877-bceb-dbe6369fa210@95.164.46.235:443?security=tls#4Nika-4162
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#4Nika-4163
@@ -603,3 +602,4 @@ trojan://cd7239af-77ad-4628-a871-00acfa219f02@38.150.12.187:56385?security=tls&s
 trojan://cd7239af-77ad-4628-a871-00acfa219f02@38.150.12.187:56388?security=tls&sni=ip0axv1bbsu02k7-ar.1ytnode.com&type=tcp&allowInsecure=1#4Nika-4757
 trojan://cd7239af-77ad-4628-a871-00acfa219f02@38.150.12.187:56389?security=tls&sni=ip0axv1bbsu02k7-ar.1ytnode.com&type=tcp&allowInsecure=1#4Nika-4758
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443?security=tls&sni=jobscareerforstudent.com#4Nika-4759
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#4Nika-4760

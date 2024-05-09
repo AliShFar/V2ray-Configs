@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f733dae2-cab1-4f43-ac78-809ddfc2136b@162.159.134.234:8080?encryption=none&host=hrtv.numall.xyz.&path=%2F&security=none&type=ws#🔗 Vauth - 4594
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vpnmarket-8bm.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=vpnmarket-8bm.pages.dev&type=ws#🔗 Vauth - 4595
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?encryption=none&fp=chrome&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#🔗 Vauth - 4596
 vless://fbe02c0b-775f-4431-8615-a9497255c876@four.felinetest.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&security=reality&sid=6f9deca7&sni=none.felinetest.site&type=tcp#🔗 Vauth - 4597
@@ -603,3 +602,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuazleWbvV8wODEwMDQ5IGdpdGh1Yi5jb20vemVu
 trojan://telegram-id-directvpn@3.70.70.199:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%7C%40DirectVPN%7C123.8%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://telegram-id-directvpn@3.71.16.246:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%7C%40DirectVPN%7C148.49%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://telegram-id-privatevpns@3.253.145.42:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AA%7C%40PrivateVPNs%7C123.26%20github.com%2Fzengfr%2Ffree-vpn-subscribe
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNGfHRn6aKR6YGTOkBaeXdfQ2hhbm5lbCBnaXRodWIuY29tL3plbmdmci9mcmVlLXZwbi1zdWJzY3JpYmUiLA0KICAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjVmNzUxYzZlLTUwYjEtNDc5Ny1iYThlLTZmZmUzMjRhMGJjZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2EuaWxvdmVzY3AuY29tIiwNCiAgInBhdGgiOiAiL3NoaXJrZXIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=

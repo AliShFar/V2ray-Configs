@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://98d93e0a-4cf8-4ee3-afaf-3a0e64b76c76@93.125.114.202:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=Uncdk8Sv8BfxzVilbQULDgfpDKqf4kIvTIeIIvPQgAA&sid=d1ebc247#🔗 Vauth - 994
 vless://d5e775de-0530-4062-a654-25dd2ba648d2@77.221.143.183:33000?security=reality&sni=www.speedtest.net&type=grpc&serviceName=b&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#🔗 Vauth - 995
 vless://d856d935-e13a-46ec-ecb9-2563f8fdaac2@85.237.223.97:29505?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn%2F%40Lax_vpn&fp=chrome&pbk=MuSjxlES-R9InFoyEzm3WLqEv7HEsTivEXy0uFP-Hj0&sid=5104b833#🔗 Vauth - 996
 vless://446df392-9de3-43f6-ebf0-8ba0f9d9f82f@38.181.70.15:443?security=reality&flow=xtls-rprx-vision&sni=446df392.com&type=tcp&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#🔗 Vauth - 997
@@ -603,3 +602,4 @@ vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?security=tls&sni
 vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.161:80?security=none&type=ws&host=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&path=%2F#🔗 Vauth - 1591
 vless://7bfc8f4b-46fa-44e0-bf0f-ad5d3c899733@188.114.99.99:443?security=tls&sni=simorgh.hideandsurf.com&type=ws&host=simorgh.hideandsurf.com&path=%2FBamdadSepid%40Happy_Bam%3Fed%3D2560&fp=chrome&alpn=http/1.1#🔗 Vauth - 1592
 vless://12ac0ca9-c8eb-49fe-a5d7-7238a5620f48@172.67.154.193:2083?security=tls&sni=tomajsalehi.meysaam.com&type=grpc&alpn=h2,http/1.1#🔗 Vauth - 1593
+vless://9e72e6de-0250-45b8-977f-f62435c35454@104.17.182.38:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔗 Vauth - 1594

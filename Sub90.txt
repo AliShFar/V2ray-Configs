@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f99961e6-8fd2-4f6c-8d79-41781b9ae9e0@185.146.173.59:2086?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 vless://9/nGXFBa59hbCO2SHc6i1wMvJjp45OzFxCsSmWIaD/YvrErx/yV9wY45JAeKBhHC0hvyhaLG99sykBXbL1D7EgBM/ycIXANefM78Fykz1CYAwLwXiNrcAAUIJ313/wKCnC6fTv71tfk7mjZVmmsKYQN9AyO48wDK0ulxUGP75O4hCe5/2mHyuiqqvC7KJy8OpHGcFufNe/PaZxgUANTr3eaTlHTX3no/bwoT7oDkhNwlxqgwZcIidbX9TjAWeikWVlr41f6ztHRVR90BmudtYHQU5gn4clOuTe2R3RQdQZw=ar-
 vless://3b15881b-dc97-405d-a9be-d97999bce763@castomayz.ir:33322?type=tcp&path=%2F&headerType=http&security=none#Castom-Active
 vless://4573efca-59e0-43e3-b66e-8c9c4c5b6f44@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#%40Maznet-44070-%28ALL%29
@@ -603,3 +602,4 @@ vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.48.85.170:8443?security=reality&
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#TelegramID%28%40Outline_Vpn%29+744
 vless://4882ab86-4383-4ce3-96dc-edde92ab7b6e@3.77.151.153:2087?encryption=none&security=reality&sni=www.tgju.org&fp=randomized&pbk=eiX6rafEOu1xTvqWtOR__vMD3UimIyb05mK_9UeqcBg&sid=e0a50eb1&spx=%2Fnews&type=grpc&serviceName=www.tgju.org&mode=multi#Kiava-T37
 vless://ff34cb72-786a-4cd1-ae37-0a1500ceb00c@66.235.200.129:8443?path=%2F&security=tls&encryption=none&host=vmessorg.xn--54qv00ez5ar77g.co&fp=chrome&type=ws&sni=vmessorg.xn--54qv00ez5ar77g.co#%40v2raying
+vless://225d8704-9e2a-47ac-893d-33cd46ed609a@172.67.73.163:8443/?type=ws&encryption=none&host=join-sho-falcunargo-uk.falcunar.uk.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=join-sho-falcunargo-uk.falcunar.uk.eu.org&fp=random#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.73.163%3A8443%20%F0%9F%93%A1%20PING-003.48-MS

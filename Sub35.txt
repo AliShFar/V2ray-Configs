@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Nika-9560
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Nika-9561
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.213:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Nika-9562
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.215:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Nika-9563
@@ -603,3 +602,4 @@ vless://f6ffd21d-d9b1-4a9e-be0b-230b0483d432@104.21.75.79:443?security=tls&sni=u
 vless://f71fa550-fe5d-444e-917e-6bdf9c644a24@cdn1.cachexy.cf:80?security=&type=ws&path=/&host=hk1.rtacg.com&encryption=none#4Nika-10157
 vless://f733dae2-cab1-4f43-ac78-809ddfc2136b@162.159.134.234:8080?encryption=none&host=hrtv.numall.xyz.&path=%2F&security=none&type=ws#4Nika-10158
 vless://f733dae2-cab1-4f43-ac78-809ddfc2136b@162.159.134.234:8080?path=/&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#4Nika-10159
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@103.184.44.62:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#4Nika-10160

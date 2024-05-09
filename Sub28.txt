@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://your_password@15.220.240.255:443?security=tls&sni=aws-th-bkk-1.f1rocketnode.com&type=tcp#4Nika-5360
 trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp#4Nika-5361
 trojan://your_password@16.163.157.177:443?security=tls&sni=aws-hk-1.f1rocketnode.com&type=tcp#4Nika-5362
 trojan://your_password@16.171.12.136:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&type=tcp#4Nika-5363
@@ -603,3 +602,4 @@ vless://228cf460-bb52-4810-b523-e4c0f51f71dd@104.21.42.117:2087?security=tls&sni
 vless://228cf460-bb52-4810-b523-e4c0f51f71dd@172.67.161.215:2087?security=tls&sni=uciran66.wogofis519.workers.dev&type=ws&host=uciran66.wogofis519.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#4Nika-5957
 vless://229a5b17-d8ce-46b9-ae4a-28a64c8c0ebf@172.66.213.5:2095?security=none&type=ws&host=3.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2FTelegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ-Telegram-vpnWEDBAZ%3Fed%3D2048#4Nika-5958
 vless://229b691c-4b01-4ae0-a5d1-73faf24b98f3@104.21.0.156:443?security=tls&sni=freedom10.zsqelfc.workers.dev&type=ws&host=freedom10.zsqelfc.workers.dev&path=%2F&fp=chrome#4Nika-5959
+vless://229b691c-4b01-4ae0-a5d1-73faf24b98f3@172.67.151.65:443?security=tls&sni=freedom10.zsqelfc.workers.dev&type=ws&host=freedom10.zsqelfc.workers.dev&path=%2F&fp=chrome#4Nika-5960

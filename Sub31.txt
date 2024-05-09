@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&path=%2F&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#4Nika-7160
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&path=TELEGRAM-PROXY_MTM%2F%3Fed%3D2048&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#4Nika-7161
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#4Nika-7162
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?encryption=none&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&alpn=http%2F1.1&type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&path=%2F#4Nika-7163
@@ -603,3 +602,4 @@ vless://76ddddd8-f35f-42ab-c7e6-03a585ff8ff7@104.21.67.173:2087?security=tls&sni
 vless://76ddddd8-f35f-42ab-c7e6-03a585ff8ff7@172.67.178.254:2087?security=tls&sni=u2.dailybodymind.com&type=grpc&serviceName=u2.dailybodymind.com&fp=chrome#4Nika-7757
 vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?security=none&type=ws&host=falcunargo.e806e7c5e1.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#4Nika-7758
 vless://773030b0-087e-46d5-cb56-9a1ea055baac@185.146.173.32:8080?security=none&type=ws&host=v2rayfast_7.xn--78-pv2cvta065cac9302fea377a148g.website.&path=%2FV2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7#4Nika-7759
+vless://773030b0-087e-46d5-cb56-9a1ea055baac@188.114.98.224:8080?security=none&type=ws&host=v2rayfast_7.xn--78-pv2cvta065cac9302fea377a148g.website.&path=%2F%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AST_7%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AST_7%562RAY%46AS%54_7%562RAY%46AS%54_7%562RAY%46AS%54_7#4Nika-7760

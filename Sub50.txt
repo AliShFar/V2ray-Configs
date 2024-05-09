@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://4d5a4834-5c9e-4eaa-830a-057c7fc5b1ba@172.67.199.79:80?security=none&type=ws&host=lv1-vless.sshmax.xyz&path=%2Fvless#🔗 Vauth - 3994
 vless://12ac0ca9-c8eb-49fe-a5d7-7238a5620f48@104.18.12.130:2083?security=tls&sni=%6B%69%6C%69%64%73%74%6F%72.meysaam.com&type=grpc&alpn=h2,http/1.1#🔗 Vauth - 3995
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2082?security=none&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 3996
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@104.16.155.8:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔗 Vauth - 3997
@@ -603,3 +602,4 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?alpn=h2%2Chttp%2
 vless://9a70897a-1996-4616-a724-08b9ff4fa9da@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#🔗 Vauth - 4591
 vless://e5586a31-9c71-4c6f-acf7-9324cfd3cba9@185.146.173.185:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#🔗 Vauth - 4592
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=BIA-paIN-bAcHe.PAGeS.DEV&path=%2FsFZQZZqpGa0nQ6jR%3Fed%3D2560&security=tls&sni=BIa-PAiN-BAChe.PAGeS.dev&type=ws#🔗 Vauth - 4593
+vless://f733dae2-cab1-4f43-ac78-809ddfc2136b@162.159.134.234:8080?encryption=none&host=hrtv.numall.xyz.&path=%2F&security=none&type=ws#🔗 Vauth - 4594
