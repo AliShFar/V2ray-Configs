@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://26362658-bb48-4f67-b2e2-4146838fa061@104.168.107.230:9795?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yoast.com&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918131
-vless://286f5055-3697-4be2-bba9-4559f74fee31@104.168.107.230:9942?encryption=none&flow=xtls-rprx-vision&security=reality&sni=linuxfoundation.org&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918132
-vless://3120e47c-1e84-4503-b2a3-07d345134f0b@104.168.107.230:4212?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poynter.org&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918133
-vless://3320648e-1158-4271-bdaf-a58a44464d33@104.168.107.230:4342?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.who.int&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918134
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@168.138.70.29:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918135
-vless://39a39a60-1c96-4e46-baef-c2c3d838fd85@104.168.107.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918136
-vless://3a24e874-fd41-4bc6-a527-f736a8a8fa52@104.168.107.230:6280?security=reality&flow=xtls-rprx-vision&sni=res.cloudinary.com&type=tcp&fp=chrome&pbk=ruUrCJCRG-KwiKpQpY8t1qrkieKNq2EmtkCaYNs9qF4&sid=37c28cc82cfa8133#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918137
 vless://3b136cb2-cab2-4ac6-b83e-14e5447a3f19@104.168.107.230:7970?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tandfonline.com&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918138
 vless://41b6b61f-8c4c-4b67-bd8a-81eddd25437f@104.168.107.230:8339?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sedo.com&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918139
 vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?security=tls&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&type=ws&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&path=%2F#%E5%8A%A0%E6%8B%BF%E5%A4%A7_050918140
@@ -603,3 +596,10 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.34.121:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.213.204:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181126
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.23.5:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181127
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.23.9:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#%E6%9C%AA%E7%9F%A5_0509181128
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.38.15:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181129
+vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@discord.gg:2095?encryption=none&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&type=ws#%E6%9C%AA%E7%9F%A5_050918113
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.41.94:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181130
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.48.126:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181131
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.61.136:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181132
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.63.192:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181133
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.63.1:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181134
