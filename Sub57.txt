@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://9c5ab0bf-2920-4275-a0a8-2855a4c73485@kanal.zedmodeon.lat:2053?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@ZEDMODEON&sni=chn2.zedmodeon.lat#%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://7955471e-b1fb-43d7-bee0-9f6e15b59f6d@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=GJfz-ahfNkhXniM2X8HC1H7MHLzer6dMII_04TvvABI&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=3b2d21ef#ipv6-2+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@pardazeshvpn-tg20.pages.dev:443?encryption=none&security=tls&sni=pardazeshvpn-tg20.pages.dev&fp=randomized&type=ws&host=pardazeshvpn-tg20.pages.dev&path=%2F#t.me%2Fv2Line%20%7C%20%281472%29%20DE
 vless://1f6ed325-6f8b-40cb-83df-524b2196f788@maz.maznet.cfd:2083?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join20.maznet.cfd&fp=chrome&type=ws&sni=join20.maznet.cfd#%40Maznet-41998%28MTN%29
@@ -602,4 +603,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&encry
 vless://008dba6e-7a4f-45c8-a410-c571f43a7d05@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=garywelch.pages.dev&fp=randomized&type=ws&sni=garywelch.pages.dev#TelegramID%28%40Outline_Vpn%29+750
 vless://cbbaaca-baac-acab-bdca-caabbcbacbca@127.0.0.1:8080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@162.159.8.55:2083?path=Path%2F%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=u6Zghn5ZytArEt4S838Q76kqGd9mN61uflu53560xV8NmU68Gd7Q25Y3PX.pAges.DEv&fp=chrome&type=ws&sni=u6Zghn5ZytArEt4S838Q76kqGd9mN61uflu53560xV8NmU68Gd7Q25Y3PX.pAges.DEv#%40LOCKEY_VPN
-vless://Parsashonam-10@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#%40Gp_Config%20%F0%9F%91%88%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86

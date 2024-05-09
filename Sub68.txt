@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%40appsooner+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%F0%9F%87%A8%F0%9F%87%A6
 vless://a0af155d-1f7d-452d-f670-1bba05887068@discord.gg:443/?type=grpc&serviceName=%40ph_onex%2C%40ph_onex%2C%40ph_onex%2C%40ph_onex%2C%40ph_onex%2C%40ph_onex%2C%40ph_onex%2C%40ph_onex&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=viphonex.bnfastxlxo.shop#%40ph_onex-%3C%3D%3Dfree
 vless://834ba8c5-a6a2-482f-b9f9-97bb86e52904@1bdf3e45.mahdiserver-3kd.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1bdf3e45.mahdiserver-3kd.pages.dev&fp=randomized&type=ws&sni=1bdf3e45.mahdiserver-3kd.pages.dev#Telegram%28%40Outline_Vpn%29+330
 vless://10a%33b0b%65-7d%37f-4%309a-%62ecc%2d25f%348ba%6246a%66@185.146.173.59:8080?Telegram=@V2RayTz,@V2RayTz&path=/&security=none&encryption=none&host=hah%61ha.%73erv%65rne%74.fu%6e.&type=ws#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+irancell+%2C+Rightel+%7C+27803
@@ -602,4 +603,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed&sec
 vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@kitab.fun:80?path=Telegram+%40v2rayng_ribvar&security=none&encryption=none&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%E2%9C%8C%EF%B8%8F%F0%9F%94%B0+%40v2rayNG_ribvar+%F0%9F%94
 vless://222e658d-e5bd-417f-9f56-2ecedd3a59db@zula.ir:80/?type=ws&path=@HAJIMAMADVPN&host=hajimamad-channel-join-sho.golden-ping.ir&security=none#FREE%40v2ray_one1
 vless://cffc6c64-e0d1-42db-b428-d3ba838c4cba@dnschecker.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=fm.irandtehran.org#TLS+2
-vless://75a747f3-f914-47dd-af5c-ec2f0a1438a6@91.107.181.102:29790?mode=gun&security=reality&encryption=none&pbk=gHpgh7fQoB9kzze4I6Pwvo8sXiAPIbja2ieX03dVjkE&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=1bd52d06#t.me/kralvpn

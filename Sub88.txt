@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://52de3fa6-1673-4918-a90d-21d2b69de98e@188.114.96.182:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=eb8c0c64.888766.pages.dev&type=ws&sni=eb8c0c64.888766.pages.dev#%F0%9F%A5%A8+%40Moft_Vpn+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?path=telegram-channel-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.81.238:443?path=%2FMr6wzC2rxRWBtLTlTL&security=tls&encryption=none&alpn=http/1.1&host=hdfy4c2.iraniancpi.uk&fp=chrome&type=ws&sni=hdfy4c2.iraniancpi.uk#%40chatkonvaslshim%F0%9F%92%96Mci
 vless://d26a5d14-c790-4a53-b7ae-67f728120207@Rxteam.live:8080?path=%2F&security=none&encryption=none&host=111.storeplus2.shop&type=ws#%40vpn_Storm
@@ -602,4 +603,3 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?path=%2F%3Fed%3D20
 vless://join--ZEDMODEON@185.146.173.94:2095?security=&type=ws&path=join-ZEDMODEON-bia-ZEDMODEON-join-ZEDMODEON&host=bia-zedmodeonjoin-zedmodeon.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&encryption=none#@Shahbaaba%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://041f429a-63f5-4af1-a492-8cbff5797b8a@falcunar.uk.eu.org:443?path=%2Fvless&security=tls&encryption=none&type=ws#%40Prim_VPN+%5Bfree%5D
 vless://047fc688-3374-4dca-ab3d-d90ef410dcbb@159.223.209.183:443?mode=gun&security=reality&encryption=none&pbk=ziJriPZAUrxeMSdzpvkA0ZUxa_gO-RAd7miftqhbfkc&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.cloudflare.com&sid=b4ec3caf#Reality+2
-vless://b335174b-92de-4371-9f4a-ece30fb9dfe7@45.77.62.200:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=RWGzI58xt_v4oM2zkb7FpWg8dw4bSHDU1bi9a-QtGRI&sid=5fe770ea625c187c#REALITY%7C%40FREECONFIGV2%7C%F0%9F%98%84

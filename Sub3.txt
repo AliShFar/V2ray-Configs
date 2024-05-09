@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.48.126:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181131
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.61.136:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181132
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.63.192:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181133
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.63.1:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#%E6%9C%AA%E7%9F%A5_0509181134
 vless://2dafa27b-898b-4eb2-bbc4-6a1bbc27639b@104.19.219.113:443?security=tls&sni=bb.limoo.online&type=ws&host=bb.limoo.online&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0509181135
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.20.5.172:80?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0509181136
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@162.159.252.60:80?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0509181137
@@ -599,7 +603,3 @@ vless://804d9b6d-741a-4bb4-aa52-e36b7f7be0cb@104.21.16.153:443?security=tls&sni=
 vless://80d7094c-619b-4208-b844-05861a1c7439@104.21.26.245:443?security=tls&sni=eXpreSSvPNFrEE021.sADrAFARoKhi3333.wOrKeRs.dev&type=ws&host=ExPrESsVPNFREe021.SADrafAroKHi3333.woRKERs.Dev&path=%2FVbPMX1cFskR6m_C-%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0509181674
 vless://81de2141-f725-429e-a021-a8ffc979826d@104.18.14.19:80?security=none&type=ws&host=taste-companies-continues-registrar.trycloudflare.com&path=81de2141#%E6%9C%AA%E7%9F%A5_0509181675
 vless://81de2141-f725-429e-a021-a8ffc979826d@104.18.15.19:80?security=none&type=ws&host=taste-companies-continues-registrar.trycloudflare.com&path=81de2141#%E6%9C%AA%E7%9F%A5_0509181676
-vless://820df009-bb48-4762-8025-58ba0c902db7@104.21.75.237:443?security=tls&sni=Ht-P-S-t-Me-V2ray-4e21.jOiN-pRivAtE.Ir&type=grpc&serviceName=%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0509181677
-vless://824692f2-0372-4556-8437-8916415ba535@104.21.44.68:8443?security=tls&sni=propanell2.followerarzon.ir&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=2053vless&encryption=none#%E6%9C%AA%E7%9F%A5_0509181678
-vless://826cf6fb-923a-4d46-80d8-2a77b8d52a8e@104.21.67.173:2083?security=tls&sni=g2.dailybodymind.com&type=grpc&serviceName=g2.dailybodymind.com&fp=chrome#%E6%9C%AA%E7%9F%A5_0509181679
-vless://f019fcd3-d236-4669-834e-b6040cee6c57@check-host.net:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=random&host=haha.servernet.cfd&path=%2F&security=tls&sni=haha.servernet.cfd&type=ws#%E6%9C%AA%E7%9F%A5_050918168

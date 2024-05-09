@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://77cacf2f-abf9-4de9-a9fe-c8dbe1d93445@31.214.168.228:29564?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍛
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40webovpn%F0%9F%87%BA%F0%9F%87%B8
 vless://7fdaf33f-00a0-4331-8668-813c7f0f0cb2@49.13.225.84:443?security=none&encryption=none&headerType=none&type=tcp#%40v2rayngvpn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.242.254:22222/?type=ws&encryption=none&flow=&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk#%40Freeconfigv2%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%297
@@ -602,4 +603,3 @@ vless://feed264d-a3dd-41e8-a081-dd5b54902700@172.67.25.165:2087?security=tls&sni
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=current.ircp.online&type=ws&sni=current.ircp.online#%40V2ray_NG
 vless://915773aa-b54f-43b7-8206-456bb4dff914@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=%2F#%40WebShecan-27Mordad-Night
 vless://Tel---VToWRAY_NG@188.114.98.224:80?path=%2F&security=none&encryption=none&host=Reza_OFF.markazdl.ir.&type=ws#%40IRAN_V2RAY1+ALL
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@190.93.245.220:80/?type=ws&encryption=none&host=esten.free.hr&path=%2F%3Fed%3D2048#%40OpenSSTPVpn_2.8
