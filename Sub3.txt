@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://3bb98504-d50d-40ef-9999-ec94523bf422@104.21.86.162:2052?security=none&type=ws&path=%2F#%E6%9C%AA%E7%9F%A5_0509131103
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@104.21.52.195:443?security=tls&sni=teL-PpAl03.cHAyA-dURGaN.wOrKERS.dev&type=ws&host=TeL-ppAL03.ChaYa-dURgAn.wOrkErs.deV&path=%2F6uf6izt9JmCDvv0b%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0509131104
 vless://3c540792-1852-4bee-b430-79fbcd071f71@104.21.34.3:443?security=reality&sni=www.iranserver.com&type=grpc&serviceName=@VPNCUSTOMIZE&fp=firefox&pbk=55xH-tqPd6c0VZpbwlxRxhmfvp9lVUtp45CDJLpcw2I&sid=6b0541cd#%E6%9C%AA%E7%9F%A5_0509131105
 vless://3cab1c4f-eaab-43d7-b40e-24b67ea55688@104.27.96.87:443?security=tls&sni=free.proxystore11.site&type=ws&host=free.proxystore11.site&path=%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_0509131106
@@ -603,3 +602,4 @@ vless://94447ee1-76ac-4499-9b4f-06052d3f1e12@104.21.89.71:2087?security=tls&sni=
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.16.245.78:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0509131662
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.182.61:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0509131663
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0509131664
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0509131665

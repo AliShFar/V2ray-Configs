@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@104.21.40.63:443?encryption=none&host=thorianite.toptechnonews.com&path=%2Fnimws&security=tls&sni=thorianite.toptechnonews.com&type=ws#%E6%9C%AA%E7%9F%A5_050913225
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.68.38:80?encryption=none&host=ada57.cwvgq.com&path=%2Fusers%3Fed%3D2048&type=ws#%E6%9C%AA%E7%9F%A5_050913226
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@discord.gg.:80?encryption=none&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&type=ws#%E6%9C%AA%E7%9F%A5_050913227
 vless://9c9f7230-c8ff-44d2-93f2-a1febbc23767@ashcan.aurorainiceland.com:443?encryption=none&security=tls&sni=ashcan.aurorainiceland.com&type=ws&path=%2fnimws#%E6%9C%AA%E7%9F%A5_050913247
@@ -603,3 +602,4 @@ vless://3a09f4fa-bb56-44d8-b668-781c5a9a7ef2@www.SPeedtest.NeT:80?encryption=non
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@162.159.58.82:443?encryption=none&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&security=tls&sni=toujiediansigema.5112233.xyz#%E6%9C%AA%E7%9F%A5_0509134651
 vless://118584c9-858f-4689-9243-a808bde1437b@WwW.SpEeDtEsT.NeT:443?encryption=none&type=grpc&serviceName=%40Snap_Net+%2C+%40Snap_Net&security=tls&sni=radar.snapfood.space&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0509134652
 vless://5faaefc9-42d0-416f-93df-4780feaa3862@104.21.44.208:443?encryption=none&type=ws&host=join-sho-vip-programs.golabyazd.ir&path=%2F%3Fed%3D2048&security=tls&sni=join-sho-vip-programs.golabyazd.ir&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0509134654
+vless://vpn_xw@www.visa.com:2086?encryption=none&type=ws&host=mci.xn--4gq0a0fu2d74d5z7ajgm893a7c3d4tf.website.&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0509134655
