@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://8c885b80-d2cd-49c9-aa22-fbeba6a1732e@104.168.107.230:7321?encryption=none&flow=xtls-rprx-vision&security=reality&sni=placehold.it&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051013148
+vless://8e9e25f6-b025-4c15-9d5b-3ced751715f0@104.168.107.230:5144?encryption=none&flow=xtls-rprx-vision&security=reality&sni=oxfamintermon.org&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051013149
+vless://9453105f-df45-4464-a579-a7654d11ca2a@91.194.11.168:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051013150
+vless://9453105f-df45-4464-a579-a7654d11ca2a@91.194.11.168:443?security=tls&flow=xtls-rprx-vision&sni=ca-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051013151
 vless://95d60086-6b2f-49c5-9529-fa6f4f2332bb@104.168.107.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051013152
 vless://9ea79dd6-fb8c-4bc2-9581-afdbabee500a@104.168.107.230:6855?encryption=none&flow=xtls-rprx-vision&security=reality&sni=squadhelp.com&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051013153
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c0@23.227.60.48:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051013154
@@ -599,7 +603,3 @@ vless://12e9debb-5f13-4981-b600-073f5e9307c9@web.bbv2ry.pics:443?alpn=http%2F1.1
 vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@104.21.40.63:443?encryption=none&host=thorianite.toptechnonews.com&path=%2Fnimws&security=tls&sni=thorianite.toptechnonews.com&type=ws#%E6%9C%AA%E7%9F%A5_051013184
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@104.18.163.116:8080?encryption=none&security=none&sni=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&fp=%E9%9A%8F%E6%9C%BA&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#%E6%9C%AA%E7%9F%A5_0510131844
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@104.17.212.196:8080?encryption=none&security=none&sni=king1980.b91sptsl.workers.dev&fp=randomized&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0510131845
-vless://4038c539-a634-4666-82ed-280b4aa30d41@104.18.163.116:8080?encryption=none&security=none&sni=gaosu.myhmyhhuang1980.workers.dev&fp=randomized&type=ws&host=gaosu.myhmyhhuang1980.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0510131846
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@104.18.163.116:8080?encryption=none&security=none&sni=king1980.b91sptsl.workers.dev&fp=randomized&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0510131847
-vless://79978027-ef16-4137-b18e-905f8c18f845@104.18.163.116:8080?encryption=none&security=none&sni=cdnanycasteuorg.fjacz6xe.workers.dev&fp=%E9%9A%8F%E6%9C%BA&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0510131848
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@104.18.163.116:8080?encryption=none&security=none&sni=king1980us.50fo8itj.workers.dev&fp=randomized&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0510131849
