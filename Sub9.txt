@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.161.250:8443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F#%E7%BE%8E%E5%9B%BD_051018843
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.32:8443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=twitterfreecodes#%E7%BE%8E%E5%9B%BD_051018844
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.254.140.111:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051018845
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.185:8443?encryption=none&security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitterfreecodes#%E7%BE%8E%E5%9B%BD_051018846
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@89.116.161.138:2083?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F#%E7%BE%8E%E5%9B%BD_051018847
@@ -601,5 +603,3 @@ trojan://f2062447-50cc-4dc4-bdfe-b46082accfb0@dir01.netorigins2u.site:36501?allo
 trojan://f2062447-50cc-4dc4-bdfe-b46082accfb0@dir01.netorigins2u.site:36864?allowInsecure=0&peer=hu01.abpilot.xyz&sni=hu01.abpilot.xyz#%E6%97%A5%E6%9C%AC_121320013
 trojan://telegram-id-directvpn@51.20.102.82:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#%E6%B3%95%E5%9B%BD_121320033
 trojan://telegram-id-directvpn@35.181.201.140:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%E6%B3%95%E5%9B%BD_121320038
-trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?allowInsecure=1&sni=ftp.debian.org#%E6%B3%95%E5%9B%BD_121320056
-trojan://telegram-id-privatevpns@51.21.24.211:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%E6%B3%95%E5%9B%BD_121320079
