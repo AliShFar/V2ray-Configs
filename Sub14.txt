@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+	"random" : true,
 	"sysProxyMode" : 3,
 	"shareOverLan" : false,
 	"localPort" : 1080,
@@ -602,4 +603,3 @@ vless://e7460fe3-4a23-4937-a698-59f086687b45@bia-to.savagev2ray.site:443?encrypt
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@104.21.66.93:443?encryption=none&type=ws&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&host=v2fly.milik-fukada.eu.org&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=v2fly.milik-fukada.eu.org#139-%F0%9F%87%A8%F0%9F%87%A6CA_1744_%40Surfboardv2ray
 vless://13e706ae-0d80-45c2-8768-554ebf5d492d@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&type=ws&path=Join-Telegram-Channel-%40AstroVPN_official%2F&host=no1.v2vless.xyz&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=no1.v2vless.xyz#140-%F0%9F%87%A8%F0%9F%87%A6CA_183_%40Surfboardv2ray
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?encryption=none&type=ws&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&host=bpb-worker-panel-h5f.pages.dev&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C20-50%2C10-50&sni=bpb-worker-panel-h5f.pages.dev#141-%F0%9F%87%A8%F0%9F%87%A6CA_226_%40Surfboardv2ray
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&type=ws&path=%2F&host=e10c0e4b.oodaeq2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C10-20&sni=e10c0e4b.oodaeq2.pages.dev#142-%F0%9F%87%B3%F0%9F%87%B1NL_1568_%40Surfboardv2ray
