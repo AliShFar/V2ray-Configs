@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@sg2.jjzgy.live:443?security=tls&sni=sg2.jjzgy.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://95af4fd9-3b0a-3af6-8836-982739fed565@euro.nextloink.com:16217?security=tls&sni=eplcgame.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiJvcGhlbGlhLm1vbSIsImFpZCI6IjEiLCJob3N0Ijoib3BoZWxpYS5tb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?security=&type=ws&path=/?ed%3D2048&host=nl21.vlessx.us&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://8deeb237-5a89-41be-94b1-32734d1e59a6@104.21.94.85:2095?security=&type=ws&path=/?ed%3D2048&host=nl41.vlessx.us&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIyMy4xMDguMTAwLjEwMyIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy40MDU4NzMzMy54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9mb290ZXJzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuNDA1ODczMzMueHl6IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@13.214.161.88:443?security=tls&sni=data.amazonwebservicess.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@ip2.nofiltering2.sbs:443?security=tls&sni=lmn59.sbs&type=ws&path=/fflsws&host=lmn59.sbs&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://e5f9c753-d401-487f-a77b-1004b7f0f439@64.110.68.224:20152?security=tls&sni=13-231-155-134.nhost.00cdn.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOVhjNGRIWEd2M2M=@876.outline-vpn.cloud:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://bLYUuMKgn1aHGKID@usa8.wujie8.xyz:443?security=tls&sni=usa8.wujie8.xyz&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://7b01f853-1c72-47db-8f57-151d491b3bf9@132.145.82.200:20652?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://your_password@18.142.122.247:443?security=tls&sni=aws-sg-1.f1rocketnode.com&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://2014e8ab-f385-40e2-8c59-46b138c4c4dc@185.162.228.3:80?security=&type=ws&path=/backup&host=cDAvHA.dL-oNlInEdOcTOR.Bio&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -603,3 +591,15 @@ ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDk=
 vmess://eyJhZGQiOiIyMC4yMDUuMTExLjEwNyIsInYiOiIyIiwicHMiOiIiLCJwb3J0Ijo1MywiaWQiOiJiZjVmZTEwNC1lYmFhLTQzNjktYmI4MS00YWE2MmEzODY1MjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IllvdVR1YmUtYXdlaWtlamkiLCJwYXRoIjoiLyIsInRscyI6IiJ9
 vmess://eyJhZGQiOiI0NS40My40MS4yMjIiLCJ2IjoiMiIsInBzIjoiIiwicG9ydCI6NTQ1NDEsImlkIjoiYjdhODEzMGYtOTJlNi00ZDRmLWQwYWMtMzM2YzE2NGZlZDQ4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiI0NS40My40MS4yMjIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANzguMTI5LjI1My45OjgwOA==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxNzguNjIuMTYuMTYxOjgxMQ==
+vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiMjMuMjMwLjE0Ni4yNTQiLCJwb3J0IjoiMTI1OCIsInR5cGUiOiJub25lIiwiaWQiOiJlZGViNDFjYy1hNzZhLTQ3ZjItZmE5Ni1iOTE0MWU2NmEyYjAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6aW5zdGdyYW0uY29tL29wZW52cG5zc2g@51.38.112.84:44
+vmess://eyJhZGQiOiIyMDMuMjE4Ljg0LjEzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2N2M1MGY2YS04MTZkLTM1NTUtODliNC0xOWRkMjk2MDhmOGIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Mzk5OTksInBzIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE5My4xMDguMTE3Ljc1OjgwOTA=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw@138.197.166.205:811
+vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiMTQ2LjU2LjE1NS43MCIsInBvcnQiOiIxODA1MCIsImlkIjoiZjk3NzFjMTktYzkxYy00MWI1LTkwNjQtODc2OGI1MWNlYzZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJZb3VUdWJlLWF3ZWlrZWppIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
+vmess://eyJhZGQiOiIxMjkuMTU5LjQxLjIzMyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMzQxYTkxODItYzQyMy00OTljLWM0NmUtZDE3ODM4YjI5MDM3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjMyNTg2LCJwcyI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJhZGQiOiIxNDYuNTYuMTY3LjExOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNjQ3NzlmY2UtNjNhNS00ZmFhLWI1OWItZTRhZjQwZjRlNDE5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjY2NjYsInBzIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ssr://MTY1LjIyLjYzLjI0NTozOTg0MTpvcmlnaW46cmM0OnBsYWluOlZFaEhNbWcwUzBJMlYwdHhUVGx0VkhCaGRWRnZPVWhaUldVLw==
+vless://3a4c5a76-046b-4094-8528-f2882ed9b492@w3.org:8443?encryption=none&security=tls&sni=irancpi.cpIOnLINe.us&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=irancpi.cpIOnLINe.us&path=vless-ws%2F%3Fed%3D2048#1-irancpi.net_FreeConfig
+
