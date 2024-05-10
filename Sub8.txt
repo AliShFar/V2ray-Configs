@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0510131415
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.205.0.77:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0510131416
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@66.235.200.158:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0510131417
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0510131418
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0510131419
@@ -603,3 +601,5 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@ip.ai-app-list.buzz:8080?encryption
 vless://3a1bbcab-1713-4c27-a81b-2cd81cd0fee4@163.123.192.235:443?encryption=none&type=tcp&security=tls&sni=dcpqus04.hnkkt.com&flow=xtls-rprx-vision#%E7%BE%8E%E5%9B%BD_0510132719
 vless://ee187c79-7594-4a97-96bc-ff717c61a919@172.67.187.219:443?encryption=none&type=ws&host=yindunat.qaz.gay&path=%25...&security=tls&sni=yindunat.qaz.gay#%E7%BE%8E%E5%9B%BD_0510132720
 vless://f6b8a54f-21c9-4e92-a9b4-323f359d77df@FRAv2ray.taha-pannel.workers.dev:443?encryption=none&type=ws&host=nl1.v2vless.xyz&path=%40FRAv2ray-%40FRAv2ray%2F&security=tls&sni=nl1.v2vless.xyz#%E7%BE%8E%E5%9B%BD_0510132721
+vless://b788032a-8e11-492b-bf70-6a1358a05629@172.66.44.167:2083?encryption=none&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048&security=tls&sni=paris.prsico.ir#%E7%BE%8E%E5%9B%BD_0510132722
+vless://25423a93-0977-4439-bc10-edc73e14688c@172.66.44.127:443?encryption=none&type=ws&host=82592964.joinmahdiserver-djl.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=82592964.joinmahdiserver-djl.pages.dev#%E7%BE%8E%E5%9B%BD_0510132724
