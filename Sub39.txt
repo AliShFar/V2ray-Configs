@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.31.216.251:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔗 Vauth - 1019
-vless://cab438c4-9c5a-43fd-a623-ce81cb93085c@192.9.246.112:8443?security=tls&sni=hk.twittei.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 1020
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@150.230.47.17:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 1021
 vless://2e698174-4c93-49c3-8532-df4c46800383@198.244.190.189:443?security=tls&sni=uk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔗 Vauth - 1022
 vless://434928ec-5b3f-4c8c-b0e1-6cda5c0c6856@83.229.75.180:110?security=none&type=tcp&path=%2F&headerType=http#🔗 Vauth - 1023
@@ -603,3 +601,5 @@ vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c5@104.18.149.233:2053?security=tls&sn
 vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@104.18.202.232:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔗 Vauth - 1616
 vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@162.159.134.234:8443?security=tls&sni=ambatukamnotthatship1.v2logy.ir&type=grpc&fp=chrome&alpn=http/1.1#🔗 Vauth - 1617
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.89.99:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔗 Vauth - 1618
+vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@172.67.204.84:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔗 Vauth - 1619
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔗 Vauth - 1620

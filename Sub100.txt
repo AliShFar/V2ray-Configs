@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://4f1320dd-1900-41c6-b924-4d7be7ee1ed2@fazevpn-ns-dk291wxkdkkc939wificixiww9fceix1isx.xoxos.parisperfumeblackops.store:2088?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40FazeVPN+%7C+Test911+-+15Aban
-vless://b97cdd0e-bba9-4391-b265-b72f80b670db@dl.vds-server.ir:2052?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG3
 vless://a6136f3b-bcd5-4056-904e-81d5906ec8eb@discord.gg:80?path=Telegram%3A%40Moft_Vpn-Telegram%3A%40Moft_Vpn-Telegram%3A%40Moft_Vpn-Telegram%3A%40Moft_Vpn-Telegram%3A%40Moft_Vpn-Telegram&security=none&encryption=none&host=Moft_Vpn.xn--85-pv2cl2k5x3fipr.org.&type=ws#%40Moft_Vpn+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 vless://4cc60778-d4a1-47a6-a81a-9b6096b1342d@185.58.241.110:2610?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#@Circle_Vpn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao155.stunning-bassoon.pages.dev&type=ws&sni=baipiao155.stunning-bassoon.pages.dev#[🇨🇦]@v2sezar
@@ -603,3 +601,5 @@ vless://a0396140-0289-4f80-b1bd-4db2319f1e49@drshabi115.metishop.shop:2052?secur
 vless://c5d89dde-0cc3-4c98-b053-95fffd5be364@79.175.177.111:24669?security=none&encryption=none&headerType=none&type=tcp#%40v2naptv+%F0%9F%87%B9%F0%9F%87%B7
 vless://8d1f8810-7b11-4901-9de7-80bed2563765@5.75.203.170:443?security=none&type=ws&host=vpn-mikey.%E6%AC%A2%E8%BF%8E%E8%AE%BF%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E4%B8%AD.website.&path=/@Vpn_Mikey@Vpn_Mikey#Tel+Channel%F0%9F%91%89+configsCenter
 vless://95c9575c-24e8-4091-9eac-83d8e2fc46c1@95.38.132.124:1001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@napoliii1994
+vless://a687b7f8-53c7-486f-836f-8b10cc5e4d22@germany7---join.outline-vpn.fun:8443/?type=grpc&encryption=none&sni=expat.com&fp=chrome&security=reality&pbk=DbDzIsSo-6GqjfoqsG6lC-XnvIIXR2ALc78tT0wjt0o&sid=231d6598#@Capital_NET|MTN
+vless://d9b3134e-007e-41e0-a146-8c53977e27f5@zula.ir:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=academivpn1-bo7.pages.dev&fp=chrome&type=ws&sni=academivpn1-bo7.pages.dev#%40vless_vmess
