@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://f6621f18-ce9a-406c-b960-92473823a585@www.speedtest.net:443?encryption=none&fp=randomized&host=jamiepeck.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=jamiepeck.pages.dev&type=ws#%E6%9C%AA%E7%9F%A5_051008169
 vless://4c6ecf70-9c54-401a-bcb3-27c88d9c814a@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Sky2.bbv2ry.pics&path=%2F&security=tls&sni=Sky2.bbv2ry.pics&type=ws#%E6%9C%AA%E7%9F%A5_051008170
 vless://acc4858a-8960-4155-8006-7bc27b6ca1e4@bia-to2.unlimiteddev.site:8443?encryption=none&fp=chrome&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws#%E6%9C%AA%E7%9F%A5_051008171
 vless://acc4858a-8960-4155-8006-7bc27b6ca1e4@104.20.205.66:8443?encryption=none&fp=chrome&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws#%E6%9C%AA%E7%9F%A5_051008172
@@ -602,4 +603,3 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.162:443?encryption=none&t
 vless://a9b3ea03-e32f-432f-e9dc-f2b7ffbed7ad@dn.sonicup.lol:443?encryption=none&type=grpc&serviceName=%40afv2ray%2C%40afv2ray%2C%40afv2ray%2C%40afv2ray%2C%40afv2ray%2C%40afv2ray%2C%40afV2ray%2C%40AfV2ray%2C%40Afv2ray%2C%40afv2ray%2C%40afv2ray%2C%40afv2ray&security=tls&sni=www-2-3-4-5-0-9-8-7-6-5-1-2-3-6-1-V2ray-mci-mtn-zx1000.jonedel.com&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0510083784
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?encryption=none&type=ws&host=biA.ALlhub.LTD&path=%2F%3Fed%3D2048&security=tls&sni=Bia.alLhub.Ltd&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0510083785
 vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@104.21.0.219:2096?encryption=none&type=grpc&security=tls&sni=ss.ali767.com#%E6%9C%AA%E7%9F%A5_0510083786
-vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443?encryption=none&type=grpc&security=tls&sni=m11.takaza.buzz&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0510083787
