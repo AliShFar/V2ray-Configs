@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#4Sarina-4301
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#4Sarina-4302
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#4Sarina-4303
-trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#4Sarina-4304
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#4Sarina-4305
 trojan://97856218-c1c1-4965-ab1a-f1411d601651@gonggao02.beef1917.com:53002?security=tls&sni=niuniucloud.xyz#4Sarina-4306
 trojan://97856218-c1c1-4965-ab1a-f1411d601651@gonggao03.beef1917.com:53004?security=tls&sni=niuniucloud.xyz#4Sarina-4307
@@ -603,3 +599,7 @@ trojan://mainssh-niwrhf87@140.82.32.17:443?security=tls&sni=getgrpc.mainssh.xyz&
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#4Sarina-4898
 trojan://mainssh-opoksjhh@172.67.73.39:443?security=tls&sni=sg3tws.mainssh.xyz&allowInsecure=1&type=tcp#4Sarina-4899
 trojan://mm4NeKGdri6Z@13.125.197.151:14648?security=tls&sni=appsvs.shop#4Sarina-4900
+trojan://mnk8fd@104.21.51.9:443?security=tls&sni=aws-uae-1.f1cflined.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-uae-1.f1cflined.com#4Sarina-4901
+trojan://mnk8fd@104.21.69.52:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#4Sarina-4902
+trojan://mnk8fd@172.67.204.230:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#4Sarina-4903
+trojan://nx0o3jHEHgzR@54.238.187.179:16705?allowInsecure=0&sni=appsvs.shop#4Sarina-4904
