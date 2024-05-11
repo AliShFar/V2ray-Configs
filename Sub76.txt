@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.232:80?path=%2F&security=none&encryption=none&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 vless://7dbcf604-11b1-4f77-a1d5-1bfdb0610a94@5.75.240.193:27797/?type=grpc&encryption=none&sni=buda.rs&fp=firefox&security=reality&pbk=hvGx-te7fL52OHz0d6EJznHgSJM01QBMcItRGiq8Cx4&sid=4c226372#@Capital_NET|MCI
 vless://738c5e99-7faa-4893-81a8-4d6655adde77@5.75.216.103:443?mode=gun&security=reality&encryption=none&pbk=44pa79d1pgsXBDhuaoAorrir4k2OSTNdOuMEXFw9zXc&fp=firefox&spx=%2F&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#%40Mso_666_baz
 vless://9e67934d-c455-4fff-8e9d-ebff3e3958cd@190.93.244.170:2053?security=tls&sni=pi.1lagvpn13.cfd&type=grpc&serviceName=%40rxv2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒VL-GRPC-TLS🏴‍☠️NA-190.93.244.170:2053📡PING-005.12-MS
@@ -602,4 +603,3 @@ vless://dfc4a463-4276-4131-b81f-1140b5a698ab@all.vpncustomize.cam:443?mode=multi
 vless://7a4ae9ea-4905-4656-a8ee-3d19abd679d1@109.122.199.64:31903?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM%F0%9F%87%A9%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.68.191:443?path=path%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao343.stunning-bassoon.pages.dev&type=ws&sni=baipiao343.stunning-bassoon.pages.dev#https://t.me/VIPV2ra
 vless://V2RAXX@185.146.173.59:8880?path=%2F%40V2RAXX&security=none&encryption=none&host=xn--047h.v2raxx.SHOP.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%40V2RAXX+%C2%B2
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#Alibaba

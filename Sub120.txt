@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#👉🆔@v2ray_configs_pool
 trojan://awrudu@awrudu-gift.darkevil.buzz:443/?security=tls&type=tcp&sni=aka.ms&fp=none&alpn=http%2f1.1#DIALOGZOOM
 trojan://2a9abeb7-6f97-4d33-9069-f6e009d88455@162.159.134.105:443?security=tls&sni=jp4.pqjc.buzz&allowInsecure=1&type=tcp#@Tiny_VPN_Official
 trojan://2c92e650-91ed-11ee-ae34-1239d0255272@15.204.240.119:443/?security=tls&type=tcp&sni=m.twitter.com#Mobitel0
@@ -602,4 +603,3 @@ trojan://telegram-id-privatevpns@52.18.110.113:22222?security=tls&alpn=http/1.1&
 trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#FI-S10-UK-Trojan
 trojan://atZipLEDchHvdWCRfWQFFdtsEPUNUSVI@rxnce-1052-tr-13.sjc-r-kcd-a.nd.cjhh.mom:29949?allowInsecure=1&sni=edge.cjhh.mom#%E4%B8%AD%E5%9B%BD-4.28MB%2Fs%28V2ray_Custom%3A%E4%B8%8D%E8%89%AF%E6%9E%97%29
 trojan://telegram-id-directvpn@18.170.139.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@13.48.151.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN

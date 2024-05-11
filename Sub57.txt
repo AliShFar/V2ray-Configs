@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://5d0245cd-8412-4a32-b52c-ef810651e616@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&sni=digi--v2raycncfs.RadioTeHran.oRG#w55htswc
 vless://f013a6d9-84f4-4b53-8e4f-4e628700ff72@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=uy.foxnt-telegram-foxnt.shop#🇫🇮@v2ray_fark
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 vless://3c4f29f2-0caf-4926-a54c-5ee0c91518e9@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=garywelch.pages.dev&fp=randomized&type=ws&sni=garywelch.pages.dev#Telegram%3A+Antifilterjadid+%F0%9F%86%93%EF%B8%8F
@@ -602,4 +603,3 @@ vless://0a3b3b34-77ab-4119-8537-9a8ea5b0512c@104.17.169.114:80?path=%2FTelegram%
 vless://1c763e6c-eeb1-4f58-90f5-d11ee934f7e9@www.visa.com:2096?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=join-to-zedmodeon.zedmodeon.lat#%F0%9F%87%B3%F0%9F%87%B1+%28%40ZEDMODEON%29
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#@AntiFilterService
 vless://4cca0cbf-36c5-4466-fe18-3ede9f1e6e4a@LIGHTNING6-joinbede.mamd.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=liV2ray.z2-lightning6.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+%40V2rayNGprivate
-vless://b15da00d-0bbc-4af7-c121-7c56a5d074a9@fast7.fv7golden.site:80?path=%2FV2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7&security=none&encryption=none&host=v2rayfast_7.xn--78-pv2cvta065cac9302fea377a148g.website.&type=ws#@V2RAYNG_IP%F0%9F%87%A9%F0%9F%87%AAAll
