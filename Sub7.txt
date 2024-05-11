@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%91%9E%E5%A3%AB_051118005
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.103:80?encryption=none&type=ws&host=worker-young-cloud-07c4.mortezahamidi1300.workers.dev&path=%2F%3Fed%3D2048#%E7%91%9E%E5%A3%AB_051118006
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.212:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&sni=cfed.tgzdyz2.top#%E7%91%9E%E5%A3%AB_051118007
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%E7%91%9E%E5%A3%AB_051118008
@@ -603,3 +602,4 @@ vless://VPNCUSTOMIZE@172.66.47.74:8080?encryption=none&type=ws&host=VPNCUSTOMIZE
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.74.18:443?encryption=none&type=ws&host=ss30.wang66.homes&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&sni=ss30.wang66.homes#%E7%BE%8E%E5%9B%BD_0511182200
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.76.156:443?encryption=none&type=ws&host=ss30.wang66.homes&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&sni=ss30.wang66.homes#%E7%BE%8E%E5%9B%BD_0511182201
 vless://9cf62b73-c2bb-48d5-b97b-c73ec36b81b2@108.162.196.1:443?encryption=none&type=grpc&serviceName=%40impr0grpc&security=tls&sni=cfs.mci247.site&alpn=h2#%E7%BE%8E%E5%9B%BD_0511182202
+vless://fc884ca2-465e-4fad-b05b-c604f5125449@aliencltk.edlaghiye.com:2083?encryption=none&type=grpc&serviceName=xyz&security=tls&sni=aliencltk.edlaghiye.com&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0511182203

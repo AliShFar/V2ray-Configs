@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://-ArV2ray--ArV2ray--ArV2ray-@104.18.203.232:80?encryption=none&type=ws&host=l.l.l.l.l.l.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B781.tech&path=%2F%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0511185954
 vless://5cf680c9-470e-4593-8f0b-6e8555fdb475@104.21.45.134:443?encryption=none&type=grpc&security=tls&sni=kamy.CeWars.shop#%E6%9C%AA%E7%9F%A5_0511185956
 vless://01d3d07a-63bf-415a-907e-ce2eb72eb91c@104.21.45.134:2053?encryption=none&type=grpc&security=tls&sni=joinsevernett.numalla.top#%E6%9C%AA%E7%9F%A5_0511185958
 vless://48caea1d-1e57-4205-8dd8-dee478424f97@104.26.0.95:443?encryption=none&type=ws&host=worker-flat-block-0d02.buxzj.workers.dev&path=%2FTqE6jD0U75tHi0qg6pk11&security=tls&sni=worker-flat-block-0d02.buxzj.workers.dev&alpn=h2#%E6%9C%AA%E7%9F%A5_0511185959
@@ -603,3 +602,4 @@ vless://3bd37527-25e8-4c10-a807-e4e1be6fe311@104.18.202.232:2086?security=none&t
 vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0511187351
 vless://558681e8-c938-4cf1-9d95-d9ec3d2a1d25@104.21.74.214:8443?security=tls&sni=hahaghgh.servernet.cfd&type=grpc&fp=chrome#%E6%9C%AA%E7%9F%A5_0511187352
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.21.95.205:443?security=tls&sni=xw.r4d.workers.dev&type=ws&host=xw.r4d.workers.dev&path=Telegram-channel-v2rayng_ribvar%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0511187353
+vless://502350ae-0938-4069-9f86-cd2b631f5eb8@104.25.254.88:8443?security=tls&sni=im.jomong.space&type=grpc&serviceName=Tel%3A%20%40NT_Safe&fp=chrome#%E6%9C%AA%E7%9F%A5_0511187354
