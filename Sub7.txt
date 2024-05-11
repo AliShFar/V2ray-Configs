@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@185.146.173.58:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#%E7%91%9E%E5%85%B8_051113264
 vless://107d3a95-e17e-4931-94b9-e42cdcabb05b@185.146.173.20:80?security=none&type=ws&host=MFvh5agb49bGYkqzTHqC.dl-onLiNeDOCtOR.BIO&path=%2Fbackup#%E7%91%9E%E5%85%B8_051113265
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.146.173.59:443?security=tls&sni=E5BE193D.Mr-ArsHA-Devil.pAges.dEv&type=ws&host=E5bE193d.Mr-Arsha-devIL.PAgEs.Dev&path=%2FwKgZBlyJBp7MtUsH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E7%91%9E%E5%85%B8_051113266
 vless://7ee7e949-546e-48b6-afff-9a28157d1038@185.146.173.173:80?security=none&type=ws&host=P_V2ray.Naziitness.Com.&path=%2FV2ray.motorcycles%3Fed%3D80#%E7%91%9E%E5%85%B8_051113267
@@ -603,3 +602,4 @@ vless://d5aae20c-a7be-416e-806b-70a21ad20f52@172.67.159.193:443?encryption=none&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.155:443?encryption=none&type=ws&host=0F4c3270.vPNHAVEN.PagES.DEV&path=%2F2KyJr0JkqUQNFF3O%3Fed%3D2560&security=tls&sni=0F4c3270.vpNHAVEn.PAgEs.dEV&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0511132134
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.213.38:2087?encryption=none&type=ws&host=a.ssll.gay&path=twitterfreeco...&security=tls&sni=a.ssll.gay#%E7%BE%8E%E5%9B%BD_0511132135
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.5.79:2053?encryption=none&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&security=tls&sni=itcenteriran.blog&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD_0511132136
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.119.100:2053?encryption=none&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&security=tls&sni=itcenteriran.blog&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD_0511132137
