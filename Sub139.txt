@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaFb54m55q6K5Zyw5Yy655u06L+eXSIsImFkZCI6ImZyZWUuNnZjenh3Lnh5eiIsInBvcnQiOiIzMDIwMSIsImlkIjoiZGRjMWZjMDMtMjZlNi00NjdmLWEzMmUtOGRmZmJkNmRkOTE0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZzAxLnRvbW9vbnkueHl6In0=
+```
+
+# 相关工具教程：
+
+| 工具 | Android | Windows |
+| ------------- | ------------- | ------------- |
+| v2ray | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/6.33/v2rayN-With-Core.zip) |
+
+### v2rayN使用教程： [点击查看](https://github.com/freefq/tutorials)
+
+### 节点导入方法
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点
 
 
@@ -591,15 +603,3 @@ vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.240.156:443?security=reality
 vless://fa1f59de-9f60-4edc-d1a1-cd2c8ddc8d29@49.13.73.196:2053?security=reality&sni=cdn.discordapp.com&fp=firefox&pbk=NztA0CCrHaKydhF7zTUp10UqabmaSAjYyVsEBvR-eQg&sid=33b85dec55&type=grpc&serviceName=Tel:spikevpn&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://fa9c6702-9033-4ab1-bcbb-33b5a741f61b@168.119.184.196:36259?security=reality&sni=bahmanbroker.com&fp=chrome&pbk=3bVdGHDdyw5ZZA101t3nKgKGMCJiPAbYndIJqhavUy4&sid=e9a525a1&spx=/&type=grpc&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.242.237:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=gB2mHBv8PQXA0HSxOlOcB91nq5luio58GPdkjAgmk2M&sid=10ff054b&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://aac2e6a5-a2be-438e-c129-d55efadf8213@49.13.154.236:40766?security=reality&sni=kukala.ir&fp=firefox&pbk=caz_i1Hc7rUY4ImArNla_sCoqJVpUTHyjkQN9b6Odi0&sid=bc&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://d6a08ef3-8d14-43b8-b7af-4c2946970f61@193.151.149.105:9090?security=&type=tcp&headerType=http&host=&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://bcd9660c-6018-4fb2-e8ed-8fefb3c276a8@104.20.156.248:8443?security=tls&sni=tm.HiV2ray.cfd&type=ws&path=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2?ed%3D2048&host=tm.HiV2ray.cfd&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.174.239:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://c1087fe2-457d-366e-9d03-303133bf5b65@89.221.224.50:38860?security=tls&sni=is-gy.115cloud.link&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIzNy4xMjAuMTkzLjEwMiIsImFpZCI6IjY0IiwiaG9zdCI6IiIsImlkIjoiNTcxNzBmZjAtNzE4MC00NjY0LThmNjEtOGRlYmRkYTM0NWY3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjkyMCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxOTMuMjAzLjIwMy44OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyZWM4NjJhZi1iZDFjLTQ2ZjUtOTdhZi1iZmZiZTYxZTMxNjQiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiIyMDgyIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://f7d6d2d0-3d74-470e-8706-62fee6bff283@104.26.10.232:443?security=tls&sni=5646742256.goldeston.cfd&alpn=http/1.1,h2&type=grpc&serviceName=77313084&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
