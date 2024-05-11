@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-directvpn@13.48.151.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@35.181.150.93:22222?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&type=tcp&headerType=none#Tel+Channel%F0%9F%91%89+configsCenter
-trojan://c7eacb30-a099-11ee-acc9-1239d0255272@51.210.182.170:443/?security=tls&type=tcp&sni=www.facebook.com#AllFcebook
-trojan://telegram-id-privatevpns@54.155.188.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
-trojan://user@s9.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s9.mynameismahsa.info#FI-S9-UK-Trojan
-trojan://telegram-id-directvpn@52.13.224.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-privatevpns@16.16.37.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
-trojan://9aa1e1569a@103.106.228.223:443?security=tls&sni=jp1.connecton.surf&type=tcp&headerType=none&host=undefined#mahdibland-%25F0%259F%2587%25AF%25F0%259F%2587%25B5JP-103.106.228.223-0127
-trojan://DT4HkbSE@[[::ffff:416d:be9b]]:53009?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=www.mrspot.tk#%F0%9F%92%A5%F0%9F%94%9C1%EF%B8%8F%E2%83%A3+%7C+t.me%2Frayanconf+%7C+%F0%9F%9A%80%F0%9F%92%AB%F0%9F%92%A5
-trojan://telegram-id-directvpn@54.201.233.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@13.39.205.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#Cdn_tls_h2_WS_direct_trojan
-trojan://telegram-id-privatevpns@3.120.194.9:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%28S104%29%F0%9F%87%A9%F0%9F%87%AAt.me%2Feliv2
-trojan://3b11409f-91ee-4457-b291-b281e11a1cbb@172.104.63.96:443?security=tls&headerType=none&type=tcp&sni=m.zoom.us#%F0%9F%90%B9All+Zoom+%5BUltra+Vpn%5D
-trojan://user@s16.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s16.mynameismahsa.info#FI-S16-Japan-Trojan
 trojan://telegram-id-privatevpns@18.192.248.150:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%28S103%29%F0%9F%87%A9%F0%9F%87%AAt.me%2Ft.me%2Feliv2
 trojan://telegram-id-directvpn@13.37.139.112:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#Our
 trojan://telegram-id-privatevpns@16.16.165.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Telegram+Channel+%7C+%40EuServer🔗8
@@ -603,3 +588,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZnptQ1A2eStsYW5jekovbDZlOUxsRWJ6dElGQjlVMVZrcXFzaFZhWDZZPQ==@18.185.241.241:2096#Kiava-T35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2cVFVdkd2aG5PdlFqZzJ0VWxiV3FyM01nbUNFY2J2N21WemtueXVpeE9FPQ==@13.53.41.24:8080#Kiava-T21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#telegram+%40proxy_mtm
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.68:9027#%40V2RayCactus
+��𝐍ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.112.129.99:443#MTN𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦➠@𝐈𝐑_𝐂𝐎𝐍𝐅𝐈𝐆_𝐀𝐍
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.149:9102#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQmMzYUlMc3A2dGtNcDd1aDlrV3JOZGF6ZGpWT0E4cnZYcUhNdTVGNDcwPQ==@3.77.39.219:8080#Kiava-T27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVHRWWldNcTZjVDVyc3YreG4vUWxXblFyeE5lTG9ha0J4VUlTNTVBaUVBPQ==@16.171.23.72:8080#Kiava-T13
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.149:9101#Dr.s+irancel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUkVLSGU2eWpVVW1HbE05UTNjMVk1ZDE2NWtHdXUrekVLOUFFRFh2Y0dRPQ==@16.171.136.66:8081#Kiava-T23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYXlJZDdYQlhJZHg=@35.235.89.42:3360#TG%E9%A2%91%E9%81%93%3A%40hkaa0%7C%E7%BE%8E%E5%9B%BD
+��𝐍ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYTFnRUFNbnFCeHVEeGhxQWlOQmc2bmpjazY2WTA2MWw5eEpNa1FGQjA0PQ==@18.197.145.45:8080#WIFI𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦➠@𝐈𝐑_𝐂𝐎𝐍𝐅𝐈𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40Click_vpnn+%C2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#WebRovers+%F0%9F%97%BD
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8090#%F0%9F%8E%96%EF%B8%8F%E2%9C%85+Join+%E2%9E%A3+%40@v2rayng20000000%F0%9F%8E%81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#@vpnstorefast
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZVUwOEszWG9vRlBLeWFzelIyayt2TDhjbElsd3VjdGY1U2FEYWJmdklvPQ==@18.159.252.71:2087#%40daredevill_404
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxTTFEYlVjUk9RNENlRGpjQ0VYNG9K@65.108.142.67:47146#%40appsooner+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%F0%9F%87%AB%F0%9F%87
