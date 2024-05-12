@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051223858
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.209:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051223859
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.109:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051223860
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.205:8443?encryption=none&security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_051223861
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.116:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051223862
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.2:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051223863
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.145:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051223864
@@ -603,3 +599,7 @@ trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54000?allo
 trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54420?allowInsecure=1&sni=frontend.yijianlian.app#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320038
 trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320039
 trojan://f5a24f98-589c-42c4-aa92-3e37993af700@t5.583181.xyz:1272?allowInsecure=1&sni=www.baidu.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320088
+trojan://telegram-id-directvpn@18.197.193.197:22222?security=tls&sni=trj.rollingnext.co.uk#%E5%BE%B7%E5%9B%BD_121320002
+trojan://telegram-id-privatevpns@18.199.11.234:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%E5%BE%B7%E5%9B%BD_121320046
+trojan://telegram-id-privatevpns@18.199.11.186:22222?allowInsecure=1&sni=#%E5%BE%B7%E5%9B%BD_121320087
+trojan://telegram-id-privatevpns@18.153.234.4:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%E5%BE%B7%E5%9B%BD_121320114
