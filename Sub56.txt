@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://73f0da18-c165-4dd6-9a1c-d33f8d124186@www.speedtest.net.cdn.cloudflare.net:2082?path=%2F%3Fed&security=none&encryption=none&host=%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.novaball.LINK.&type=ws#TelegramID%28%40Outline_Vpn%29+716
-vless://0d0245cd-8412-4a32-b52c-ef810651e644@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&sni=digi--v2raycncfs.RadioTeHran.oRG#%40v2ray_swhil
-vless://e240547f-5a80-4cee-a318-779c320a1d8e@tere.minusober.com:13446/?encryption=none&host=divarcdn.com&type=tcp&headerType=http#%40Antifilterjadid
-vless://3d98d3b1-be43-49ba-a660-e9ed4ca6a383@185.146.173.94:80?path=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn&path=%2Frxv2ray-rxv2ray-rxv2ray-rxv2ray%3Fed%3D2048&security=none&encryption=none&host=www.iran.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&type=ws#%40bored_vpn
 vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?path=%2Fbackup&security=none&encryption=none&host=DUwC0ik5lWCiueUniUDG.niGc-aR.com&type=ws#TelegramID%28%40Outline_Vpn%29+994
 vless://39dce5a6-354e-4342-b5d6-8a2af0b93a31@172.67.204.84:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=pan-1.alpha1.skin#Telegram%28%40argooo_vpn%29+380
 vless://503883e5-6e8f-42db-9356-88b48942be12@185.146.173.32:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-%53%68%68%50%72%6f%78%79.TelegramChannelJoinBede.com.&type=ws#🇩🇪All|@BigSmoke_Config
@@ -603,3 +599,7 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.162:443?path=path%2FTELEG
 vless://5365a1b4-ee81-439e-f27c-7bcf8967a70c@104.31.16.65:2053?path=%2F&security=tls&encryption=none&host=tel.RxV2ray.cfd&type=ws&sni=tel.RxV2ray.cfd#v2raysira
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#TelegramID%28%40Outline_Vpn%29+46
 vless://443dd82b-68b9-40a6-aefd-094ad8c63e74@all.digiv2ray.shop:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray&sni=FreeV2rayNg.DigiV2ray.shop#@Mso_666_baz
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#join+%40satellitenewspersian+%E2%9C%85
+vless://b25eeda8-042c-4292-badd-6984674eb8b9@aninetrobot.site:1178/?type=tcp&path=%2F&host=varzesh.com&headerType=http#V2ray_onli
+vless://telegram-id-ArV2ray@185.146.173.59:80?security=&type=ws&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed%3D2048&host=8.arv2ray.bo.speedtest.net.cloudflare.com.xn--81-pv2cvta065cac9302fea377a148g.Tech.&encryption=none#WS8-All%20%7C%20@V2rayngim
+vless://823862c3-c095-4efd-e20c-aef1d1d53bd8@185.146.173.58:2095?security=none&encryption=none&type=ws&host=V2ray-_-_-_-_vmesskhodam.lars1.nl.&path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM/VMESSKHODAM?ed%3D1024#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
