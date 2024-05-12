@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.138:2083?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_228
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@jgw.wshyx.pp.ua:2083?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=%21#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_23
 vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.28:2053?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_230
 vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.221.237:443?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_231
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#%E6%9C%AA%E7%9F%A5
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjM2IiwiYWRkIjoiMTg1LjI0OS4xMzUuMjU0IiwicG9ydCI6IjE4NzA3IiwiaWQiOiI1NzgyMDk4Zi00YWU3LTQ2NjktYWY1Ni03MDJlOGU5MTkzYTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMzYifQ==
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#US88%201.9MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoiVVM4OSIsImFkZCI6InVzLXYycmF5LmlwcmFjZXZwbi5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIyMzE4YzBmNy0yOWUzLTQ2NzgtODk1YS1jZmI5MDE4Y2RiODgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTODkifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.217.232:989#%E6%9C%AA%E7%9F%A5237%209.8MB%2Fs

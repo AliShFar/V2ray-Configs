@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://ca4e46f9-be28-4fae-8ba1-40c4522a4f49@172.66.47.74:2053?encryption=none&type=ws&host=androidyt.androidyteuorg.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&sni=androidyt.androidyteuorg.workers.dev&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0512131781
-vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@172.67.142.7:2083?encryption=none&type=grpc&security=tls&sni=re2.v2logy.xyz#%E7%BE%8E%E5%9B%BD_0512131782
 vless://99043bd6-a1e6-4d82-948b-4c2a10349c6c@172.67.202.69:2052?encryption=none&type=ws&host=onepercenter%E5%AE%89%E6%81%AF%E5%90%A7%E8%8F%B2%E4%BA%9A%E7%9A%84%E5%B7%A5%E8%B5%84.suonycars.buzz.&path=%2Ft.me-DarkVPNpro#%E7%BE%8E%E5%9B%BD_0512131783
 vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@108.162.193.178:2096?encryption=none&type=grpc&serviceName=korosh&security=tls&sni=korosh.orewasanji.fun&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0512131784
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.229.66:2087?encryption=none&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&security=tls&sni=juzibaipiao.5112233.xyz#%E7%BE%8E%E5%9B%BD_0512131786
@@ -603,3 +601,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.132:2096?encryption=none
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.76:8443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=twitterfreecodes#%E7%BE%8E%E5%9B%BD_051213840
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.47:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051213841
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.145:8443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_051213842
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.191:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051213843
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.227:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_051213844

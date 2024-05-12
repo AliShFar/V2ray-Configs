@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://fd2ef3e6-75b7-46cf-bc60-e8899851ed57@70.34.252.233:443?allowInsecure=1&sni=proxmox.com#%E6%B3%A2%E5%85%B0_121320021
-trojan://telegram-id-directvpn@54.247.173.195:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#%E7%88%B1%E5%B0%94%E5%85%B0_121320001
 trojan://telegram-id-directvpn@13.53.153.110:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%E7%91%9E%E5%85%B8_121320012
 trojan://zIvR7ryOXv@159.223.207.182:34428?allowInsecure=1&sni=#%E7%BE%8E%E5%9B%BD_121320067
 trojan://telegram-id-directvpn@3.133.72.219:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD_121320074
@@ -603,3 +601,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4er8J+Ht19GUl/ms5Xlm70i
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoicnVzc2lhLmNvbSIsInBvcnQiOjIwOTUsImlkIjoiNjRhNTdiNWYtNDVlMC00MGMzLTgzMTYtOTdkMGZmNTNmZDk2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoic3NzdWIudjIuMDAxLnNzcnN1Yi5jb20iLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwidGxzIjoiIn0=
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.141:8882#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7pfTFVf5Y2i5qOu5aChIiwiYWRkIjoiNDUuODIuMzEuMTY0IiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiczFjLnYyLnYwMDFzc3MueHl6IiwicG9ydCI6MjA4MiwiaWQiOiIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJzMWMudjIudjAwMXNzcy54eXoiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTcyLjY3LjEzMC4xNDAiLCJwb3J0IjoyMDgyLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
