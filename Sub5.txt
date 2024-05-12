@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net15.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net15.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045869
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net12.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net12.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045870
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net11.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net11.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045871
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net10.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net10.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045872
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net8.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net8.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045873
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net7.ntr.biz.id:443?encryption=none&security=tls&sni=net7.ntr.biz.id&fp=randomized&type=ws&host=net7.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045874
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net6.ntr.biz.id:443?encryption=none&security=tls&sni=net6.ntr.biz.id&fp=randomized&type=ws&host=net6.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045875
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net4.ntr.biz.id:443?encryption=none&security=tls&sni=net4.ntr.biz.id&fp=randomized&type=ws&host=net4.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045876
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net3.ntr.biz.id:443?encryption=none&security=tls&sni=net3.ntr.biz.id&fp=randomized&type=ws&host=net3.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0513045877
@@ -597,9 +603,3 @@ vless://TMCUSTOMIZE@CUSTOMIZEV2ray.V2ray.motorcycles:2095?encryption=none&host=V
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80?encryption=none&host=V2rayGodVip--free.azaronline.Org.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_051304050
 vless://9b7b9e8c-ffff-4618-9118-ecd53e9cdf87@185.146.173.32:2052?encryption=none&host=xn--047h.v2raxx6.shop.&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_051304051
 vless://-VPNCUSTOMIZE-@channel-vpncustomize.v2ray.motorcycles:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&type=ws#%E7%91%9E%E5%85%B8_051304052
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&path=Telegram-FreeVirGoolNet%2F%3Fed%3D2560&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#%E7%91%9E%E5%85%B8_051304053
-vless://65fa61d7-559c-4bd2-b41f-916e624731da@185.146.173.59:8080?encryption=none&host=hahaha.servernet.fun.&path=%2F&security=none&type=ws#%E7%91%9E%E5%85%B8_051304054
-vless://a8678b19-5d3d-45d0-ba00-5e091fde9c53@185.146.173.59:8080?encryption=none&host=hahaha.servernet.fun.&path=%2F&security=none&type=ws#%E7%91%9E%E5%85%B8_051304055
-vless://bb6ff335-3e16-41cd-b176-604b5f78c18e@185.146.173.59:8080?encryption=none&host=hahaha.servernet.fun.&path=%2F&security=none&type=ws#%E7%91%9E%E5%85%B8_051304056
-vless://301e1c43-8df0-4b8b-8197-14a606169091@185.146.173.59:80?encryption=none&host=hahaha.servernet.fun.&path=%2F&security=none&type=ws#%E7%91%9E%E5%85%B8_051304057
-vless://-----DIGIV2RAY-----@185.146.173.59:80?encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&path=%2FDigiv2ray-&security=none&type=ws#%E7%91%9E%E5%85%B8_051304058
