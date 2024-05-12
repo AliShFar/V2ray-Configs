@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d9b3134e-007e-41e0-a146-8c53977e27f5@U_CONFINGVPN:443?encryption=none&security=tls&sni=academivpn1-bo7.pages.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=academivpn1-bo7.pages.dev&path=Telegram_U_CONFINGVPN%2F%3Fed%3D2048#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40U_CONFINGVPN
+vless://bc2a87ed-6753-47cd-9938-6a844ffe1a71@162.159.135.232:80/?type=ws&encryption=none&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%40OpenSSTPVpn_2.8
 vless://abca3836-70d5-4716-b328-41700c4668e7@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=mci.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray#@melov2ray
 vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@all.msv2ray.online:2087?security=tls&type=grpc&headerType=&serviceName=&host=&sni=re3.v2logy.xyz&fp=chrome&alpn=http%2F1.1#@napoliii1994
 vless://Telegram-ipV2Ray-ced@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.2.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&type=ws#WS2-Config%40SkiVpn
@@ -601,5 +603,3 @@ vless://ccb0f69f-b9f3-4ca7-b35c-4f9571f48829@185.146.173.94:8880?path=/@LIGHTNIN
 vless://5afd7214-f3b6-4e15-98e7-703fa039229f@104.31.16.65:2053?path=%2F&security=tls&encryption=none&host=tel.ArV2ray.link&type=ws&sni=tel.ArV2ray.link#V2raysiran
 vless://973e918d-d4ec-4465-e77d-e0d29c2834c3@for2.vpnprosec.shop:443?mode=gun&security=reality&encryption=none&pbk=zjCTB4N5EF05kLDs7ulanv9pCyClSb3YT420wUFbYjg&fp=chrome&spx=%2F&type=grpc&serviceName=@VpnProSec&sni=zula.ir&sid=316a#V2RAYSIRAN%3A+IR-MCI%2CRightel%2CModem
 vless://----DIGiV2RAY----@discord.gg:80?security=none&type=ws&sni=ædígí.RadioTeHran.oRG.&path=/Digiv2ray-&encryption=none&headerType=none#pop_ping_5
-vless://7580137c-6e8c-4bf8-8d1c-4832e2917c35@1user5.netblocksiran.xyz:16225/?type=tcp&path=%2F&host=Hidata.org&headerType=http&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=user5.netblocksiran.xyz#t.me-V2safeng-free
-vless://-Tel:Mahanvpn-Toomaj-Salehi-@172.66.213.5:8080?path=%2FMahanVip%3Fed%3D2053&security=none&encryption=none&host=mahanvips%E6%B3%A2%E6%96%AF%E7%B6%B2arbazansaouli%E6%B3%A2%E6%96%AF%E7%B6%B2%E8%B7%AF1.mahanteamvips.top.&type=ws#%F0%9F%94%91%F0%9F%87%A9%F0%9F%87%AAMahanvpn-Vip2-mcimtn

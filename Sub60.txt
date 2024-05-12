@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://2f3e16fe-8df9-4988-8a41-64fe5258eecd@45.32.231.120:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#%F0%9F%8D%81+Join+Telegram+%3A+%40VpnFreeAccounts+%F0%9F%87%BA%F0%9F%87%B8+12+Nov
+vless://Jon--V2RAXX--@185.146.173.146:8080?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#%F0%9F%87%AC%F0%9F%87%A7ALL%C2%B3+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1+%40kurdvpn1
 vless://cd54ffe2-6415-4c8b-b0cc-28f6ee170b69@104.21.69.44:443?path=%2Fvless%3Fed%3D2048&security=tls&encryption=none&host=telegram-falcunargo.pages.Dev&type=ws&sni=telegram-falcunargo.pages.Dev#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+%F0%9F%AB%B6+%40nofilter_v2rayNg
 vless://7b0cd783-4d2a-4d4a-a1bb-66a98e3a85cb@104.24.95.58:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=0a6b0c0a.expressvpnfree021-4j0.pages.dev&fp=randomized&type=ws&sni=0a6b0c0a.expressvpnfree021-4j0.pages.dev#%40filterintl+%7C+%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84+%F0%9F%87%A9%F0%9F%87%AA
 vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?path=%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=VirginiaVpn.Pages.DEV&fp=ios&type=ws&sni=VirgInIaVpn.PaGes.DeV#Telegram%28%40Outline_Vpn%29+222
@@ -601,5 +603,3 @@ vless://973f9475-0029-4e7c-9121-9ba3bfb085ee@www.speedtest.net:80?path=%2F%40cus
 vless://b2ddffa0-6368-4984-dec9-c136bd16d6a5@ZuLa.Ir:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray&sni=F11h38y54-hssxx--5516x.mralpha-vpn.com#your+Chanel%3A+%40thunderv2ray
 vless://2a4bfe79-b301-c477-a6a7-8929023b1e91@217.60.249.101:2095?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-217.60.249.101%3A2095+%F0%9F%93%A1+PING-183.96-MS
 vless://2c21f628-c9a4-48f8-b80f-a3abafb99a29@103.184.44.0011:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=random&type=grpc&serviceName=%40XvProxy%2C%40XvProxy%2C%40XvProxy%2C%40XvProxy&sni=All4.savagev2ray.site#%40XvProxy+-+Grpc1-lcwud0ef
-vless://37020e26-bdd0-48dc-a4f8-4a6a5f2b9a42@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#5
-vless://f1eaf17e-67df-4256-a481-83b24a963e28@cllubvpn9.ddns.net:33456?type=tcp&path=/@Club_Vpn9&host=speedtest.net&headerType=http#@Club_Vpn9
