@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://43c0cbbe-6ccb-4783-bfe0-d665994f5506@n00006.bzdqsmzngpyyng.sbs:27969?allowInsecure=1&sni=hk02.ckcloud.info#8%7CNN_speednode_0044
-trojan://43c0cbbe-6ccb-4783-bfe0-d665994f5506@n00006.bzdqsmzngpyyng.sbs:25106?allowInsecure=1&sni=hk03.ckcloud.info#8%7CNN_speednode_0045
 trojan://43c0cbbe-6ccb-4783-bfe0-d665994f5506@n00006.bzdqsmzngpyyng.sbs:16706?allowInsecure=1&sni=hk05.ckcloud.info#8%7CNN_speednode_0046
 vmess://eyJ2IjogIjIiLCAicHMiOiAiOXxiYWlwYW92cG7pppnmuK8iLCAiYWRkIjogIjE4LjE2Mi4xNjguMTI1IiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiMzlhMDJiYy1kZWMwLTQ5NjQtYjg2MS1kODlmZmU0MjU1OGEiLCAic25pIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiOXxiYWlwYW92cG7nvo7lm70iLCAiYWRkIjogIjE2LjE2Mi4xMTkuMTkzIiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiMzlhMDJiYy1kZWMwLTQ5NjQtYjg2MS1kODlmZmU0MjU1OGEiLCAic25pIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiJ9
@@ -603,3 +601,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.198.48:443?encryption=none&
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0719
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.52.190.145:10548?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-KR4
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.3.37.27:9004?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%ad%f0%9f%87%b0+HK+%e9%a6%99%e6%b8%af+31
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzAuMzEiLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCAic25pIjogIiIsICJob3N0IjogImEucHJhcHQxLmlyIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIn0=
+vmess://ewogICAgImFkZCI6ICJpbmRleC56aGFhbC5pciIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImluZGV4LnpoYWFsLmlyIiwKICAgICJpZCI6ICJlNjkwZmY5ZS0xNjc2LTRiZTMtZDEzNi1kY2FlNTg2Y2IxZTciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjA4NiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTAuMTAuMzQuMzYtMDEwMyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
