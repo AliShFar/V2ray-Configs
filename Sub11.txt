@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://c39d5e05-3d06-317e-b5ca-e2f71b661570@azhj.xifasd.top:20767?security=tls&sni=ssl.ssl12.xyz&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Relay%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%28ChatGPT%29%2002%20TG%3A%40SSRSUB
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:36821?security=tls&sni=z262.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Relay%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%28ChatGPT%29%2023%20TG%3A%40SSRSUB
 trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a006.zhuan99.men:10006?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Relay%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%28ChatGPT%29%2024%20TG%3A%40SSRSUB
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:17629?security=tls&sni=z258.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Relay%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%28ChatGPT%29%2026%20TG%3A%40SSRSUB
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:21247?security=tls&sni=x91.flybar.work&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Relay%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%28ChatGPT%29%2027%20TG%3A%40SSRSUB
@@ -601,5 +603,3 @@ vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTY2LjE5MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.207.161.214:38294?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+33
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.125.174:2053?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b0%f0%9f%87%b7+KR+%e9%9f%a9%e5%9b%bd+26
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@20.249.83.244:8443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2
-vmess://eyJhZGQiOiJkYXRhLWpwLXYxLnVzYWJvb2tzLmNvbS5jbiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImRhdGEtanAtdjEudXNhYm9va3MuY29tLmNuIiwiaWQiOiJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGViaWFuIiwicG9ydCI6IjIwMzAxIiwicHMiOiLml6XmnKwyfEByaXBhb2ppZWRpYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@140.238.26.92:20855?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-JP-Tokyo5

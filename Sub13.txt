@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
 	"randomInGroup" : false,
@@ -600,6 +603,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?encryption=none&t
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=jd.wxgqlfx.top#318-%F0%9F%87%A8%F0%9F%87%A6CA_501_%40Surfboardv2ray
 vless://ada7333c-b5ee-48f0-8cae-80de363e863a@104.21.25.46:443?encryption=none&type=ws&path=%2Fvless&host=be1-vless.sshmax.xyz&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=be1-vless.sshmax.xyz#319-%F0%9F%87%A8%F0%9F%87%A6CA_1458_%40Surfboardv2ray
 vless://3a187ed2-081a-400a-e1c1-f7c9a9c9265d@My.GozargahVPN.top:443?encryption=none&type=ws&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&host=www.GozargahVPN.top&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=www.GozargahVPN.top#320-%F0%9F%87%A8%F0%9F%87%B7CR_510_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&type=ws&path=%2Fu8vniqvPq4i6a1Fv%3Fed%3D2560&host=PRoXysTOrE11.KoDAkShO.eu.org&security=tls&alpn=h3%2Ch2&fp=firefox&fragment=tlshello%2C10-50%2C10-50&sni=PrOxySTOre11.KoDaKsHo.eu.org#321-%F0%9F%87%A8%F0%9F%87%A6CA_1056_%40Surfboardv2ray
-vless://9f1b8daa-3395-4392-831d-5ed72b038bfc@iranserver.com:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=pardazesh5.pages.dev&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=pardazesh5.pages.dev#322-%F0%9F%87%A8%F0%9F%87%A6CA_1194_%40Surfboardv2ray
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?encryption=none&type=ws&path=Telegram%40SiNABiGO%2F%3Fed%3D2048&host=bIA-paiN-BaCHE.pAGES.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=bIA-paIn-bacHE.PAGeS.DEv#323-%F0%9F%87%A8%F0%9F%87%A6CA_689_%40Surfboardv2ray
