@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
   },
   "hotkey": {
     "SwitchSystemProxy": "",
@@ -598,8 +603,3 @@ vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@crackthecode.ftp.sh:443?encryption=
 vless://6d73f7ae-6424-4f03-ad93-10d9fd63fcaf@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Ffr1-vless.sshmax.xyz%3A443%2Fvless&host=vcp3.dehel15354.wOrKerS.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.wOrKerS.DEV#103-%F0%9F%87%A8%F0%9F%87%A6CA_821_%40Surfboardv2ray-worker
 vless://0d7aa073-1a28-4bad-8943-3da7b4750856@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fus2.v2vless.xyz%3A443%2F%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official&host=vcp3.dehel15354.wORKers.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.wORKers.DEV#104-%F0%9F%87%A8%F0%9F%87%A6CA_177_%40Surfboardv2ray-worker
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fjd.wxgqlfx.top%3A443%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&host=vcp3.dehel15354.wOrkErS.deV&security=tls&alpn=h2&fp=firefox&fragment=tlshello%2C10-50%2C10-20&sni=vcp3.dehel15354.wOrkErS.deV#105-%F0%9F%87%A8%F0%9F%87%A6CA_503_%40Surfboardv2ray-worker
-vless://2bcd22de-aff2-4d99-882c-625027c54e78@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fall3.savagev2ray.site%3A443%2F&host=vcp3.dehel15354.wOrkErS.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=vcp3.dehel15354.wOrkErS.deV#106-%F0%9F%87%A8%F0%9F%87%B7CR_423_%40Surfboardv2ray-worker
-vless://49cf68bf-3f2f-4692-aca3-2f7768ea484c@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fvip.proxystorepanel.eu.org%3A443%2F%3Fed%3D2048&host=vcp3.dehel15354.workerS.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=vcp3.dehel15354.workerS.Dev#107-%F0%9F%87%A8%F0%9F%87%A6CA_590_%40Surfboardv2ray-worker
-vless://63d54c31-dbe4-4f54-d042-48b9285107cc@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fwww.GozargahVPN.top%3A443%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&host=vcp3.dehel15354.woRKERs.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=vcp3.dehel15354.woRKERs.DeV#108-%F0%9F%87%A8%F0%9F%87%B7CR_774_%40Surfboardv2ray-worker
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2FPrOxySTOre11.KoDaKsHo.eu.org%3A443%2Fu8vniqvPq4i6a1Fv%3Fed%3D2560&host=vcp3.dehel15354.WoRkERS.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=vcp3.dehel15354.WoRkERS.DeV#109-%F0%9F%87%A8%F0%9F%87%A6CA_1027_%40Surfboardv2ray-worker
-vmess://eyJ0eXBlIjoiIiwicHMiOiIxMTAt8J+HqPCfh6ZDQV8yMTg4X0BTdXJmYm9hcmR2MnJheS13b3JrZXIiLCJhZGQiOiJjcmFja3RoZWNvZGUuZnRwLnNoIiwicG9ydCI6NDQzLCJpZCI6Ijc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Y3AzLmRlaGVsMTUzNTQuV29yS0VScy5kZXYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2x3ZWlkZi5zYnM6NDQzL2xpbmt3cyIsImhvc3QiOiJ2Y3AzLmRlaGVsMTUzNTQuV29yS0VScy5kZXYiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
