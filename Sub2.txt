@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b6abeb7e-9b2f-4b3a-aacf-70c427c35771@104.168.107.230:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=proxmox.com&fp=chrome&pbk=OYT-rXDQdW15kCtacs-22VpoK8y6mAk_8KmES_Wpmzg&sid=175948844a7af8a0&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051408211
 vless://1575943a-6b56-4afe-9e1d-f3db379ae640@104.168.107.230:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=flightradar24.com&fp=chrome&pbk=OYT-rXDQdW15kCtacs-22VpoK8y6mAk_8KmES_Wpmzg&sid=175948844a7af8a0&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051408212
 vless://ea4053db-ace2-465f-93ca-d909c185315f@104.168.107.230:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sovrn.com&fp=chrome&pbk=OYT-rXDQdW15kCtacs-22VpoK8y6mAk_8KmES_Wpmzg&sid=175948844a7af8a0&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051408213
 vless://c4ada304-14a0-4f2a-b5b4-f406641b7c27@104.168.107.230:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cj.com&fp=chrome&pbk=OYT-rXDQdW15kCtacs-22VpoK8y6mAk_8KmES_Wpmzg&sid=175948844a7af8a0&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7_051408214
@@ -603,3 +602,4 @@ vless://6062f3aa-1106-4fcd-8edd-81b1af9840a5@104.18.202.232:443?encryption=none&
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.229.153:80?encryption=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0514081487
 vless://9c6d57bd-9590-4646-9dc4-e832a54b27ea@104.16.229.153:2086?encryption=none&type=ws&host=p100.abrarvan.xyz&path=%2F#%E6%9C%AA%E7%9F%A5_0514081488
 vless://Telegram-Freev2Alpha@104.17.88.212:80?encryption=none&type=tcp#%E6%9C%AA%E7%9F%A5_0514081489
+vless://97bb117a-c039-441d-9525-76a040b36493@104.21.78.5:443?encryption=none&type=ws&path=%2F&security=tls&sni=arcordd.rezahpm.xyz&alpn=...#%E6%9C%AA%E7%9F%A5_0514081490
