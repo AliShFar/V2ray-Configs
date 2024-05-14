@@ -3,33 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-      "remarks": "www.dongtaiwang.com 洛杉矶",
-      "timeout": 5
-    }
-  ],
-  "strategy": null,
-  "index": 0,
-  "global": false,
-  "enabled": false,
-  "shareOverLan": false,
-  "isDefault": false,
-  "isIPv6Enabled": false,
-  "localPort": 1080,
-  "portableMode": true,
-  "showPluginOutput": false,
-  "pacUrl": null,
-  "gfwListUrl": null,
-  "useOnlinePac": false,
-  "secureLocalPac": true,
-  "availabilityStatistics": false,
-  "autoCheckUpdate": false,
-  "checkPreRelease": false,
-  "isVerboseLogging": false,
-  "logViewer": {
-    "topMost": false,
-    "wrapText": false,
-    "toolbarShown": false,
-    "Font": "Consolas, 8pt",
     "BackgroundColor": "Black",
     "TextColor": "White"
   },
@@ -603,3 +576,30 @@ vmess://eyJ0eXBlIjoiIiwicHMiOiI2OC3wn4eo8J+HpkNBXzIxNDdfQFN1cmZib2FyZHYycmF5LXdv
 vmess://eyJ0eXBlIjoiIiwicHMiOiI2OS3wn4eo8J+HpkNBXzIxNTZfQFN1cmZib2FyZHYycmF5LXdvcmtlciIsImFkZCI6ImNyYWNrdGhlY29kZS5mdHAuc2giLCJwb3J0Ijo0NDMsImlkIjoiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6InZjcDMuZGVoZWwxNTM1NC5XT3JrZXJzLmRFViIsIm5ldCI6IndzIiwicGF0aCI6Ii9taWthc2EueWFlbWlrby5jbG91ZG5zLm9yZzo0NDMvaXZpZGVvcy5zYnMvbGlua3dzIiwiaG9zdCI6InZjcDMuZGVoZWwxNTM1NC5XT3JrZXJzLmRFViIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoicmFuZG9taXplZCJ9
 vless://d37c3820-0d21-4e18-8fcc-390679531a5d@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2FProxiIraniii.connectmemore.shop%3A443%2F%40ProxiIraniii&host=vcp3.dehel15354.worKErS.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.worKErS.DeV#70-%F0%9F%87%AE%F0%9F%87%B7IR_1648_%40Surfboardv2ray-worker
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fcfdy.yueuzi.dynv6.net%3A443%2F&host=vcp3.dehel15354.worKers.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=vcp3.dehel15354.worKers.deV#71-%F0%9F%87%A8%F0%9F%87%A6CA_1738_%40Surfboardv2ray-worker
+vmess://eyJ0eXBlIjoiIiwicHMiOiI3Mi3wn4eo8J+HpkNBXzIxODNfQFN1cmZib2FyZHYycmF5LXdvcmtlciIsImFkZCI6ImNyYWNrdGhlY29kZS5mdHAuc2giLCJwb3J0Ijo0NDMsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6InZjcDMuZGVoZWwxNTM1NC5XT1JrZXJzLmRFdiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5kZTA2LmluZGlhdmlkZW8uc2JzOjQ0My9saW5rd3MiLCJob3N0IjoidmNwMy5kZWhlbDE1MzU0LldPUmtlcnMuZEV2IiwiYWxwbiI6ImgzLGgyIiwiZnAiOiJhbmRyb2lkIn0=
+vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fauto.minusober.com%3A443%2Fauto&host=vcp3.dehel15354.wORkeRs.DEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=vcp3.dehel15354.wORkeRs.DEv#73-%F0%9F%87%A8%F0%9F%87%A6CA_425_%40Surfboardv2ray-worker
+vless://10df91fd-2bea-4b6b-b1b7-e377c052cf83@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2FNoLimitV2ray.tranfer-Game.site%3A443%2FMore_links%3A%40holderproxy&host=vcp3.dehel15354.WOrkErS.deV&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C30-80%2C20-50&sni=vcp3.dehel15354.WOrkErS.deV#74-%F0%9F%87%A8%F0%9F%87%A6CA_206_%40Surfboardv2ray-worker
+vless://164c7099-74ee-472c-a8c6-023bf3d1216d@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fproxystore11.kodaksho.eu.org%3A443%2F%3Fed%3D2048&host=vcp3.dehel15354.worKERS.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C20-50&sni=vcp3.dehel15354.worKERS.Dev#75-%F0%9F%87%A8%F0%9F%87%A6CA_250_%40Surfboardv2ray-worker
+vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fthorianite.toptechnonews.com%3A443%2Fnimws%3Fed%3D2560%40V2ray_Alpha&host=vcp3.dehel15354.woRKeRS.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C20-50&sni=vcp3.dehel15354.woRKeRS.DEV#76-%F0%9F%87%BA%F0%9F%87%B8US_110_%40Surfboardv2ray-worker
+vless://7ea9e6f7-1bcd-453c-9fea-0f49dec49b59@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fall4.savagev2ray.site%3A443%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy&host=vcp3.dehel15354.WorkERs.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C20-50&sni=vcp3.dehel15354.WorkERs.deV#77-%F0%9F%87%A8%F0%9F%87%B7CR_907_%40Surfboardv2ray-worker
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fturkmenistan.armanibash.Shop.%3A443%2F%3Fed&host=vcp3.dehel15354.WoRkErS.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C10-50&sni=vcp3.dehel15354.WoRkErS.dEv#78-%F0%9F%87%A8%F0%9F%87%A6CA_913_%40Surfboardv2ray-worker
+vless://688fca54-bf7d-4d90-8aa2-003fead21081@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fall4.savagev2ray.site%3A443%2FTelegram%20-%20%40XvProxy%20-%20Telegram%20-%20%40XvProxy&host=vcp3.dehel15354.workerS.dEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=vcp3.dehel15354.workerS.dEV#79-%F0%9F%87%A8%F0%9F%87%B7CR_797_%40Surfboardv2ray-worker
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fvpn.restia.love%3A443%2F%3Fed%3D2048&host=vcp3.dehel15354.wORkers.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=vcp3.dehel15354.wORkers.DeV#80-%F0%9F%87%A8%F0%9F%87%B7CR_1668_%40Surfboardv2ray-worker
+vless://be920353-91a0-4d35-be2d-48dc2d4ed8dd@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fde1.v2vless.xyz%3A443%2F%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2F&host=vcp3.dehel15354.Workers.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=vcp3.dehel15354.Workers.Dev#81-%F0%9F%87%A8%F0%9F%87%A6CA_1552_%40Surfboardv2ray-worker
+vless://997f6aa1-fb2f-405a-b4e6-4784cd61ef81@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Ff.porya.fun%3A443%2Fdownloader%2F14730&host=vcp3.dehel15354.WORkeRS.DeV&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=vcp3.dehel15354.WORkeRS.DeV#82-%F0%9F%87%A8%F0%9F%87%A6CA_1134_%40Surfboardv2ray-worker
+vless://9b55ef31-45a1-4ee7-b306-244571ac0b2e@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fulm.minusober.com%3A443%2Fulm&host=vcp3.dehel15354.WorkERs.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=vcp3.dehel15354.WorkERs.dEv#83-%F0%9F%87%A8%F0%9F%87%A6CA_1160_%40Surfboardv2ray-worker
+vless://35ae9f57-0a63-43dc-a391-530f05c96963@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fbe2-vless.sshmax.xyz%3A443%2Fvless&host=vcp3.dehel15354.woRkeRS.DeV&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.woRkeRS.DeV#84-%F0%9F%87%A8%F0%9F%87%A6CA_475_%40Surfboardv2ray-worker
+vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fthorianite.toptechnonews.com%3A443%2Fnimws&host=vcp3.dehel15354.WoRkERS.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.WoRkERS.dev#85-%F0%9F%87%BA%F0%9F%87%B8US_109_%40Surfboardv2ray-worker
+vless://69babf5e-0a19-475a-8ecc-bb2b9c75c5fd@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fnl2.v2vless.xyz%3A443%2FJoin-Telegram-Channels-%40AstroVPN_official%20and%20%40TLS_V2ray%2F&host=vcp3.dehel15354.wORKErS.dev&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C50-100%2C20-50&sni=vcp3.dehel15354.wORKErS.dev#86-%F0%9F%87%A8%F0%9F%87%A6CA_810_%40Surfboardv2ray-worker
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fjd.wxgqlfx.top%3A443%2F%3Fed&host=vcp3.dehel15354.woRKErS.DEV&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=vcp3.dehel15354.woRKErS.DEV#87-%F0%9F%87%A8%F0%9F%87%A6CA_494_%40Surfboardv2ray-worker
+vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fsrv12.xyzquant.cloud%3A443%2F6eenmFpORi4fyf8bW&host=vcp3.dehel15354.WoRkERs.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=vcp3.dehel15354.WoRkERs.dev#88-%F0%9F%87%A8%F0%9F%87%A6CA_1053_%40Surfboardv2ray-worker
+vless://d1712a27-9932-445e-89fb-37101de76689@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fall3.savagev2ray.site%3A443%2F&host=vcp3.dehel15354.worKErS.DeV&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C10-20%2C20-50&sni=vcp3.dehel15354.worKErS.DeV#89-%F0%9F%87%A8%F0%9F%87%B7CR_1629_%40Surfboardv2ray-worker
+vless://d92070a5-9ecb-45b6-a22a-ecfd4f5dcb28@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fwww.GozargahVPN.top%3A443%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&host=vcp3.dehel15354.worKeRS.dev&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=vcp3.dehel15354.worKeRS.dev#90-%F0%9F%87%A8%F0%9F%87%B7CR_1707_%40Surfboardv2ray-worker
+vless://d47e180f-6560-4fe1-a20a-c72e66e3bcbb@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Ffi1.v2vless.xyz%3A443%2F%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2F&host=vcp3.dehel15354.WorKErs.dEv&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.WorKErs.dEv#91-%F0%9F%87%A8%F0%9F%87%A6CA_1657_%40Surfboardv2ray-worker
+vless://0a48e54b-659e-4b3c-95e6-14da04954f25@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fir.proxystorepanel.eu.org%3A443%2FTelegram%40%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%20-%20Telegram%20%3A%20%40V2rayi_net%2F%3Fed%3D2048&host=vcp3.dehel15354.WOrkERs.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=vcp3.dehel15354.WOrkERs.Dev#92-%F0%9F%87%A8%F0%9F%87%A6CA_148_%40Surfboardv2ray-worker
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fvpn.restia.love%3A443%2FPath%2FTelegram%40NETMelliAnti%2F%3Fed%3D2048&host=vcp3.dehel15354.workerS.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=vcp3.dehel15354.workerS.dev#93-%F0%9F%87%A8%F0%9F%87%A6CA_1670_%40Surfboardv2ray-worker
+vless://b4258f48-5092-4e94-9be4-ddfa7042ea69@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fall3.savagev2ray.site%3A443%2F&host=vcp3.dehel15354.woRkERS.DEv&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=vcp3.dehel15354.woRkERS.DEv#94-%F0%9F%87%A8%F0%9F%87%B7CR_1492_%40Surfboardv2ray-worker
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fjd.wxgqlfx.top%3A443%2F%3Fed&host=vcp3.dehel15354.WORkerS.dEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=vcp3.dehel15354.WORkerS.dEV#95-%F0%9F%87%A8%F0%9F%87%A6CA_495_%40Surfboardv2ray-worker
+vless://21985130-6586-483d-a0ba-41d0642a84c8@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2FProxiIraniii.connectmemore.shop%3A443%2F%40ProxiIraniii&host=vcp3.dehel15354.woRkERs.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=vcp3.dehel15354.woRkERs.dev#96-%F0%9F%87%AE%F0%9F%87%B7IR_366_%40Surfboardv2ray-worker
+vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fthorianite.toptechnonews.com%3A443%2Fnimws&host=vcp3.dehel15354.WOrKers.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=vcp3.dehel15354.WOrKers.dev#97-%F0%9F%87%BA%F0%9F%87%B8US_108_%40Surfboardv2ray-worker
+vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fapi2.shabazian.ir%3A443%2F&host=vcp3.dehel15354.worKERS.DeV&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.worKERS.DeV#98-%F0%9F%87%A8%F0%9F%87%A6CA_859_%40Surfboardv2ray-worker
