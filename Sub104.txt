@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://-DIGIV2RAY--@185.146.173.32:80?path=%2FDigiv2ray-%3Fed%3D2048&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
-vless://----DIGIV2RAY----@185.146.173.32:2095?path=%2FDIGIV2RAY-digiv2ray%3Fed%3D2048&security=none&encryption=none&host=www.radiotehran.ir.www.iranseda.ir.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B.website.&type=ws#%F0%9F%86%94+%40%F0%9D%90%80%F0%9D%90%91%F0%9D%90%93%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%92%F0%9D%90%95%F0%9D%90%8F%F0%9D%90%8D1+%F0%9F%A6%8B
-vless://140f43c2-ccb8-40cc-b3f3-5c7dec0dd421@104.31.16.17:443?security=tls&sni=dl1.spikevpn.cfd&type=grpc&serviceName=@spikevpn&fp=chrome&alpn=h2,http/1.1#🔒VL-GRPC-TLS🏴‍☠️NA-104.31.16.17:443📡PING-001.91-MS
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=Tel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&fp=randomized&type=ws&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#@vpnstorefast
 vless://bcb84db7-da54-4a4c-8865-139719533515@vipnet.aminho3ien.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=safari&type=grpc&serviceName=Power&sni=AliF7.aminhossienam.ir#%40vpnserverrr
 vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.133.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒VL-GRPC-TLS🏴‍☠️NA-162.159.133.234:2096📡PING-001.55-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join-bede.freev2alpha.cfd:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#8
@@ -603,3 +599,7 @@ vless://f5c97727-478f-4df5-87cf-6cc65389e75a@cl.parspack.com:2087?mode=gun&secur
 vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@zula.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=mehdi1.honarestan-hegmataneh.com#%40V2ray_NG
 vless://7f1d01e9-41c7-4420-bbc9-822acd6efe77@zula.ir:2095?path=%2F&alpn=Tel:@SRCVPN,Tel:@SRCVPN&host=V2ray-_-_-_-_-%53%68%68%50%72%6F%78%79.TelegramChannelJoinBede.com.&type=ws#🇩🇪@SRCVPN|MCI
 vless://e18022d7-cbc0-404a-930f-28ac6916ad45@1-vpnAiden.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CDN.site#grpc+tls%F0%9F%87%A9%F0%9F%87%AA+%40vpnAiden
+vless://76241e82-8ded-416a-9d4c-84d5a0989149@172.64.155.189:443?path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3&host=pOrIYA-wARphIddiFy-PAnel.paGeS.DEV&fp=chrome&type=ws&sni=pORiyA-warPhIDdify-PANEL.PAGEs.DeV#%40Selincss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#%40Selinc
+vless://--V2RAXX--@185.146.173.32:2095?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@Capoit
+vless://711b7b06-dccd-46ee-8d73-d834c3370ac4@20.239.72.23:37322/?type=tcp&encryption=none&flow=#%28TELEGRAM%3AFREECONFIGV2%29%F0%9F%A5%8E
+vless://283f9137-566f-4ed3-c91c-ce2752a47e3a@footlo.argha-v2pedia.monster:443?mode=gun&security=reality&encryption=none&pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=tuyacn.com&sid=da#%E2%9A%A1%40vpn_go67%E2%9A%A1%28vpn_go67%29+70

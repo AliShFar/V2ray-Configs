@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.46.49-10350
-trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-10352
-trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-10354
-trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.45.205-10355
 trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.45.205-10357
 trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-10361
 trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.48.105.114-10363
@@ -200,11 +196,10 @@ vmess://ewogICAgImFkZCI6ICIwODFkMWFhZC1yd2NzZzAtMW43anEuYm4ucDVwdi5jb20iLAogICAg
 
 
 
-
 vless://d07e0e50-0a47-44df-a98d-95ae9447e892@unlocked_worlld:1080/?type=tcp&encryption=none&security=tls#https%3A%2F%2Ft.me%2Funlocked_worlld
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@104.21.69.44:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2Fxyakws%2Flg1.freessr2.xyz&security=tls&sni=yelan.yaemiko.cloudns.biz&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%8C%8E%20%F0%9F%87%BA%F0%9F%87%B2%20%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%8C%8E%20
 trojan://trojan@www.plone.org:443/?type=ws&host=klee.yaemiko.cloudns.biz&path=%2F%3Fed%3D2560&security=tls&sni=klee.yaemiko.cloudns.biz&alpn=http%2F1.1&fp=random#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20
-vless://40e357c2-06f4-433a-b6cc-5d5c8b487e1d@www.vzug.com:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2FVLESS%2Fnl2-full.privateip.net&security=tls&sni=yelan.yaemiko.cloudns.biz&alpn=http%2F1.1&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%A7%F0%9F%87%B6%20%F0%9F%87%B3%F0%9F%87%B1%20
+vless://90fb9114-e01b-49fe-b24c-7a2b3884baca@www.vzug.com:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2FVLESS%2Fnl2-full.privateip.net&security=tls&sni=yelan.yaemiko.cloudns.biz&alpn=http%2F1.1&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%A7%F0%9F%87%B6%20%F0%9F%87%B3%F0%9F%87%B1%20
 vless://38535031-ccc3-4a94-bd54-c68806486406@www.magezon.com:443/?type=ws&encryption=none&host=furina.yaemiko.cloudns.org&path=%2Fed%3F%3D2560&security=tls&sni=ffvhyfhibfrhhddrhh965ommcdwwr5fuHHjJIiOOrina.yaemiko.cloudns.org&alpn=http%2F1.1&fp=random#%F0%9F%87%AB%F0%9F%87%B7%20furina%20%F0%9F%87%AB%F0%9F%87%B7%20
 vless://31aa719b-742f-430d-8a59-6abfbf538842@www.wheatleygaso.com:443/?type=ws&encryption=none&host=eula.yaemiko.cloudns.org&path=%C2%A0%2Fed%3F%3D2560&security=tls&sni=eulG9y86fF96f96f96F9yG9yv9yc9yc9ycac9y9ycq9yvv9yq9gyqy9gw79gwa.yaemiko.cloudns.org&alpn=http%2F1.1&fp=randomized#%E2%9D%84%EF%B8%8F%20eula%20%F0%9F%87%A9%F0%9F%87%AA%20
 vless://b4561965-3487-4701-b604-8c0347d8b3d4@www.wheatleygaso.com:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2FVLESS%2Fus-full.privateip.net&security=tls&sni=yelan.yaemiko.cloudns.biz&alpn=http%2F1.1&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%8C%8E%20
@@ -231,6 +226,10 @@ vless://16f5e6f7-c8d1-4447-9579-3ac75e727457@www.smartsupp.com:2096/?type=ws&enc
 vless://4fc3a2cd-9276-432e-81cf-f706169d824d@jive-germany.com:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2FVLESS%2Ffr-freevmess.privateip.net&security=tls&sni=yelan.yaemiko.cloudns.biz&alpn=http%2F1.1&fp=random#%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%B7%20
 vless://1f61d666-59d2-42cb-b390-3ebaf6c51839@headbrookeincharge.com:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2FVLESS%2Fkz-full.privateip.net&security=tls&sni=yelan.yaemiko.cloudns.biz&fp=random#%F0%9F%87%B0%F0%9F%87%BF%20%F0%9F%87%B0%F0%9F%87%BF%20
 vless://9453105f-df45-4464-a579-a7654d11ca2a@zula.ir:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2FVLESS%2Fca-full.privateip.net&security=tls&sni=yelan.yaemiko.cloudns.biz#%F0%9F%87%A8%F0%9F%87%A6%20
+
+
+
+
 
 
 
@@ -603,3 +602,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2083?security=tls&sn
 vless://6e871e2b-8fe6-44e5-98c3-b4cc0ed1af01@5.161.35.180:443?security=reality&sni=booking.com&fp=firefox&pbk=EQjDHU-Dd2r46F7fUxQ_GJ5XClZUkDtgGbwVPZZ99go&sid=85189f18&type=grpc&encryption=none#REALITY%7CUS%F0%9F%87%BA%F0%9F%87%B8%20%7C%205.161.35.180-443%20%7C%2031.7ms
 vmess://eyJhZGQiOiJwcm90aG9tYWxvLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoic2FuZC5ibGFua3UubWUiLCJpZCI6ImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MxMzQ4MCIsInBvcnQiOiI0NDMiLCJwcyI6IlJFTEFZ8J+aqSB8IHNhbmRwLmJsYW5rdS5tZS00NDMgfCA5LjI0bXMiLCJzY3kiOiJhdXRvIiwic25pIjoic2FuZHAuYmxhbmt1Lm1lIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJlbGVnYW50dGhlbWVzLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoic2FuZC5ibGFua3UubWUiLCJpZCI6ImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MxMzQ4MCIsInBvcnQiOiI0NDMiLCJwcyI6IlJFTEFZ8J+aqSB8IHNhbmRwLmJsYW5rdS5tZS00NDMgfCAyNS43OW1zIiwic2N5IjoiYXV0byIsInNuaSI6InNhbmRwLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzMy4yMzQiLCJhaWQiOiIwIiwiaG9zdCI6Im9jdGF2aS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4+BUkVMQVktMTYyLjE1OS4xMzMuMjM0LTEyNjEiLCJzY3kiOiJhdXRvIiwic25pIjoib2N0YXZpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
