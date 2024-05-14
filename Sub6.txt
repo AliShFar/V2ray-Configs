@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf.dalazhi.eu.org:8443?encryption=none&security=tls&sni=us.dalazhi.eu.org&fp=chrome&type=ws&host=us.dalazhi.eu.org&path=%2Funlows#%E6%9C%AA%E7%9F%A5_0514237050
-vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#%E6%9C%AA%E7%9F%A5_0514237588
 vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@198.41.223.2:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b6.iraniancp.autos&type=ws&sni=iraniancp.autos#%E6%9C%AA%E7%9F%A5_0514237590
 vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.31.16.194:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=b6.iraniancp.autos&type=ws&sni=iraniancp.autos#%E6%9C%AA%E7%9F%A5_0514237592
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=worker.iraniancp.click&type=ws&sni=iraniancp.click#%E6%9C%AA%E7%9F%A5_0514237593
@@ -603,3 +601,5 @@ vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?type=ws&encryption
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.44.212:443?type=ws&encryption=none&path=%2F&security=tls&sni=pardazeshvpn-tg20.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0514231214
 vless://7f113923-9429-48b8-d5dd-b2906a583dfe@172.67.163.103:443?type=grpc&encryption=none&security=tls&sni=frr.kanal-tel-nufilter.site&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0514231215
 vless://7749a882-27cf-40f1-c90e-fd2040e46f60@172.64.229.152:80?type=ws&encryption=none&path=%2F&security=tls&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0514231216
+vless://7749a882-27cf-40f1-c90e-fd2040e46f60@172.64.229.116:80?type=ws&encryption=none&path=%2F&security=tls&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0514231217
+vless://7749a882-27cf-40f1-c90e-fd2040e46f60@108.162.192.246:80?type=ws&encryption=none&path=%2F&security=tls&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0514231218

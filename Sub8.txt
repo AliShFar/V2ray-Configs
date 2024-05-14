@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@172.67.174.162:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#%E7%BE%8E%E5%9B%BD_0514232423
-vless://ca9e46f9-6545-47ce-a6f5-66ad998092d0@66.235.200.67:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#%E7%BE%8E%E5%9B%BD_0514232424
 vless://9f3d6a0a-492c-47dc-b2c5-6889eabeb940@172.67.198.54:443?security=tls&sni=vip.alonext.com&type=grpc&serviceName=@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2&fp=chrome&alpn=h2,http/1.1,h3#%E7%BE%8E%E5%9B%BD_0514232425
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.161.104:80?security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0514232426
 vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@172.66.47.7:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_0514232427
@@ -603,3 +601,5 @@ vless://d6f6df40-ff35-4707-adb0-ca68b1e8765f@188.114.98.225:2095?security=none&t
 vless://f56362e0-909f-4094-a15e-fb4b32b952cb@45.131.208.0:2087?security=tls&sni=ililoxnu.ziroxbioxa.OnFLashDrive.aPp&type=ws&host=ililoxnu.ziroxbioxa.OnFLashDrive.aPp&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E8%8D%B7%E5%85%B0_051423213
 vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@45.131.4.9:80?security=none&type=ws&host=IRON.man.policeoficer-45.GAMERme.IR&path=%2F%3Fed%3D2048#%E8%8D%B7%E5%85%B0_051423214
 vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@188.114.99.99:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#%E8%8D%B7%E5%85%B0_051423215
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.30.51:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_051423216
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.129:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8D%B7%E5%85%B0_051423217
