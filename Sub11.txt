@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ssr://103.172.116.79:9005:origin:aes-256-cfb:plainWkVUNTlMRjZEdkNDOEtWdA==remarks=M3xJSHd6TUM0eU1rMWkgIzE=
-ssr://103.172.116.79:9038:origin:aes-256-cfb:plainZ1lDWVhma1VRRXMyVGFKUQ==remarks=M3xJSHd6TUM0Mk1FMWk=
-ssr://103.172.116.79:9000:origin:aes-256-cfb:plainYTNHRll0MzZTbTgyVnlzOQ==remarks=M3xJSHd6TUM0eU9FMWk=
-ssr://103.172.116.79:9050:origin:aes-256-cfb:plainRkc1ZGRMc01QYlY1Q3V0RQ==remarks=M3xJSHd6TUM0eE1VMWk=
-ssr://103.172.116.79:9015:origin:aes-256-cfb:plainWnBORERLUnU5TWFnTnZhZg==remarks=M3xJSHd6TUM0d05rMWk=
-ssr://103.172.116.79:9041:origin:aes-256-cfb:plainVTZxbllSaGZ5RG1uOHNnbg==remarks=M3xJSHd5T1M0NE5FMWk=
 ssr://103.172.116.79:9033:origin:aes-256-cfb:plainVVRKQTU3eXBrMlhLUXBubQ==remarks=M3xJSHd6TUM0eU0wMWk=
 ssr://103.172.116.79:9019:origin:aes-256-cfb:plainR0E5S3plRWd2ZnhOcmdtTQ==remarks=M3xJSHd5T1M0NU4wMWkgIzE=
 ssr://103.172.116.79:9088:origin:aes-256-cfb:plainZjhucEtnTnpka3NzMnl0bg==remarks=M3xJSHd6TUM0eU4wMWk=
@@ -603,3 +597,9 @@ trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xibaozi.19890604.day:10847?type=tc
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@66.235.200.158:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+69
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.111.208-0721
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0770
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjkzMjA1Ny1mZmQ5LTQ0MjYtOGNhNy1mMDY1NGJhYmY4NGY=@ddns.olucloud.subapi.cc:20009#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%9F%E9%97%A8%E5%B8%82+%E7%A7%BB%E5%8A%A8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI@service.ouluyun9803.com:20005#github.com/freefq%20-%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%9F%E9%97%A8%E5%B8%82%E7%A7%BB%E5%8A%A8%2012
+trojan://1f709fdb-2176-4de7-8398-56a75b745eee@127.0.0.1:443?allowInsecure=0#%E5%AE%98%E7%BD%91%EF%BC%9A
+trojan://62011b3d-2706-4a97-98b7-9986003c5fe0@kz-full.privateip.net:443?type=tcp&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E7%BE%8E%E5%9B%BD%0D_1
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6ZfQ0Ff5Yqg5ou/5aSnIiwiYWRkIjoiMjMuMjI3LjM5LjI0IiwicG9ydCI6ODA4MCwiaWQiOiI5MjU4MTUzYS1kYzk3LTRlMzktOTAzNy0wMDlhYmZjNGZlZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJwZXItZXNzZXgtcGF0dGVybnMtYm93bGluZy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiI5MjU4MTUzYS1kYzk3LTRlMzktOTAzNy0wMDlhYmZjNGZlZDAtdm0iLCJ0bHMiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0781
