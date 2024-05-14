@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.18.203.232:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#4Sarina-7853
-vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.21.79.143:2083?alpn=http%2F1.1&authority=&encryption=none&fp=firefox&mode=gun&security=tls&serviceName=&sni=ambatukamnotthatship2.v2logy.ir&type=grpc#4Sarina-7854
-vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.21.79.143:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=firefox&type=grpc&serviceName=&sni=ambatukamnotthatship2.v2logy.ir#4Sarina-7855
-vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.21.79.143:2083?security=tls&sni=ambatukamnotthatship2.v2logy.ir&type=grpc&fp=firefox&alpn=http/1.1#4Sarina-7856
 vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.21.79.143:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#4Sarina-7857
 vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.21.79.143:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=firefox&alpn=http/1.1#4Sarina-7858
 vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.21.79.143:8443?security=tls&sni=ambatukamnotthatship1.v2logy.ir&type=grpc&fp=chrome&alpn=http/1.1#4Sarina-7859
@@ -603,3 +599,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.223:2053?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Sarina-8450
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Sarina-8451
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Sarina-8452
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Sarina-8453
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.232:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Sarina-8454
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.234:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Sarina-8455
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#4Sarina-8456
