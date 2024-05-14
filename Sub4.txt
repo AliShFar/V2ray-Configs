@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://44429467-1ddb-4461-887e-69f2fdcfebcb@104.31.16.91:80?encryption=none&type=ws&host=ZTL5iDkNDQmHZb6v4RNC.OPeENup.coM&path=%2Fbackup#%E6%9C%AA%E7%9F%A5_0514042880
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.221.154:443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=jd.wxgqlfx.top#%E6%9C%AA%E7%9F%A5_0514042887
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.101.123.212:443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=jd.wxgqlfx.top#%E6%9C%AA%E7%9F%A5_0514042888
 vless://f9021b31-e8bd-4b4d-a1d3-c9b0c1476c44@cvs-deo.shopeemobile.com:443?encryption=none&type=ws&path=%2Fvlesscf&security=tls&sni=cvs-deo.shopeemobile.com.sg4.putrivpn.biz.id#%E6%9C%AA%E7%9F%A5_0514042889
 vless://0870314f-9920-4223-aaf4-7211857d78ac@discord.com.:2095?encryption=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%E6%9C%AA%E7%9F%A5_0514042890
@@ -603,3 +601,5 @@ vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@zula.ir:2087?path=/new_proxy_channe
 vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@zula.ir:2087?path=/new_proxy_channel?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=dl.parhamtraberthos.ir&fp=random&type=ws&sni=dl.parhamtraberthos.ir#%E6%9C%AA%E7%9F%A5_0514045919
 vless://Parsashonam-62@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#%E6%9C%AA%E7%9F%A5_0514045920
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.123.175:2083?path=/?ed=2048&security=tls&encryption=none&host=id-falcunargo.sociy12386.workers.dev&type=ws&sni=id-falcunargo.sociy12386.workers.dev#%E6%9C%AA%E7%9F%A5_0514045921
+vless://f6fa8d03-1c38-4620-87d1-c66c47f21cf1@zula.ir:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E6%9C%AA%E7%9F%A5_0514045922
+vless://932bf16f-4c1f-42b2-8e36-424b96fbf46a@TLS-v2ray.taha-pannel.workers.dev:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=nl1.v2vless.xyz#%E6%9C%AA%E7%9F%A5_0514045923
