@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://your_password@aws-ca-central-1.f1cflineb.com:443?security=tls&sni=aws-ca-central-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflineb.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@104.31.16.98:443?security=tls&sni=hdfy2cdn1.cpionline.co&type=ws&path=/vncf0bfUuZ6QgIre2fcLjqskl&host=hdfy2cdn1.cpionline.co&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ak1840.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:6379#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://Huahua123@jp.huahua.company:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5000#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://2131d0f4-7518-4619-a807-8d9a9e8cc6a8@hmrah.zedmodeon.lat:443?security=tls&sni=yoyoyo.zedmodeon.lat&alpn=h2&fp=chrome&type=grpc&serviceName=@ZEDMODEON&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.200.123:443?security=tls&sni=xxx.donated001.workers.dev&type=ws&path=/@V2VIPCHANNEL/?ed%3D2048&host=xxx.donated001.workers.dev&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://3ab1e793-7cd7-49a1-bb14-b68043888482@104.21.4.8:2096?security=tls&sni=nl25.vlessx.us&fp=randomized&type=ws&path=/?ed%3D2048&host=nl25.vlessx.us&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.89:443?security=tls&sni=us2.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -597,9 +603,3 @@ vless://3a4c5a76-046b-4094-8528-f2882ed9b492@w3.org:2096?encryption=none&securit
 vless://3a4c5a76-046b-4094-8528-f2882ed9b492@medium.com:2083?encryption=none&security=tls&sni=irancpi.cpIOnLInE.US&alpn=h2&fp=chrome&type=ws&host=irancpi.cpIOnLInE.US&path=vless-ws%2F%3Fed%3D2048#6-irancpi.net_FreeConfig
 
 vless://3a4c5a76-046b-4094-8528-f2882ed9b492@medium.com:2053?encryption=none&security=tls&sni=irancpi.CpIonlINE.us&alpn=http%2F1.1&fp=ios&type=ws&host=irancpi.CpIonlINE.us&path=vless-ws%2F%3Fed%3D2048#7-irancpi.net_FreeConfig
-
-vless://3a4c5a76-046b-4094-8528-f2882ed9b492@medium.com:2087?encryption=none&security=tls&sni=irancpi.cPiONLiNE.Us&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=irancpi.cPiONLiNE.Us&path=vless-ws%2F%3Fed%3D2048#8-irancpi.net_FreeConfig
-
-vless://3a4c5a76-046b-4094-8528-f2882ed9b492@medium.com:2083?encryption=none&security=tls&sni=irancpi.cpIONlINE.us&alpn=http%2F1.1&fp=chrome&type=ws&host=irancpi.cpIONlINE.us&path=vless-ws%2F%3Fed%3D2048#9-irancpi.net_FreeConfig
-
-vless://3a4c5a76-046b-4094-8528-f2882ed9b492@medium.com:2083?encryption=none&security=tls&sni=irancpi.CPioNLINe.US&alpn=http%2F1.1&fp=chrome&type=ws&host=irancpi.CPioNLINe.US&path=vless-ws%2F%3Fed%3D2048#10-irancpi.net_FreeConfig

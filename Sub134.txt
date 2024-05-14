@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-4131
+vmess://ewogICAgImFkZCI6ICIxNzIuMTA0Ljc4Ljk4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvY2hhdCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ev8J+HtUpQLTE3Mi4xMDQuNzguOTgtNDEzMiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-34.220.74.123-4134
+trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.129.217.93-4135
+vmess://ewogICAgImFkZCI6ICI0Ny4yNDIuMjYuMzAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImJiNzNkNmZlLTk3MDAtNDYwNy04ZGMxLWViOWYxNTI1M2U5ZCIsCiAgICAibmV0IjogImh0dHAiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogMjgwNDUsCiAgICAicHMiOiAi8J+HrfCfh7BISy00Ny4yNDIuMjYuMzAtNDEzNiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19365?security=tls&sni=$$supaz041.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-54.157.24.8-4138
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:36305?security=tls&sni=$$hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-54.157.24.8-4139
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.153.185:443#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.153.185-4145
 vmess://ewogICAgImFkZCI6ICIxNzMuMjExLjQyLjIyMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZjgwOGZmNTMtYjQ3NS00MTVkLTg0MGEtZjA1Y2I2YWY4NWYzIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDI5NjMzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTczLjIxMS40Mi4yMjEtNDE0NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -597,9 +603,3 @@ vmess://ewogICAgImFkZCI6ICIxNDEuMTkzLjIxMy4xMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 trojan://97856218-c1c1-4965-ab1a-f1411d601651@gonggao02.beef1917.com:53002?security=tls&sni=niuniucloud.xyz#%F0%9F%87%BA%F0%9F%87%B8US-67.227.226.240-5305
 trojan://9KogHwaY7hVD@eu-east-ruo.openssl3.com:443?security=tls&sni=eu-east-ruo.openssl3.com#%F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.212-5307
 trojan://97856218-c1c1-4965-ab1a-f1411d601651@k-r01.beef1917.com:53020?security=tls&sni=niuniucloud.xyz#%F0%9F%87%BA%F0%9F%87%B8US-67.227.226.240-5313
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.117.13-5317
-vmess://ewogICAgImFkZCI6ICIxNjIuNTUuNjIuMTkzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIyYWFjNzdkZS1iM2U0LTQwMTctODQ1Yy1jYTEzODBmMmU4ZDAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdGVsZWdyYW0taWQtQHByaXZhdGV2cG5zIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HqfCfh6pERS0xNjIuNTUuNjIuMTkzLTUzMjMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.21:443?security=tls&sni=sbank.ir#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.21-5325
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.232.15-5327
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@in01.trojanyyds.xyz:443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-20.255.226.206-5328
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.210.166-5331
