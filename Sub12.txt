@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+ssr://dmlwMy5uaXVuaXVwcmVtaXVtLnh5ejoxMTQyODphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOlJtaGlaVEI2Lz9vYmZzcGFyYW09TldSaU9Ua3hNREU0TWk1dGFXTnliM052Wm5RdVkyOXQmcHJvdG9wYXJhbT1NVEF4T0RJNlJXUTNkVEJIJnJlbWFya3M9NVktdzVybS1mRUJ5YVhCaGIycHBaV1JwWVc0
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@112.168.91.60:18888?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b0%f0%9f%87%b7+KR+%e9%9f%a9%e5%9b%bd+44
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ac%f0%9f%87%a7+GB+%e8%8b%b1%e5%9b%bd+3
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0794
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiIxNjIuMTU5LjEuMzMiLCJwb3J0Ijo4MDgwLCJpZCI6ImQ5YzVlYzZhLWE4ZDgtNDczMi04NDQ3LTU2ZmJkMmY5M2U5NiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InBjcy1yZWZlcmVuY2VkLWNhbWVyYS1jb25jZXJucy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiJkOWM1ZWM2YS1hOGQ4LTQ3MzItODQ0Ny01NmZiZDJmOTNlOTYtdm0iLCJ0bHMiOiIifQ==
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@35.240.184.147:8092?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-SG-Singapore1
 vmess://ewogICAgImFkZCI6ICIxNTIuNjcuMjE4LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiMTUyLjY3LjIxOC4zOCIsCiAgICAiaWQiOiAiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTE1Mi42Ny4yMTguMzgtMDc0NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -599,7 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDEgQG5vZHBhaSIsImFk
   "hotkey": {
     "SwitchSystemProxy": "",
     "SwitchSystemProxyMode": "",
-    "SwitchAllowLan": "",
-    "ShowLogs": "",
-    "ServerMoveUp": "",
-    "ServerMoveDown": "",
