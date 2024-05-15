@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.34.220:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508833
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.191.62:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508834
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.198.115:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508835
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.164.18:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508836
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.159.23:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508837
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.150.86:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508838
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.148.112:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508839
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.23.9:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508840
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.46.141:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508841
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.201.60:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508842
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.23.11:2053?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%9C%AA%E7%9F%A5_051508843
@@ -603,3 +595,11 @@ vless://0b8a411f-0b7e-4d50-8c0c-4dfb4b2ae45e@172.67.171.44:443?type=ws&encryptio
 vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg7.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515081269
 vless://SVNTEAM@mtn.VPNPROSEC.com:80?host=SvnTeamV2rayNtOne7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&security=none&type=ws#%E7%BE%8E%E5%9B%BD_051508127
 vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg7.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515081270
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.26.173:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ARM64-V8A.pages.DEV&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515081271
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.66.213.38:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ARM64-V8A.pages.DEV&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515081272
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@162.251.82.187:443?type=ws&encryption=none&path=%2F%3Fed%3D2560&security=tls&sni=ARM64-V8A.pages.DEV&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515081273
+vless://050450d4-7c7d-435f-b812-155e30fd8c7c@172.67.187.245:443?type=ws&encryption=none&path=%2F&security=tls&sni=freedom1.boficax311.workers.dev&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515081274
+vless://e51b714f-18ab-4969-a82d-4500649320bd@discord.org:8080?encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&type=ws#%E7%BE%8E%E5%9B%BD_051508128
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0515081316
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@170.114.45.25:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0515081317
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@167.68.5.90:8443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0515081318
