@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"server_port" : 17000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "001A9875F7EFDC23EC122E00A195E08B",
+			"server" : "nk7.boom.skin",
+			"server_port" : 17000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
@@ -583,23 +603,3 @@ vmess://eyJ0eXBlIjoiIiwicHMiOiIyMTct8J+Hs/Cfh6YgTmFtaWJpYSAtIE5BIPCfjI0gVk0tV1Mt
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fnet8.ntr.biz.id%3A443%2F%3Fed%3D2048&host=vcp3.dehel15354.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C50-100%2C10-50&sni=vcp3.dehel15354.workers.dev#218-%E7%BE%8E%E5%9B%BD_0515082180-worker
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@crackthecode.ftp.sh:8443?encryption=none&type=ws&path=%2Fjd.wxgqlfx.top%3A8443%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&host=vcp3.dehel15354.woRkERs.DEV&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C30-80%2C20-50&sni=vcp3.dehel15354.woRkERs.DEV#219-%E8%8D%B7%E5%85%B0_051508242-worker
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A443%2Ftg%40zdyz2&host=vcp3.dehel15354.wOrKeRs.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=vcp3.dehel15354.wOrKeRs.deV#220-%E9%A6%99%E6%B8%AF_051508020-worker
-vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@crackthecode.ftp.sh:2096?encryption=none&type=ws&path=%2Fmoon.norwaylovers.com%3A2096%2Fmoon&host=vcp3.dehel15354.worKERS.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C10-50&sni=vcp3.dehel15354.worKERS.deV#221-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3-worker
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@crackthecode.ftp.sh:8443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A8443%2Ftg%40zdyz2&host=vcp3.dehel15354.WORKeRS.deV&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C20-50%2C10-50&sni=vcp3.dehel15354.WORKeRS.deV#222-%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3-worker
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyMjMt8J+HqPCfh78gQ3plY2hpYSAtIMSMZXNrw6kgQnVkxJtqb3ZpY2Ug8J+MjSBWTS1XUy1UTFMgNOKDoy13b3JrZXIiLCJhZGQiOiJjcmFja3RoZWNvZGUuZnRwLnNoIiwicG9ydCI6NDQzLCJpZCI6IjBlOWE1ZmE1LWM4ZGYtNGQ3NS05MjBmLWE4MDZlYjNkYmIzYyIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Y3AzLmRlaGVsMTUzNTQud09ya0Vycy5ERXYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYzo0NDMvdm1lc3MiLCJob3N0IjoidmNwMy5kZWhlbDE1MzU0LndPcmtFcnMuREV2IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fmarly.toptechnonews.com%3A443%2Fnimws&host=vcp3.dehel15354.woRkERs.DEv&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C50-100%2C20-50&sni=vcp3.dehel15354.woRkERs.DEv#224-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3-worker
-vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjI1LfCfh7Pwn4emIE5hbWliaWEgLSBOQSDwn4yNIFZNLVdTLVRMUyA04oOjLXdvcmtlciIsImFkZCI6ImNyYWNrdGhlY29kZS5mdHAuc2giLCJwb3J0Ijo0NDMsImlkIjoiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6InZjcDMuZGVoZWwxNTM1NC53b1JrRXJTLmRFViIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQ6NDQzL2xpbmt3cyIsImhvc3QiOiJ2Y3AzLmRlaGVsMTUzNTQud29Sa0VyUy5kRVYiLCJhbHBuIjoiaDIiLCJmcCI6ImVkZ2UifQ==
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fton.apple%3A443%2F%3Fed%3D2560&host=vcp3.dehel15354.wORkeRs.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=vcp3.dehel15354.wORkeRs.DEV#226-%E7%BE%8E%E5%9B%BD_0515081212-worker
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A443%2Ftg%40zdyz2&host=vcp3.dehel15354.WORKErS.DEV&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-50%2C20-50&sni=vcp3.dehel15354.WORKErS.DEV#227-%E6%9C%AA%E7%9F%A5_051508867-worker
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A443%2Ftg%40zdyz2&host=vcp3.dehel15354.WORKERS.DEV&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=vcp3.dehel15354.WORKERS.DEV#228-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_051508036-worker
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@crackthecode.ftp.sh:2096?encryption=none&type=ws&path=%2Ftg.dns68.cloudns.nz%3A2096%2F%40Alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2F%3Fed%3D2048&host=vcp3.dehel15354.WOrkERS.dEV&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C50-100%2C20-50&sni=vcp3.dehel15354.WOrkERS.dEV#229-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3-worker
-vless://2e30b741-7ba3-45fd-a05a-7e258ca72a55@crackthecode.ftp.sh:8443?encryption=none&type=ws&path=%2Fvmessorg.xn--54qv00ez5ar77g.co%3A8443%2F&host=vcp3.dehel15354.WOrKerS.Dev&security=tls&alpn=http%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C10-20&sni=vcp3.dehel15354.WOrKerS.Dev#230-%E7%BE%8E%E5%9B%BD_0515081681-worker
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@crackthecode.ftp.sh:8443?encryption=none&type=ws&path=%2Fpages.20230619.love%3A8443%2Ffuck_yes!&host=vcp3.dehel15354.wOrKers.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C20-50&sni=vcp3.dehel15354.wOrKers.DeV#231-%E7%BE%8E%E5%9B%BD_0515081496-worker
-vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@crackthecode.ftp.sh:2087?encryption=none&type=ws&path=%2Fdl.parhamtraberthos.ir%3A2087%2Fnew_proxy_channel%3Fed%3D2560&host=vcp3.dehel15354.WorKeRS.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=vcp3.dehel15354.WorKeRS.Dev#232-%E8%8D%B7%E5%85%B0_051508255-worker
-vless://c5180d4d-c6ea-4055-a554-1dac02ff9598@crackthecode.ftp.sh:2096?encryption=none&type=ws&path=%2Fvaylafoodakor.atkfood.com%3A2096%2FAMVPN%20Telegram%20Channel&host=vcp3.dehel15354.wOrKERS.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=vcp3.dehel15354.wOrKERS.DEV#233-%E8%8D%B7%E5%85%B0_051508251-worker
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@crackthecode.ftp.sh:2053?encryption=none&type=ws&path=%2Fa.ssll.gay%3A2053%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048&host=vcp3.dehel15354.WoRkERs.DeV&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=vcp3.dehel15354.WoRkERs.DeV#234-%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20NA%20%F0%9F%8C%8E%20VL-WS-TLS%204%E2%83%A3-worker
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@crackthecode.ftp.sh:2087?encryption=none&type=ws&path=%2Fa.ssll.gay%3A2087%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048&host=vcp3.dehel15354.wOrKErs.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=vcp3.dehel15354.wOrKErs.DeV#235-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_051508006-worker
-vless://035c9645-1a02-4ad0-a591-8365e9eea805@crackthecode.ftp.sh:2083?encryption=none&type=ws&path=%2Fhu1.v2vless.xyz%3A2083%2Ftelegram.%40vpnAndroid2&host=vcp3.dehel15354.WOrKeRs.DEV&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C30-80%2C10-20&sni=vcp3.dehel15354.WOrKeRs.DEV#236-%E7%91%9E%E5%85%B8_051508278-worker
-vless://251780c1-1501-43b3-be2a-d144a20d479a@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fhdfy5d6.jahangirkh.eu.org%3A443%2FY7aWYIhAUAt2D6MrrFQHeSDQ7&host=vcp3.dehel15354.wORKERs.DeV&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=vcp3.dehel15354.wORKERs.DeV#237-%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Sp%C3%A5nga%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3-worker
-vless://9464aaf5-6e3a-4c82-8816-d92c22f5350f@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fmehdi0o0oo0o0.3utilities.com%3A443%2F%40v2ray_configs_pool&host=vcp3.dehel15354.woRKERs.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=vcp3.dehel15354.woRKERs.dev#238-%F0%9F%87%AE%F0%9F%87%B6%20Iraq%20-%20NA%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3-worker
-vless://329b42e1-1528-49ee-ac1f-ed20e95aa9f9@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fse1-vless.sshmax.xyz%3A443%2Fvless&host=vcp3.dehel15354.wORkErs.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=vcp3.dehel15354.wORkErs.DEV#239-%E7%BE%8E%E5%9B%BD_0515082681-worker
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@crackthecode.ftp.sh:2096?encryption=none&type=ws&path=%2Fa.ssll.gay%3A2096%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&host=vcp3.dehel15354.WORKers.dEv&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=vcp3.dehel15354.WORKers.dEv#240-%E7%BE%8E%E5%9B%BD_0515082698-worker
