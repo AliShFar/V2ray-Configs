@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
 			"server" : "nk6.boom.skin",
 			"server_port" : 16000,
 			"server_udp_port" : 0,
@@ -590,16 +603,3 @@ vless://251780c1-1501-43b3-be2a-d144a20d479a@crackthecode.ftp.sh:443?encryption=
 vless://9464aaf5-6e3a-4c82-8816-d92c22f5350f@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fmehdi0o0oo0o0.3utilities.com%3A443%2F%40v2ray_configs_pool&host=vcp3.dehel15354.woRKERs.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=vcp3.dehel15354.woRKERs.dev#238-%F0%9F%87%AE%F0%9F%87%B6%20Iraq%20-%20NA%20%F0%9F%8C%8F%20VL-WS-TLS%204%E2%83%A3-worker
 vless://329b42e1-1528-49ee-ac1f-ed20e95aa9f9@crackthecode.ftp.sh:443?encryption=none&type=ws&path=%2Fse1-vless.sshmax.xyz%3A443%2Fvless&host=vcp3.dehel15354.wORkErs.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=vcp3.dehel15354.wORkErs.DEV#239-%E7%BE%8E%E5%9B%BD_0515082681-worker
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@crackthecode.ftp.sh:2096?encryption=none&type=ws&path=%2Fa.ssll.gay%3A2096%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&host=vcp3.dehel15354.WORKers.dEv&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=vcp3.dehel15354.WORKers.dEv#240-%E7%BE%8E%E5%9B%BD_0515082698-worker
-vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMjQxLfCfh7jwn4eqIFN3ZWRlbiAtIFNww6VuZ2Eg8J+MjSBWTS1XUy1UTFMgNOKDoy13b3JrZXIiLCJhZGQiOiJjcmFja3RoZWNvZGUuZnRwLnNoIiwicG9ydCI6NDQzLCJpZCI6IjI1MTc4MGMxLTE1MDEtNDNiMy1iZTJhLWQxNDRhMjBkNDc5YSIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Y3AzLmRlaGVsMTUzNTQuV09ya0Vycy5EZVYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGRmeTUuZm9yaXJhbi50cmFkZTo0NDMvTmJzMkRTVFNrRlc2TXJyRlFIZVNEUTciLCJob3N0IjoidmNwMy5kZWhlbDE1MzU0LldPcmtFcnMuRGVWIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJhbmRyb2lkIn0=
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@188.114.97.3:443?encryption=none&type=ws&path=%2F7CJZ3UQqgT5csLy0%3Fed%3D2560&host=bia-PAin-baChE.PaGEs.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=bia-PAIn-Bache.PAGES.DEV#242-%F0%9F%87%A8%F0%9F%87%A6CA_644_%40Surfboardv2ray
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=bpb-worker-panel-h5f.pages.dev&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C20-50%2C20-50&sni=bpb-worker-panel-h5f.pages.dev#243-%F0%9F%87%A8%F0%9F%87%A6CA_251_%40Surfboardv2ray
-vless://0010195d-2e68-4053-b3a4-eba0f7cef05b@bia-to.savagev2ray.site:443?encryption=none&type=ws&path=%2FTelegram%20-%20%40SavageV2ray%20-%20Telegram%20-%20%40SavageV2ray&host=all3.savagev2ray.site&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=all3.savagev2ray.site#244-%F0%9F%87%A8%F0%9F%87%B7CR_84_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNDUt8J+HqPCfh6ZDQV8yMTU0X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS44My4xMDgiLCJwb3J0Ijo0NDMsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImhtczAyLmZ4aWFvbWkuc2JzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJob3N0IjoiaG1zMDIuZnhpYW9taS5zYnMiLCJhbHBuIjoiaDMsaDIiLCJmcCI6InJhbmRvbWl6ZWQifQ==
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNDYt8J+HqPCfh6ZDQV8yMTg5X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny4xNzUuNTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im9iZGlpLmNmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0Ijoib2JkaWkuY2ZkIiwiYWxwbiI6ImgyIiwiZnAiOiJyYW5kb21pemVkIn0=
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNDct8J+HqPCfh6ZDQV8yMTM1X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS4xNS4zNiIsInBvcnQiOjQ0MywiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoicmFuZG9taXplZCJ9
-vless://f6c283bb-156a-4ae1-94cf-0e7b195a6a79@188.114.96.3:443?encryption=none&type=ws&path=%2F%40V_2ray%2C%40V_2ray%2C%40V_2ray%2C%40V_2ray&host=join-telegraam-channel-disvpn.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=join-telegraam-channel-disvpn.pages.dev#248-%F0%9F%87%A8%F0%9F%87%A6CA_1935_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNDkt8J+Ht/Cfh7pSVV8yMTE1X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE4NS4xNDguMTA0LjExOCIsInBvcnQiOjQ0MywiaWQiOiI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiYWItdGVzdC1mcm9zdHktZmxvd2VyLWU3ZmIudGFyaXJvYzg2NC53b3JrZXJzLmRldiIsIm5ldCI6IndzIiwicGF0aCI6Ii9obXMwMi5meGlhb21pLnNicy9saW5rIiwiaG9zdCI6ImFiLXRlc3QtZnJvc3R5LWZsb3dlci1lN2ZiLnRhcmlyb2M4NjQud29ya2Vycy5kZXYiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTAt8J+HqPCfh6ZDQV8yMTQ2X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS40LjYiLCJwb3J0Ijo0NDMsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Imdsd2VpZGYuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTEt8J+HqPCfh6ZDQV8yMTUxX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS40NC4xMDYiLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJhbmRyb2lkIn0=
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTIt8J+HqPCfh6ZDQV8yMTYzX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yNi42LjY1IiwicG9ydCI6NDQzLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTMt8J+HqPCfh6ZDQV8yMTQ1X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS4yNS45NiIsInBvcnQiOjQ0MywiaWQiOiI5ODA1YjRkMi0wY2RmLTQ0NDAtODdjYy1jZGI5NzRkYTk5ZTUiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoiYmUxLXZtZXNzLnNzaG1heC54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJob3N0IjoiYmUxLXZtZXNzLnNzaG1heC54eXoiLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSJ9
