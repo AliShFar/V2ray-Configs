@@ -3,6 +3,30 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+### Allblue 蓝色海洋 流量套餐
+> 4月优惠活动
+
+🚀新用户注册可免费试用2天
+
+🚀季付套餐购买可享90折优惠
+
+🚀半年付套餐购买可享85折优惠
+
+🚀年付套餐购买可享80折优惠
+
+| 套餐 | 每月流量 | 月付 | 季付(优惠10%) | 半年付(优惠15%) | 年付(优惠20%+送60天) |
+| --- | ----- | --- | --------- | ---------- | ------------- |
+| 轻量套餐 | 100G | 9.9元 | 26元 | 49元 |  98元 |
+| 商务套餐 | 200G | 18.8元 | 49元 | 96元 |  179元 |
+| 旗舰套餐 | 300G | 28元 | 77元 | 146元 |  278元 |
+
+**免费体验: https://gh.allblue.cloud**<br/>
+**免费体验: https://gh.allblue.cloud**<br/>
+**免费体验: https://gh.allblue.cloud**<br/>
+
+注：如果全部节点不可用，请先检查客户端是否最新版本。<br/>
+如果不是最新版本，请前往 Allblue 官网下载最新版本。
+
 
 **每日公益流量有限，如果流量用尽，请前往官网注册账号**
       
@@ -579,27 +603,3 @@ vless://5ddcf782-2ed1-44d8-badc-ce5e92ce2af5@185.146.173.185:8880/?type=ws&encry
 <html>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'">
-    <title>Site not found &middot; GitHub Pages</title>
-    <style type="text/css" media="screen">
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
-
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
-
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
-
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-device-pixel-ratio: 2),

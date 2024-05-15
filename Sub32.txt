@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.102:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2%2Chttp%2F1.1#4Kian-7937
-vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.179:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2,http/1.1#4Kian-7938
-vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.95:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2,http/1.1#4Kian-7939
-vless://9109d0ce-49ff-45d6-8405-debb0e4d244c@185.146.173.185:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#4Kian-7940
-vless://9109d0ce-49ff-45d6-8405-debb0e4d244c@185.146.173.185:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#4Kian-7941
-vless://9109d0ce-49ff-45d6-8405-debb0e4d244c@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#4Kian-7942
-vless://9109d0ce-49ff-45d6-8405-debb0e4d244c@188.114.98.224:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#4Kian-7943
-vless://912068b6-6dc4-4179-b6e7-03e1aa583420@162.159.134.234:8080?path=/&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#4Kian-7944
-vless://91243706-d635-4447-9040-578b66fbea3a@173.245.59.100:8880?security=none&type=ws&host=xn---qhndlayawi--d-9v2rayqtr75q95bklb97ndla44yjnsp99007hkhja.zmv2ray.site.&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config@V2ray#4Kian-7945
 vless://913dfd5d-c4ab-4bd9-af2d-fd320252e9f5@104.21.12.150:2095?security=&type=ws&path=/?ed%3D2048&host=us4.vlessx.us&encryption=none#4Kian-7946
 vless://913dfd5d-c4ab-4bd9-af2d-fd320252e9f5@172.67.132.41:80?type=ws#4Kian-7947
 vless://9160ea29-3378-464a-a1e4-8e8c5591c1a9@188.114.96.3:443?path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&security=tls&encryption=none&alpn=http/1.1&host=v2ray1ng.pages.dev&fp=randomized&type=ws&sni=v2ray1ng.pages.dev#4Kian-7948
@@ -603,3 +594,12 @@ vless://ad60198d-1104-4518-ac8b-8ccaa7538895@104.19.247.91:2052?security=none&ty
 vless://ad657e39-5f41-4f9b-9f12-815936d5c19b@185.146.173.185:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#4Kian-8534
 vless://ad657e39-5f41-4f9b-9f12-815936d5c19b@185.146.173.185:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#4Kian-8535
 vless://ad657e39-5f41-4f9b-9f12-815936d5c19b@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#4Kian-8536
+vless://ad657e39-5f41-4f9b-9f12-815936d5c19b@188.114.98.224:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#4Kian-8537
+vless://ada35bae-0fde-41a1-b302-f5d97aadf648@172.66.192.70:443?security=tls&sni=mindroom-5cz.pages.dev&type=ws&host=mindroom-5cz.pages.dev&path=%40MIND_ROOM2%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#4Kian-8538
+vless://ada7333c-b5ee-48f0-8cae-80de363e863a@104.21.25.46:443?security=tls&sni=be1-vless.sshmax.xyz&type=ws&host=be1-vless.sshmax.xyz&path=/vless#4Kian-8539
+vless://adc29165-bdfc-495a-8cc3-e117bd0231fb@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=dm.XsV2ray.cfd&type=grpc#4Kian-8540
+vless://adc29165-bdfc-495a-8cc3-e117bd0231fb@all.vipxali.cfd:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=safari&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&sni=dm.XsV2ray.cfd#4Kian-8541
+vless://ae0f3ca3-83ff-4013-9a99-7f3b543e8601@185.146.173.237:2095?encryption=none&host=V2ray-_-_-_-_-Vpn_Mikey.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&type=ws#4Kian-8542
+vless://ae0f3ca3-83ff-4013-9a99-7f3b543e8601@185.146.173.237:2095?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=V2ray-_-_-_-_-Vpn_Mikey.Amir-Mikey.Tech.&type=ws#4Kian-8543
+vless://ae143fd0-3fad-4a3e-bc14-064de037b578@172.67.162.197:443?security=tls&type=ws&sni=c1.gem2.cfd&path=/&encryption=none&headerType=none#4Kian-8544
+vless://ae3a2fc4-ada8-40e8-aae0-672cab868967@172.67.174.201:2095?security=none&type=ws&host=mahdi.net.346ewfsgv2ray.comxn--adge2535.g1ewkjd.kajdwoek2qop.lavazem456di.lavazemjanebicoffee.IR&path=%2Fi3V2ray-i3V2ray-i3V2ray-i3V2ray-i3V2ray%2Fi3V2rayi3V2rayi3V2ray%3Fed%3D2048#4Kian-8545
