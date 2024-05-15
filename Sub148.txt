@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@sk01.trojanyyds.xyz:443?security=tls&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://30302ff3-ea0a-460e-b056-ef4117216d55@104.16.124.175:8443?security=tls&sni=usa.servervless.de&type=ws&path=/?ed%3D2048&host=usa.servervless.de&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada70.fupaj.com:443?security=tls&type=ws&path=users?ed%3D2048&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxMDMuMTE0LjIwMi4xNTciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNjljNWVlZWEtMzc1Yi00ZTA2LWEzY2QtNTczNGMzOWZiYWRiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzNjg3NCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJjb2Rlc2FuZGJveC5pbyIsImFpZCI6IjAiLCJob3N0Ijoic2FuZC5ibGFua3UubWUiLCJpZCI6ImM4YWJmNjZhLTE5MDMtNDYzOC1hNDQ4LTljODY3MzNlNDI1NCIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MxMzQ4MCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoic2FuZHAuYmxhbmt1Lm1lIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://0af0090b-4223-4e21-84a6-46b192ff2a60@212.64.199.79:443?security=reality&sni=trendyol.com&fp=chrome&pbk=6JqJJ-wIZpy62AitE3hxzdv1DiosZ3UCPwaJQhuq4Qg&sid=de&type=grpc&serviceName=@Catvpns&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:4444#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.92:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIzOC41NC4xODUuMTEyIiwiYWlkIjoiNjQiLCJob3N0Ijoid3d3LjczNjY0OTk5Lnh5eiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTcwMTA5MTEzMzQwOSIsInBvcnQiOiIzMDAwMCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuNzM2NjQ5OTkueHl6IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 trojan://jagoanssh-Aweqdcc@104.21.32.17:443?security=tls&sni=to.ruangguru.com&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@sg2.jjzgy.live:443?security=tls&sni=sg2.jjzgy.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -603,3 +595,11 @@ ssr://MTY1LjIyLjYzLjI0NTozOTg0MTpvcmlnaW46cmM0OnBsYWluOlZFaEhNbWcwUzBJMlYwdHhUVG
 vless://3a4c5a76-046b-4094-8528-f2882ed9b492@w3.org:8443?encryption=none&security=tls&sni=irancpi.cpIOnLINe.us&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=irancpi.cpIOnLINe.us&path=vless-ws%2F%3Fed%3D2048#1-irancpi.net_FreeConfig
 
 vless://3a4c5a76-046b-4094-8528-f2882ed9b492@medium.com:2053?encryption=none&security=tls&sni=irancpi.cpionLinE.us&alpn=http%2F1.1&fp=ios&type=ws&host=irancpi.cpionLinE.us&path=vless-ws%2F%3Fed%3D2048#2-irancpi.net_FreeConfig
+
+vless://3a4c5a76-046b-4094-8528-f2882ed9b492@w3.org:8443?encryption=none&security=tls&sni=irancpi.CPIONLINe.uS&alpn=h2&fp=android&type=ws&host=irancpi.CPIONLINe.uS&path=vless-ws%2F%3Fed%3D2048#3-irancpi.net_FreeConfig
+
+vless://3a4c5a76-046b-4094-8528-f2882ed9b492@w3.org:2096?encryption=none&security=tls&sni=irancpi.cPIoNlINE.us&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=irancpi.cPIoNlINE.us&path=vless-ws%2F%3Fed%3D2048#4-irancpi.net_FreeConfig
+
+vless://3a4c5a76-046b-4094-8528-f2882ed9b492@w3.org:2096?encryption=none&security=tls&sni=irancpi.cpIOnLINe.uS&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=irancpi.cpIOnLINe.uS&path=vless-ws%2F%3Fed%3D2048#5-irancpi.net_FreeConfig
+
+vless://3a4c5a76-046b-4094-8528-f2882ed9b492@medium.com:2083?encryption=none&security=tls&sni=irancpi.cpIOnLInE.US&alpn=h2&fp=chrome&type=ws&host=irancpi.cpIOnLInE.US&path=vless-ws%2F%3Fed%3D2048#6-irancpi.net_FreeConfig
