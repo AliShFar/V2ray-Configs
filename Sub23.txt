@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://0346cf80-8b9b-11ee-ac12-1239d0255272@162.159.138.232:443?security=tls&sni=us1.test3.net&type=ws&path=/howdy&host=us1.test3.net#4Sarina-3546
 trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#4Sarina-3547
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud15.jafiyun.world:22015?security=tls&sni=scloud15.jafiyun.world#4Sarina-3548
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud16.jafiyun.world:22016?security=tls&sni=scloud16.jafiyun.world#4Sarina-3549
@@ -602,4 +603,3 @@ trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#4Sarina-4142
 trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls#4Sarina-4143
 trojan://6fd1efa0-b559-48ce-81f9-56d1765f5ab5@195.123.213.46:443?security=tls#4Sarina-4144
 trojan://6trm5AH8g5Oc@54.162.132.34:12986?security=tls&sni=appsvs.shop#4Sarina-4145
-trojan://6x8HcghsjS@103.214.68.57:10003?allowInsecure=1&sni=yes998.chickenkiller.com#4Sarina-4146

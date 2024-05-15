@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://e51b714f-18ab-4969-a82d-4500649320bd@104.21.3.3:8080?type=ws&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet#%E6%9C%AA%E7%9F%A5_0515186784
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.156.141:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0515186785
 vless://0dda1b38-ff02-4a50-8c94-33138c757f80@104.18.107.43:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.ir.&path=%2Fvless#%E6%9C%AA%E7%9F%A5_0515186786
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.20.141.7:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0515186787
@@ -602,4 +603,3 @@ vless://29419d2e-5475-42a9-a615-996608ce0a46@172.67.145.239:443?type=ws&encrypti
 vless://28ceb89c-03d8-443d-bd89-c90b34236485@172.66.44.123:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=7ba6dc37.joinmahdiserver-4q9.pages.dev&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515181272
 vless://23082daa-5437-4e20-986b-a6e156f8f133@172.67.193.195:80?type=ws&encryption=none&path=%40VPNHTTPInjectorfree&security=tls&sni=sinaq.iuuxo.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515181273
 vless://229b691c-4b01-4ae0-a5d1-73faf24b98f3@172.67.151.65:443?type=ws&encryption=none&path=%2F&security=tls&sni=freedom10.zsqelfc.workers.dev&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515181274
-vless://2136a808-ccd7-48cf-97c8-2c0b255e4715@172.67.73.163:8443?type=ws&encryption=none&path=%2FTelegram-V2ray_Alpha%3Fed%3D2560&security=tls&sni=telegram-falcunargo-france.falcunar.asso.eu.org&fp=random&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0515181275

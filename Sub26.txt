@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://umis0GDWL5RQ@3.112.192.169:16717?allowInsecure=0&sni=appsvs.shop#4Sarina-5346
 trojan://vbmwVEzFLS@45.63.106.86:17831?type=tcp&allowInsecure=1#4Sarina-5347
 trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#4Sarina-5348
 trojan://vvip-periantara@id3tr.jagoan.vip:443?security=tls&sni=id3tr.jagoan.vip#4Sarina-5349
@@ -602,4 +603,3 @@ vless://1ece19dd-1cb7-460b-8c40-f4607a5539b5@173.245.58.201:443?security=tls&sni
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@104.21.4.56:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&path=/#4Sarina-5943
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&type=ws&path=/#4Sarina-5944
 vless://1f61d666-59d2-42cb-b390-3ebaf6c51839@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#4Sarina-5945
-vless://1f61d666-59d2-42cb-b390-3ebaf6c51839@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#4Sarina-5946

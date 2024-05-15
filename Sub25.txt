@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@z9.gozargah.one:443?security=tls&sni=z9.gozargah.one#4Sarina-4746
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:11215?security=tls&sni=z268.hongkongnode.top#4Sarina-4747
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:14846?security=tls&sni=x46.flybar.work#4Sarina-4748
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:16895?security=tls&sni=x40.flybar.work#4Sarina-4749
@@ -602,4 +603,3 @@ trojan://tune7jerky7HAYRICK@gb1-1.openssl3.com:60001?security=tls#4Sarina-5342
 trojan://tune7jerky7HAYRICK@ty1-1.openssl3.com:1443?security=tls#4Sarina-5343
 trojan://u6oTXWhVcl@157.245.148.244:443?security=tls&sni=aka.ms&type=tcp&alpn=h2,http/1.1#4Sarina-5344
 trojan://u6oTXWhVcl@157.245.148.244:443?security=tls&type=tcp&sni=aka.ms#4Sarina-5345
-trojan://umis0GDWL5RQ@3.112.192.169:16717?allowInsecure=0&sni=appsvs.shop#4Sarina-5346
