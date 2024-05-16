@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%D8%A7%F0%9F%87%BA%F0%9F%87%B8
-vless://351ec4ce-248a-4e14-a5f0-064258ff1741@cf3.sansorchi.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=VALdGZ9k&sni=10a1fd726.gheychi.games#%F0%9F%A5%B0%E2%9C%85%40V2ray_Custom+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
-vless://6b7376dd-11d8-443c-804a-996072aefd81@16.16.194.182:8443?security=reality&encryption=none&pbk=qnbr59Qag2lQxUhi1mDYZmvZbZMa1UpWQ5xYdrGFdXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram[4]•@HABVPN•[4]join✓
-vless://%74ele%67ra%6d-id-%41rV%32ra%79@185.146.173.59:80?type=grpc&serviceName=Telegram
 vless://34daa0a0-c4ba-417e-bb0f-553e6640565b@Vpn-MikeyMci.myftp.org:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=Vpn-Mikey.%E6%AC%A2%E8%BF%8E%E8%AE%BF%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E4%B8%AD.website.&type=ws#Tel+Channel%F0%9F%91%89+configsCenter
 vless://c8c68a7c-cf87-44e9-bb7f-93930bf53150@65.109.188.161:8080?security=none&encryption=none&headerType=none&type=tcp#%40v2raying
 vless://bfa97e71-394a-474d-9de1-a601d3faafe3@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=de.vpncustomize.Website&fp=chrome&type=ws&sni=de.vpncustomize.Website#%F0%9F%87%A9%F0%9F%87%AAws
@@ -603,3 +599,7 @@ vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=%2F%3Fed
 vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@167.235.224.93:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=firefox&type=grpc&serviceName=&sni=forward222.maryam1500.top#@AntiFilterService
 vless://9b908a2c-50a3-4fa3-9e04-02d1cd758537@castomayz.ir:16588?type=tcp&path=%2F&headerType=http&security=none#Castom%7C-V2
 vless://28b2a88a-2564-4a2c-b2d6-b733a6b1e8ed@185.146.173.94:8880?path=%2F%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+TEL++%40LIGHTNING6+JOIN+%40LIGHTNING6+TEL++%40LIGHTNING6+%40LiV2ray&security=none&encryption=none&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&type=ws#%40v2rayngco0+%3A%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF+%D9%87%D8%A7%DB%8C+%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF‌
+vless://14738fef-5e35-4923-a59e-972bf1d79a3f@185.146.173.185:2095?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=varzesh3org.vip-svg.sbs&type=ws#%40XvProxy+-+Ws1-oarfsbe4
+vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.231:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
+vless://c71dec53-0865-4fbb-88b8-c9a3ecc6e856@discord.gg:2096?path=%2FWss&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=beokmylovegodenshallah.atkfood.com&fp=firefox&type=ws&sni=beokmylovegodenshallah.atkfood.com#%40v2rayN_OPENAVPN
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@855.outline-vpn.cloud:443?type=ws&security=tls&host=cf-wkrs-pages-vless-aoy.pages.dev&path=/?ed%3D2048&fp=randomized&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#%F0%9F%8C%8F+%7C+tm%7C%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA@V2rayZa

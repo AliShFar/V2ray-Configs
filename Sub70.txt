@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://9135cd70-8979-4853-bc91-0ee4c1607e33@httpcustom_free.vipgermany.lol:2087?type=grpc&serviceName=%40HTTPCustom_Free-%40HTTPCustom_Free-%40HTTPCustom_Free-%40HTTPCustom_Free-%40HTTPCustom_Free&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Loop.v2rayvpn2.sbs#%40HTTPCustomFree
-vless://06188bf1-a31d-468d-811e-7fa7cb3678d6@45.12.30.16:80?path=%2Fbackup&security=none&encryption=none&host=eAphx6.AmOozesHgAH-pC.cOm&type=ws#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%7C+%F0%9F%87%A9%F0%9F%87%AA+%7C+%D8%AE%D8%A7%D9%86%DA%AF%DB%8C+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=lockey_vpn&security=tls&encryption=none&alpn=h2,http/1.1&host=FIltEr-1tg.pagEs.DeV&fp=chrome&type=ws&sni=filTer-1tg.pAges.DeV#lockey_vpn
-vless://8673d8fe-c17b-4dd8-a292-d7c4ad82144d@zula.ir:2095?path=%2F&alpn=Tel:@SRCVPN,Tel:@SRCVPN&host=V2ray-_-_-_-_-%53%68%68%50%72%6F%78%79.TelegramChannelJoinBede.com.&type=ws#🇩🇪@SRCVPN|MCI
 vless://6945a4ab-64da-4d4c-a329-c0d210557231@s3.scan3.shop:46489?security=none&encryption=none&host=namasha.com&headerType=http&type=tcp#%40VPNTAKO%26%F0%9F%87%A8%F0%9F%87%AEIRELAND-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 vless://9a889d63-749a-47f2-a5ca-1270a304bb38@46.101.97.248:2096?mode=multi&security=reality&encryption=none&pbk=44g6vUV1ncfefziao6e4XAX8uDmj2S3epDLk26IM4Fw&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=cdn.discordapp.com&sid=f6c78b61#MKH+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://afd60049-2835-442e-aeec-71a6f1bc9090@web.bbv2ry.pics:443?type=ws&path=%2F&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Sky2.bbv2ry.pics#%40vpnskyy%DA%A9%D8%A7%D9%86%D8%A7%D9%84%E2%80%8C%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
@@ -603,3 +599,7 @@ vless://42da051e-5cd2-4708-b4ba-99431d3b4059@103.184.44.0011:2087?mode=gun&secur
 vless://Telegram_ID-V2ray_Alpha@max.alpha4.top:2053?security=reality&encryption=none&pbk=gJPGGGSPltFzsiFYMNio20Rb4384B71qesVt677ykVc&host=max-sni.alpha4.top&headerType=http&fp=firefox&spx=%2F&type=tcp&sni=max-sni2.alpha4.top&sid=f9912b8b#%40v2rayng_free1
 vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?security=tls&sni=snapppay.ir&type=grpc&serviceName=vpn_xw.t.me&alpn=h2,http/1.1#🔒VL-GRPC-TLS🇸🇪SE-162.19.189.17:8443📡PING-109.28-MS
 vless://c07e8407-319d-4f37-e4be-a60051851111@37.27.33.199:56425?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFI+%7C+%40v2raa_server
+vless://SVNTEAM@185.146.173.59:80/?type=ws&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&host=SvnTeamV2rayGmTwo7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&security=none#@V2rayTG🇩🇪VIP-2
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.177.250:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram@VlessConfig🇸🇪
+vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?security=tls&encryption=none&type=ws&host=JAvIdsHAH.PaGes.DEV&path=/telegram-proxy_mtm?ed%3D2560&sni=jAVIdshAh.PageS.deV&fp=randomized&alpn=h2,http/1.1#کانفیگپرسرعت🐸@sellvpniran1
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.3:443/?type=ws&encryption=none&flow=&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev#%5BTELEGRAM%3AFREECONFIGV2%5D%F0%9F%8D%8A
