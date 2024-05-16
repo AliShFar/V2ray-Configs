@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?security=tls&sni=aws-es-madrid-1.f1rocketnode.com&fp=chrome&type=ws&path=/f1rocket&host=aws-es-madrid-1.f1rocketnode.com#4Sarina-5440
 trojan://your_password@aws-in-mumbai-1.f1cflinea.com:443?security=tls&sni=aws-in-mumbai-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-in-mumbai-1.f1cflinea.com#4Sarina-5441
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#4Sarina-5442
 trojan://your_password@aws-uae-1.f1cflineb.com:443?security=tls&sni=aws-uae-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uae-1.f1cflineb.com#4Sarina-5443
@@ -603,3 +602,4 @@ vless://213acced-2c20-405a-9742-226caa911199@172.67.217.127:443?security=tls&sni
 vless://21668127-88ea-46e2-8969-cdc01855cd55@45.63.98.246:800?security=reality&sni=www.yahoo.com&type=grpc&serviceName=telegram--metavpnn&fp=chrome&pbk=Abwh4dXxxCbtsTWi8QoVehw2KKBSiwGFkFgmaDQktXw&sid=c3a96170#4Sarina-6037
 vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?security=tls&sni=dd.foxnim.info&type=grpc&serviceName=@foxnim#4Sarina-6038
 vless://2176baeb-9d5d-463c-b55f-2a429b68edd8@185.146.173.169:2095?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.com&path=%2FTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%3Fed%3D2048#4Sarina-6039
+vless://21a0376a-22c9-44d0-873f-ecc8e646e692@172.67.171.58:80?security=none&type=ws&host=Fr1-vless.sshmax.xyz.&path=%2Fvless#4Sarina-6040

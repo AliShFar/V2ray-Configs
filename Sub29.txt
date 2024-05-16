@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://21a0376a-22c9-44d0-873f-ecc8e646e692@172.67.171.58:80?security=none&type=ws&host=Fr1-vless.sshmax.xyz.&path=%2Fvless#4Sarina-6040
 vless://21a78493-40c9-4a44-9b03-9c45f41d1845@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=dm.XsV2ray.cfd&type=grpc#4Sarina-6041
 vless://21a78493-40c9-4a44-9b03-9c45f41d1845@all.vipxali.cfd:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=safari&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&sni=dm.XsV2ray.cfd#4Sarina-6042
 vless://21a800b7-3101-4516-8733-65080c771a3a@104.168.107.230:4212?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poynter.org&fp=chrome&pbk=zCvPNWac39x--E0ndGfBVBT-_04k4xaPkumhxeKPQHo&sid=64fc3b4bffb71d7e&type=tcp&headerType=none#4Sarina-6043
@@ -603,3 +602,4 @@ vless://3bd37527-25e8-4c10-a807-e4e1be6fe311@www.speedtest.net:2086?encryption=n
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#4Sarina-6637
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#4Sarina-6638
 vless://3c1395ac-0f01-45ff-b7be-fd3021914577@128.140.123.35:2087?security=reality&sni=greenpepper.ir&fp=firefox&pbk=nw5p42lKknkOxt2REHCHPwThSaNIqbwGrz5WNCfh9U4&sid=df91&type=grpc&serviceName=@CatVpns&encryption=none#4Sarina-6639
+vless://3c4f29f2-0caf-4926-a54c-5ee0c91518e9@173.245.58.100:443?security=tls&sni=garywelch.pages.dev&type=ws&host=garywelch.pages.dev&path=CHANNEL:@vpnwedbazTelegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz&fp=randomized&alpn=h3#4Sarina-6640

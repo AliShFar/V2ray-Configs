@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5c132f79-9f32-49fd-baa9-e7c997ab1ded@104.18.14.19:2083?security=tls&sni=fijffjdfjdfjdwieiriiririfjfndnmx.goldxray.com&type=grpc&serviceName=Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNGTelegram:@Hpv2rayNGTelegram:@Hpv2rayNG-Telegram:@Hpv2rayNG&fp=chrome&alpn=http/1.1,h2#%E6%9C%AA%E7%9F%A5_0516186366
 vless://5990e21c-68d9-46c3-af83-f0e974f65efb@104.21.70.42:2053?security=tls&sni=vpsiran.cloud&type=ws&host=vpsiran.cloud&path=%2Fadwkawd.ldawhfaw.wt.awt.wty3eyg.hhbth.fe.ds.dwad.wdaw%3Fed%3D2560#%E6%9C%AA%E7%9F%A5_0516186367
 vless://b04859a9-1156-4d22-8873-60980d5b599d@104.21.57.227:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#%E6%9C%AA%E7%9F%A5_0516186368
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.20.196.26:2087?security=tls&sni=melody.howareu.xyz&type=grpc#%E6%9C%AA%E7%9F%A5_0516186369
@@ -603,3 +602,4 @@ vless://db055023-cbec-4e18-a6af-d10259933b01@104.21.25.86:443?type=ws&encryption
 vless://d97fddc9-783c-492d-bab4-84d4dfdbf6df@104.21.25.34:443?type=ws&encryption=none&path=%2Fvless&security=tls&sni=is1-vless.sshmax.xyz&fp=chrome&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_051618972
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?type=ws&encryption=none&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&sni=test45-45f.pages.dev&fp=chrome&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_051618973
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.44.99:443?type=ws&encryption=none&path=%2F&security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&fp=chrome&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_051618974
+vless://cb1b1fd0-8c81-4803-a58d-03c8cab97539@104.21.25.254:2053?type=ws&encryption=none&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=sinaazizporrr.bebzamhatmailir.worKeRS.dev&fp=chrome&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_051618975
