@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&type=ws&sni=cdn13.cdn2cdn.com&path=/&host=cdn13.cdn2cdn.com#%E6%9C%AA%E7%9F%A5168
-trojan://44cae3ca-8710-49a0-9567-490fb5e8aaf3@95.164.116.35:443?#%E6%9C%AA%E7%9F%A5169
 ss://YzNjMjBkYjctZDMyYi00NTRhLTk4NDMtZWMyMmQwNjRhODQyOg==@104.21.41.131:443#%E6%9C%AA%E7%9F%A5170
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%E6%9C%AA%E7%9F%A5171%2012.7MB%2Fs
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.135.232:2083?security=tls&type=ws&sni=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&host=missyousir.segaro.tech#%E6%9C%AA%E7%9F%A5172
@@ -603,3 +601,5 @@ trojan://50d57640-74b5-485c-b04e-931803b169a7@139.162.36.248:443?#%E6%9C%AA%E7%9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeU01eDZwNENKOGRsYjB5OW1WSEJL@188.94.155.82:35152#%E6%9C%AA%E7%9F%A5582%201.8MB%2Fs
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@103.172.116.94:9003#%E6%9C%AA%E7%9F%A5583%20244.8KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#%E6%9C%AA%E7%9F%A5584%202.7MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.99.192:443#%E6%9C%AA%E7%9F%A5585
+trojan://telegram-id-directvpn@13.50.253.187:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5586

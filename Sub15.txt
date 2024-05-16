@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-	"authUser" : "",
-	"authPass" : "",
 	"autoBan" : false,
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
@@ -603,3 +601,5 @@ vless://53f581a0-8527-4064-d8c1-cb223d498d0d@185.146.173.59:8080?encryption=none
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.118:2052?encryption=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=a.ssll.gay#306-%E6%9C%AA%E7%9F%A5_0515234478
 vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=workerr.johnstoner.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=workerr.johnstoner.workers.dev#307-%E7%BE%8E%E5%9B%BD_0515232043
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzA4LfCfj4FSRUxBWS0xNzIuNjcuMTMyLjE1LTEwMDc4IiwiYWRkIjoiMTcyLjY3LjEzMi4xNSIsInBvcnQiOjQ0MywiaWQiOiIxOGU1ZjQwZi1iZGE2LTRjMTUtOTMzNC1lODdjZGE2MDQ3YWYiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJob3N0IjoiIiwiYWxwbiI6ImgyIiwiZnAiOiJyYW5kb21pemVkIn0=
+vless://e05ee27e-41e7-45da-aa4d-24df7b18c17f@190.93.245.101:80?encryption=none&type=ws&path=%2F&host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website#309-%E7%BE%8E%E5%9B%BD_0515231470
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzEwLfCfh7rwn4e4VVMtMTI5LjE0Ni4xMTMuMjU0LTM4NjkiLCJhZGQiOiIxMjkuMTQ2LjExMy4yNTQiLCJwb3J0Ijo0NDEwNywiaWQiOiJmZDg0NzQ2Yi0yNGVkLTQ0OWYtYzUzZS1kZWY0YjkwZTEyMmUiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJlZGdlIn0=
