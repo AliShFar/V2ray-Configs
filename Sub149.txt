@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.94:9015#0%7C-https%3A//t.me/MrXbin-42
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@103.172.116.94:9042#0%7C-https%3A//t.me/MrXbin-44
 ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.94:9007#0%7C-https%3A//t.me/MrXbin-45
 ssr://163.172.218.164:443:origin:aes-256-ctr:tls1.2_ticket_authTmV3QnlwYXNzZXIyMDIzremarks=MHwtaHR0cHM6Ly90Lm1lL01yWGJpbi00OQ==&obfsparam=Y2RuLmFwcHNmbHllci5jb20=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi0xMDIiLCAiYWRkIjogImJncm91cC5ub2RlMy52Lm5vZGVsaXN0LWdmd2FpcnBvcnQyLnRvcCIsICJwb3J0IjogNDEwMDEsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyMTU1MTQ1YS1iMWI1LTQ0M2EtODk3Ny02NzBmNmJkMTBmMDIifQ==
@@ -603,3 +601,5 @@ vless://dfc60e16-7c8e-4028-aa98-c6e10a4c1623@194.116.215.238:2087/?type=tcp&encr
 vless://48b131dd-e2ca-4b25-a36c-d57d191d74ef@194.116.215.238:10050/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
 vless://ad39d88f-a99f-49cd-b049-313a874d96d9@194.116.215.238:2085/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
 vless://dfeb0b81-07aa-443b-b17f-219dad94354f@194.116.215.238:2082/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eset.com&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
+vless://5a0ea0a8-94b4-4b61-8edd-c64a61f68343@194.116.215.238:6443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pantercon.net&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station
+vless://0b44c98a-feec-4f69-a783-749e0ba3c2e4@194.116.215.238:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nachtzug.net&fp=chrome&security=reality&pbk=GxKvpoFL5jEDgr6z7IGsv0Pn0KiuGbBvrdYpZBQtfV0&sid=05bd080dc0eae7a4#t.me%2FConfig_Station

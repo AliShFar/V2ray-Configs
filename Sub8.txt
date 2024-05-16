@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://7638faf9-9111-4c8b-9160-ccd27605dec4@66.235.200.123:8443?encryption=none&fp=chrome&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws#%E7%BE%8E%E5%9B%BD_051704068
+vless://cc986068-8ecd-4f20-a00e-d5405302c33d@66.235.200.123:80?encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg&security=&type=ws#%E7%BE%8E%E5%9B%BD_051704069
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?encryption=none&host=buyz.ribiwa9933.workers.dev&path=%2F%3Fed%3D2048&security=none&type=ws#%E7%BE%8E%E5%9B%BD_051704070
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?alpn=http%2F1.1&encryption=none&host=bpb-worker-panel-chf.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=bpb-worker-panel-chf.pages.dev&type=ws#%E7%BE%8E%E5%9B%BD_051704071
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2FATdmeWNJtRAFAGlU%3Fed%3D2560&security=tls&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&type=ws#%E7%BE%8E%E5%9B%BD_051704072
@@ -601,5 +603,3 @@ vless://e2443e49-e0ce-4628-808f-76469b53cf66@net9.ntr.biz.id:443?encryption=none
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net7.ntr.biz.id:443?encryption=none&security=tls&sni=net7.ntr.biz.id&fp=randomized&type=ws&host=net7.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042192
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net4.ntr.biz.id:443?encryption=none&security=tls&sni=net4.ntr.biz.id&fp=randomized&type=ws&host=net4.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042193
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net3.ntr.biz.id:443?encryption=none&security=tls&sni=net3.ntr.biz.id&fp=randomized&type=ws&host=net3.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042194
-vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx22.ntr.biz.id&sni=cx22.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042195
-vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80?encryption=none&security=none&type=ws&host=cx10.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042196

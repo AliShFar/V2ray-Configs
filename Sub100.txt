@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#MCI𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦➠@𝐈𝐑_𝐂𝐎𝐍𝐅𝐈𝐆_𝐀𝐍
-vless://80350e5d-0b7a-4816-9502-9ef140ba3904@49.13.144.144:58912?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://fe7cffc9-c635-4c3f-bd78-0d458df429bb@6g.helga1.space:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=6g.helga1.space#helgaaaaaaaaaaa
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.147.151.80:443?path=%2Fblue&security=tls&encryption=none&host=krsg21.wang66.homes&type=ws&sni=krsg21.wang66.homes#@Tiny_VPN_Official
 vless://bf44c0a7-0b7d-49d0-b849-ac63a0176749@185.146.173.32:2095?path=%40Proxy_1%40Proxy_1&security=none&encryption=none&host=Reza_OFF.markazdl.ir.&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
@@ -603,3 +601,5 @@ vless://SVNTEAMm@mtn.VILT1VPN.com:80?path=%2F%40SvnProBot%40SvnProBot%40SvnProBo
 vless://20a8bc12-9ad0-42cf-a922-4ff1d02626f4@all.v-2rayngvpn.cfd:2087?type=grpc&serviceName=%40HTTPCustom_Free-%40HTTPCustom_Free-%40HTTPCustom_Free-%40HTTPCustom_Free-%40HTTPCustom_Free&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=Loop.v2rayvpn2.sbs#%40HTTPCustomFree%20TLS
 vless://f8687cc5-a16e-4c58-8e20-d0695ce88570@discord.com:2087?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=www.gostmod.shop#%40V2ray_npv%282%29
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1.irancloudflare.cab&type=ws&sni=1.irancloudflare.cab#%40bimnetvpn
+vless://-Channel-XsV2ray-@tel-xsv2ray.xalixv2ray.space:443?mode=gun&security=reality&encryption=none&pbk=jNUJT2tnKrteerSeMMKqoC1qO1M7oECcNh-yRUKsxTM&fp=chrome&spx=%2F&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=tgju.org&sid=2a718e4a#%40MTConfig
+vless://5688f020-26a4-4f76-9750-30cde760d88a@zula.ir:80?security=none&encryption=none&type=ws&headerType=none&path=%252F&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.#🇩🇪@vpncostumer

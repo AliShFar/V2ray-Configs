@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx22.ntr.biz.id&sni=cx22.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042195
+vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80?encryption=none&security=none&type=ws&host=cx10.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042196
 vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=%2fray#%E7%BE%8E%E5%9B%BD_0517042197
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2087?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E7%BE%8E%E5%9B%BD_0517042225
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.204.84:2053?security=tls&type=ws&sni=itcenteriran.blog&path=/p=19&encryption=none&headerType=none#%E7%BE%8E%E5%9B%BD_0517042230
@@ -601,5 +603,3 @@ vless://d5250e79-aae7-4514-8a5e-f9718f7ac035@205.233.181.74:8080?security=none&t
 vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@172.67.221.237:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0517042911
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.115.243:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0517042912
 vless://c4516bc5-9e46-4205-983e-2b8646e498dd@172.67.157.203:2083?security=tls&sni=cf.mitowear.com&type=ws#%E7%BE%8E%E5%9B%BD_0517042913
-vless://c5f73a29-1252-4bde-a5f5-6f2c9d9b8185@172.67.171.69:80?security=none&type=ws&host=Fr2-vless.sshmax.xyz.&path=%2Fvless#%E7%BE%8E%E5%9B%BD_0517042914
-vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@172.67.2.238:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#%E7%BE%8E%E5%9B%BD_0517042915
