@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type=ws&host=ehda.sajaditsme.com#%E6%9C%AA%E7%9F%A5_05171812622
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.21.32.65:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#%E6%9C%AA%E7%9F%A5_05171812623
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.234.59:443?security=tls&sni=biA-Pain-BAcHE.PAgEs.Dev&type=ws&host=bIA-PaIn-bacHe.Pages.deV&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05171812624
 vless://d65a16be-38c6-4a7d-a989-d4b007443e73@104.21.43.19:2087?security=tls&sni=best.fandlandalphapro.ir&type=grpc&serviceName=vless#%E6%9C%AA%E7%9F%A5_05171812625
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.16.173.149:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#%E6%9C%AA%E7%9F%A5_05171812626
@@ -601,5 +603,3 @@ vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.29:2083?encryption=none&t
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.33:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0517183096
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.34:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0517183097
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.40:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0517183098
-vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.42:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0517183099
-vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.43:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0517183100

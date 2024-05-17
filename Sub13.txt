@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+ssr://103.172.116.79:9026:origin:aes-256-cfb:plainUVdERHZWRTlucE51clFmQQ==remarks=M3xJSHd6TUM0ek1FMWk=
+ssr://103.172.116.90:9041:origin:aes-256-cfb:plainVTZxbllSaGZ5RG1uOHNnbg==remarks=M3xJSHd5T1M0eU5FMWk=&obfsparam=
 ssr://103.172.116.90:9031:origin:aes-256-cfb:plainQndjQVVaazhoVUZBa0RHTg==remarks=M3xJSHd5T0M0NU9VMWk=&obfsparam=
 ssr://103.172.116.79:9005:origin:aes-256-cfb:plainWkVUNTlMRjZEdkNDOEtWdA==remarks=M3xJSHd6TUM0eU1rMWkgIzE=
 ssr://103.172.116.79:9038:origin:aes-256-cfb:plainZ1lDWVhma1VRRXMyVGFKUQ==remarks=M3xJSHd6TUM0Mk1FMWk=
@@ -601,5 +603,3 @@ vmess://ewogICAgImFkZCI6ICJpbmRleC56aGFhbC5pciIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 trojan://telegram-id-privatevpns@18.196.217.14:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0858
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMjQuMjMiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8/ZWQ9MjA0OCZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyIsICJob3N0IjogImEucHJhcHQ0LmlyIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#%F0%9F%87%A8%F0%9F%87%B4CO-190.120.231.45-0775
