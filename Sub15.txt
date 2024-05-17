@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
@@ -602,4 +603,3 @@ vless://532c9a78-307b-4e57-863d-b8d812708308@188.114.97.3:443?encryption=none&ty
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&path=%2FSiNABiGO-SiNABiGO%3Fed%3D2048&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=jd.wxgqlfx.top#183-%F0%9F%87%A8%F0%9F%87%A6CA_666_%40Surfboardv2ray
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?encryption=none&type=ws&path=%2FJAR0HGBT6mwTVcbf%3Fed&host=bIA-paiN-BaCHE.pAGES.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=bIA-paIn-bacHE.PAGeS.DEv#184-%F0%9F%87%A8%F0%9F%87%A6CA_902_%40Surfboardv2ray
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:443?encryption=none&type=ws&path=users%3Fed%3D2048&host=ada3.qowch.com&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C20-50%2C10-20&sni=ada3.qowch.com#185-%F0%9F%87%A8%F0%9F%87%A6CA_2161_%40Surfboardv2ray
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?encryption=none&type=ws&path=lockey_vpn&host=FIltEr-1tg.pagEs.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C50-100%2C10-50&sni=filTer-1tg.pAges.DeV#186-%F0%9F%87%A8%F0%9F%87%A6CA_1044_%40Surfboardv2ray
