@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://Parsashonam-68@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%D8%A7%DA%A9%D8%AB%D8%B1+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=sub.shadowsokstes.WoRkErs.DeV&fp=randomized&type=ws&sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@for-irancell.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev#%40LOCKEY_VPN
 vless://70b37e01-b668-4030-b99b-2d8d7cfc9c0f@104.20.205.66:8443?type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&security=tls&fp=chrome&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#@unlimiteddev-Irancell2
 vless://8d6d02e4-9aea-49db-bf55-8738e04e9c78@81.12.27.2:8443?path=%2F&security=none&encryption=none&type=ws#%40Click_vpnn+1
@@ -601,5 +603,3 @@ vless://94f0b35d-93f1-4df5-965b-dca7fb84ab9f@chat.openai.com:8080?path=%2Fmelov2
 vless://00ba09be-b38c-4780-968e-010168a7dc02@chat.openai.com:8080?path=%2F%6D%65%6C%6F%76%32%72%61%79&serviceName=@V2GNG@V2GNG@V2GNG@V2GNG@V2GNG@V2GNG&security=none&encryption=none&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&type=ws#@V2GNG
 vless://ee40dac7-d269-40b3-affb-cc18d8e49f24@zula.ir:8080?type=ws&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&security=none#t.me%2FV2rayFa-100
 vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@159.69.25.131:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒VL-GRPC-RLT🇩🇪DE-159.69.25.131:443📡PING-088.01-MS
-vless://37b9c44c-bba1-4add-ac39-2f01774caa7d@5.161.159.111:39379?mode=gun&security=reality&encryption=none&authority=&pbk=3TO2yeC8KYTVCLzLRR9dW4AAzHFGxorRZzvxdV2kDW4&fp=firefox&type=grpc&serviceName=&sni=discord.com&sid=0333e61c#%F0%9F%86%94+%40%F0%9D%90%80%F0%9D%90%91%F0%9D%90%93%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%92%F0%9D%90%95%F0%9D%90%8F%F0%9D%90%8D1+%F0%9F%A6%8B
-vless://881bbd35-e871-43b5-850b-cdeaa2452ec2@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#@Qand_shecan
