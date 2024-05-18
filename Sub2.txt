@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://23488040-d041-4b69-8e12-8f30e11d12f3@194.53.53.66:8880?encryption=none&type=ws&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&path=%2Fdaily_configs%3Fed%3D2048#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_051818044
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?encryption=none&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2&security=tls&sni=cfed.tgzdyz2.top#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_051818045
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_051818053
 vless://94ee07ed-89a7-4496-89a5-38bfd9257db3@109.120.187.105:443?security=reality&sni=discord.com&type=tcp&fp=chrome&pbk=wyLWK0M2EOazAXeCI8WIAjB8xJlpbLBg5IOKyWRmBx8&sid=7f4d9ece#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_051818066
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.67.215.70:2087?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_051818067
 vless://c7a0a55c-1162-479b-a17e-7a5c235fd485@45.67.215.76:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_051818068
@@ -600,6 +603,3 @@ vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?type=ws&encryptio
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.44.99:443?type=ws&encryption=none&path=%2F&security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&fp=chrome&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0518181158
 vless://cb1b1fd0-8c81-4803-a58d-03c8cab97539@104.21.25.254:2053?type=ws&encryption=none&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=sinaazizporrr.bebzamhatmailir.worKeRS.dev&fp=chrome&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0518181159
 vless://49cf68bf-3f2f-4692-aca3-2f7768ea484c@time.is:80?encryption=none&host=vip.proxystorepanel.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#%E6%9C%AA%E7%9F%A5_051818116
-vless://ca234697-1849-4ad2-b673-85a2cc96d986@104.21.8.202:443?type=ws&encryption=none&path=%2F&security=tls&sni=worker-aged-boat-aa11.jajoyo1612.workers.Dev&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0518181160
-vless://c6ea407d-9f3f-4625-9dda-401837f0f68f@104.21.229.0:80?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=iud1.kaghazacharrangi.sbs&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0518181161
-vless://c110db8f-72c8-52a2-8ae9-dfbfd9704035@104.21.4.33:443?type=ws&encryption=none&path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&sni=joinmahdiserver.pmyzdpx.wOrkErS.DEV&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0518181162
