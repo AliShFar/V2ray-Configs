@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a6fee2c0-60cc-48ee-b75d-6efd77d14964@173.245.58.3:443?security=tls&sni=jcS1MDEfTIXX.gsgsgsg.shop&type=httpupgrade&host=jcS1MDEfTIXX.gsgsgsg.shop&path=%2FJfDhd3XZsdZ97Ign&fp=chrome&alpn=http/1.1#%E7%BE%8E%E5%9B%BD_0518082813
-vless://ce77c1d9-e952-4056-ba70-15f76aac6ff8@172.67.10.53:2096?security=tls&sni=zdvlxdvlkcxvkmlcxvklcvlkcxvkmlxcvmklxcvklm.goldxray.com&type=grpc&serviceName=Tel-HpV2rayNG&fp=chrome#%E7%BE%8E%E5%9B%BD_0518082814
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.74.4:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#%E7%BE%8E%E5%9B%BD_0518082815
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.218.137:80?type=ws&path=/graphql#%E7%BE%8E%E5%9B%BD_0518082816
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.67.134.122:443?security=tls&sni=worker.iraniancp.click&type=ws&fp=chrome#%E7%BE%8E%E5%9B%BD_0518082817
@@ -603,3 +601,5 @@ vless://c117c4fa-c93c-4d52-b02c-fcbc22063bfa@188.114.96.45:80?security=none&type
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@188.114.99.215:443?security=tls&sni=qopyz.oxnetirz11.ONfLAShdRIvE.aPp&type=ws&host=qopyz.oxnetirz11.ONfLAShdRIvE.aPp&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#%E8%8D%B7%E5%85%B0_051808226
 vless://7616e5ad-3a0c-4f23-c9e1-c819db851ef6@188.114.98.224:80?security=none&type=ws&host=v2rayfast_7.xn--78-pv2cvta065cac9302fea377a148g.website.&path=%2FV2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7V2RAYFAST_7#%E8%8D%B7%E5%85%B0_051808227
 vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.97.2:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#%E8%8D%B7%E5%85%B0_051808228
+vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:443?security=tls&sni=071ll2532.16965a6a7d.workers.dev&type=ws&host=071ll2532.16965a6a7d.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#%E8%8D%B7%E5%85%B0_051808229
+vless://3286a0e7-72b3-4def-8327-8409d795585f@188.114.96.1:443?security=tls&sni=v2vus2.rayvenstorm.com&type=ws&path=%2Fzz&fp=chrome&alpn=h2,http/1.1#%E8%8D%B7%E5%85%B0_051808230

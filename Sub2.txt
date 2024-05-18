@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://0ed853ea-3392-4fe9-957a-e39105b0ef02@84.47.235.69:46057?security=none&type=tcp&host=www.speedtest.net&headerType=http#%E4%BC%8A%E6%9C%97_051808064
-vless://2d528d47-eebe-4a83-a746-cb26cb791308@85.9.97.74:443?security=tls&sni=vip.hugsy6748165.click&type=tcp&alpn=h2%2Chttp%2F1.1#%E4%BC%8A%E6%9C%97_051808065
 vless://195a6525-3e82-4a03-9fa8-0462db52bfd2@158.58.190.122:21344?security=none&type=tcp&headerType=http#%E4%BC%8A%E6%9C%97_051808066
 vless://4ebe2e07-b0e4-4df1-9d61-9a513499743c@94.101.187.138:443?security=none&type=ws&path=/dr#%E4%BC%8A%E6%9C%97_051808067
 vless://bb2f2637-17fc-4dbf-acf1-91e68c3ecc13@217.60.241.87:11025?security=none&type=tcp#%E4%BC%8A%E6%9C%97_051808068
@@ -603,3 +601,5 @@ vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?encryption=none
 vless://dd3fc0bb-80db-4880-90d0-060b33dfeada@104.17.169.114:80?host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024&security=none&type=ws#%E6%9C%AA%E7%9F%A5_051808100
 vless://90cc46d9-249e-4f86-bb28-df556f326a87@104.20.205.66:8443?fp=chrome&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws#%E6%9C%AA%E7%9F%A5_051808101
 vless://90cc46d9-249e-4f86-bb28-df556f326a87@bia-to2.unlimiteddev.site:8443?fp=chrome&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws#%E6%9C%AA%E7%9F%A5_051808102
+vless://0fa0b341-a1a1-4e7d-b605-e76b93844b2c@bia-to2.unlimiteddev.site.:80?host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048&security=none&type=ws#%E6%9C%AA%E7%9F%A5_051808103
+vless://0fa0b341-a1a1-4e7d-b605-e76b93844b2c@104.17.169.114:80?host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024&security=none&type=ws#%E6%9C%AA%E7%9F%A5_051808104
