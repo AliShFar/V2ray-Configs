@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTcyLjY3LjE1Mi4xNzAiLCJwb3J0IjoyMDUyLCJpZCI6IjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Im1haGlsdS5zaXRlIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-0692
 trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xibaozi.19890604.day:10837?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E4%B8%AD%E5%9B%BD%0D_5
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-8496
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuNTEuMjA4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibmluYS5ib25kIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjUxLjIwOC0wMTUyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibmluYS5ib25kIgp9
@@ -601,5 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDEgQG5vZHBhaSIsImFk
 		},
 		{
 			"remarks" : "dongtaiwang.com",
-			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
-			"server" : "nk7.boom.skin",
