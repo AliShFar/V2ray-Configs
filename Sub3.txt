@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&path=TELEGRAM-PROXY_MTM%2F%3Fed%3D2048&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#%E6%9C%AA%E7%9F%A5_051913111
+vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?encryption=none&fp=randomized&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws#%E6%9C%AA%E7%9F%A5_051913112
+vless://vpnowl-vpnowl-vpnowl-vpnowl@www.zula.ir:80?encryption=none&host=%E5%A4%9C%E7%8C%AB%E5%AD%90.cdn.discordapp.com.%E7%8C%AB%E5%A4%B4%E9%B9%B0.www.cloudflare.com.owL-V2ray.ahvaz1.irancell.ir.fAstLy.stRomectolex.cOm.&path=%2FJoin-Tele-VpnOwl%3Fed%3D2560&security=none&type=ws#%E6%9C%AA%E7%9F%A5_051913113
 vless://dbce4267-2d1a-4df2-9c3f-cc3cfe97cdd6@104.17.169.114:80?host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024&security=none&type=ws#%E6%9C%AA%E7%9F%A5_051913114
 vless://90cc46d9-249e-4f86-bb28-df556f326a87@104.20.205.66:8443?fp=chrome&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws#%E6%9C%AA%E7%9F%A5_051913115
 vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?encryption=none&type=ws&path=%2Fauto&security=tls&sni=auto.minusober.com#%E6%9C%AA%E7%9F%A5_05191311549
@@ -600,6 +603,3 @@ vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.206.206:2083?security=tls&sn
 vless://9cf47438-4a75-47bf-8f86-102644470797@104.16.124.175:8080?security=none&sni=nl16.vlessx.us&type=ws#%E6%9C%AA%E7%9F%A5_05191312576
 vless://f7274a51-ba56-4973-baa9-1e5e274f9dad@104.21.42.84:443?security=tls&sni=pasargad.top-speed.pw&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_05191312577
 vless://38535031-ccc3-4a94-bd54-c68806486406@104.26.0.72:443?security=tls&sni=furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&path=%2Fed%3F%3D2560&fp=random&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05191312578
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.12.101:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#%E6%9C%AA%E7%9F%A5_05191312579
-vless://9500134e-7c06-49b8-97ab-8cc43828f0f3@104.24.140.135:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#%E6%9C%AA%E7%9F%A5_05191312580
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.19.34.120:2087?security=tls&sni=guq22.oxNEtwoRkS.LiNk&type=ws&host=guq22.oxNEtwoRkS.LiNk&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05191312581
