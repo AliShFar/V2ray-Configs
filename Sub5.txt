@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://85191312-31e3-4d16-a8f6-89d64d904d05@discord.com.:80?encryption=none&host=uwu.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&type=ws#%E6%9C%AA%E7%9F%A5_05201813179
+vless://dd3fc0bb-80db-4880-90d0-060b33dfeada@104.17.169.114:80?encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024&security=none&type=ws#%E6%9C%AA%E7%9F%A5_05201813180
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@discord.gg.:80?encryption=none&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&type=ws#%E6%9C%AA%E7%9F%A5_05201813181
 vless://4807b8ab-d74a-445e-9556-45a7ace4f6d6@cf.dalazhi.eu.org:443?encryption=none&security=tls&sni=tj2.dalazhi.eu.org&fp=chrome&type=ws&host=tj2.dalazhi.eu.org&path=%2Fpuijws#%E6%9C%AA%E7%9F%A5_05201813188
 vless://cc16020c-a851-4f63-85cf-fb1e8d0d1c48@cf3.dalazhi.eu.org:443?encryption=none&security=tls&sni=tj1.dalazhi.eu.org&fp=chrome&type=ws&host=tj1.dalazhi.eu.org&path=%2Fezbkws#%E6%9C%AA%E7%9F%A5_05201813192
@@ -601,5 +603,3 @@ vless://7b869fca-6bb9-40b0-9bb8-2f5e4d1dab07@104.20.195.104:80?encryption=none&t
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@tgju.org:2083?encryption=none&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=hagh.pages.dev#%E6%9C%AA%E7%9F%A5_0520184913
 vless://ed6c1394-e12f-4658-b27d-88efe506d7f4@cloud.kinononva.top:443?encryption=none&type=ws&host=bv6675.bafixdomin.com&path=%2F1ws&security=tls&sni=bv6675.bafixdomin.com#%E6%9C%AA%E7%9F%A5_0520184914
 vless://81eaefca-2f16-43f6-e585-22e70e43905c@104.17.156.85:80?encryption=none&type=ws&host=V2NET-IRAN-NL-V2ray.lars1.nl&path=%2FVMESSKHODAM%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0520184915
-vless://36a8a97b-9380-4cfb-9248-4f71a09f454c@104.16.61.8:2053?encryption=none&type=grpc&security=tls&sni=ag.YaKariim.com#%E6%9C%AA%E7%9F%A5_0520184916
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@trump.com:2087?encryption=none&type=grpc&security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&alpn=h2#%E6%9C%AA%E7%9F%A5_0520184917
