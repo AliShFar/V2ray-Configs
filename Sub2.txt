@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://265a7c62-ca8c-4795-8db7-ed46c1ba4fa7@78.39.56.107:7050?security=none&type=tcp&host=discord.com&headerType=http#%E4%BC%8A%E6%9C%97_052018067
+vless://d6017076-83eb-4f64-bdbf-3a14086c0b81@89.235.117.209:8088?security=none&type=tcp&host=alibaba.ir&headerType=http#%E4%BC%8A%E6%9C%97_052018068
 vless://363e03b6-9fe2-452d-ba58-838f6004b4f7@212.80.11.140:1010?security=none&type=tcp&host=www.speedtest.net&headerType=http#%E4%BC%8A%E6%9C%97_052018069
 vless://b3a1da8a-6ba9-45cc-9526-cf9cac13fa30@94.182.137.187:80?security=none&type=ws&path=#%E4%BC%8A%E6%9C%97_052018070
 vless://862c9290-81ff-4a5a-a825-89501ce77c77@85.9.100.182:56924?security=none&type=tcp&host=bwm.com&headerType=http#%E4%BC%8A%E6%9C%97_052018071
@@ -601,5 +603,3 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@45.66.129.123:32680?security=tls&sn
 vless://50f5fc55-6781-4ce4-91e1-ccc5f53c859b@104.18.54.188:80?encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&path=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY%2CV2ray.motorcycles.Elmahstyle.ir%3Fed%3D2048&security=none&type=ws#%E6%9C%AA%E7%9F%A5_052018034
 vless://Parsashonam-68@www.visa.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F%3Fed%3D2560&security=tls&sni=mail.offch.blog&type=ws#%E6%9C%AA%E7%9F%A5_052018035
 vless://Parsashonam-70@www.visa.com:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#%E6%9C%AA%E7%9F%A5_052018036
-vless://Parsashonam-67@www.visa.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F%3Fed%3D2560&security=tls&sni=mail.offch.blog&type=ws#%E6%9C%AA%E7%9F%A5_052018037
-vless://Parsashonam-69@www.visa.com:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#%E6%9C%AA%E7%9F%A5_052018038
