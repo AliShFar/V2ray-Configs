@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.65:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E8%8A%AC%E5%85%B0_052023002
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E8%8A%AC%E5%85%B0_052023003
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.180:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E8%8A%AC%E5%85%B0_052023004
+vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?mode=gun&security=reality&encryption=none&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=fada4f5f#%E8%8A%AC%E5%85%B0_052023023
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@65.108.244.106:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=%40ipV2Ray&fp=firefox&pbk=XuBmd_9lf646T80SEzIXo5DzWFsUfoLY72OXzHLB9mE&sid=fada4f5f#%E8%8A%AC%E5%85%B0_052023024
 vless://2c058d4f-0f6c-4802-9f53-bc319ef5fc7f@37.27.43.167:10559?security=reality&sni=yahoo.com&type=tcp&fp=randomized&pbk=JTt7Au4cLeKLnQfD8O-yO19nS5u2CgP3fIO1DHlej1c&sid=c5f1f156#%E8%8A%AC%E5%85%B0_052023025
 vless://e74391c2-9414-49c7-91cf-00d29710d86e@37.27.45.137:2053?security=reality&sni=discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%E8%8A%AC%E5%85%B0_052023026
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDUxLjc3LjUzLjIwMDo3MDAx#%E6%B3%A2%E5%8
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDUxLjc3LjUzLjIwMDo3MzA3#%E6%B3%A2%E5%85%B0_121320006
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDUxLjc3LjUzLjIwMDo3MzA2#%E6%B3%A2%E5%85%B0_121320007
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDUxLjc3LjUzLjIwMDo4MTE5#%E6%B3%A2%E5%85%B0_121320008
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDUxLjc3LjUzLjIwMDo4MTE4#%E6%B3%A2%E5%85%B0_121320009
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRANTEuNzcuNTMuMjAwOjgwMDk=#%E6%B3%A2%E5%85%B0_121320010
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA1MS43Ny41My4yMDA6ODAwMA==#%E6%B3%A2%E5%85%B0_121320011
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA1MS43Ny41My4yMDA6NTUwMA==#%E6%B3%A2%E5%85%B0_121320012
