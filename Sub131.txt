@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-directvpn@52.214.38.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪Ireland-کانالتلگرام:@V2rayweb
-trojan://telegram-id-privatevpns@52.214.241.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪Ireland-کانالتلگرام:@V2rayweb
 trojan://telegram-id-privatevpns@18.192.248.150:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%28S103%29%F0%9F%87%A9%F0%9F%87%AAt.me%2Ft.me%2Feliv2
 trojan://e5ff91b0-1313-11ef-9c56-1239d0255272@uk1.test3.net:443/?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#@cht
 trojan://4Hgb1iAnuE@senuzergroup.duckdns.org:41668?security=tls&headerType=none&type=tcp&sni=m.zoom.us#All+Zoom
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ2MrSDdQUmhud2dNYWVMSGNSellJNkxZUzByYWtmbGJ
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.218:5003#%40bored_
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40v2ray
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#iroazadi+irancel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSEZXL0djODVrSE52bXdnZXlNU05CSkN3UXpVNXg1bml1Y1dsS0VBbXd3PQ==@52.58.237.75:8080#%40V2ray_Alph
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTSUdEU0hhZFJIUGROdW44dHc3VDJtZ3N0VHljZ1hNS0ZoR0RWcndCYnNzPQ==@13.53.212.41:8081#Kiava-T23

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@172.67.24.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#%40V2rayNG3
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@155.248.202.141:443/?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz#%E2%9A%95%EF%B8%8F11%40oneclickvpnkeys
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2082?host=workerr.hashdiler.workers.dev&security=none&type=ws&path=%2F%3Fed%3D2048&encryption=none#%26*%26
 vless://Parsashonam-10@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#%40Gp_Config%20%F0%9F%91%88%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@168.119.48.210:8080?type=ws&path=%2F%40VPNLime&host=fast.com&security=none#Channel%3A%20%40VPNLime
@@ -603,3 +601,5 @@ vless://65638e89-6bb7-4462-9acd-5885e6940705@Iran_vs_Israel_000:1111?security=re
 vless://e6a78ef4-d6cd-4e20-9c03-64c48a4588bc@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%A9%F0%9F%87%AA%20%40Artemis_Vpn%2802%29
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#%40Lightv2ray
 vless://709c5649-bb1c-4a19-8604-3ef4f5de5816@185.146.173.59:8880?path=%2F%40Alfred_Config+%2C+%40Alfred_Config&security=none&encryption=none&host=xn---ndu.ntjdjpdb--a-9wl9jqtr75a136a8b97ajdk44yjwac23607hkhja2.myarchive69.site.&type=ws#%40v2rayland02
+vless://bf49f16f-938a-4ec1-c376-4cece73eb5da@telchann1.v2pedia.xyz:443?mode=gun&security=reality&encryption=none&pbk=mX9uSjHQswPhuHo-RUyEgMLZjwOrltfOxQBrGzRggQg&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=www.speedtest.net&sid=4248#%40vpn_go67
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.35.226:443?path=%2F47b9ebrCQpP3DA7h%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bpB.RadIcaliZaTion.ir&fp=randomized&type=ws&sni=BpB.RaDICAlizAtIon.IR#https%3A%2F%2Ft.me%2FV2rayNG_nV

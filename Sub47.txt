@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://36112366-6c82-43ce-92b0-1a442a1a7156@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#🔗 Vauth - 776
-vless://c3ecc67c-997a-4588-a82c-65e5d03deafc@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#🔗 Vauth - 777
 vless://07fa5400-554e-43fb-a78b-d51209a1693f@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#🔗 Vauth - 778
 vless://ac7c3732-7676-4965-8e74-d41a70319a9e@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#🔗 Vauth - 779
 vless://19251700-f3de-4a4d-a78c-c862f54b2522@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#🔗 Vauth - 780
@@ -603,3 +601,5 @@ vless://29d9e61b-ff12-4dfe-bcda-64d1f2f49458@104.21.104.196:80?type=ws&host=vmes
 vless://48201c60-6fbc-4cef-a59f-435eff793c70@162.159.138.1:8443?security=tls&sni=freetls.951314.xyz&type=ws&host=freetls.951314.xyz&path=%2F%3Fed%3D2560&fp=randomized&alpn=h2#🔗 Vauth - 1373
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.13.125:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc#🔗 Vauth - 1374
 vless://a0597c21-66ae-4eb6-809f-fbf785dcada9@107.189.31.139:80?security=none&type=ws&path=/vless#🔗 Vauth - 1375
+vless://73f0da18-c165-4dd6-9a1c-d33f8d124186@104.18.202.232:2082?security=none&type=ws&host=列列男事的事列上赛男.novaball.LINK.#🔗 Vauth - 1376
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.109:443?security=tls&sni=current.iraniancp.click&type=ws&fp=chrome#🔗 Vauth - 1377
