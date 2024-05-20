@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.data.gov.uk:443/?type=ws&encryption=none&flow=&host=binance.co.kp&path=%2F%3Fed%3D2560&security=tls&sni=www.data.gov.uk#AnycastNode_TLS-PineApple
+vless://8e556711-ac12-4671-b414-f2b9def01b8a@91.107.136.81:443?mode=gun&security=reality&encryption=none&pbk=TBsf4u5rtI9GYhZ3qXRPGRxnh9brQIm2uG1HLBEsrSw&fp=firefox&spx=%2F&type=grpc&serviceName=@Digiv2ray,@Digiv2ray&sni=c.amazon-adsystem.com&sid=77a5fe08#@Mso_666_baz
 vless://telegram-id-ArV2ray@78.47.222.198:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=s2.dnschecker.tech#%40V2rayngconfiig+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKHV2rayngn
 vless://a5be56bc-4ea1-4e30-a3f3-fd84123a2c8b@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇩🇪@ehsawn8|All
@@ -601,5 +603,3 @@ vless://---DIGIV2RAY---@185.146.173.32:2095?path=/DIGIV2RAY-digiv2ray%3Fed%3D204
 vless://d5d4b1db-b788-4cdf-a2a5-e9d67571029b@185.146.173.32:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-%53%68%68%50%72%6f%78%79.TelegramChannelJoinBede.com.&type=ws#🇩🇪All|@BigSmoke_Config
 vless://cad05b17-730e-47aa-b8cf-b93c0ad00fb7@45.32.182.106:43228?security=none&encryption=none&headerType=none&type=tcp#🔰@fast_2ray👈سرورهای‌بیشتر
 vless://SVNTEAM@mtn.VPNPROSEC.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com#🔰@fast_2ray👈سرورهای‌بیشتر
-vless://bcd39d3f-fd84-4d6a-92ac-1897ec444c5f@Bia-to.savagev2ray.site:443?type=ws&path=%2F&host=all2.savagev2ray.site&security=tls&fp=&alpn=&sni=all2.savagev2ray.site#%40SavageV2ray%20-%20Tls-c6l692ma
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443/?type=ws&encryption=none&host=FIltEr-1tg.pagEs.DeV&path=%2F%3Fed%3D2047&security=tls&sni=filTer-1tg.pAges.DeV#%F0%9F%94%AE%20Telegram%20%F0%9F%86%94%20%40Romax_VPN%20%7C%20Server%201

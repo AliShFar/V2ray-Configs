@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://a290c15c-066a-4c25-9fa2-f50b0d3d9ba6@104.17.80.220:2095?security=none&type=ws&host=svm.zula.ir.gta.ir.zula.com.mast.com.rast.com.shoplfooioood.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95karsovalomn.atkfood.com.&path=%2FAMVPN%3Fed%3D1024#🔗 Vauth - 4489
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.219.241:443?security=tls&sni=edge.020770.xyz&type=ws&fp=chrome#🔗 Vauth - 4490
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.203:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 4491
 vless://486c2641-9156-42e2-a43c-3004f9b74dc4@104.21.44.43:443?security=tls&sni=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&type=ws&host=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&path=/&alpn=http/1.1&allowInsecure=1#🔗 Vauth - 4492
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.171.198:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔗 Vauth - 4493
@@ -601,5 +603,3 @@ trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10826?security=tls&
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10827?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|www.zyw.asia ZYW免费节点
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10828?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|TG频道内随机时间更新订阅地址
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10829?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|@Zyw_Channel
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10830?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|tg频道:@Zyw_Channel
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10831?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|www.zyw.asia ZYW免费节点

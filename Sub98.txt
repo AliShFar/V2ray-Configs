@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d8704b00-c989-480d-8cec-b87c86201a38@104.18.140.51:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg&security=none&encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws#TelegramID%28%40kingofilter%29+926
+vless://99140fd9-a80e-4da3-875a-51e3caf0eeeb@104.20.205.66:8443?path=%2F&security=tls&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#%40bored_vpn
 vless://VPNCUSTOMIZE@discord.gg:8080?path=%2FV2ray_CUSTPMIZE-%26-CUSTOMIZE_V2ray&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#%F0%9F%9A%80Join%3A%40V2rayng_anti
 vless://42df4e24-8bd8-450b-9e7a-04dfb075faa3@185.146.173.59:80?path=%2F&security=none&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=shhproxyfreesas.xn--85-pv2cl2k5x3fipr.org.&type=ws#🇩🇪@ghalagyann|WS
 vless://Jon--V2RAXX--@185.146.173.94:2052?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
@@ -601,5 +603,3 @@ vless://39e0d38d-9668-4a40-9e1d-0ccde5329af6@188.114.98.224:2095?path=%2F&securi
 vless://51d22c42-5342-4715-a927-1b76226dd4cf@162.159.44.200:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vipv2rey@vipv2rey&sni=join-telegram-channel-vipv2rey.mamare.ir#Vipv2rey
 vless://5b097bce-ce4d-448a-90f1-238083812ea8@amodamax48.duckdns.org:22844?type=tcp&security=tls&fp=&alpn=&allowInsecure=1&sni=m.zoom.us#Dialog%20Zoom-%40ASKRx2006
 vless://beb3409b-ced2-4801-f92b-c287ab0140d5@185.146.173.59:2095?path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048&security=none&encryption=none&host=ir.ir.AfV2ray.xn--84-pv2cvta065cac9302fea377a148g.Online.&type=ws#WS5-All+%7C+%40AfV2ray
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?type=ws&security=tls&host=bIA-paIn-bacHE.PAGeS.DEv&path=/Telegram-V2ray_Alpha?ed%3D2560&sni=bIA-paIn-bacHE.PAGeS.DEv&alpn=h2,http/1.1#@v2rayngbaloch+5
-vless://6dc254fd-c36e-413f-ad4b-39bb76e420ed@66.235.200.107:8443?path=%2F&security=tls&encryption=none&host=vmessorg.xn--54qv00ez5ar77g.co&fp=chrome&type=ws&sni=vmessorg.xn--54qv00ez5ar77g.co#%40nim_vpn_ir
