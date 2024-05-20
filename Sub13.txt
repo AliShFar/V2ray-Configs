@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOVhjNGRIWEd2M2M=@205.134.180.143:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2010
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@ak1661.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2010
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@www.outline.network.ak1889.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2017
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOVhjNGRIWEd2M2M=@www.outline.network.ak1949.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2041
@@ -603,3 +601,5 @@ trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a015.zhuan99.men:10015?security=tl
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20278?security=tls&sni=z278.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Relay%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2055%20TG%3A%40SSRSUB
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3%20India%2001%20TG%3A%40SSRSUB
 trojan://4478@195.15.243.26:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20Switzerland%28ChatGPT%29%2001%20TG%3A%40SSRSUB
+trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@jp1117.ljydw.top:80?security=tls&sni=jp1117.ljydw.top&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20United%20Arab%20Emirates%28ChatGPT%29%2001%20TG%3A%40SSRSUB
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20141?security=tls&sni=z141.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Relay%20%F0%9F%87%AF%F0%9F%87%B5%20Japan%2015%20TG%3A%40SSRSUB
