@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f35ee8d8-6ef1-49d5-a138-12b3d514e873@172.66.44.202:443?encryption=none&type=ws&host=pardazeshvpn-tg6.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg6.pages.dev#%E7%BE%8E%E5%9B%BD_0520041976
-vless://516b2500-f741-4550-f7b7-9fe15d261798@172.67.156.156:8443?encryption=none&type=grpc&security=tls&sni=mBm.MtM2000.iR&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0520041977
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@172.64.160.149:80?encryption=none&type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0520041984
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@190.93.244.37:80?encryption=none&type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0520041985
 vless://609435cb-3fab-420c-8aa6-27712246be02@172.66.44.100:443?encryption=none&type=ws&host=pardazeshvpn-tg15.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg15.pages.dev#%E7%BE%8E%E5%9B%BD_0520041986
@@ -603,3 +601,5 @@ vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@172.67.68.79:80?security=none&type=
 vless://00e5ad17-dbe6-432e-be8f-bcfe25922bbb@172.67.187.245:80?type=ws&host=salar-maper65-shhhoirn-nhvdii-hhs544.poshakbany.ir.&path=%2Ft.me%2FTRv2ray-V2rayng-v2rayNgfree-telegram-t.me%2FTRv2ray_telegram%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0520042808
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.118.180:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0520042809
 vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#%E7%BE%8E%E5%9B%BD_0520042810
+vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@172.64.32.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#%E7%BE%8E%E5%9B%BD_0520042811
+vless://fb9ca098-c0a3-4f13-9b4a-ea31975d69a7@172.66.44.73:443?security=tls&sni=pardazeshvpn-tg2.pages.dev&type=ws&host=pardazeshvpn-tg2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E7%BE%8E%E5%9B%BD_0520042812
