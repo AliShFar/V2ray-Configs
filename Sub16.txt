@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
 	"proxyType" : 0,
 	"proxyHost" : "",
@@ -592,14 +603,3 @@ vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjk0LfCfj4FSRUxBWS0xMDQuMTYuMjMuMy00NDQ0Iiwi
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjk1LfCfj4FSRUxBWS0xOTAuOTMuMjQ2LjE5NS00NjI3IiwiYWRkIjoiMTkwLjkzLjI0Ni4xOTUiLCJwb3J0Ijo0NDMsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSVlLTEQ1M00iLCJob3N0IjoiIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJlZGdlIn0=
 vless://f9bfe7bb-dc57-4223-8648-e3fbc12689f7@162.159.136.232:2052?encryption=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.#296-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-162.159.136.232%3A2052
 vless://c110db8f-72c8-52a2-8ae9-dfbfd9704035@172.67.131.154:443?encryption=none&type=ws&path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-50%2C10-50&sni=joinmahdiserver.pmyzdpx.wOrkErS.DEV#297-%E7%BE%8E%E5%9B%BD_0521081177
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjk4LfCfh7jwn4esU0ctMTM5Ljk5LjYxLjUzLTcyMTkiLCJhZGQiOiIxMzkuOTkuNjEuNTMiLCJwb3J0Ijo4MCwiaWQiOiJjZTM4NjhhNC1lMmNhLTRhNmYtODczMS1lN2U4OGQwOTg4ODYiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwiYWxwbiI6ImgyIiwiZnAiOiJlZGdlIn0=
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjk5LfCfj4FSRUxBWS0xMDQuMTguMTkuMTkxLTAwNDQiLCJhZGQiOiIxMDQuMTguMTkuMTkxIiwicG9ydCI6MjA1MiwiaWQiOiJhZWM4MmZhNi1hYjcwLTRkMGEtZTdmYi00MjJlZjcyOWQ5NjEiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUifQ==
-vless://1f7376c9-f025-4b81-a4d9-974915b8bba3@nestle.ir:2095?encryption=none&type=ws&path=%2F&host=ios.net-server.com-mehdi.com-bmi.ir-servers.com-hetzner.net-console.monitor.bmibank-melli-saderat-tejarat-mehr-sepah-Price-New-null-site-an.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=ios.net-server.com-mehdi.com-bmi.ir-servers.com-hetzner.net-console.monitor.bmibank-melli-saderat-tejarat-mehr-sepah-Price-New-null-site-an.com#300-%E6%9C%AA%E7%9F%A5_0521084505
-vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzAxLVNH8J+HuPCfh6wgfCAzMS4xOTIuMjM0LjctMTI5NTQgfCAxNjkuNjNtcyIsImFkZCI6IjMxLjE5Mi4yMzQuNyIsInBvcnQiOjEyOTU0LCJpZCI6IjgyNTljYjFjLWRkNmMtNDczOS05Yzg4LWFmNTUwZDk3NzUyNSIsImFpZCI6MCwidGxzIjoidGxzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
-vless://47ace744-0aa8-52a2-a9b0-a01993af8fc4@104.16.77.38:2053?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=dl.game.RezAShOpPARIvAte.sBS#302-%E6%9C%AA%E7%9F%A5_0521081596
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.48:8443?encryption=none&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C20-50&sni=jd.wxgqlfx.top#303-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-77.37.33.48%3A8443
-vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@104.21.39.52:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=worker-super-cake-c026.gogoligogoli26.workers.dev&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=worker-super-cake-c026.gogoligogoli26.workers.dev#304-%E6%9C%AA%E7%9F%A5_05210812959
-vless://f6ff0cc4-a9cf-4c13-aec0-d1a6618f8057@172.67.205.127:2053?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C20-50&sni=alfredo.zmv2ray.site#305-%E7%BE%8E%E5%9B%BD_0521081938
-vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.125.36:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40&alpn=h3%2Ch2&fp=edge&sni=medium.com#306-%E7%BE%8E%E5%9B%BD_0521082367
-vless://f35905ae-9bce-448c-cbbb-e6de9b4e2949@45.140.31.105:48480?encryption=none&type=tcp&host=fast.com&headerType=http&alpn=http%2F1.1&fp=randomized&sni=fast.com#307-%E4%BC%8A%E6%9C%97_052108029
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzA4LfCfh6nwn4eqREUtMTY4LjExOS4yNTQuMjM0LTQ4ODciLCJhZGQiOiIxNjguMTE5LjI1NC4yMzQiLCJwb3J0Ijo4MCwiaWQiOiI0MTk5MGJkYy1kYTc1LTQ5NmQtYmFkMy1hZTgyMmFkOGJlNWYiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwiaG9zdCI6IiIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiZWRnZSJ9
