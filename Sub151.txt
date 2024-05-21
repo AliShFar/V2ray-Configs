@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://dd3b2971-2e5e-49c4-8de9-62aca12ff466@172.67.221.114:443?security=tls&sni=cdn.miladfaryad.cf&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxMjkuMTQ2LjEzMy4xNTciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiODE3MTRjZWYtOWJkZS00YTA4LWFhNTAtZDZiYzAxNzJkNzhiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MTAwOSIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?security=tls&sni=current.iraniancp.fun&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=current.iraniancp.fun&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443?security=tls&sni=sg1.pqjc.buzz&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -603,3 +602,4 @@ ssr://103.172.116.79:9043:origin:aes-256-cfb:plainSFNadXlKUWNXZThkeE5kRg==remark
 ssr://103.172.116.79:9014:origin:aes-256-cfb:plainS25KR2FkM0ZxVHZqcWJhWA==remarks=M3xJSHd6TUM0MU5rMWk=
 ssr://103.172.116.79:9008:origin:aes-256-cfb:plaineTlWVVJ5TnpKV05SWUVHUQ==remarks=M3xJSHd5T1M0NU4wMWk=
 ssr://103.172.116.79:9026:origin:aes-256-cfb:plainUVdERHZWRTlucE51clFmQQ==remarks=M3xJSHd6TUM0ek1FMWk=
+ssr://103.172.116.90:9041:origin:aes-256-cfb:plainVTZxbllSaGZ5RG1uOHNnbg==remarks=M3xJSHd5T1M0eU5FMWk=&obfsparam=

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@tere.minusober.com:443?path=%2Ftere&security=tls&encryption=none&type=ws&sni=tere.minusober.com#%F0%9F%87%B5%F0%9F%87%B1telegram+%E2%9E%A0+%40v2rayNG_Matsuri
 vless://20ccc96a-190a-438f-a269-be3fda7b245f@104.31.16.24:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@CONFIG_ViP7,&sni=configvip7.site#grpc+-+Cloned-VIP%F0%9F%87%A9%F0%9F%87%AA
 vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.de.mnhacker.eu.org&fp=chrome&type=ws&sni=watashi.free.de.mnhacker.eu.org#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 vless://4edf1efa-3df4-4ecc-988c-339269254cef@blueberry.blueberryonlinevpn.cloud:57777?type=tcp&security=reality&fp=chrome&pbk=KlNZus8K8KaMmCkVnmeZwqQ-Wpej8Q1WbkDLPYVkAmE&sni=www.speedtest.net#%E0%BC%BA%F0%9F%87%A9%F0%9F%87%AA%E0%BC%BB%40BlueberryVPN
@@ -602,4 +603,3 @@ vless://987fbb78-4f41-42ef-aa0a-0c179f2f9eee@zula.ir:80?security=none&encryption
 vless://1ab97742-9ca6-461b-abb8-093085ddacb7@185.58.241.132:58212?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#@Circle_Vpn
 vless://join-channel-foxrayiran@5.161.128.56:443?mode=gun&security=reality&encryption=none&pbk=eXtya_JD3MurodQP12ZvV4ct06WZkYKmMzeaVi_zRyk&fp=firefox&spx=%2Ffoxrayiran&type=grpc&serviceName=join-channel-foxrayiran-join-channel-foxrayiran-join-channel-foxrayiran-join-channel-foxrayiran-join-channel-foxrayiran-join-channel-foxrayiran&sni=ftp.debian.org&sid=f7e51694#join+channel+%40foxrayiran++%7C+usa+r1
 vless://20ed8d0b-dce6-448c-af66-6ff1e867f70f@185.146.173.185:2095?path=%2FTelegram+-+@SavageV2ray+-+Telegram+-+@SavageV2ray&security=none&encryption=none&host=all3.savagev2ray.site&type=ws#%40SavageV2ray+-+Ws1-btlbo4x1
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F%3Fed&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#mci.mtn%F0%9F%87%A6%F0%9F%87%AA%5B%40noori_93%5D
