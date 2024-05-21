@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=digg.com&sid=99d38a68#%40GoldenShiineVPN%E2%9A%A1-200GB
+vless://3d50f9f4-008e-469a-b1fa-7772a9374c23@XvProxy.savagev2ray.site:443?path=%2F&security=tls&encryption=none&host=all4.savagev2ray.site&type=ws&sni=all4.savagev2ray.site#%40XvProxy+-+Ws-73tkxnly
 vless://Parsashonam-67@104.18.14.19:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#TelegramID%28%40Outline_Vpn%29+22
 vless://telegram-id-ArV2ray@188.114.98.224:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=2.V2ray.debian.org.chp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.Tech.&type=ws#%40bored_vpn
 vless://0c4251ac-dc01-47d5-b4cb-1363963c3111@Join.V2rayOfficial.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#🔰@fast_2ray👈سرورهای‌بیشتر
@@ -601,5 +603,3 @@ vless://3db0e5da-f64d-4e45-ba46-77857c8d1705@all.vipxali.cfd:2083?mode=gun&secur
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@bia2.outline-vpn.cloud:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#.
 vless://95d6261c-b971-4dcb-b02e-93b91fe4765c@dnschecker.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=%40%69%70%56%32%52%61%79&sni=fm.irandtehran.org#@V2GNG
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?path=%2FTelegram-MARAMBASHI%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#TelegramID%28%40Outline_Vpn%29+764
-vless://37b9c44c-bba1-4add-ac39-2f01774caa7d@5.161.159.111:39379?mode=gun&security=reality&encryption=none&authority=&pbk=3TO2yeC8KYTVCLzLRR9dW4AAzHFGxorRZzvxdV2kDW4&fp=chrome&type=grpc&serviceName=&sni=discord.com&sid=0333e61c#%40Antifilterjadid+%F0%9F%87%BA%F0%9F%87%B8
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#%40V2ray_SoS

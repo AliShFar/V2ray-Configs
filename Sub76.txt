@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@ahmedquran19.xyz:443?encryption=none&security=tls&type=ws&host=&path=%2Fcurrent_time#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%A8%F0%9F%87%A6CA+%F0%9F%94%BA%F0%9F%87%AF%F0%9F%87%B4JO+%E2%98%91ADSL+%E2%8F%B05%2F16%2F2024
+vless://cddc5fb0-6361-4575-99e8-35b009ba6dd5@162.159.134.234:8080?path=%2F&serviceName=@V2GNG@V2GNG@V2GNG@V2GNG@V2GNG&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#@V2GNG
 vless://6d1b1cd1-7c05-49a8-8094-f483b34cd8de@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@OhVpn,@OhVpn&sni=all3.savagev2ray.site#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 vless://37020e26-bdd0-48dc-a4f8-4a6a5f2b9a42@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#MdVpnSec-qbne3ktm
 vless://75bb6685-e38f-4134-a036-c83cbd6fa415@5.42.77.255:8880?security=reality&encryption=none&pbk=3SkNfNpd-oAgmbISQCRUmPC8KpR3mwH3V7l58wiZQ1o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&sid=08533123ab82dbe8#%40V2rayHubVip+%F0%9F%87%B7%F0%9F%87%BA
@@ -601,5 +603,3 @@ vless://3a9185b8-34b7-4105-b442-e41e8a0128a7@172.67.171.43:443?path=%2Fvless&sec
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=HETZNER-D.pages.DEV&fp=randomized&type=ws&sni=HETZNER-D.pages.DEV#%40v2raying
 vless://FREE-CONFIGWAN3@172.67.81.238:443?sni=tpotuinvbfrf.wertycvnur.ir&security=tls&mode=gun&encryption=none&serviceName=&alpn=http/1.1&type=grpc#All🇩🇪@Rk_Filtershking
 vless://7a3ad611-25dc-49c4-bc91-c17fb226f292@50.outline-vpn.cloud:80?security=none&encryption=none&headerType=none&type=tcp#@Tiny_VPN_Officialtrojan://telegram-id-directvpn@54.203.21.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2FTelegram-MARAMBASHI%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&fp=chrome&type=ws&sni=jd.wxgqlfx.top#%40chatnekonvaslshim%F0%9F%92%96all
-vless://Jon--V2RAXX@v2raxx.amalfatm.ir:2052?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#All🇩🇪Rk_Filtershekan
