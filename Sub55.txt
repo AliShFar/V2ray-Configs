@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10813?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|@Zyw_Channel
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10814?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|tg频道:@Zyw_Channel
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10815?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|tg频道:@Zyw_Channel
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10816?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|tg频道:@Zyw_Channel
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10817?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|TG频道内随机时间更新订阅地址
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10818?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|TG频道内随机时间更新订阅地址
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10819?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|TG频道内随机时间更新订阅地址
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10820?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn#DG|tg频道:@Zyw_Channel
@@ -598,8 +603,3 @@ trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:21970?secur
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:16895?security=tls&sni=x40.flybar.work&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.58-0610%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20288?security=tls&sni=z288.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.58-0607%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20071?security=tls&sni=x71.flybar.work&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.58-0590%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20298?security=tls&sni=z298.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.58-0594%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:45168?security=tls&sni=z263.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.58-0595%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6fwn4e3IDE3fOW3tOilvyAwNCB8IDF4IEJSIGdpdGh1Yi5jb20vemVuZ2ZyL2ZyZWUtdnBuLXN1YnNjcmliZSIsDQogICJhZGQiOiAiN2M2aTJyMDQubWNmcm9udC54eXoiLA0KICAicG9ydCI6ICIzMTg3NyIsDQogICJpZCI6ICI2MjVhZjFjNy00YzRmLTRhYTktYmQ3ZS1kNTdjYTU2MTU4ZGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI3YzZpMnIwNC5tY2Zyb250Lnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjE3fOS5jOWFi+WFsCAwNCB8IDF4IFVBIGdpdGh1Yi5jb20vemVuZ2ZyL2ZyZWUtdnBuLXN1YnNjcmliZSIsDQogICJhZGQiOiAiNHc3dTRhMDQubWNmcm9udC54eXoiLA0KICAicG9ydCI6ICIzMTg3MSIsDQogICJpZCI6ICI2MjVhZjFjNy00YzRmLTRhYTktYmQ3ZS1kNTdjYTU2MTU4ZGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0dzd1NGEwNC5tY2Zyb250Lnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@185.135.86.173:9020#%F0%9F%87%B1%F0%9F%87%BBLV-185.135.86.173-14675%20github.com%2Fzengfr%2Ffree-vpn-subscribe

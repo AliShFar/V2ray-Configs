@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05221312272
-vless://d7a6de6c-28ae-4074-87a8-c1efef623275@104.27.0.136:443?security=tls&sni=pardazeshvpn-tg43.pages.dev&type=ws&host=pardazeshvpn-tg43.pages.dev&path=%40VPNHTTPInjectorfree#%E6%9C%AA%E7%9F%A5_05221312273
 vless://17b4ec75-c687-4948-9de8-af6c2180ee44@104.21.25.46:443?security=tls&sni=de2-vless.sshmax.xyz&type=ws&host=de2-vless.sshmax.xyz&path=%2Fvless&fp=random#%E6%9C%AA%E7%9F%A5_05221312274
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.17.51.32:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#%E6%9C%AA%E7%9F%A5_05221312275
 vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@104.31.16.65:2086?security=none&type=ws&host=dbdid89lh.事出场次以运7.tech&path=#%E6%9C%AA%E7%9F%A5_05221312276
@@ -603,3 +601,5 @@ vless://7f5798c2-f61b-41de-ae4d-d43b61871995@198.41.204.64:8880?type=ws&host=lis
 vless://9094fe1e-134f-4dd5-9744-359da7783634@104.21.79.143:443?security=tls&sni=be3-vless.sshmax.xyz&type=ws&host=be3-vless.sshmax.xyz&path=%2Fvless&fp=random#%E6%9C%AA%E7%9F%A5_05221312850
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:2086?security=none&type=ws&host=vcp3.cushingreflex5.workers.dev&path=%2Fahmedquran19.xyz%3A443%2Fcurrent_time#%E6%9C%AA%E7%9F%A5_05221312851
 vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@104.21.24.106:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&path=%2F#%E6%9C%AA%E7%9F%A5_05221312852
+vless://06f59004-d4e8-4652-b9f8-62164bda1e19@104.27.196.48:80?security=none&type=ws&host=1.debian.org.ftp.debian.org.speedtest.net.xn--48jyb6ec1ad.soly.info.#%E6%9C%AA%E7%9F%A5_05221312853
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.20.95.143:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#%E6%9C%AA%E7%9F%A5_05221312854
