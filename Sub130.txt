@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-privatevpns@54.195.102.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnstorefast
-trojan://telegram-id-directvpn@34.208.216.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40darktunnelvip1%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vmess://eyJhZGQiOiIxNzIuNjcuMTYxLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQGRhcmt0dW5uZWx2aXAx2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://55X9v3np3p@68.183.180.244:36889?security=tls&headerType=none&type=tcp#ADD+HOST
 trojan://telegram-id-directvpn@51.20.48.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
 trojan://jaOlGtjcxH@91.223.169.117:3365?type=ws&path=LuxyNet&host=khamenei.ir&security=none#FREE%20FOR%20IRAN
@@ -603,3 +600,6 @@ trojan://6ffa4b10-11ae-11ef-8fb2-1239d0255272@uk1.test3.net:443/chatbuzzteambhm.
 trojan://cdaacb3e-00c4-4d6f-a63c-298cfb36e113@ovozhaws.ovonice.com:60002#%F0%9F%87%AF%F0%9F%87%B5JP_86
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?path=%2F&security=tls&host=cdn13.cdn2cdn.com&type=ws&sni=cdn13.cdn2cdn.com#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 trojan://dGKXcHgs3P@23.227.60.186:80?type=ws&path=%2F%2CTurk&host=n-5-75-195-185-o-w.scriptboy.ir&security=none#IP%20Fixed%20%3A%20Germany%F0%9F%87%A9%F0%9F%87%AA-g0tt5m4q
+trojan://AlaJXoIfOp@3.73.62.162:8080?security=none&type=grpc&serviceName=kiava&mode=gun#Kiava-T25
+trojan://ZtNmShMXD0@www.snappfooding.com:2053?path=%2F%3Fed%3D2048&security=tls&host=modernfood.snappfooding.com&type=ws&sni=modernfood.snappfooding.com#%40Click_Vpnn+4
+trojan://E8iH4gZn6C@54.169.158.6:59686?security=none&type=ws&headerType=none&path=%252Fow&host=android.googleapis.com#SahanWickramasinghe-4ktk87o4
