@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://telegram-id-privatevpns@13.36.159.182:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#4Nika-5399
+trojan://telegram-id-privatevpns@13.39.182.173:22222?security=tls&sni=trojan.burgerip.co.uk#4Nika-5400
 trojan://telegram-id-privatevpns@13.39.239.220:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Nika-5401
 trojan://telegram-id-privatevpns@13.39.243.241:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Nika-5402
 trojan://telegram-id-privatevpns@13.39.243.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-5403
@@ -601,5 +603,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.232.249:443?security=tls&sni
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.93.21:443?security=tls&sni=maMANe-filterchi.paGES.DeV&type=ws&host=MAMAnE-FiltERCHi.pages.dEV&fp=chrome&alpn=h2,http/1.1#4Nika-5996
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.26.12.31:443?security=tls&sni=mamane-FILtErCHi.PAgeS.Dev&type=ws&host=MAmANE-FIlTErchI.PAgES.dEv&fp=chrome&alpn=h2,http/1.1#4Nika-5997
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.26.13.31:443?security=tls&sni=mamane-FILtErCHi.PAgeS.Dev&type=ws&host=MAmANE-FIlTErchI.PAgES.dEv&fp=chrome&alpn=h2,http/1.1#4Nika-5998
-vless://10716279-b1ee-41d8-b63e-87782088305b@147.185.161.192:443?security=tls&sni=maMANE-FilTERchi.PAgeS.dev&type=ws&path=%2F#4Nika-5999
-vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.123.23:443?security=tls&sni=mAManE-FilTERChi.paGES.deV&type=ws&host=mamane-fIlTERchI.PagEs.DeV&fp=chrome&alpn=h2,http/1.1#4Nika-6000

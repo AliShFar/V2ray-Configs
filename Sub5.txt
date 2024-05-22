@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://7641c25e-3dbe-4169-a4a0-ae936db7f457@104.24.177.7:2096?security=tls&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_05220813271
+vless://f8501350-693a-4f8d-a79b-afc719e2385d@104.21.231.228:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-24.kefeh44777.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_05220813272
 vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05220813273
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.206.206:2083?security=tls&sni=qopyz.oxnetirz11.onflASHDRiVe.APP&type=ws&host=qopyz.oxnetirz11.onflASHDRiVe.APP&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_05220813274
 vless://33818a00-cbdb-4ae0-a31a-e7de094e7aec@104.21.8.66:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=random#%E6%9C%AA%E7%9F%A5_05220813275
@@ -601,5 +603,3 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.123:443?encryption=none&t
 vless://d2b6815f-71d5-4ec8-906e-6cea041f5498@104.18.212.12:2087?encryption=none&type=ws&host=ipcf.thisisipcf.wORkErS.DEV&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=ipcf.thisisipcf.wORkErS.DEV&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0522083311
 vless://join_V2rayNGFreee@104.18.13.130:2096?encryption=none&type=grpc&serviceName=%40V2rayNGFreee&security=tls#%E6%9C%AA%E7%9F%A5_0522083312
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.17.131.192:8443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=juzibaipiao.5112233.xyz#%E6%9C%AA%E7%9F%A5_0522083313
-vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?encryption=none&type=grpc&security=tls&sni=zac1.striside.com#%E6%9C%AA%E7%9F%A5_0522083314
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.16.170.208:443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=juzibaipiao.5112233.xyz#%E6%9C%AA%E7%9F%A5_0522083315

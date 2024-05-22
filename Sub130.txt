@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://TJCfE7Mx2YcA8kX8zg@nl1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL-149.50.75.111-1738
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@hdfy8d1.cpi1.eu.org:443/?type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&security=tls&sni=hdfy8d1.cpi1.eu.org&alpn=h2&fp=chrome#d4%20tls_h2%20grpc%20direct%20trojan%20%C2%A7%20443%206
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13@L_AGVPN13@L_AGVPN13@L_AGVPN13&sni=C.1lagvpn13.cfd#%40L_AGVPN13+trojan-m2uv025p
 trojan://telegram-id-privatevpns@18.159.56.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
 trojan://7b06d62b-25ed-45ed-ac0d-bc28a4779ef9@172.67.132.6:2096?sni=channel.v2bamdad.tech&type=grpc&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX&allowInsecure=1#🔒TR-GRPC-NA🏴‍☠️NA-172.67.132.6:2096
@@ -601,5 +603,3 @@ trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@54.195.245.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪Ireland-کانالتلگرام:@V2rayweb
 trojan://telegram-id-directvpn@54.72.79.12:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#Our
 trojan://telegram-id-directvpn@15.157.103.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
-trojan://telegram-id-privatevpns@15.236.25.66:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?mode=gun&security=tls&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM&sni=hdfy7c1.foriran2.eu.org#%E2%84%A2%EF%B8%8F%F0%9F%98%88%40+v+i+2+v+p+n+++%F0%9F%9A%80%F0%9F%87%B9%F0%9F%87%B7

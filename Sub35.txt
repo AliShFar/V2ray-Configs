@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.119:443?security=tls&sni=73FF2b24.BpB-panEl-B1q.PAgeS.dEV&type=ws&host=73fF2B24.BPb-paneL-b1Q.PagEs.DEV&path=%2FM7OU55KeTRvP46UJ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#4Nika-8399
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:443?security=tls&sni=T-neTPlus.pAgEs.DEv&type=ws&host=t-NETplUS.paGES.deV&path=%2F3az8RcYcqoxUULfw%2FNDcuMjQ1Ljg2LjIzMA%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#4Nika-8400
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@198.41.217.188:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&fp=chrome&alpn=h2,http/1.1#4Nika-8401
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@205.233.181.247:443?security=tls&sni=E5bE193d.Mr-Arsha-devIL.PAgEs.Dev&type=ws&path=%2FwKgZBlyJBp7MtUsH%3Fed&fp=randomized#4Nika-8402
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@216.116.134.10:443?security=tls&sni=E382c780.Nw-6X7Z.pagES.DEV&type=ws&path=%2Fx0eqXg1JI9QNb2mr%2FMTE2LjIwMy4yOC40Mw&fp=randomized#4Nika-8403
@@ -601,5 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@182.226.9.83:50028?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.109.21.102:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fproxyip#4Nika-8996
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.146.173.20:443?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=%2Fblue#4Nika-8997
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.107.223:443?security=tls&sni=hk022.ylks.link&type=ws&path=%2Fproxyip#4Nika-8998
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:8443?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=/blue#4Nika-8999
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.69:443?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=%2Fproxyip#4Nika-9000

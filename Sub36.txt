@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:8443?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=/blue#4Nika-8999
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.69:443?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=%2Fproxyip#4Nika-9000
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?security=tls&sni=kk313.ylks.link&type=ws&path=/proxyip#4Nika-9001
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.88.130:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fproxyip#4Nika-9002
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.18.139.229:8443?security=tls&sni=kk313.ylks.link&type=ws&path=/blue#4Nika-9003
@@ -601,5 +603,3 @@ vless://c3114b07-95a6-4cb0-8bbd-b3f0931233b2@104.21.5.226:443?security=tls&sni=i
 vless://c3114b07-95a6-4cb0-8bbd-b3f0931233b2@172.67.133.239:443?security=tls&sni=ir2.v-mizban.info&type=ws&path=/vqkubV5xX0Tulg7tx5HRa&fp=chrome#4Nika-9596
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@104.19.88.174:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#4Nika-9597
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@162.159.130.130:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#4Nika-9598
-vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@162.159.130.49:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#4Nika-9599
-vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.64.111.147:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#4Nika-9600

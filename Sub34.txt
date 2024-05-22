@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://6d6cab4a-13e9-4c2f-b1c2-d34cdd28215d@172.66.47.55:443?security=tls&sni=pardazeshvpn-tg19.pages.dev&type=ws&host=pardazeshvpn-tg19.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#4Nika-7799
+vless://6d73f7ae-6424-4f03-ad93-10d9fd63fcaf@104.21.25.49:80?security=none&type=ws&host=Fr1-vless.sshmax.xyz.&path=%2Fvless#4Nika-7800
 vless://6d895438-6d30-4d44-9542-7fb350058b9a@172.67.204.215:443?security=tls&sni=EXPrEsSvpNfRee021.ExPREsSvPNFREE022.worKeRs.DeV&type=ws&host=eXPResSvPNFReE021.expResSvPNFreE022.wORKErS.DEv&fp=chrome#4Nika-7801
 vless://6de1edb2-3bdf-4988-8003-2025ae383ec4@104.21.73.251:443?security=tls&sni=fa.vpnsupport.online&type=ws&path=/ws&fp=chrome&alpn=h2#4Nika-7802
 vless://6de1edb2-3bdf-4988-8003-2025ae383ec4@172.67.151.208:443?security=tls&sni=fa.vpnsupport.online&type=ws&path=/ws&fp=chrome&alpn=h2#4Nika-7803
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.146:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=PrOxysTORe11.adMiNwp.eU.org&path=%2FdYm89ADtj2SKU3Aa%3Fed%3D2560&security=tls&sni=prOxYsToRe11.aDMiNWP.Eu.orG&type=ws#4Nika-8396
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/chlh9K7r1HisErtn?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=prOxySToREpaNeL.EU.oRG&fp=randomized&type=ws&sni=proXYStORePaNel.EU.org#4Nika-8397
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.227:443?security=tls&sni=73Ff2b24.BpB-Panel-b1Q.pAges.DeV&type=ws&host=73fF2B24.bPb-PaneL-B1Q.pAges.dev&path=%2FfiqGckjWYDFPMQON%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#4Nika-8398
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.119:443?security=tls&sni=73FF2b24.BpB-panEl-B1q.PAgeS.dEV&type=ws&host=73fF2B24.BPb-paneL-b1Q.PagEs.DEV&path=%2FM7OU55KeTRvP46UJ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#4Nika-8399
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:443?security=tls&sni=T-neTPlus.pAgEs.DEv&type=ws&host=t-NETplUS.paGES.deV&path=%2F3az8RcYcqoxUULfw%2FNDcuMjQ1Ljg2LjIzMA%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#4Nika-8400
