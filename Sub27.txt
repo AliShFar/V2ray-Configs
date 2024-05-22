@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hn.xiaohouzi.club:28456?security=tls&sni=douk01.xiaohouzi.club#4Kian-3791
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:17105?security=tls&sni=tukey.xiaohouzi.club#4Kian-3792
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19353?security=tls&sni=a89.xiaohouzi.club#4Kian-3793
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19363?security=tls&sni=hnm.xiaohouzi.club#4Kian-3794
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@iplc.xiaohouzi.club:20034?security=tls&sni=hk-azure04.xiaohouzi.club#4Kian-3795
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@iplc.xiaohouzi.club:20035?security=tls&sni=a1.xiaohouzi.club#4Kian-3796
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@supsig.xiaohouzi.club:10102?security=tls#4Kian-3797
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@szf02.xiaohouzi.club:27841?security=tls&sni=aws-s01.xiaohouzi.club#4Kian-3798
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@103.135.103.229:443?security=tls#4Kian-3799
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#4Kian-3800
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@20.163.90.12:443?security=tls&sni=paydiu.com#4Kian-3801
@@ -595,11 +603,3 @@ trojan://8a1ab0df6abea549@5.44.249.43:3306?allowInsecure=1&sni=n2.gladns.com&typ
 trojan://8a1ab0df6abea549@5.44.249.44:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-4388
 trojan://8a1ab0df6abea549@5.44.249.50:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-4389
 trojan://8a1ab0df6abea549@5.44.249.52:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=n2.gladns.com#4Kian-4390
-trojan://8a5360b3b31229d8@5.44.249.42:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-4391
-trojan://8a5360b3b31229d8@5.44.249.43:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-4392
-trojan://8a5360b3b31229d8@5.44.249.44:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-4393
-trojan://8a5360b3b31229d8@5.44.249.50:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-4394
-trojan://8a5360b3b31229d8@5.44.249.52:3306?security=tls&sni=n2.gladns.com&type=ws&host=n2.gladns.com&path=%2Fgateway%2Fconnect#4Kian-4395
-trojan://8a5360b3b31229d8@5.44.249.53:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-4396
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls#4Kian-4397
-trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#4Kian-4398
