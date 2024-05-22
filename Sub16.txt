@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
+	"TTL" : 0,
 	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
@@ -600,6 +603,3 @@ vless://dd8fcc58-aa2e-400b-8de7-e7488d0d835e@172.67.203.100:2083?encryption=none
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzExLfCfj4FSRUxBWS0xMDQuMTcuMTE4LjMzLTk0MzAiLCJhZGQiOiJjZG4ubmFydXRvcy50b3AiLCJwb3J0Ijo4ODgwLCJpZCI6IjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiY2RuLm5hcnV0b3MudG9wIiwibmV0Ijoid3MiLCJwYXRoIjoiL1JwVDZrWmprdzQ1RWVubVRjRFlXcyIsImhvc3QiOiJjZG4ubmFydXRvcy50b3AiLCJhbHBuIjoiaDMsaDIiLCJmcCI6InJhbmRvbWl6ZWQifQ==
 vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:80?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=ffffrwewrg3.af3025eb2e.workers.dev&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=ffffrwewrg3.af3025eb2e.workers.dev#312-%E8%8D%B7%E5%85%B0_052213274
 vless://0680f132-6f8c-4e86-8024-653d05b0357c@172.67.204.84:2052?encryption=none&type=ws&host=SHakhLe-JdVpN.v2rayNg8.8.8.8.iR.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMan.MonsTer.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=SHakhLe-JdVpN.v2rayNg8.8.8.8.iR.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMan.MonsTer.#313-%E7%BE%8E%E5%9B%BD_0522132995
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzE0LfCfh7rwn4e4VVMtMTk5LjU5LjI0My4yMjUtNzQ3MCIsImFkZCI6Im9jdGF2aS5jZmQiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvY3RhdmkuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsImhvc3QiOiJvY3RhdmkuY2ZkIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
-vless://775213ac-3976-439a-8977-3277c0e4735d@79.99.30.138:8443?encryption=none&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=fq521.6789.cloudns.be#315-%E8%8D%B7%E5%85%B0_052213234
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.32.252.175:8969?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=cfed.tgzdyz2.top#316-%E9%A6%99%E6%B8%AF_052213037
