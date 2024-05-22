@@ -3,6 +3,42 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "DE9E32FF31B704BF98967202DE78D00D",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
 			"udp_over_tcp" : false
 		},
 		{
@@ -567,39 +603,3 @@ vless://b3a51b85-ae97-4a50-bbb5-efb475b25b2b@www.speedtest.net:443?encryption=no
 vless://9d4c313e-02ed-42ee-be9a-7fe3eebe81a0@zula.ir:443?encryption=none&type=ws&path=%2FTelegram%20Join%3A%20%40DisVpn%2CTelegram%20Join%3A%20%40DisVpn&host=join-telegraam-channel-disvpn.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C20-50&sni=join-telegraam-channel-disvpn.pages.dev#223-%F0%9F%87%BA%F0%9F%87%B8US_1748_%40Surfboardv2ray
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?encryption=none&type=ws&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&host=FIltEr-1tg.pagEs.DeV&security=tls&alpn=h2&fp=android&fragment=tlshello%2C50-100%2C20-50&sni=filTer-1tg.pAges.DeV#224-%F0%9F%87%A8%F0%9F%87%A6CA_1028_%40Surfboardv2ray
 vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?encryption=none&type=ws&path=Tel-%40Telegram-------V2rayi_net--Telegram-------V2rayi_net%2F%3Fed%3D2560&host=7f905f51.garywelch.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=7f905f51.garywelch.pages.dev#225-%F0%9F%87%A8%F0%9F%87%A6CA_1583_%40Surfboardv2ray
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?encryption=none&type=ws&path=telegram.%40vlees_v2rayng%2F%3Fed%3D2048&host=de4ecf6b.isvphp-4g8.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C20-50&sni=de4ecf6b.isvphp-4g8.pages.dev#226-%F0%9F%87%A8%F0%9F%87%A6CA_2346_%40Surfboardv2ray
-vless://a65eeff9-e5a5-45fb-a142-2210d98bcffd@discord.gg:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=hk3.servervless.de&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C30-80%2C20-50&sni=hk3.servervless.de#227-%F0%9F%87%A8%F0%9F%87%A6CA_2130_%40Surfboardv2ray
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:443?encryption=none&type=ws&path=users%3Fed%3D2048&host=ada3.qowch.com&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=ada3.qowch.com#228-%F0%9F%87%A8%F0%9F%87%A6CA_2112_%40Surfboardv2ray
-vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?encryption=none&type=ws&path=%2Fnimws&host=storeships.toptechnonews.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=storeships.toptechnonews.com#229-%F0%9F%87%BA%F0%9F%87%B8US_2494_%40Surfboardv2ray
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=3k.pureboy.eu.org&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=3k.pureboy.eu.org#230-%F0%9F%87%A8%F0%9F%87%A6CA_2301_%40Surfboardv2ray
-vless://1da545b0-2395-4d5c-abe8-8aee6671c859@www.discord.gg:443?encryption=none&type=ws&path=%2F&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C20-50%2C10-50&sni=BPB-worKEr-paNel-aQX.paGES.DEV#231-%F0%9F%87%A8%F0%9F%87%A6CA_412_%40Surfboardv2ray
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?encryption=none&type=ws&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&host=edge.020770.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-50%2C10-50&sni=edge.020770.xyz#232-%F0%9F%87%A8%F0%9F%87%A6CA_2219_%40Surfboardv2ray
-vless://6706a524-d820-46c2-a0d3-c5dcdc35c6ff@zula.ir:443?encryption=none&type=ws&path=%2FTelegram%20Join%3A%20%40DisVpn%2CTelegram%20Join%3A%20%40DisVpn&host=join-telegraam-channel-disvpn.pages.dev&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=join-telegraam-channel-disvpn.pages.dev#233-%F0%9F%87%A8%F0%9F%87%A6CA_1087_%40Surfboardv2ray
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@ja.vivacello.org:443?encryption=none&type=ws&path=Telegram---%40Mester_V2ray--%40Mester_V2ray--%40Mester_V2ray--%40Mester_V2ray--%40Mester_V2ray--%40Mester_V2ray--%2F%3Fed%3D2048&host=xw.r4d.workers.dev&security=tls&alpn=h3%2Ch2&fp=firefox&fragment=tlshello%2C30-80%2C10-20&sni=xw.r4d.workers.dev#234-%F0%9F%87%A8%F0%9F%87%A6CA_1250_%40Surfboardv2ray
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=7f905f51.garywelch.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=7f905f51.garywelch.pages.dev#235-%F0%9F%87%A8%F0%9F%87%A6CA_1582_%40Surfboardv2ray
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=bpb-worker-panel-h5f.pages.dev&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=bpb-worker-panel-h5f.pages.dev#236-%F0%9F%87%A8%F0%9F%87%A6CA_323_%40Surfboardv2ray
-vless://093b8b10-4490-4fcd-a26c-35fced968a4a@www.speedtest.net:443?encryption=none&type=ws&path=%2FaesBGfL9b3gQWbU4%3Fed%3D2560&host=093B8B10-4490-4fCD-A26C-35FceD968A4A.pAGEs.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C30-80%2C10-20&sni=093B8B10-4490-4FCd-A26c-35FceD968a4a.PaGes.DEv#237-%F0%9F%87%A8%F0%9F%87%A6CA_194_%40Surfboardv2ray
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=turkmenistan.armanibash.Shop.#238-%F0%9F%87%A8%F0%9F%87%A6CA_1382_%40Surfboardv2ray
-vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?encryption=none&type=ws&path=%2Ftelegram-SiNABiGO%3Fed%3D2560&host=jAviDSHAH-ArIamEhR.PageS.deV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C10-50&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV#239-%F0%9F%87%A8%F0%9F%87%A6CA_1403_%40Surfboardv2ray
-vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@188.114.97.3:443?encryption=none&type=ws&path=%2Ftelegram-%40vlees_v2rayng-telegram-%40vlees_v2rayng%2F%3Fed%3D2560&host=ariameHr-Eyq.paGES.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=ARiAMEHr-EYQ.PAGeS.deV#240-%F0%9F%87%A8%F0%9F%87%A6CA_2089_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNDEt8J+HqPCfh6ZDQV8zMjczX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny43NC40IiwicG9ydCI6NDQzLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
-vless://e9e925b3-4920-4311-a929-092084d65363@www.speedtest.net:443?encryption=none&type=ws&path=%2F72mWsITnSrSNJMpN%3Fed&host=E9E925b3-4920-4311-A929-092084D65363.PagEs.dEv&security=tls&alpn=h2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C10-20%2C10-20&sni=e9e925b3-4920-4311-A929-092084d65363.pagEs.dEV#242-%F0%9F%87%A8%F0%9F%87%A6CA_2855_%40Surfboardv2ray
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-20&sni=jd.wxgqlfx.top#243-%F0%9F%87%A8%F0%9F%87%A6CA_651_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNDQt8J+HqPCfh6ZDQV8zNDE4X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny43MS4xNjAiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im9iZGlpLmNmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0Ijoib2JkaWkuY2ZkIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJzYWZhcmkifQ==
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=turkmenistan.armanibash.Shop.#245-%F0%9F%87%A8%F0%9F%87%A6CA_1335_%40Surfboardv2ray
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&path=%2FSiNABiGO-SiNABiGO%3Fed%3D2048&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=jd.wxgqlfx.top#246-%F0%9F%87%A8%F0%9F%87%A6CA_653_%40Surfboardv2ray
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?encryption=none&type=ws&path=telegram.%40vlees_v2rayng%2F%3Fed%3D2048&host=de4ecf6b.isvphp-4g8.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=de4ecf6b.isvphp-4g8.pages.dev#247-%F0%9F%87%A8%F0%9F%87%A6CA_2344_%40Surfboardv2ray
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?encryption=none&type=ws&path=Tel-%40V2ray_Alpha%2F%3Fed%3D2560&host=7f905f51.garywelch.pages.dev&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C10-50%2C10-20&sni=7f905f51.garywelch.pages.dev#248-%F0%9F%87%A8%F0%9F%87%A6CA_1586_%40Surfboardv2ray
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=turkmenistan.armanibash.Shop.#249-%F0%9F%87%A8%F0%9F%87%A6CA_1345_%40Surfboardv2ray
-vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=bpb-worker-panel-chf.pages.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=bpb-worker-panel-chf.pages.dev#250-%F0%9F%87%A8%F0%9F%87%A6CA_3043_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTEt8J+HqPCfh6ZDQV8zMjYyX0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yNi43LjY1IiwicG9ydCI6NDQzLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJhbHBuIjoiaDMsaDIiLCJmcCI6InJhbmRvbWl6ZWQifQ==
-vless://ba5a2441-04cb-4de5-93af-b2bc85d2e2a4@188.114.96.3:443?encryption=none&type=ws&path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&host=v2ray1ng.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=v2ray1ng.pages.dev#252-%F0%9F%87%A8%F0%9F%87%A6CA_2313_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.7.143:443?encryption=none&type=ws&path=%2FRhSYOmWG5gplHTcl%3Fed%3D2560&host=B458aB02.Caa-ChaNel-WOrker-PaGe-fREE-JHUihnUjhPHjKl-Nihgkjn.pAges.Dev&security=tls&alpn=h2&fp=android&fragment=tlshello%2C50-100%2C10-20&sni=b458AB02.cAa-cHaNel-wORKER-PaGe-FrEE-JHuIhNuJhpHjKL-NIHgKjn.paGES.dev#253-%F0%9F%87%A8%F0%9F%87%A6CA_1498_%40Surfboardv2ray
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?encryption=none&type=ws&path=%2F%3Fed%3D2047&host=FIltEr-1tg.pagEs.DeV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=filTer-1tg.pAges.DeV#254-%F0%9F%87%A8%F0%9F%87%A6CA_1025_%40Surfboardv2ray
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=turkmenistan.armanibash.Shop.#255-%F0%9F%87%A8%F0%9F%87%A6CA_1383_%40Surfboardv2ray
-vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=bpb-worker-panel-chf.pages.dev&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-20&sni=bpb-worker-panel-chf.pages.dev#256-%F0%9F%87%A8%F0%9F%87%A6CA_3042_%40Surfboardv2ray
-vless://be920353-91a0-4d35-be2d-48dc2d4ed8dd@www.you.com:443?encryption=none&type=ws&path=%40FRAv2ray%2C%40FRAv2ray%2C%40FRAv2ray%2F&host=de1.v2vless.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=de1.v2vless.xyz#257-%F0%9F%87%A8%F0%9F%87%A6CA_2354_%40Surfboardv2ray
-vless://1da545b0-2395-4d5c-abe8-8aee6671c859@198.41.209.216:443?encryption=none&type=ws&path=Path%2FTelegram%40NETMelliAnti%2F%3Fed%3D2048&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C10-20&sni=BPB-worKEr-paNel-aQX.paGES.DEV#258-%F0%9F%87%A8%F0%9F%87%A6CA_411_%40Surfboardv2ray
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C50-100%2C10-20&sni=turkmenistan.armanibash.Shop.#259-%F0%9F%87%A8%F0%9F%87%A6CA_1364_%40Surfboardv2ray
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.133:80?encryption=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=a.ssll.gay#260-%E6%9C%AA%E7%9F%A5_0521234369
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNjEt8J+Hs/Cfh6YgTmFtaWJpYSAtIE5BIPCfjI0gVk0tV1MtTkEgNOKDoyIsImFkZCI6IjEwNC4xNi42MS44IiwicG9ydCI6MjA4NiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJhaWQiOiIwIiwidGxzIjoiIiwic25pIjoiN2hzcy1idXR0ZXJmbHktZDRjMy5maWpldGVtNDMyLndvcmtlcnMuZGV2IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FmcmhtczA3LnhmaXhlZGZsb2F0LmNmZC9saW5rd3MiLCJob3N0IjoiN2hzcy1idXR0ZXJmbHktZDRjMy5maWpldGVtNDMyLndvcmtlcnMuZGV2IiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
