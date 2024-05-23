@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a2b4d9d3-3773-4c39-9669-6e24bfc3b33b@172.66.47.90:8443?encryption=none&security=tls&sni=pardazeshvpn-tg66.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg66.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048#🔗 Vauth - 943
-vless://8a9fff15-c1d3-4e0f-fdda-dc1c4c2305ca@5.42.107.242:59062?encryption=none&security=none&type=tcp&headerType=none#🔗 Vauth - 944
-vless://9351f1e5-97cb-4a80-9050-63bc72ba5c1f@104.18.203.232:443?encryption=none&security=tls&sni=bpb-worker-panel-2u1.pages.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=bpb-worker-panel-2u1.pages.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 945
-vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.19.189.243:443?encryption=none&security=tls&sni=aZadNEt-sEmEj.paGES.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=AzAdnET-semEj.PaGes.Dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔗 Vauth - 946
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.21.239:443?encryption=none&security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560#🔗 Vauth - 947
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.143.18:443?encryption=none&security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔗 Vauth - 948
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?encryption=none&security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 949
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.47.175:443?encryption=none&security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 950
 vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?encryption=none&security=tls&sni=mwa100100m.a2c6ec2a96.workers.dev&fp=randomized&type=ws&host=mwa100100m.a2c6ec2a96.workers.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 951
 vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&security=tls&sni=ariAmEhr-447.PaGes.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ArIAmehR-447.PAgES.Dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560#🔗 Vauth - 952
@@ -603,3 +596,10 @@ vless://39275628-a78c-4f19-ab81-c9424edf2956@172.67.73.163:2096?security=tls&sni
 vless://07865379-86dd-4ca6-ad22-81255519c482@104.21.20.148:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 1540
 vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@172.67.174.162:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#🔗 Vauth - 1541
 vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.21.70.25:80?security=none&type=ws&host=it1.vlessx.xyz#🔗 Vauth - 1542
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.68.191:443?security=tls&sni=baipiao343.stunning-bassoon.pages.dev&type=ws&host=baipiao343.stunning-bassoon.pages.dev&fp=chrome#🔗 Vauth - 1543
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.146:443?security=tls&sni=E5BE193D.mr-arsHA-DeVIL.pAGeS.DeV&type=ws&host=E5bE193D.mr-ArShA-DevIl.pageS.dEV&path=%2FJriAaEX2EoMxhbwl%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔗 Vauth - 1544
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.195.1:80?type=ws&host=binance.co.kp#🔗 Vauth - 1545
+vless://b8f8ecd4-b3f1-4945-ad90-6953aa48f083@104.21.20.148:80?security=none&type=ws&path=%2Fbackup#🔗 Vauth - 1546
+vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.136.232:8880?path=/@ZEDMODEON+TEL#🔗 Vauth - 1547
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.100:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔗 Vauth - 1548
+vless://243b2f02-9529-4bb5-b111-25debfdf466b@188.114.98.225:2083?security=tls&sni=All.AbrArvan.Org&type=grpc&serviceName=@V2rayeServers@V2rayeServers&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔗 Vauth - 1549
