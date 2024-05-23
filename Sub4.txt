@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.21.60:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_05232312164
-vless://8f8cb113-5e7f-4d41-ac0a-c65b8722a961@104.26.13.8:443?security=tls&sni=jojetala.sg-forum.info&type=grpc&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_05232312165
 vless://866e1bf6-3eb8-429c-a55f-0333c4cbf6d7@104.21.20.148:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed#%E6%9C%AA%E7%9F%A5_05232312166
 vless://36a8a97b-9380-4cfb-9248-4f71a09f454c@104.18.203.232:2053?security=tls&sni=ar.YaKariim.com&type=grpc#%E6%9C%AA%E7%9F%A5_05232312167
 vless://211f783a-ab76-4a47-a760-f70d1cb682a6@104.26.7.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=%40xiv2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_05232312168
@@ -603,3 +601,5 @@ vless://5b2bad9a-139f-4985-891f-00956573c448@104.16.31.34:80?security=none&type=
 vless://d7858867-cb84-41b6-84a8-f59c94170f48@104.21.51.44:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#%E6%9C%AA%E7%9F%A5_05232312756
 vless://b6a9cead-5694-40b5-812b-871a2f2493ec@104.20.254.143:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048#%E6%9C%AA%E7%9F%A5_05232312757
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@162.159.133.148:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05232312758
+vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.115:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05232312759
+vless://8fddcceb-a576-450e-824c-1394dcad0978@104.21.82.13:2053?security=tls&sni=promoapi.sensorpage.com&type=ws&host=promoapi.sensorpage.com&path=/G3iZEcY3hCvuTzAlEAJseJ96b&fp=firefox&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05232312760

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://3c30b4e4-d7bc-4722-9cd4-7124b4cb1317@discord.org:8080?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&type=ws#%40Maznet-43912-%28MCI%29
-vless://93b68da6-46d5-4e12-f566-dbb9f9a35dfc@157.90.204.52:11827?path=%2F&security=none&encryption=none&type=ws#join%F0%9F%91%89%40V2rayNG_Coonfig+%F0%9F%8C%B7+%F0%9F%99%8F+%E1%B5%97%E1%B5%89%CB%A1%E1%B5%89%E1%B5%8D%CA%B3%E1%B5%83%E1%B5%90%22
-vless://e82eb692-8084-405d-81c2-ab5d10a59845@visa.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegram-falcunargo-1403.falcunar.uk.eu.org&type=ws&sni=telegram-falcunargo-1403.falcunar.uk.eu.org#%40V2rayNG3
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%40LOCKEY_VPN
 vless://e4b966bb-171b-4b8b-8b45-322a8c96f903@zula.ir:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇩🇪@Shh_Proxy|MCI
 vless://Parsashonam-57@www.visa.com:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#%40v2ray_npv+%F0%9F%87%A9%F0%9F%87%AA%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D9%88+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
@@ -603,3 +600,6 @@ vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?path=%2F%3Fed%3D2
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.data.gov.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=binance.co.kp&type=ws&sni=www.data.gov.uk#Server+10
 vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?path=%2F&security=tls&encryption=none&host=watashi.free.de.mnhacker.eu.org&fp=chrome&type=ws&sni=watashi.free.de.mnhacker.eu.org#%F0%9F%8E%97+WebRovers+%F0%9F%8E%97
 vless://SVNTEAMz@185.146.173.59:80/?type=ws&path=%2FSvnTeam-TeleGram-ChaNnel%3Fed%3D2048&host=SvnV2rayEg.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#Tel+Channel%F0%9F%91%89+configsCenter
+vless://977e01f8-0f3f-476c-b61c-c2063e4310be@my.os-hosting.shop:443?allowInsecure=false&fp=safari&host=cdn2.irfile.shop&path=%2Ffiles&security=tls&sni=cdn2.irfile.shop&type=ws#@HilyNet
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#TelegramID%28%40Outline_Vpn%29+298
+vless://e82933ed-1c92-4a13-ac10-4f8cc7fa7b97@rtx.okbutimafi.fun:41152?path=%2F&security=tls&encryption=none&type=ws&sni=rtx.okbutimafi.fun#Irancell+%40V2ray_Team

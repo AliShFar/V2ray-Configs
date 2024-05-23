@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.20.156.248:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔗 Vauth - 1462
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.219.241:443?security=tls&sni=edge.020770.xyz&type=ws&fp=chrome#🔗 Vauth - 1463
-vless://89ca3dec-c18e-4808-90cb-33e170cd48f1@23.227.60.186:80?security=none&type=ws&host=bia-channel-hajimamad.timeclassic.ir&path=%40HAJIMAMADVPN%3Fed%3D2048#🔗 Vauth - 1464
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.100.228:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔗 Vauth - 1465
 vless://35ef9fb8-ceea-4d65-91f3-d443f614bf43@162.159.130.233:2083?security=tls&sni=cltkk.edlaghiye.com&type=grpc#🔗 Vauth - 1466
 vless://102e76a5-0f4c-4d71-b018-a76985e4617b@104.21.8.238:2087?security=tls&sni=hamedmrx.kijenov996.workers.dev&type=ws&host=hamedmrx.kijenov996.workers.dev&path=%2Fvless-ws%2F%3Fed&fp=edge&alpn=h2,http/1.1#🔗 Vauth - 1467
@@ -603,3 +600,6 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.222.36:2053?security=tls&sni=
 vless://0dda1b38-ff02-4a50-8c94-33138c757f80@104.16.129.133:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.ir.&path=%2Fvless#🔗 Vauth - 2059
 vless://8bc175f4-798e-49a7-ad13-ba258f0c6ffe@104.16.4.103:8880?security=none&type=ws&host=liV2rayd.善良的闪电.monster&path=/@LIGHTNING6,+@LIGHTNING6#🔗 Vauth - 2060
 vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.120.158:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔗 Vauth - 2061
+vless://91f1e55b-f7b9-41a8-bbba-0c6ad1da6619@104.16.61.8:80?type=ws&host=hg4actppfluratxjhwbv.eitaa.run&path=%2Fbackup#🔗 Vauth - 2062
+vless://ac4a922d-86fa-44e6-8825-238164b693f3@104.21.69.44:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.&path=/@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet#🔗 Vauth - 2063
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 2064

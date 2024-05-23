@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://Parsashonam-10@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%40Gp_Config%20%DA%AF%D9%BE%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-vless://d8ae039a-cdee-40a0-b19d-99d9d8dc6671@all.shhproxy.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site#@Tiny_VPN_Official
-vless://9160ea29-3378-464a-a1e4-8e8c5591c1a9@188.114.96.3:443?path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&security=tls&encryption=none&alpn=http/1.1&host=v2ray1ng.pages.dev&fp=randomized&type=ws&sni=v2ray1ng.pages.dev#%40V2ray1_ng+ALL+NET
 vless://a2db6566-32c7-4e6e-89d7-b258ff55959f@us1.n305.dynu.net:17231?encryption=none&flow=xtls-rprx-vision&security=reality&sni=itunes.apple.com&type=tcp&headerType=none#USA-%E5%BE%B7%E5%B7%9E-1%28RT%29
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#%F0%9F%92%99%F0%9F%92%99%F0%9F%92%99
 vless://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@free.networknim.site:8080?path=%2F&security=none&encryption=none&host=nimnetwork.site&type=ws#%F0%9F%8C%9F%40hypervpns%F0%9F%8C%9Ftest
@@ -603,3 +600,6 @@ vless://19aa57c3-72dd-40eb-bee2-4387d17cee4f@104.25.254.88:8443?mode=gun&securit
 vless://SVNTEAM@mtn.VPNPROSEC.com:80/?type=ws&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&host=SvnTeamV2rayNtOne7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&security=none#SvnTeam🇳🇱VIP-1
 vless://3c42d518-6d8a-42d3-8798-de2ede0b08f3@mci-ShhProxy.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy&sni=dl.SpV2ray.cfd#%F0%9F%87%A9%F0%9F%87%AA%40vpn_go67+%7C+MCI
 vless://79a47085-0f78-4374-a6d5-499fbfe89cd5@bia-to.savagev2ray.site:443?path=%2F&security=tls&encryption=none&host=all3.savagev2ray.site&type=ws&sni=all3.savagev2ray.site#%40SavageV2ray+-+Ws-979rkpvo
+vless://a82ecae9-7f5c-4cbf-b8b9-69490ab775ac@v2raymhcn.wagnervpn.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=www.speedtest.net&sni=v2raymhcn.wagnervpn.com#HamraheAval+BV+%28%40Outline_Vpn%29
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#%40V2ray_Alpha-12
+vless://cb0c566c-413b-40f0-eff0-e4200d06bdac@91.107.133.107:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mdundo.com&fp=chrome&security=reality&pbk=r2wbFJJEArYV2LdDkDId_b8pJB3iKE4S1J0O33FfDkg&sid=dbf8a4#%E2%9A%95%EF%B8%8F36%40oneclickvpnkeys

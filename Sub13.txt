@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1nY206enk4ZUNIbW9HNDhibEtvV2dONndCMg==@45.8.147.88:45961#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B8%F0%9F%87%AA%20SE-45.8.147.88%3A45961
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.162.200.28%3A3389
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.21.239:443?encryption=none&security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.21.239%3A443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.143.18:443?encryption=none&security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.143.18%3A443
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.43:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.43-3211
@@ -603,3 +601,5 @@ trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:25238?secur
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:11215?security=tls&sni=z268.hongkongnode.top&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Relay%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%28ChatGPT%29%2009%20TG%3A%40SSRSUB
 trojan://a21e5380-7711-4c6d-af44-e6210e5436af@hk19.microsoftjs.top:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2001%20TG%3A%40SSRSUB
 trojan://be8b8f45-a290-4405-8699-ffeb07f3ee24@16.162.44.241:443?security=tls&sni=16-163-218-240.nhost.00cdn.com&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2005%20TG%3A%40SSRSUB
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a017.zhuan99.men:10017?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Relay%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2029%20TG%3A%40SSRSUB
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a001.zhuan99.men:10001?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Relay%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2032%20TG%3A%40SSRSUB
