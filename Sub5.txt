@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://02e75d78-58ad-4a73-afca-24b781d8fd11@104.17.219.150:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05231312878
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.36.36:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_05231312879
 vless://3e42e6ee-a35e-43d3-8e83-56ec49ad9f9e@104.18.202.232:8080?type=ws&encryption=none&path=%2F%2FCmdv2rayng-V2rayngcmd-telegram-cmd_v2rayng%3Fed%3D2048&security=tls&sni=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0523131288
 vless://03e8d234-e793-424d-9d8e-45c04a1eb684@104.21.51.200:2083?security=tls&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&type=ws&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&path=%2F&fp=chrome&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05231312880
@@ -603,3 +602,4 @@ vless://e56308d6-88b0-44b5-b5bf-e0bb650c4685@104.16.215.96:80?encryption=none&ty
 vless://4af9e9c9-8260-4fd7-a89c-07e2502f541a@Tgju.org:443?encryption=none&type=grpc&serviceName=%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C&security=tls&sni=Shopza.hsza.site&alpn=http%2F1.1%2Ch2#%E6%9C%AA%E7%9F%A5_0523132757
 vless://8aea43f9-77a8-4089-9402-428f623cc6f7@104.17.131.84:8880?encryption=none&type=ws&host=45khcuizoahaigeuihiouigcbr786kbgagyugdijiocjor98jhjhbchvbrhb1.445ts.ir&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0523132760
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@www.udacity.com:2087?encryption=none&type=ws&security=tls#%E6%9C%AA%E7%9F%A5_0523132761
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@www.udacity.com:2053?encryption=none&type=ws&security=tls#%E6%9C%AA%E7%9F%A5_0523132762
