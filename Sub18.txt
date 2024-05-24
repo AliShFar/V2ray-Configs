@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@188.114.96.18:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&path=%2F%3Fed#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0_197
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.163.128.81:25593?encryption=none&security=tls&sni=baipiao475.stunning-bassoon.pages.dev&type=ws&path=%2F#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE_287
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.21.1.217:443?encryption=none&security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_10
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@yakrobitiremont.pp.ua:2087?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=fuck0yes#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_100
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.209.145:2087?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_101
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.185:2087?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_102
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.90:2053?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_103
-vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@104.21.5.63:443?encryption=none&security=tls&sni=ed.ariesver.online&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_104
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.209.44:2083?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_105
 vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.75:443?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_106
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.0.48:2087?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_107
 vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.119:443?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_108
@@ -603,3 +594,12 @@ trojan://c6c083cb-6312-44e4-91ed-4c6831f4f9a8@104.18.138.163:443?security=tls&ty
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#%E6%9C%AA%E7%9F%A5144%201.7MB%2Fs
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?type=ws&sni=sherasheba.com&path=6b777a91&host=sherasheba.com#%E6%9C%AA%E7%9F%A5145
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.169.128:443#%E6%9C%AA%E7%9F%A5146
+trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%E6%9C%AA%E7%9F%A5147
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.1.153:443#US68
+vmess://eyJ2IjoiMiIsInBzIjoiVVM2OSIsImFkZCI6IjIuNTguODcuMjIxIiwicG9ydCI6IjQ2NjI4IiwiaWQiOiJmNmJhOWU1YS03MTFjLTQ5NmYtYmU2MC1hYzU0NjRkZWMyYjgiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM2OSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20180#%E6%9C%AA%E7%9F%A5148
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#%E6%9C%AA%E7%9F%A5149
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.111.114.133:5499#%E6%9C%AA%E7%9F%A5150%201.9MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiVVM3MCA2LjZLQi9zIiwiYWRkIjoiMTc0LjEzNi4yMDUuNDYiLCJwb3J0IjoiMzkwMjciLCJpZCI6IjI2NDE5MTQzLThhMDYtNDNhYi1kNThjLWJlYTdiN2RhODIwMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM3MCJ9
+trojan://telegram-id-privatevpns@13.39.246.196:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5151

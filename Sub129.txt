@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://telegram-id-directvpn@35.181.150.93:22222?encryption=none&security=tls&sni=trojan.burgerip.co.uk&fp=chrome&type=tcp&headerType=none#Tel+Channel%F0%9F%91%89+configsCenter
+trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)
+trojan://telegram-id-directvpn@18.175.69.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@35.180.206.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷France-کانالتلگرام:@V2rayweb
+trojan://496202d8-19c4-4023-ad85-04217a74e790@164.90.146.171:10001#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B
+trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?sni=reooec.freetrade.link#%F0%9F%87%B2%F0%9F%87%B4_MO_%E6%BE%B3%E9%97%A8-%3E%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://XQ5jxs58ecd403l7@views.pickaxe.sh:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
 trojan://44c5578a7c@37.143.129.56:443/?type=tcp&security=tls&sni=fi1.connecton.surf&allowInsecure=1#%40V2ray_hub1%20-%20Free%20Server%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://telegram-id-directvpn@51.20.149.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#%40chatnekonvaslshim%F0%9F%92%9Cvless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.82.0:2053?path=%2Fp%3D19&security=tls&encryption=none&host=itcenteriran.blog&type=ws&sni=itcenteriran.blog#%40chatnekonvaslshim%F0%9F%92%9BMTN
@@ -596,10 +603,3 @@ trojan://Awrudu@awrudu-gift.darkevil.buzz:443/?security=tls&type=tcp&sni=android
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40v2naptv+%F0%9F%87%AC%F0%9F%87%A7
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@jp.mjt001.com:443#%F0%9F%87%BA%F0%9F%87%B8US_184
 trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#FI-S11-Korea-Trojan
-trojan://user@s15.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s15.mynameismahsa.info#FI-S15-Japan-Trojan
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#%F0%9F%87%BA%F0%9F%87%B8_Tel%3A%40HopeVPN
-trojan://your_password@aws-ge-frankfurt-1.f1cflinea.com:443?path=%2Ff1rocket&security=tls&host=aws-ge-frankfurt-1.f1cflinea.com&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com#@Tiny_VPN_Official
-trojan://8ZTk9ouKC8@netha.alexdevil.help:443?security=tls&headerType=none&type=tcp&sni=aka.ms#Dialog+Zoom
-trojan://telegram-id-directvpn@18.156.11.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
-trojan://telegram-id-directvpn@3.75.31.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnstorefast
-trojan://telegram-id-privatevpns@63.35.119.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
