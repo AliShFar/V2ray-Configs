@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@154.197.121.253:443?encryption=none&security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_60_248
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:2096?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%28t.me%2Fvvkj11%29%0D_99_249
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_61_250
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_62_251
@@ -603,3 +602,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5N2U5XHU1NmZkIFx1ODYxMVx1ODNjN1x1NGUzYlx1Njcz
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS44LjE1NyIsICJwb3J0IjogIjIwODIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiczFjLnYyLnYwMDFzc3MueHl6IiwgInRscyI6ICIifQ==
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%E6%B3%95%E5%9B%BD%2BOVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
 trojan://NISHIKUITAN222@8.219.198.139:2053?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=/#中国+阿里云
+trojan://ryAEVIBcX0uh@54.234.146.36:12566?sni=appsvs.shop#美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心

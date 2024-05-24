@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://ryAEVIBcX0uh@54.234.146.36:12566?sni=appsvs.shop#美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心
 vmess://eyJhZGQiOiAib25lYS5mbGhhLnJ1IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA5NSwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNi40NS43OSIsICJwb3J0IjogIjgwIiwgImlkIjogImMwNDUzYTE2LTY3ZTktNGVhYi1iZGM5LWI5NjI0YWQ2YmQyOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAianAueGxiOC5ldS5vcmciLCAicGF0aCI6ICIvP2VkPTIwNDgmVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQFdhbmdDYWlfOCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%E6%B3%95%E5%9B%BD%2BOVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
@@ -603,3 +602,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.222.116:20010?encryption=no
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b1%f0%9f%87%b9+LT+%e7%ab%8b%e9%99%b6%e5%ae%9b+5
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.132:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.132-8022
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0868
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@140.99.233.156:2087?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-SG-Singapore5
