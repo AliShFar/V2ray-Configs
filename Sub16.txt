@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
 	"shareOverLan" : false,
 	"localPort" : 1080,
 	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
@@ -592,14 +603,3 @@ vmess://eyJ0eXBlIjoiIiwicHMiOiIyOTct8J+Hs/Cfh6YgTmFtaWJpYSAtIE5BIPCfjI0gVk0tV1Mt
 vmess://eyJ0eXBlIjoiIiwicHMiOiIyOTgt8J+Hs/Cfh6YgTmFtaWJpYSAtIE5BIPCfjI0gVk0tV1MtVExTIDTig6MiLCJhZGQiOiIxMDQuMTYuNjAuOCIsInBvcnQiOjIwODcsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im1pc3R5LWRldy1lMmYxLnR1cmtleXMtcmFkZm9yZC53b3JrZXJzLmRldiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5kZTA2LmluZGlhdmlkZW8uc2JzL2xpbmt3cyIsImhvc3QiOiJtaXN0eS1kZXctZTJmMS50dXJrZXlzLXJhZGZvcmQud29ya2Vycy5kZXYiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.210.202.200:34237?encryption=none&type=ws&path=%2Fproxyip&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=hk222.ylks.link#299-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-192.210.202.200%3A34237
 vless://1db5e77a-d621-11ee-aaa8-00505603e70d@172.67.158.12:443?encryption=none&type=ws&path=%2Fwebsocket&host=st-fr-1.brocdn.com&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=st-fr-1.brocdn.com#300-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://1e5de110-c081-498b-8c0e-44e475593476@108.165.216.234:2053?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop#301-%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.165.216.234%3A2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.143.237:8443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C50-100%2C20-50&sni=jp022.ylks01.eu.org#302-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.143.237%3A8443
-vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzAzLfCfh6jwn4emIENhbmFkYSAtIE5BIPCfjI4gVk0tV1MtTkEgNOKDoyIsImFkZCI6IjUxLjc5LjEwMy43NiIsInBvcnQiOjIwODYsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInRscyI6IiIsInNuaSI6ImNhNi50ZWhtZTEwMC5mdW4iLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsImhvc3QiOiJjYTYudGVobWUxMDAuZnVuIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?encryption=none&type=ws&path=%2FIkR3JyNSfjxxn5lZ%3Fed%3D2560&host=12148dF7.miKApaGE.pagES.dEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C10-50&sni=12148Df7.miKApaGE.PAgeS.Dev#304-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.47.88%3A443
-vless://a249a3ea-cc40-46ce-8192-b4bc1a65b96c@104.16.96.58:8080?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=worker-wild-bread-baa9.test37.workers.dev&alpn=h3%2Ch2&fp=chrome&sni=worker-wild-bread-baa9.test37.workers.dev#305-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NA%204%E2%83%A3
-vless://20b39f98-f154-47fa-ae5f-b319b4d5acb0@172.64.173.7:80?encryption=none&type=ws&path=%2F%40Netmaask&host=meandyouuuuuuu.nursiii.shop&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=meandyouuuuuuu.nursiii.shop#306-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.64.173.7%3A80
-vmess://eyJ0eXBlIjoiIiwicHMiOiIzMDct8J+Hs/Cfh6YgTmFtaWJpYSAtIE5BIPCfjI0gVk0tV1MtVExTIDTig6MiLCJhZGQiOiIxMDQuMTYuNjAuOCIsInBvcnQiOjIwOTYsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im1pa2FqYzg5OXNpb28yanhmc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nbHdlaWRmLmNmZC9saW5rd3MiLCJob3N0IjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.145.38:50001?encryption=none&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C30-80%2C10-20&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com#308-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-146.56.145.38%3A50001
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@108.162.192.141:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-20&sni=jd.wxgqlfx.top#309-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vmess://eyJ0eXBlIjoiIiwicHMiOiIzMTAt8J+Hs/Cfh6YgTmFtaWJpYSAtIE5BIPCfjI0gVk0tV1MtTkEgNOKDoyIsImFkZCI6IjEwNC4xNi42MC44IiwicG9ydCI6ODg4MCwiaWQiOiI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLCJhaWQiOiItMSIsInRscyI6IiIsInNuaSI6Ijh3Y2NjNGE5NC10ZXJtLTRhOTQua2V0b3dpbDM0NC53b3JrZXJzLmRldiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pdmlkZW9zLnNicy9saW5rd3MiLCJob3N0IjoiOHdjY2M0YTk0LXRlcm0tNGE5NC5rZXRvd2lsMzQ0LndvcmtlcnMuZGV2IiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.56:80?encryption=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=a.ssll.gay#311-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NA%204%E2%83%A3
