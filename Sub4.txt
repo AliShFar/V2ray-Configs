@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://7574fa79-8978-4527-bdb0-3e05e904ce43@104.18.106.43:80?security=none&type=ws&host=6.v2ray.yk.nedayevarzesh.ir.newsless.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.IR.&path=%2Fvless#%E6%9C%AA%E7%9F%A5_05241312193
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#%E6%9C%AA%E7%9F%A5_05241312194
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.52.134:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_05241312195
 vless://aa7fb6d1-7b45-4135-811e-48f523d6b4b0@162.159.153.2:443?security=tls&sni=fi2.v2vless.xyz&type=grpc&serviceName=vless-grpc#%E6%9C%AA%E7%9F%A5_05241312196
 vless://ae8e1a57-75fc-4d8d-b186-bfa92e547312@104.17.75.158:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05241312197
@@ -603,3 +601,5 @@ vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.19.168:2086?security=none&ty
 vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.18.19.191:2096?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#%E6%9C%AA%E7%9F%A5_05241312781
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.50.101:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05241312782
 vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@162.159.17.160:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev?ed#%E6%9C%AA%E7%9F%A5_05241312783
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05241312784
+vless://7f99da38-1333-4a8e-abf1-9ecd951b9365@104.21.63.160:443?security=tls&sni=jomong.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#%E6%9C%AA%E7%9F%A5_05241312785

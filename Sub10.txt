@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.188:443?security=tls&sni=MAHdIServER-2VR.PAgeS.Dev&type=ws&host=maHdIsErver-2Vr.pAGEs.dEv&path=%2FLP15HLh25g9sf9Pz%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0524132528
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.143:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_0524132529
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#%E7%BE%8E%E5%9B%BD_0524132530
 vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@172.67.201.127:2082?security=none&type=ws&path=#%E7%BE%8E%E5%9B%BD_0524132531
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.222.230.126:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=chrome#%E7%BE%8E%E5%9B%BD_0524132532
@@ -603,3 +601,5 @@ vless://896ea6fd-0754-430d-b5b3-4b4ad487617d@172.66.47.87:443?security=tls&sni=4
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0524133125
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0524133126
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.230.79.26:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#%E7%BE%8E%E5%9B%BD_0524133127
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.160.36:80?type=ws&path=/graphql#%E7%BE%8E%E5%9B%BD_0524133128
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.236:443?security=tls&sni=JoinMAhDisERvEr-257.PaGes.dev&type=ws&host=JoinMahdiSeRVER-257.PAgeS.Dev&path=%2FLuapdSdUqX5tDzF5%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0524133129

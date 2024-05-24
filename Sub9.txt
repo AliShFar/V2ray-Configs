@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://78ca3e62-401b-4077-96be-9ef49d5bad5d@66.235.200.90:8443?encryption=none&type=ws&path=%2Fpath23&security=tls&sni=pannel-tr.barfak8184.space#%E7%BE%8E%E5%9B%BD_0524131453
-vless://9b76baa9-4269-4c46-aaec-4d884a305da0@172.67.199.167:8443?encryption=none&type=grpc&serviceName=8443vless&security=tls&sni=d.networknim.lol&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0524131454
 vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@172.64.83.33:2052?encryption=none&type=tcp#%E7%BE%8E%E5%9B%BD_0524131455
 vless://--DIGiV2RAY--@108.162.195.102:80?encryption=none&type=tcp#%E7%BE%8E%E5%9B%BD_0524131456
 vless://ea2d2faa-5e95-4a07-960d-1105e83aea91@66.235.200.5:8443?encryption=none&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D2048&security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0524131457
@@ -603,3 +601,5 @@ vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.44.182:443?security=tls&sni=
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.81.238:443?security=tls&sni=hdfy4c2.iraniancpi.uk&type=ws&host=hdfy4c2.iraniancpi.uk&path=%2FMr6wzC2rxRWBtLTlTL&fp=chrome&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD_0524132525
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#%E7%BE%8E%E5%9B%BD_0524132526
 vless://cd08da90-1527-4077-8fca-0a5338b2e423@172.66.213.5:2086?security=none&type=ws&host=3.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2FTelegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0524132527
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.188:443?security=tls&sni=MAHdIServER-2VR.PAgeS.Dev&type=ws&host=maHdIsErver-2Vr.pAGEs.dEv&path=%2FLP15HLh25g9sf9Pz%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0524132528
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.143:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_0524132529

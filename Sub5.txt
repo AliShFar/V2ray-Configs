@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05241312784
-vless://7f99da38-1333-4a8e-abf1-9ecd951b9365@104.21.63.160:443?security=tls&sni=jomong.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#%E6%9C%AA%E7%9F%A5_05241312785
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.14.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#%E6%9C%AA%E7%9F%A5_05241312786
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.16.241:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#%E6%9C%AA%E7%9F%A5_05241312787
 vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.16.219.243:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_05241312788
@@ -603,3 +601,5 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.36.103:2083?encryption=none&
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.28.0:2083?encryption=none&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0524132784
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.21.218:2083?encryption=none&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0524132785
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.20.74:2083?encryption=none&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0524132786
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.21.47.96:443?encryption=none&type=ws&host=always-online1.lp-airdrop.top&path=%2F%3Fed%3D2048%40VPNWEDBAZ&security=tls&sni=always-online1.lp-airdrop.top#%E6%9C%AA%E7%9F%A5_0524132787
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.135.27:2083?encryption=none&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0524132788
