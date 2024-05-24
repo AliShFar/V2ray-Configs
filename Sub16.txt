@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "476637:Caiange823057",
 			"obfs" : "http_simple",
@@ -601,5 +603,3 @@ vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTcwLfCfh7nwn4e8VFctMjIwLjEzMC44MC4xNzktNzE3
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@118nahal.ir:443?encryption=none&type=ws&path=%2Fjuzibaipiao.5112233.xyz%3A443%2F%3Fed%3D2048&host=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WOrKErs.dEV&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WOrKErs.dEV#171-%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3-worker
 vless://d689b66d-1d2b-47fd-a708-7014f7c296c8@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&type=ws&path=%2F%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official%2C%40AstroVPN_official&host=fi1.v2vless.xyz&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=fi1.v2vless.xyz#172-%F0%9F%87%A8%F0%9F%87%A6CA_2790_%40Surfboardv2ray
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=xeeqi.kevani8800.workers.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=xeeqi.kevani8800.workers.dev#173-%F0%9F%87%A8%F0%9F%87%A6CA_776_%40Surfboardv2ray
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=bpb-worker-panel-h5f.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C10-20&sni=bpb-worker-panel-h5f.pages.dev#174-%F0%9F%87%A8%F0%9F%87%A6CA_304_%40Surfboardv2ray
-vless://21a0376a-22c9-44d0-873f-ecc8e646e692@zula.ir:443?encryption=none&type=ws&path=%2Fvless&host=fr1-vless.sshmax.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=fr1-vless.sshmax.xyz#175-%F0%9F%87%BA%F0%9F%87%B8US_516_%40Surfboardv2ray
