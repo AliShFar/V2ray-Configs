@@ -3,6 +3,31 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
 		}
@@ -578,28 +603,3 @@ vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.44.82:443?encryption=none&ty
 vless://896ea6fd-0754-430d-b5b3-4b4ad487617d@172.66.47.87:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=4d9061a7.joinmahdiserver-7tw.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=4d9061a7.joinmahdiserver-7tw.pages.dev#277-%E7%BE%8E%E5%9B%BD_0524182847
 vless://cdc61aa3-0353-4753-9c64-1c8fd3f3d79c@LIGHTNING6-joinbed.filj.top:8880?encryption=none&type=ws&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&security=none&alpn=h2&fp=chrome&sni=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.#278-%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40lightning6%20%7C%202
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.44.58:2087?encryption=none&type=ws&path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C20-50&sni=ios-azadnet1.pages.dev#279-%E7%BE%8E%E5%9B%BD_0524183005
-vless://13cafa4e-380d-41d1-ab28-f7f220e51fc5@172.105.28.237:45509?encryption=none&type=tcp&security=none&alpn=h2&fp=ios&sni=172.105.28.237#280-%E5%8A%A0%E6%8B%BF%E5%A4%A7_052418235
-vless://be907b15-7889-489b-a2ec-7fdd35344aa9@188.114.98.224:2095?encryption=none&type=ws&path=%2F&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&security=none&alpn=h3%2Ch2&fp=ios&sni=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.#281-%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40shh_proxy%20%7C%2019
-vless://a8fa7b1c-a5b0-449b-97f6-e86ae43b95bb@172.64.86.128:8080?encryption=none&type=ws&path=%2FAmVpn-AmVpn-AmVpn-AmVpn-AmVpnn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn%3Fed%3D1024&host=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.atkfood.com.&security=none&alpn=h3%2Ch2&fp=edge&sni=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.atkfood.com.#282-%40Hope_Net-join-us-on-Telegram
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjgzLfCfh7nwn4e3VFItMTg1LjI0Mi4xNjEuMjA2LTUwMDUiLCJhZGQiOiIxODUuMjQyLjE2MS4yMDYiLCJwb3J0IjoyNTIxMiwiaWQiOiI0M2E5ODhkMS04YzhjLTQzMDMtOWUwMy04ZDY1MWRlNmYzNzYiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJlZGdlIn0=
-vless://5faeeda6-bba0-485f-909a-510f6e4200d6@185.143.234.120:2095?encryption=none&type=ws&path=%2F&host=cl.rayvps.sbs&security=none&alpn=http%2F1.1&fp=chrome&sni=cl.rayvps.sbs#284-%E4%BC%8A%E6%9C%97_052418078
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjg1LfCfh7rwn4e4VVMtMTUuMTk3LjE5Mi41NS0wMDIxIiwiYWRkIjoiaGthejAwNS54bXJ0aC1ub2RlLnh5eiIsInBvcnQiOjE1ODkxLCJpZCI6ImZmNTFjYTRhLTYwNTAtM2UyNi1hMDM3LTg4YjBkZDYyZDEzOCIsImFpZCI6MiwidGxzIjoiIiwic25pIjoid3d3LmJhaWR1LmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsImhvc3QiOiJ3d3cuYmFpZHUuY29tIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJzYWZhcmkifQ==
-vless://69b6d557-f883-4606-8fd3-a7a678d4c885@193.162.129.235:8071?encryption=none&type=tcp&host=upload.com&security=none&headerType=http&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=upload.com#286-%E4%BC%8A%E6%9C%97_052418072
-vless://31288191-029e-46f3-9d02-5c01b8a8ba41@ch.ni-ham.info:2082?encryption=none&type=ws&path=%2F%3Fed%3D2087&host=a8d5lfv2xb-germany7.datam-co.ir&security=none&alpn=h2%2Chttp%2F1.1&fp=randomized&sni=a8d5lfv2xb-germany7.datam-co.ir#287-%E6%9C%AA%E7%9F%A5_052418114
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjg4LfCfj4FSRUxBWS0xMDQuMjEuNzMuMTczLTI4MjkiLCJhZGQiOiIxMDQuMjEuNzMuMTczIiwicG9ydCI6ODAsImlkIjoiNDI1MDdkN2MtYmM2Ny00NTM0LThmZmMtNmI5MjM0Yjc0MDE4IiwiYWlkIjowLCJ0bHMiOiIiLCJzbmkiOiJtYWkubmVrb25la28uYnV6eiIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMvaGQubTN1OCIsImhvc3QiOiJtYWkubmVrb25la28uYnV6eiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiZmlyZWZveCJ9
-vless://f9bfe7bb-dc57-4223-8648-e3fbc12689f7@172.67.204.84:2052?encryption=none&type=ws&path=%2F%3Fed%3D2053&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.#289-%E7%BE%8E%E5%9B%BD_0524182006
-vless://09ea5056-d57e-4f3c-bd07-dc7619bb1ad7@185.146.173.58:80?encryption=none&type=ws&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D2048&host=2.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=2.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.#290-%F0%9F%87%B8%F0%9F%87%AASE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40free_v2rayyy%20%7C%209
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.187:80?encryption=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&sni=a.ssll.gay#291-%E6%9C%AA%E7%9F%A5_0524185141
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C20-50&sni=xin226.ylks.link#292-%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_052418047
-vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?encryption=none&type=ws&path=%2Fvless-ws%2F%3Fed%3D2048&host=javad.rbj5847.workers.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=javad.rbj5847.workers.dev#293-%E7%BE%8E%E5%9B%BD_0524182795
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@103.184.44.21:80?encryption=none&type=ws&path=%2FDiReCt49-13-163-226-CleAnMaRk-IR&host=DiReCt49-13-163-226.CleAnMaRk.IR&security=none&alpn=http%2F1.1&fp=firefox&sni=DiReCt49-13-163-226.CleAnMaRk.IR#294-%E4%B8%AD%E5%9B%BD_052418095
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.12:80?encryption=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=a.ssll.gay#295-%E6%9C%AA%E7%9F%A5_0524184994
-vless://dee0cbef-9d21-49a4-8b6d-9be6bafdd849@78.39.47.109:10110?encryption=none&type=ws&security=none&alpn=h2&fp=randomized&sni=78.39.47.109#296-%E4%BC%8A%E6%9C%97_052418065
-vless://8e716cae-74d0-4694-ad31-4400cc59ea52@185.146.173.40:2095?encryption=none&type=ws&path=%2Ftelegram-%40ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2Ctelegram-V2ray_420%2CV2ray_420-V2ray_420-telegram-mehran-v2ray%3Fed%3D2056&host=Gemonecloud.amoozeshwordpressforyou.IR.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=Gemonecloud.amoozeshwordpressforyou.IR.#297-%E7%91%9E%E5%85%B8_052418199
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjk4LfCfj4FSRUxBWS0xNDEuMTAxLjEyMC4yNDMtMTAxNTgiLCJhZGQiOiIxNDEuMTAxLjEyMC4yNDMiLCJwb3J0IjoyMDk1LCJpZCI6IjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hnY2Vmb21uIiwiaG9zdCI6IiIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiZWRnZSJ9
-vless://23ff8e34-2382-49cc-b068-d5de5b716e61@172.67.213.142:443?encryption=none&type=ws&path=%2FTelegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree%3Fed%3D2048&host=telegram-vpnhttpinjectorfree-45.bononem349.workers.dev&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=telegram-vpnhttpinjectorfree-45.bononem349.workers.dev#299-%E7%BE%8E%E5%9B%BD_0524183002
-vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@66.235.200.0:2087?encryption=none&type=ws&path=%2F%40mahsa_net%20%40azadi_az_inja_migzare&host=mAh3.irAnWeB.ShOP&security=tls&alpn=http%2F1.1&fp=android&fragment=tlshello%2C10-50%2C20-50&sni=mAh3.irAnWeB.ShOP#300-%E7%BE%8E%E5%9B%BD_0524183019
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.109:2052?encryption=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=a.ssll.gay#301-%E6%9C%AA%E7%9F%A5_0524185280
-vless://af2a307f-ef0e-425a-f35b-2d7c0d11f7d6@37.152.177.203:8080?encryption=none&type=ws&security=none&alpn=http%2F1.1&fp=randomized&sni=37.152.177.203#302-%E4%BC%8A%E6%9C%97_052418081
-vless://c5ccefec-0ad5-46c7-8a76-46edb4800fe1@185.46.0.192:2083?encryption=none&type=tcp&host=speedtest.net&security=none&headerType=http&alpn=h2&fp=chrome&sni=speedtest.net#303-%E4%BC%8A%E6%9C%97_052418066
-vless://526cb764-c815-4375-951d-87cefe70d1a7@103.184.44.173:8880?encryption=none&type=ws&path=%2F%40LIGHTNING6%2C%20%40LIGHTNING6&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.#304-%E4%B8%AD%E5%9B%BD_052418033
