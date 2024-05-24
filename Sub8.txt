@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://35c56fb2-9eb3-46ed-aa43-952e4f6bb0df@185.146.173.54:8880?encryption=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#%E7%91%9E%E5%85%B8_052404159
 vless://808ba961-96d7-429b-9966-3c3262c97098@185.146.173.56:8880?encryption=none&type=ws&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#%E7%91%9E%E5%85%B8_052404160
 vless://-DIGiV2RAY-@185.146.173.51:80?encryption=none&type=ws&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&path=%2FDigiv2ray-#%E7%91%9E%E5%85%B8_052404161
 vless://e8e8a50f-9aa0-46f6-a6e7-ed822be60323@185.146.173.59:8880?encryption=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac2...#%E7%91%9E%E5%85%B8_052404162
@@ -603,3 +602,4 @@ vless://0e2b3358-21b8-458b-8266-03f81607ac29@ohayo3.xelatek.com:8443?encryption=
 vless://5e285556-5005-4c1d-b803-b781ac46d700@172.66.47.74:2087?encryption=none&type=grpc&security=tls&sni=svnV2rayshoji.snappfoode.com#%E7%BE%8E%E5%9B%BD_0524041509
 vless://72c90a40-be6b-4f5c-a293-63c7d639739c@172.67.192.28:2083?encryption=none&type=grpc&serviceName=2083vless&security=tls&sni=dns.seminar-irani.ir.&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0524041517
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@dl.vds-server.ir:2052?encryption=none&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD_0524041518
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?encryption=none&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=hagh.pages.dev#%E7%BE%8E%E5%9B%BD_0524041522
