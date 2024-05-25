@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
 	"authPass" : "",
 	"autoBan" : false,
 	"sameHostForSameTarget" : false,
@@ -600,6 +603,3 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@118nahal.ir:443?encryption=none&typ
 vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@118nahal.ir:443?encryption=none&type=ws&path=%2Fc.cm8.rr.nu%3A443%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&host=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.wORKERs.DeV&security=tls&alpn=h3%2Ch2&fp=firefox&fragment=tlshello%2C30-80%2C20-50&sni=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.wORKERs.DeV#146-%E6%9C%AA%E7%9F%A5_05251812445-worker
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@118nahal.ir:2053?encryption=none&type=ws&path=%2Fjp116.ylks01.eu.org%3A2053%2Fblue&host=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.workErs.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.workErs.dev#147-%E6%9C%AA%E7%9F%A5_05251812368-worker
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMTQ4LfCfh67wn4epSUQtMTAzLjI1My4yNi4yMC0wNDM3LXdvcmtlciIsImFkZCI6IjExOG5haGFsLmlyIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwidGxzIjoidGxzIiwic25pIjoiY29tbWVuc2Fsb3JhbC1taWNyb2Jpb21lLW1pY3JvYmlvdGEtdGl0YW4tZXQtYWwtYmFjdGVyaW9kZXMtZnVzLm11bHRpZmFjZXRlZDEud09SS2VyUy5kZVYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvemVjamsuY29tOjQ0My93cyIsImhvc3QiOiJjb21tZW5zYWxvcmFsLW1pY3JvYmlvbWUtbWljcm9iaW90YS10aXRhbi1ldC1hbC1iYWN0ZXJpb2Rlcy1mdXMubXVsdGlmYWNldGVkMS53T1JLZXJTLmRlViIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@118nahal.ir:443?encryption=none&type=ws&path=%2Fcfed.tgzdyz2.top%3A443%2Ftg%40zdyz2&host=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WoRKeRs.DeV&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WoRKeRs.DeV#149-%E9%98%BF%E8%81%94%E9%85%8B_052518017-worker
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@118nahal.ir:443?encryption=none&type=ws&path=%2Fxin226.ylks.link%3A443%2Fproxyip&host=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WorkErs.dEV&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WorkErs.dEV#150-%E8%8B%B1%E5%9B%BD_052518047-worker
-vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@118nahal.ir:443?encryption=none&type=ws&path=%2Ftoujiediansigema.5112233.xyz%3A443%2FTG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&host=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WORKErS.Dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=commensaloral-microbiome-microbiota-titan-et-al-bacteriodes-fus.multifaceted1.WORKErS.Dev#151-%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3-worker
