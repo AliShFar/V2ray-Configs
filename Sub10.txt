@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net13.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net13.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0526042150
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net12.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net12.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0526042151
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net9.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net9.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0526042152
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net6.ntr.biz.id:443?encryption=none&security=tls&sni=net6.ntr.biz.id&fp=randomized&type=ws&host=net6.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0526042153
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net4.ntr.biz.id:443?encryption=none&security=tls&sni=net4.ntr.biz.id&fp=randomized&type=ws&host=net4.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0526042154
@@ -601,5 +603,3 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=
 vless://7108df3e-e7b3-44a5-8195-1657f103ea18@172.67.141.172:2095?security=none&type=ws&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.nofiltering2.SBS.&path=%2F%3Fed%3D1024#%E7%BE%8E%E5%9B%BD_0526042873
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.219.241:443?security=tls&sni=edge.020770.xyz&type=ws&fp=chrome#%E7%BE%8E%E5%9B%BD_0526042874
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.249.75:80?type=ws&path=/graphql#%E7%BE%8E%E5%9B%BD_0526042875
-vless://462340fd-5523-4a10-bc15-52678b579ddf@172.67.191.234:2096?security=tls&sni=mrz-cdn.dooshvari.sbs&type=grpc&serviceName=@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG-@PersianV2rayNG&fp=chrome#%E7%BE%8E%E5%9B%BD_0526042876
-vless://f9bf6e04-da12-4a6e-aff2-641efeb2b928@170.114.46.36:443?security=tls&sni=gogoli.nufilter.online&type=ws&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#%E7%BE%8E%E5%9B%BD_0526042877
