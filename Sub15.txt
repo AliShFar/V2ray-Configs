@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.135:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-0864
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.22.240.107:30686?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+41
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.119.191:81?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-TW1
-trojan://xxoo@us.blazeppn.info:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0783
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzUuNzYiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsICJob3N0IjogImEucHJhcHQxLmlyIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEBXYW5nQ2FpMDgifQ==
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@zhuanfayyds.xn--pssq69d.xyz:64154#%E6%97%A5%E6%9C%AC%2003
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0711
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.201.169.70:54345#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E9%9F%A9%E5%9B%BD%0D_2
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0812
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@103.184.44.62:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+36
@@ -603,3 +595,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDEgQG5vZHBhaSIsImFk
 	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
