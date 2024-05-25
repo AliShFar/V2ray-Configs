@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.32.188.77:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%E7%88%B1%E5%B0%94%E5%85%B0_052523010
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.49.13.14:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%E7%88%B1%E5%B0%94%E5%85%B0_052523011
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@95.164.8.12:443?path=%2Fproxyip&security=tls&encryption=none&type=ws&sni=xin226.ylks.link#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_052523004
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.5:2083?encryption=none&type=ws&path=%2F&security=tls&sni=a.ssll.gay#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_052523005
@@ -602,4 +603,3 @@ vless://31c04b5b-9edc-4e8f-aa1a-ed6a6aac4904@66.235.200.123:80?type=ws&encryptio
 vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?type=ws&encryption=none&path=%2Fvless&security=tls&sni=de3-vless.sshmax.xyz&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0525231118
 vless://29c17f11-b969-46d6-abca-b8ca3d420d9c@172.67.147.195:443?type=ws&encryption=none&path=%2Fvless&security=tls&sni=tr2-vless.sshmax.xyz&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0525231119
 vless://29419d2e-5475-42a9-a615-996608ce0a46@172.67.145.239:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=parsairon.ironnettt.workers.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0525231120
-vless://28ceb89c-03d8-443d-bd89-c90b34236485@172.66.44.123:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=7ba6dc37.joinmahdiserver-4q9.pages.dev&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0525231121

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.119.191:81?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-TW1
 trojan://xxoo@us.blazeppn.info:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0783
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzUuNzYiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsICJob3N0IjogImEucHJhcHQxLmlyIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEBXYW5nQ2FpMDgifQ==
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+2
@@ -602,4 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDEgQG5vZHBhaSIsImFk
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
 	"proxyType" : 0,
-	"proxyHost" : "",
