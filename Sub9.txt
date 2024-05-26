@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.244.246:80?type=ws&encryption=none&path=%2F&security=tls&sni=us3.rtacg.com&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131034
 vless://9c56dc50-c0f7-489e-9175-cb13f4d9541b@5.78.101.178:47137?type=grpc&encryption=none&flow=xtls-rprx-vision&sni=ea.com&fp=chrome&security=reality&pbk=0TsSZcONB5wFArnP0pMeBkvxG0zPOV6vr_WjLdNsjkc&sid=71952051&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131036
 vless://0c1a8b2f-8dfe-497a-bea3-ac66865a3956@103.35.189.42:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=namasha.com&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131037
 vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.46.221:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131040
@@ -603,3 +602,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.153.253:8443?encryption=none
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.201.109:443?encryption=none&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev#%E7%BE%8E%E5%9B%BD_0526132060
 vless://f5a9dfa6-14e2-473d-a66f-671ece5e8dd2@172.67.160.233:2052?encryption=none&type=ws&host=cfnb.v3nom.top#%E7%BE%8E%E5%9B%BD_0526132061
 vless://698bdf81-9333-41cc-9cc1-81a2fc43bc19@172.67.180.238:8080?encryption=none&type=ws&host=cloudmehranmmdv1ray.v3rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.MahDi3Mm.onliNe.&path=%2Ftelegramm-%40Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2Ctelegram-Naji-vpn%2CMmdv2rayng-V2rayngmmd-telegram-meh95-v2ray%3Fed%3D2056#%E7%BE%8E%E5%9B%BD_0526132062
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.88:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&sni=mmdv2.pages.dev#%E7%BE%8E%E5%9B%BD_0526132063

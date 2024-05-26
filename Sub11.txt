@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#%E7%BE%8E%E5%9B%BD_0526132851
 vless://9f333654-7d59-47ed-8108-e38f8dd7739e@172.67.132.41:2082?security=none&type=ws&host=nl24.vlessx.us#%E7%BE%8E%E5%9B%BD_0526132852
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0526132853
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#%E7%BE%8E%E5%9B%BD_0526132854
@@ -603,3 +602,4 @@ vless://telegram-id-ArV2ray@188.114.98.224:80?security=&type=ws&path=/telegram-A
 vless://dda2dda8-7105-4e03-8668-ef7f1295d757@188.114.98.224:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E8%8D%B7%E5%85%B0_052613200
 vless://34030c16-0db0-4922-80a9-e59d24fb1da4@188.114.98.224:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E8%8D%B7%E5%85%B0_052613201
 vless://5f4ecbf9-8df8-4848-9434-0db5610264f0@188.114.98.224:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E8%8D%B7%E5%85%B0_052613202
+vless://3142da0b-fc7f-4688-913c-fe5fbbd2d7fb@188.114.98.224:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E8%8D%B7%E5%85%B0_052613203

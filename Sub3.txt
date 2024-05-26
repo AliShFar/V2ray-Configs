@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=aut022.ylks.link#%E6%96%B0%E5%8A%A0%E5%9D%A1_052613087
 vless://a3642b74-e138-434b-dbd0-90979ff2755e@167.71.209.134:26278?encryption=none&type=ws&host=store.steampowered.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1_052613088
 vless://35d6705e-044e-40fa-8864-0e2d647c70f7@167.71.209.134:14836?encryption=none&type=ws&host=android.googleapis.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1_052613089
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.80.110:8443?encryption=none&type=ws&path=%2Fblue&security=tls&sni=zdy226.kpcloud.eu.org#%E6%96%B0%E5%8A%A0%E5%9D%A1_052613090
@@ -603,3 +602,4 @@ vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.14.19:2053?security=tls&sni=
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.57.240:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws#%E6%9C%AA%E7%9F%A5_05261311734
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.18.11.114:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#%E6%9C%AA%E7%9F%A5_05261311735
 vless://3ab1e793-7cd7-49a1-bb14-b68043888482@104.21.4.8:2086?type=ws#%E6%9C%AA%E7%9F%A5_05261311736
+vless://feed264d-a3dd-41e8-a081-dd5b54902700@104.22.1.87:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05261311737
