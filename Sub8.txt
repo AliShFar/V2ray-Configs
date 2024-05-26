@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://9a37341b-5a07-432c-beea-372b0964ffeb@cf-lt.sharecentre.online:443?encryption=none&security=tls&sni=cf-1wy.pages.dev&alpn=h2&fp=random&type=ws&host=cf-1wy.pages.dev&path=%2F#%E6%9C%AA%E7%9F%A5_052613845
+vless://9a37341b-5a07-432c-beea-372b0964ffeb@104.18.163.116:443?encryption=none&security=tls&sni=cf-1wy.pages.dev&alpn=h2&fp=random&type=ws&host=cf-1wy.pages.dev&path=%2F#%E6%9C%AA%E7%9F%A5_052613846
 vless://9a37341b-5a07-432c-beea-372b0964ffeb@104.17.212.196:443?encryption=none&security=tls&sni=cf-1wy.pages.dev&alpn=h2&fp=random&type=ws&host=cf-1wy.pages.dev&path=%2F#%E6%9C%AA%E7%9F%A5_052613847
 vless://766767a5-2b7e-4500-8472-99308888308d@197.225.145.26:80?encryption=none&type=ws&host=sana.servehttp.com&path=%2F%40v2ray_configs_pool#%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF_052613001
 vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?type=ws&encryption=none&path=%2Fssl&security=tls&sni=fr.vpnbase.net&packetEncoding=xudp#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF_052613001
@@ -601,5 +603,3 @@ vless://0c1a8b2f-8dfe-497a-bea3-ac66865a3956@103.35.189.42:443?type=tcp&encrypti
 vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.46.221:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131040
 vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.45.35:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131041
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.221.245:443?type=ws&encryption=none&path=%2F975e3406-9ac4-45fc-a12b-30fbe810c75f&security=tls&sni=www.12reddddddd.bf&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131042
-vless://f182fdb7-6945-4719-bd4f-868465e5a2d7@172.66.44.158:80?type=ws&encryption=none&path=%2Fbackup&security=tls&sni=yeCtW3ZIVaWuNVSezf6F.cInIMO.apP&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131043
-vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:80?type=ws&encryption=none&path=%2F%40vano_ganzzz&security=tls&sni=v2fly.milik-fukada.eu.org&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526131044
