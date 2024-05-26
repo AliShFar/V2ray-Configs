@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://e825d9e4-b513-4ede-b8a6-966292f2b753@172.66.44.158:443?type=ws&encryption=none&path=56274%2FTrTechro&security=tls&sni=file-manager-pro.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081088
-vless://e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@172.67.172.147:443?type=ws&encryption=none&path=%2F&security=tls&sni=easynet23.gosomok252.workers.dev&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081089
 vless://dbe9c795-fbdb-4b2f-acaa-efc3309b294d@172.67.195.41:443?type=grpc&encryption=none&security=tls&sni=pq-gr-1.doctornim.ir&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081090
 vless://d8b26036-2d0e-4360-aa24-dda5983b5e9d@172.67.208.40:443?type=ws&encryption=none&path=%2F&security=tls&sni=worker-old-lake-8479.kavega5466.workers.Dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081091
 vless://d667d674-d836-4066-9980-b61fddc0d4e2@172.67.139.212:2087?type=ws&encryption=none&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=eeeeee.caunem.workers.dev&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081092
@@ -603,3 +601,5 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?encryption=none&t
 vless://c66f465d-809a-4be3-94a6-4e7d8864a877@172.64.111.9:2096?encryption=none&type=grpc&serviceName=vless-grpc&security=tls&sni=at3.v2vless.xyz&alpn=h3%2Ch2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0526082138
 vless://0a3c87a2-b3b3-4288-a4e6-f30869a6bfd8@172.67.173.11:443?encryption=none&type=ws&host=tr1.vless.site&path=------...&security=tls&sni=tr1.vless.site#%E7%BE%8E%E5%9B%BD_0526082139
 vless://a8fa7b1c-a5b0-449b-97f6-e86ae43b95bb@172.64.86.128:8080?encryption=none&type=ws&host=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.%25E3%258...#%E7%BE%8E%E5%9B%BD_0526082140
+vless://39275628-a78c-4f19-ab81-c9424edf2956@172.67.73.163:2096?encryption=none&type=ws&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&security=tls&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org#%E7%BE%8E%E5%9B%BD_0526082141
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.195.185:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&sni=mmdv2.pages.dev#%E7%BE%8E%E5%9B%BD_0526082143

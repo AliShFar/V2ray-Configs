@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://db0da85e-5f0c-4f0a-baf0-23148f479430@89.235.119.30:44783?encryption=none&type=tcp#%E4%BC%8A%E6%9C%97_052608029
-vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@mqrcs.whaletm.site:8919?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=%2F#%E4%BC%8A%E6%9C%97_052608030
 vless://fa9be3bc-fcc3-44ea-bc23-3ff2311aba76@46.36.100.238:57357?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E4%BC%8A%E6%9C%97_052608035
 vless://b4cb7101-252d-43c8-a46b-0aab5f0c03fe@iSpeedtop.demotek.net:28646?type=tcp&headerType=http&host=www.speedtest.net&path=/@#%E4%BC%8A%E6%9C%97_052608036
 vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=www.iriknet.ir&type=ws#%E4%BC%8A%E6%9C%97_052608037
@@ -603,3 +601,5 @@ vless://87f7cb00-a064-4173-9c04-70ab944b2ace@92.223.116.203:443?encryption=none&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@58.182.218.190:3003?encryption=none&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2&security=tls&sni=cfed.tgzdyz2.top#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608082
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@27.50.48.108:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&sni=cfed.tgzdyz2.top#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608084
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=aut022.ylks.link#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608085
+vless://a3642b74-e138-434b-dbd0-90979ff2755e@167.71.209.134:26278?encryption=none&type=ws&host=store.steampowered.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608086
+vless://35d6705e-044e-40fa-8864-0e2d647c70f7@167.71.209.134:14836?encryption=none&type=ws&host=android.googleapis.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608087
