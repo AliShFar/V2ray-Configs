@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://55X9v3np3p@68.183.180.244:36889?security=tls&headerType=none&type=tcp#ADD+HOST
-trojan://3cab4355-1a73-4b27-b744-64cc64602dd3@rn.ywcloud.cf:443?security=tls&sni=rn.ywcloud.cf&type=tcp&headerType=none&host=undefined#mahdibland-%25F0%259F%2587%25BA%25F0%259F%2587%25B8US-66.152.161.107-0130
-trojan://your_password@aws-ge-frankfurt-1.f1cflinea.com:443?path=%2Ff1rocket&security=tls&host=aws-ge-frankfurt-1.f1cflinea.com&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com#@Tiny_VPN_Official
-trojan://telegram-id-privatevpns@35.157.75.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#🔒TR-GRPC-TLS🏴‍☠️NA-172.67.204.84:443
-trojan://telegram-id-privatevpns@13.39.164.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@3.20.16.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇺🇸UnitedStates-کانالتلگرام:@V2rayweb
-trojan://c6fce810-9e79-11ee-853b-1239d0255272@51.38.65.155:443/?security=tls&type=tcp&sni=m.zoom.us#Newzoom
-trojan://telegram-id-privatevpns@3.71.174.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S840)🇩🇪t.me/Vmess_iran
-trojan://telegram-id-directvpn@13.53.223.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
-trojan://telegram-id-privatevpns@34.249.95.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
-trojan://telegram-id-privatevpns@52.59.116.174:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40proprojec
-trojan://your_password@3.29.95.54:443?security=tls&headerType=none&type=tcp&sni=aws-uae-1.f1rocketnode.com#%F0%9F%8C%BB%40proxy48+%F0%9F%87%A6%F0%9F%87%AA
-trojan://telegram-id-privatevpns@18.169.45.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
-trojan://Ck0nkbbsur@p2.v2raybrasil.cloud:2096?path=%2Fwsss&security=tls&host=tls.redbullplus.xyz&type=ws&sni=tls.redbullplus.xyz#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40v2naptv+%F0%9F%87%AC%F0%9F%87%A7
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%F0%9F%87%BA%F0%9F%87%B8+%40V2rayTG+
-trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%AE%F0%9F%87%A9
 trojan://telegram-id-directvpn@3.79.215.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
 trojan://telegram-id-directvpn@13.43.40.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?path=%2F&security=tls&host=cdn13.cdn2cdn.com&type=ws&sni=cdn13.cdn2cdn.com#🔰@fast_2ray👈سرورهای‌بی
@@ -603,3 +585,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#%40
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40@Vpn_Storm
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@75.102.51.30:16899#Tel+Channel%F0%9F%91%89+configsCen
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#.
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TXlVc01oL1FBWjI2RCsxTjZLdTZkNDB4alVXalIrSUtIemhML3F6SVFwST0=@38.114.120.181:443#%40daredevill_
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb0VmcUhTTHU0czRtMWNDbVU4am9iS1dCb3N3QXVOalRNVGxzRVBoSXR3PQ==@18.196.1.127:8080#Kiava-T54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMXdCZ0NJVjMyOXF0NzdJRnZERUdF@172.233.57.5:8080#%40daredevill_
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnBxNERJOEN3MXFFUWNkUGE2bUl0TnR1RURGbFQvTndmRjl4Vjd5UnhBPQ==@44.204.71.208:2087#https%3A%2F%2Ft.me%2FV2rayNG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4_NO_%40OpenSSTPVpn_67
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:9090#%40Artemisv
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#%F0%9F%87%AB%F0%9F%87%B7FR-51.178.87.37-0840
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVm1SSEJoYkpyY1lZVTMyM29BZ3NrYmpCVHcrRjBwT3lNS1krSUF6dFgwPQ==@159.223.234.119:1080#https%3A%2F%2Ft.me%2FVTWORAY_WOLF+%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40LOCKEY_
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%5B%F0%9F%87%A6%F0%9F%87%AA%5D%F0%9D%90%A3%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%F0%93%84%82%F0%93%86%83+%@v2rayng20000000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUUJyTHo0bHV5OWUxcWc1UzdOV0hN@51.143.138.178:33028#%E2%9D%84%EF%B8%8F%3A+%40fast_2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@masting.xyz:8080#%40V2RayCactus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdHNoQXVNL2Uyb0dmVWJVRUhKN1cwcWNpLzFmWGtvazNXU2N3VGJPQ2JvPQ==@16.170.225.151:8080#Kiava-T17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SXlSZXRwa0F3S1llWE1wYXBsODNuQng4SDdoTVFkcHlTVWs5anlSN3FBPQ==@3.70.6.82:8080#%40darktunnelvip1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40darktunnelvip1%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+MTN+W
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#hkaa0.shop%7C%E6%B3%95%E5%9B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZXZsd1g5UXVad2hvSmJvUWpPUTlZcGQxcVp2WEZQSlB2dThBMTdvU0xJPQ==@13.53.169.232:8080#Kiava-S6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%E2%9C%8C%EF%B8%8F%F0%9F%94%B0+%40v2rayNG_ribvar+%F0%9F%94

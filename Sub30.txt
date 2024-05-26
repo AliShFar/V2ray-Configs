@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://b504c643-d081-4c90-8f50-9b0bf0b0902d@v02.gutingting.com:20223?security=tls&sni=v2sg01.fuqiangren.com#4Kian-4994
-trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#4Kian-4995
-trojan://b5e4e360-5946-470b-aad0-db98f50faa57@frontend.yijianlian.app:54430?security=tls#4Kian-4996
-trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#4Kian-4997
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#4Kian-4998
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#4Kian-4999
-trojan://b649bab649ba93-7795-486e-872c-bae835de3b35@bauhinia01.allbluedns.xyz:36206?security=tls#4Kian-5000
-trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@usa.liangyuandian.top:443?security=tls#4Kian-5001
-trojan://b84d16a244460e09@211.72.35.152:3389?security=tls#4Kian-5002
-trojan://b84d16a244460e09@5.44.249.42:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-5003
-trojan://b84d16a244460e09@5.44.249.43:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-5004
-trojan://b84d16a244460e09@5.44.249.44:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-5005
-trojan://b84d16a244460e09@5.44.249.44:3306?security=tls&sni=n2.gladns.com#4Kian-5006
-trojan://b84d16a244460e09@5.44.249.44:3306?sni=n2.gladns.com#4Kian-5007
-trojan://b84d16a244460e09@5.44.249.44:3306?sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=/gateway/connect#4Kian-5008
-trojan://b84d16a244460e09@5.44.249.50:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-5009
-trojan://b84d16a244460e09@5.44.249.52:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#4Kian-5010
-trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.81.85.238:443?security=tls#4Kian-5011
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#4Kian-5012
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@54.38.156.210:443#4Kian-5013
 trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud56.jafiyun.world:22056?type=tcp&sni=scloud56.jafiyun.world&allowInsecure=1#4Kian-5014
@@ -603,3 +585,21 @@ trojan://telegram-id-privatevpns@13.50.145.97:22222?security=tls&type=tcp&sni=tr
 trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5591
 trojan://telegram-id-privatevpns@13.50.206.163:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Kian-5592
 trojan://telegram-id-privatevpns@13.50.206.163:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#4Kian-5593
+trojan://telegram-id-privatevpns@13.50.206.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5594
+trojan://telegram-id-privatevpns@13.50.206.163:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5595
+trojan://telegram-id-privatevpns@13.50.206.163:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Kian-5596
+trojan://telegram-id-privatevpns@13.50.61.11:22222?security=tls&sni=trojan.burgerip.co.uk#4Kian-5597
+trojan://telegram-id-privatevpns@13.51.22.16:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Kian-5598
+trojan://telegram-id-privatevpns@13.51.22.16:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#4Kian-5599
+trojan://telegram-id-privatevpns@13.51.22.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5600
+trojan://telegram-id-privatevpns@13.51.22.16:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5601
+trojan://telegram-id-privatevpns@13.51.22.16:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Kian-5602
+trojan://telegram-id-privatevpns@13.51.245.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5603
+trojan://telegram-id-privatevpns@13.51.245.211:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Kian-5604
+trojan://telegram-id-privatevpns@13.53.179.45:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Kian-5605
+trojan://telegram-id-privatevpns@13.60.101.52:22222?security=tls&sni=trojan.burgerip.co.uk#4Kian-5606
+trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5607
+trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5608
+trojan://telegram-id-privatevpns@16.170.131.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-5609
+trojan://telegram-id-privatevpns@16.170.131.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Kian-5610
+trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-5611
