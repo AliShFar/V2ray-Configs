@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.11:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0526082139
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.12:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0526082140
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.13:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0526082141
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.19.42.15:2083?encryption=none&type=grpc&serviceName=LikeVPN&security=tls&sni=dash.cloudzoom.online#%E6%9C%AA%E7%9F%A5_0526082142
@@ -603,3 +602,4 @@ vless://13d40b6e-aba2-4d95-a506-5f05b0582cea@104.26.14.85:2053?encryption=none&t
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.12.140:443?encryption=none&type=ws&host=bpB.rAdiCAlIZATION.IR&path=%2FtZeRNpOqJdtWRgWr%3Fed%3D2048&security=tls&sni=bpB.rAdIcaLiZAtioN.iR&alpn=http%2F1.1#%E6%9C%AA%E7%9F%A5_0526083428
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.5.4:2096?encryption=none&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0526083429
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2053?encryption=none&type=ws&host=folani.iiipok.woRkErs.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&sni=folani.iiipok.woRkErs.DeV&alpn=h2#%E6%9C%AA%E7%9F%A5_0526083430
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?encryption=none&type=ws&host=bypassfilter.test-fad.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&sni=bypassfilter.test-fad.workers.dev#%E6%9C%AA%E7%9F%A5_0526083431

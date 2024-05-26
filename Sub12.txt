@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b0c5a22b-3834-472a-9413-59eece84b4dc@45.76.36.144:3612?encryption=none&type=tcp&headerType=http&host=eset.com#%E8%8D%B7%E5%85%B0_052608176
 vless://24f744f9-82b0-447b-910a-bf66260fecb6@188.114.96.3:8880?encryption=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%25E3%25...#%E8%8D%B7%E5%85%B0_052608177
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.146:443?encryption=none&type=ws&path=%2FvVEBFG5xE2BS8YUp%3Fed&security=tls&sni=4b097c46.gRIZZLYvPn.Pages.DEV#%E8%8D%B7%E5%85%B0_052608178
 vless://14e39db7-4415-4fce-9bdf-826bea454561@188.114.98.224:2087?encryption=none&type=ws&host=gerMnV2ray.naziitness.coM.&path=%2F%3Fed%3D1024&security=tls&sni=gerMnV2ray.naziitness.coM.#%E8%8D%B7%E5%85%B0_052608179
@@ -603,3 +602,4 @@ trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?allowInsecure=1&sni=aws-us-nyc
 trojan://pjdnqv@15.181.162.90:443?allowInsecure=1&sni=aws-us-nyc-1.f1rocketnode.com#%E7%BE%8E%E5%9B%BD_121320359
 trojan://928dc6ee-495b-446f-9f20-883dedce564a@us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&sni=206.237.5.220#%E7%BE%8E%E5%9B%BD_121320893
 trojan://telegram-id-directvpn@54.203.188.182:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%E7%BE%8E%E5%9B%BD_121320960
+trojan://telegram-id-privatevpns@18.171.118.182:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%E8%8B%B1%E5%9B%BD_121320018

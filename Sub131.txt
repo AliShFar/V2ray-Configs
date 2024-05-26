@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://telegram-id-privatevpns@51.20.46.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@18.199.200.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#%F0%9F%87%BA%F0%9F%87%B8_Tel%3A%40HopeVPN
+trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@[2606:4700:310c::ac42:2ed7]:2083?path=%2FOVmkPBATL0FijQ3AWVBo&security=tls&alpn=h2&host=freeinternetforeveryone.segaro.tech&fp=chrome&type=ws&sni=freeinternetforeveryone.segaro.tech#free+internet+for+everyone+tls+WS+CDN+trojan
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.239:2087?allowInsecure=0&sni=tjjd.yzyx1.v6.army&ws=1&wspath=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@3.120.194.9:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%28S104%29%F0%9F%87%A9%F0%9F%87%AAt.me%2Feliv2
 trojan://4d7dba2d-dd24-4edb-988a-64c6fadf1a35@103.167.34.195:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=www.speedtest.net#%F0%9F%8C%BB%40proxy48+%F0%9F%87%AE%F0%9F%87
 trojan://telegram-id-privatevpns@13.42.195.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://NISHIKUITAN222@8.219.83.201:2083?path=%2F&security=tls&host=t226.ylks.link&type=ws&sni=t226.ylks.link#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -596,10 +603,3 @@ trojan://telegram-id-privatevpns@13.39.236.209:22222?type=tcp&sni=trojan.miwan.c
 trojan://telegram-id-directvpn@54.72.79.12:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#Our
 trojan://Xwt7Ie1gqB@gr.tucn-serves.info:2053?type=ws&path=%2F&security=tls&fp=chrome&alpn=&sni=gr.tucn-serves.info#TOUCAN_VPN
 trojan://7sqgQiwNvq@104.21.48.84:8443?path=%2F%40MikasaVPN%2F%3Fed%3D2048&security=tls&alpn=h3,h2,http/1.1&host=mega.megafair.store&fp=firefox&type=ws&sni=mega.megafair.store#@MikasaVPN+%F0%9F%A5%B3+%D8%B3%D8%A7%D9%84+%D9%86%D9%88+%D9%85%D8%A8%D8%A7%D8%B1%DA%A9
-trojan://0e0d29a3-6033-4041-b076-cf5ae0fe35b9@ltt1.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%B1%F0%9F%87%B9
-trojan://telegram-id-directvpn@51.20.173.60:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://fMucnQTndf@no.08.ijg.cc:443#Relay_%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%87%BA%F0%9F%87%B8US_160
-trojan://6DU5YtGPiOYc8DvCY3w8Pw@telegram-id-v2ang-aa65c47652-b7b.foxitm.sbs:2053?security=tls&type=grpc&host=Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG&headerType=&serviceName=Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG-Telegram%3A%40v2aNG&sni=xp.foxitm.sbs&fp=chrome&alpn=http%2F1.1#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%D9%85%D8%A7%20%7C%20v2aNG%40%20%E2%9A%A0%EF%B8%8F
-trojan://1cb996c8-e5bf-40d2-9a3c-149b3b721c5f@hk3.visaapp.top:49487#Relay_%F0%9F%87%B7%F0%9F%87%BARU-%F0%9F%87%B7%F0%9F%87%BARU_89
-trojan://zPpJHO23ws2rYPh102xWv9D6SGGwv5GxlIklVORjbEtUvXJemqU8coZJqZfJ0b76n/p1nVB04mK8uwfGbN94f+MAdx8GqUYcHbM+RUi35Z2Ca+I/zc2Rv0EOqKB+YKv20pKriod9OoJ0AktE1mg7ugsWGqf7+SsVDUDrIe8ZN/m0fZ442QA+OIbWsXK3GWtEca3xmu9o67Yktkboqr0EHg==
-trojan://qjIPNzdyWS@zula.ir:8080?type=ws&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.&security=none#Free%20Config-%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%85%D8%AE%D8%B5%D9%88%D8%B5%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7

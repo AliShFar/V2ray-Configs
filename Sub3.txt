@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=aut022.ylks.link#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608085
 vless://a3642b74-e138-434b-dbd0-90979ff2755e@167.71.209.134:26278?encryption=none&type=ws&host=store.steampowered.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608086
 vless://35d6705e-044e-40fa-8864-0e2d647c70f7@167.71.209.134:14836?encryption=none&type=ws&host=android.googleapis.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.80.110:8443?encryption=none&type=ws&path=%2Fblue&security=tls&sni=zdy226.kpcloud.eu.org#%E6%96%B0%E5%8A%A0%E5%9D%A1_052608088
@@ -603,3 +602,4 @@ vless://b889b964-d840-5682-8adc-bf83db80f174@104.18.202.232:2095?security=none&t
 vless://9ae26e70-4ceb-49a2-9d47-df2d969531bc@104.20.104.209:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F#%E6%9C%AA%E7%9F%A5_05260811673
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.120.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#%E6%9C%AA%E7%9F%A5_05260811674
 vless://af512043-6352-445e-ae8b-a453ca821703@104.19.54.50:8443?security=tls&sni=reza.yoxba.sbs&type=grpc&fp=chrome#%E6%9C%AA%E7%9F%A5_05260811675
+vless://5f22e229-0e75-4ad8-be3d-c83d231cb354@104.21.20.148:2053?security=tls&sni=favarmgo.khorm.ir&type=ws&host=favarmgo.khorm.ir&path=%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5_05260811676

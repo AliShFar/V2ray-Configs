@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://9937de02-e13a-4c7d-8ace-708104e01db0@185.16.110.146:2052?encryption=none&type=ws&host=v2ray.debian.org.fxp.debian.org.speedtest.net%E8%90%A8%E5%A7%86%E5%90%89%E5%B7%B4%E5%B0%BC...#%E6%B3%95%E5%9B%BD_052608099
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.165.246:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%E6%B3%95%E5%9B%BD_052608111
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.183.126:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%E6%B3%95%E5%9B%BD_052608112
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#%E6%B3%95%E5%9B%BD_052608113
@@ -603,3 +602,4 @@ vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:443?type=ws&encrypti
 vless://f07b3068-6f32-4641-b191-7dc9efeeeab2@172.67.194.57:80?type=ws&encryption=none&path=%2Fvless&security=tls&sni=nl1-vless.vpnhack.xyz&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081084
 vless://ee9164e2-4a05-4552-92bc-c0e05d2cf825@172.67.132.6:2096?type=grpc&encryption=none&security=tls&sni=channel.v2bamdad.tech&fp=chrome&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081085
 vless://e83dbf08-b664-4300-ba63-15ac8ddb17dc@172.66.47.10:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg17.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081086
+vless://e83dbf08-b664-4300-ba63-15ac8ddb17dc@172.66.44.246:443?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg17.pages.dev&fp=randomized&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD_0526081087

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a8fa7b1c-a5b0-449b-97f6-e86ae43b95bb@172.64.86.128:8080?encryption=none&type=ws&host=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.%25E3%258...#%E7%BE%8E%E5%9B%BD_0526082140
 vless://39275628-a78c-4f19-ab81-c9424edf2956@172.67.73.163:2096?encryption=none&type=ws&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&security=tls&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org#%E7%BE%8E%E5%9B%BD_0526082141
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.195.185:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&sni=mmdv2.pages.dev#%E7%BE%8E%E5%9B%BD_0526082143
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.199.127:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&sni=mmdv2.pages.dev#%E7%BE%8E%E5%9B%BD_0526082144
@@ -603,3 +602,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.250.137.196:2053?security=tls&s
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.64.138.167:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0526082899
 vless://f9bf6e04-da12-4a6e-aff2-641efeb2b928@170.114.46.36:443?security=tls&sni=gogoli.nufilter.online&type=ws&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#%E7%BE%8E%E5%9B%BD_0526082900
 vless://8a87d8d6-175c-44fa-804f-75d8e18ea1b1@172.67.173.73:8443?security=tls&sni=earth4.sportstreams.info&type=ws&host=earth4.sportstreams.info&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0526082901
+vless://d41f9cfb-9610-49bf-a07f-56fd43c54f1f@172.67.198.149:80?type=ws&host=alwaysconnect.ddns.net&path=/alwaysconnect#%E7%BE%8E%E5%9B%BD_0526082902
