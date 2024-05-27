@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://69d10276-31bf-44c1-afbb-5e40cd5f71e3@217.60.241.87:11025?encryption=none&type=tcp#%E4%BC%8A%E6%9C%97_052718016
-vless://2d528d47-eebe-4a83-a746-cb26cb791308@vip.hugsy6748165.click:443?encryption=none&type=tcp&security=tls&sni=vip.hugsy6748165.click&alpn=h2%2Chttp%2F1.1#%E4%BC%8A%E6%9C%97_052718017
-vless://750d1331-b6c9-4012-a13f-c3ae21f13681@81.12.96.245:11059?encryption=none&type=tcp&headerType=http&host=subscene.com#%E4%BC%8A%E6%9C%97_052718018
-vless://e8894ce9-b415-4673-d7a7-87aa2daecfc0@185.143.233.120:2082?encryption=none&type=ws&host=xn--gtqr40b05t9tep19b.PaNteR.CoM.&path=%2Ftelegram-%40Telegram%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Ctelegram-TelegraM%2Cturv2rayng-V2rayngtorr-telegram-mehr-v2ray%3Fed%3D2560#%E4%BC%8A%E6%9C%97_052718019
-vless://626e9d00-b5e3-4937-8ef7-6e2940c4ef18@193.162.129.232:8090?encryption=none&type=tcp&headerType=http&host=telewebion.com#%E4%BC%8A%E6%9C%97_052718020
-vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.115.206:2086?encryption=none&type=ws&host=ariogames.ir&path=%2Fdash#%E4%BC%8A%E6%9C%97_052718021
-vless://44d61e8b-9085-4e72-ab8f-57945f7e87d7@79.175.167.40:55375?encryption=none&type=tcp&headerType=http&host=speedtest.net#%E4%BC%8A%E6%9C%97_052718022
 vless://265a7c62-ca8c-4795-8db7-ed46c1ba4fa7@p2.hasanloo4ar.sbs:7050?encryption=none&type=tcp&headerType=http&host=discord.com#%E4%BC%8A%E6%9C%97_052718023
 vless://2efe560e-32b4-47b7-8d54-6c600cc37652@185.143.233.5:2052?encryption=none&type=ws&host=hostida.com&path=%2F#%E4%BC%8A%E6%9C%97_052718024
 vless://1e3de33b-d6c2-4621-8488-870242213767@185.112.149.194:1004?encryption=none&type=tcp&headerType=http&host=divarcdn.com#%E4%BC%8A%E6%9C%97_052718025
@@ -603,3 +596,10 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.158.158:2096?encryption=none
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.10.182:8443?encryption=none&security=tls&sni=v116.ylkszy.eu.org&type=ws&host=v116.ylkszy.eu.org&path=%2Fproxyip%3Dproxyip.sg.fxxk.dedyn.io#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718017
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.93.176:2096?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718018
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.254.120:8443?encryption=none&security=tls&sni=v116.ylkszy.eu.org&type=ws&host=v116.ylkszy.eu.org&path=%2Fproxyip%3Dproxyip.sg.fxxk.dedyn.io#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718019
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.174.206:2053?encryption=none&security=tls&sni=v116.ylkszy.eu.org&type=ws&host=v116.ylkszy.eu.org&path=%2Fproxyip%3Dproxyip.sg.fxxk.dedyn.io#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718020
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.156.97.73:20872?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718021
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.208.195:26306?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718022
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.141.185.144:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718023
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@101.32.242.254:53821?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718024
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.140.5.21:993?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718025
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@138.2.79.21:41002?encryption=none&security=tls&sni=v116.ylkszy.eu.org&type=ws&host=v116.ylkszy.eu.org&path=%2Fproxyip%3Dproxyip.sg.fxxk.dedyn.io#%E6%96%B0%E5%8A%A0%E5%9D%A1_052718026
