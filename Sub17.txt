@@ -3,44 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "DE9E32FF31B704BF98967202DE78D00D",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "148477AE146D474DFF2EA001FFF8DF35",
 			"server" : "aiavnd1.vip.conectinnode.info",
 			"server_port" : 1611,
 			"server_udp_port" : 0,
@@ -603,3 +565,41 @@ vless://7abaae82-3681-4b61-899f-4cdfb275d09f@188.114.96.6:443?encryption=none&ty
 vless://2e712b67-510e-47b2-9632-257a693bc855@ch2.melobigg.site:443?encryption=none&type=ws&path=%2Fmelov2ray&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=ch2.melobigg.site#236-%F0%9F%87%A8%F0%9F%87%A6CA_618_%40Surfboardv2ray
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@Zula.ir:443?encryption=none&type=ws&path=Path%2FTelegram%20%3A%20FreakConfig%20%2F%3Fed%3D2048&host=test39.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=test39.pages.dev#237-%F0%9F%87%A8%F0%9F%87%A6CA_2951_%40Surfboardv2ray
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.153.103.203:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=tg.dns68.cloudns.nz&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=tg.dns68.cloudns.nz#238-%F0%9F%87%BA%F0%9F%87%B8US_3005_%40Surfboardv2ray
+vless://d78497b1-5298-4337-852f-fe38ac6a9222@mic.gamingshoping.ir:443?encryption=none&type=ws&path=%2F&host=cdn.hinata.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=cdn.hinata.ir#239-%F0%9F%87%AC%F0%9F%87%A7GB_2976_%40Surfboardv2ray
+vless://4075cbc0-8b0a-480d-972d-5f09d4d3a083@188.114.96.3:443?encryption=none&type=ws&path=%2FTelegram%20Join%3A%20%40DisVpn%2CTelegram%20Join%3A%20%40DisVpn&host=join-telegraam-channel-disvpn.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C10-50&sni=join-telegraam-channel-disvpn.pages.dev#240-%F0%9F%87%A8%F0%9F%87%A6CA_822_%40Surfboardv2ray
+vless://45f8e7d7-d155-4bc2-8afd-3525fed2d454@pardazeshvpn-tg83.pages.dev:443?encryption=none&type=ws&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&host=pardazeshvpn-tg83.pages.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=pardazeshvpn-tg83.pages.dev#241-%F0%9F%87%A8%F0%9F%87%A6CA_871_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=mmdv2.pages.dev#242-%F0%9F%87%A8%F0%9F%87%A6CA_3050_%40Surfboardv2ray
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.162:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=always-online1.lp-airdrop.top&security=tls&alpn=http%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=always-online1.lp-airdrop.top#243-%F0%9F%87%A8%F0%9F%87%A6CA_2604_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.116.131:443?encryption=none&type=ws&path=%2FTelegram-%40Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C20-50%2C20-50&sni=mmdv2.pages.dev#244-%F0%9F%87%A8%F0%9F%87%A6CA_3023_%40Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?encryption=none&type=ws&path=%2F&host=miumiUMadReKoSE.pAgES.dEv&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C10-20&sni=miumiUMadReKoSE.pAgES.dEv#245-%F0%9F%87%A8%F0%9F%87%A6CA_1609_%40Surfboardv2ray
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C30-80%2C10-50&sni=jd.wxgqlfx.top#246-%F0%9F%87%A8%F0%9F%87%A6CA_727_%40Surfboardv2ray
+vless://74438c56-1179-4a25-8f58-271c6dafcf14@188.114.96.3:443?encryption=none&type=ws&path=%2FTelegram%20Join%3A%20%40DisVpn%2CTelegram%20Join%3A%20%40DisVpn&host=join-telegraam-channel-disvpn.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=join-telegraam-channel-disvpn.pages.dev#247-%F0%9F%87%A8%F0%9F%87%A6CA_1336_%40Surfboardv2ray
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h2&fp=android&fragment=tlshello%2C10-20%2C20-50&sni=turkmenistan.armanibash.Shop.#248-%F0%9F%87%A8%F0%9F%87%A6CA_1436_%40Surfboardv2ray
+vless://a2f001eb-632b-4e05-b962-580b050ea46c@188.114.96.3:443?encryption=none&type=ws&path=%2FTelegram%40SiNABiGO%2F%3Fed%3D2560&host=ArIAmehR-447.PAgES.Dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C20-50%2C10-20&sni=ariAmEhr-447.PaGes.dEV#249-%F0%9F%87%A8%F0%9F%87%A6CA_2266_%40Surfboardv2ray
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=xeeqi.kevani8800.workers.dev&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C10-50%2C20-50&sni=xeeqi.kevani8800.workers.dev#250-%F0%9F%87%A8%F0%9F%87%A6CA_785_%40Surfboardv2ray
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=Tel-%40Telegram-------V2rayi_net%2F%3Fed%3D2560&host=turkmenistan.armanibash.Shop.&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-50&sni=turkmenistan.armanibash.Shop.#251-%F0%9F%87%A8%F0%9F%87%A6CA_1438_%40Surfboardv2ray
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?encryption=none&type=ws&path=Path%2FTelegram%40NETMelliAnti%2F%3Fed%3D2048&host=vpn.restia.love&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=vpn.restia.love#252-%F0%9F%87%A8%F0%9F%87%A6CA_2954_%40Surfboardv2ray
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=mmdv2.pages.dev#253-%F0%9F%87%BA%F0%9F%87%B8US_3037_%40Surfboardv2ray
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?encryption=none&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%3Fed%3D2560&host=kIngOFIRAN.PAGes.DEv&security=tls&alpn=h2&fp=android&fragment=tlshello%2C20-50%2C10-20&sni=kingOfIRaN.Pages.DEV#254-%F0%9F%87%A8%F0%9F%87%A6CA_383_%40Surfboardv2ray
+vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?encryption=none&type=ws&path=%2FPROXY_MTM-PROXY_MTM%3Fed%3D2560&host=FaRAhDibA.pAgEs.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=faRAHDIba.pagES.DEV#255-%F0%9F%87%A8%F0%9F%87%A6CA_2721_%40Surfboardv2ray
+vless://4075cbc0-8b0a-480d-972d-5f09d4d3a083@188.114.96.3:443?encryption=none&type=ws&path=%2FTelegram%20Join%3A%20%40DisVpn%2CTelegram%20Join%3A%20%40DisVpn&host=join-telegraam-channel-disvpn.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C10-50&sni=join-telegraam-channel-disvpn.pages.dev#256-%F0%9F%87%A8%F0%9F%87%A6CA_820_%40Surfboardv2ray
+vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?encryption=none&type=ws&path=%2F&host=cfdy.yueuzi.dynv6.net&security=tls&alpn=h2&fp=android&fragment=tlshello%2C30-80%2C10-20&sni=cfdy.yueuzi.dynv6.net#257-%F0%9F%87%A8%F0%9F%87%A6CA_3121_%40Surfboardv2ray
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?encryption=none&type=ws&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&host=BbF9c21a.TecHNETbpB.paGEs.dEv&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C30-80%2C10-20&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#258-%F0%9F%87%A8%F0%9F%87%A6CA_1579_%40Surfboardv2ray
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h2&fp=android&fragment=tlshello%2C10-50%2C20-50&sni=turkmenistan.armanibash.Shop.#259-%F0%9F%87%A8%F0%9F%87%A6CA_1418_%40Surfboardv2ray
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?encryption=none&type=ws&path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&host=test30.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C20-50&sni=test30.pages.dev#260-%F0%9F%87%A8%F0%9F%87%A6CA_2945_%40Surfboardv2ray
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=jd.wxgqlfx.top#261-%F0%9F%87%A8%F0%9F%87%A6CA_734_%40Surfboardv2ray
+vless://7599245e-0605-4365-ae29-6027e5312b76@104.21.81.200:443?encryption=none&type=ws&path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047&host=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev#262-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.81.200%3A443
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.160.137:443?encryption=none&type=ws&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&host=bIA-PAIN-BacHe.pAGeS.DEV&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=BiA-PAiN-bAcHe.PAGes.deV#263-%E6%9C%AA%E7%9F%A5_0527138458
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@219.76.13.183:443?encryption=none&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048&host=a.ssll.gay&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C30-80%2C10-20&sni=a.ssll.gay#264-%E9%A6%99%E6%B8%AF_052713031
+vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:8443?encryption=none&type=ws&path=%2Fvless-ws%2F%3Fed%3D2048&host=web.v2ray-ab-841-vpn.WOrKErs.DEv&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C50-100%2C20-50&sni=web.v2ray-ab-841-vpn.WOrKErs.DEv#265-%E7%BE%8E%E5%9B%BD_0527132352
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C20-50&sni=ton.apple#266-%E7%BE%8E%E5%9B%BD_0527131079
+vless://b7d41df3-8221-4c2c-be30-fc72e9d906be@185.146.173.29:8880?encryption=none&type=ws&path=%2F%40LIGHTNING6%2C%20%40LIGHTNING6&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.#267-%E7%91%9E%E5%85%B8_052713132
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjY4LfCfj4FSRUxBWS0xMDQuMzEuMTYuMTk2LTEwMzY2IiwiYWRkIjoiMTA0LjMxLjE2LjE5NiIsInBvcnQiOjQ0MywiaWQiOiI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3MxMzg4OSIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjY5LfCfh6bwn4e6QVUtMTAzLjIyNC4yMTIuMjE1LTEzNTQiLCJhZGQiOiJ2ZGUyLjBiYWQuY29tIiwicG9ydCI6NDQzLCJpZCI6IjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsImFpZCI6MCwidGxzIjoidGxzIiwic25pIjoidmRlMi4wYmFkLmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii9jaGF0IiwiaG9zdCI6InZkZTIuMGJhZC5jb20iLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.21.47.96:443?encryption=none&type=ws&path=%2F%3Fed%3D2048%40VPNWEDBAZ&host=always-online1.lp-airdrop.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=always-online1.lp-airdrop.top#270-%E6%9C%AA%E7%9F%A5_05271311148
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@141.101.113.120:8080?encryption=none&type=ws&path=Path%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%2F%3Fed&alpn=h3%2Ch2&fp=chrome&sni=141.101.113.120#271-%E6%9C%AA%E7%9F%A5_0527135606
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?encryption=none&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=a.ssll.gay#272-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_052713025
+vless://bd4711d3-961f-4421-a4c6-75818c708b30@104.22.51.162:443?encryption=none&type=tcp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=104.22.51.162#273-%E6%9C%AA%E7%9F%A5_0527134712
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjc0LfCfh7Pwn4exTkwtMTU2LjIyNS42Ny4xMDQtNzQyMyIsImFkZCI6IjE1Ni4yMjUuNjcuMTA0IiwicG9ydCI6MzAwMDAsImlkIjoiMjlhNWQ0OGUtMjRmMS00OGZkLWE1ZTEtOWE0NmNiMzEwMzJmIiwiYWlkIjo2NCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY5Njk0NDgwNjk2MSIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImZpcmVmb3gifQ==
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@152.32.239.228:443?encryption=none&type=ws&path=%2Fproxyip&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C10-50&sni=xin313.ylks.link#275-%E9%A6%99%E6%B8%AF_052713073
+vless://f35ee8d8-6ef1-49d5-a138-12b3d514e873@172.66.44.202:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=pardazeshvpn-tg6.pages.dev&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=pardazeshvpn-tg6.pages.dev#276-%E7%BE%8E%E5%9B%BD_0527131778
