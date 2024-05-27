@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZmM0XHU3ZjU3XHU2NWFmIFx1ODNhYlx1NjVhZlx1NzlkMUp1c3RIb3N0IiwgImFkZCI6ICI0NS4xMzYuMjQ1LjI0MCIsICJwb3J0IjogIjEyOTEwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI4MjU5Y2IxYy1kZDZjLTQ3MzktOWM4OC1hZjU1MGQ5Nzc1MjUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAidGxzIn0=
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%E6%B3%95%E5%9B%BD%2BOVH
 trojan://rLPXUZXBtU2C@18.197.51.207:12565?sni=appsvs.shop#德国+黑森州法兰克福Amazon数据中心
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%E6%B3%95%E5%9B%BD%2BOVH
@@ -603,3 +602,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?encryption=none
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTA0LjIxLjIzNC41MiIsInBvcnQiOjgwLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImEucHJhcHQxLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiJmYmkuZ292IiwicG9ydCI6ODA4MCwiaWQiOiJlZjhjOTU0ZS0wMTRmLTRiMzYtODI3My05YjUwODZhZmFiMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJiaWJsaW9ncmFwaGljLXN3b3JkLXNlcXVlbmNlLWFkdmVydGlzZXJzLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsInRscyI6IiJ9
 trojan://telegram-id-directvpn@3.141.130.47:22222?type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.198.48:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-KR5

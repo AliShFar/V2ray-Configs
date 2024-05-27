@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://7cdd2887-a68e-4027-be00-0347735a6075@104.20.19.145:443?security=tls&sni=c.protoeinpaitakht.com&type=grpc&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05272312690
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.93.21:443?security=tls&sni=maMANe-filterchi.paGES.DeV&type=ws&host=MAMAnE-FiltERCHi.pages.dEV&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05272312691
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.10.99:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#%E6%9C%AA%E7%9F%A5_05272312692
 vless://e6a047f0-734b-4bd7-82aa-367f2d88f4a4@104.21.94.125:443?security=tls&sni=httpstmev2rayvmessfree.raminramin006.workers.dev&type=ws&host=httpstmev2rayvmessfree.raminramin006.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_05272312693
@@ -603,3 +602,4 @@ vless://4d815963-8b34-4b71-a01a-c57c7bdc0a70@www.discord.com:8443?encryption=non
 vless://b00ce00c-bde6-4999-b2dc-2f1b938bfab2@visa.com:8080?encryption=none&type=ws&host=HBD-HamidReza.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#%E6%9C%AA%E7%9F%A5_0527235622
 vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:443?encryption=none&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2F%3Fed%3D2048&security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV#%E6%9C%AA%E7%9F%A5_0527235625
 vless://--All----EVAY_VPN----@104.21.19.124:2087?encryption=none&type=grpc&serviceName=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&sni=free.sharkv2r.com#%E6%9C%AA%E7%9F%A5_0527235626
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.46.106:443?encryption=none&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org#%E6%9C%AA%E7%9F%A5_0527235627

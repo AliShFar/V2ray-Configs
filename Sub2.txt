@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://44d61e8b-9085-4e72-ab8f-57945f7e87d7@79.175.167.40:55375?encryption=none&type=tcp&headerType=http&host=speedtest.net#%E4%BC%8A%E6%9C%97_052723023
 vless://265a7c62-ca8c-4795-8db7-ed46c1ba4fa7@p2.hasanloo4ar.sbs:7050?encryption=none&type=tcp&headerType=http&host=discord.com#%E4%BC%8A%E6%9C%97_052723024
 vless://2efe560e-32b4-47b7-8d54-6c600cc37652@185.143.233.5:2052?encryption=none&type=ws&host=hostida.com&path=%2F#%E4%BC%8A%E6%9C%97_052723025
 vless://f39008fb-8201-4968-acd6-952e81af9c3b@85.133.237.222:2021?encryption=none&type=tcp&headerType=http&host=exo.ir#%E4%BC%8A%E6%9C%97_052723026
@@ -603,3 +602,4 @@ vless://8f9945e6-02ff-44fe-add5-fce891045eb7@94.131.104.66:443?security=tls&sni=
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=partner.g2.com#%E6%8C%AA%E5%A8%81_052723003
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=g2com&sni=partner.g2.com#%E6%8C%AA%E5%A8%81_052723004
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.174.206:2096?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F%3Fed%3D2048#%E6%96%B0%E5%8A%A0%E5%9D%A1_052723011
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.254.120:2096?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F%3Fed%3D2048#%E6%96%B0%E5%8A%A0%E5%9D%A1_052723012
