@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:51840?security=tls&sni=jp03.ckcloud.info#4Nika-5360
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:52702?security=tls&sni=sg03.ckcloud.info#4Nika-5361
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:53826?security=tls&sni=rctw02.ckcloud.info#4Nika-5362
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:56586?security=tls&sni=id01.ckcloud.info#4Nika-5363
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:64328?security=tls&sni=hk03.ckcloud.info#4Nika-5364
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:22122?security=tls&sni=de01.ckcloud.info#4Nika-5365
 trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info#4Nika-5366
@@ -599,7 +603,3 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:443?security=tls&sni
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:443?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#4Nika-5957
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.150.13:2053?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#4Nika-5958
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.158.158:2053?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#4Nika-5959
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.165.25:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#4Nika-5960
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.166.131:2083?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#4Nika-5961
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.167.231:2053?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#4Nika-5962
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.167.231:2083?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#4Nika-5963

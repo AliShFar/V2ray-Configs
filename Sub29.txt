@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://5999a649-e373-4b31-87be-47ee6c14b32a@170.187.250.166:443#4Nika-4160
+trojan://5999a649-e373-4b31-87be-47ee6c14b32a@in-full.privateip.net:443#4Nika-4161
+trojan://5a035db3-34ea-48ca-9aa2-72c8229e1532@ru.mjt001.com:443?security=tls#4Nika-4162
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?security=tls&sni=lienquan.garena.vn#4Nika-4163
 trojan://5c5ceb40-902b-11eb-945a-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id&type=tcp#4Nika-4164
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=wel-jp.optage.moe&allowInsecure=1&type=tcp#4Nika-4165
 trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?security=tls&sni=c3mc.ciscocdn1.live&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&Host=c3mc.ciscocdn1.live#4Nika-4166
@@ -599,7 +603,3 @@ trojan://NISHIKUITAN222@8.219.198.139:2053?host=t306.ylks.link&path=%2F&security
 trojan://NISHIKUITAN222@8.219.198.139:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=%2F#4Nika-4757
 trojan://NISHIKUITAN222@8.219.198.139:2053?security=tls&type=ws&sni=t306.ylks.link&path=/&host=t306.ylks.link#4Nika-4758
 trojan://NISHIKUITAN222@8.219.77.222:2083?host=t306.ylks.link&path=%2F&security=tls&sni=t306.ylks.link&type=ws#4Nika-4759
-trojan://NISHIKUITAN222@8.219.77.222:2083?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=%2F#4Nika-4760
-trojan://NISHIKUITAN222@8.219.77.222:2083?security=tls&type=ws&sni=t306.ylks.link&path=/&host=t306.ylks.link#4Nika-4761
-trojan://NISHIKUITAN222@8.219.83.201:2083?host=t226.ylks.link&path=%2F&security=tls&sni=t226.ylks.link&type=ws#4Nika-4762
-trojan://NISHIKUITAN222@8.219.83.201:2083?path=/&security=tls&host=t226.ylks.link&type=ws&sni=t226.ylks.link#4Nika-4763
