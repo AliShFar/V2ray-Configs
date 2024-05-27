@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sa.mjt001.com:443?security=tls&sni=sa.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.184.172-9045%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 vless://878b159d-7993-4f6c-ad4f-bf13ce18a993@itconet.ddns.net:443?encryption=none&security=tls&type=grpc&serviceName=Telegram%3A%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS&mode=gun#%40rayvps%7C%F0%9F%9A%A9%7C76.31%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@k-r01.xingyunwu.top:50020?sni=xingyunwu.top&type=tcp&headerType=none#8DKJ%7C%40Zyw_Channel%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@s-g02.xingyunwu.top:50038?sni=xingyunwu.top&type=tcp&headerType=none#CF%7C%40Zyw_Channel%20github.com%2Fzengfr%2Ffree-vpn-subscribe
@@ -603,3 +602,4 @@ vless://e66bb4ed-ea00-4361-b445-3077c3d9936a@104.19.54.50:443?path=%40VPNHTTPInj
 vless://jon--V2RAXX⚡@185.146.173.146:80?path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#%40iranargo
 vless://66af69cb-128f-4dd7-9db1-40ec31d2b9b9@104.26.7.5:443?path=%2FTel-%40warphiddify%3Fed%3D2048&security=tls&encryption=none&host=cddtw.sdb5j.workers.dev&fp=randomized&type=ws&sni=cddtw.sdb5j.workers.dev#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D9%88+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D8%AC%D8%AF%DB%8C%D8%AF+%DB%B2+%7C+%F0%9F%87%AC%F0%9F%87%A7Tel-%40warphiddify
 vless://b3570a5f-7527-40f4-9d14-7e2f8c097f76@185.146.173.185:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇩🇪@Shh_Proxy|WS
+vless://1371c754-bfbe-47ed-a1a0-918cfe97248c@164.92.187.94:443?mode=gun&security=reality&encryption=none&pbk=bzkn5UkADWXAWGmndQDvWF-K2TNsTnUzGACU8zj0gQ4&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.dnschecker.org&sid=b9b8f2c7#BADSHA

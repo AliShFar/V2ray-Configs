@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://dcfacb51-8264-41d6-858e-286e597dfa92@vmesskhodam91.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vmesskhodam,@vmesskhodam&sni=ls.ZxV2ray.link#%40vpn_go67%F0%9F%87%A9%F0%9F%87%AA
 vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@changupmecca.com:2087?path=vless-ws%2F%3Fed%3D2048%2FV2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=csub5.cpiFoRPersiA.uK&fp=chrome&type=ws&sni=csub5.cpiFoRPersiA.uK#%40V2ray_Alpha-11
 vless://SVNTEAMs@Owner.XHEYKH.Site:80/?type=ws&path=%2F&host=SvnTeamNT.xn--fhq0la447aac5504dea701axr1g.com&security=none#Tel+Channel%F0%9F%91%89+configsCenter
 vless://152aa69a-bed1-4c1e-93a3-c63ffb8d778d@168.119.184.138:57149?type=grpc&serviceName=&security=reality&pbk=VunqiU6wiyEJX2noXY610FYvcduFiFhHyTQjRM42SWE&fp=firefox&sni=Ftp.debian.org&sid=975fb0f1&spx=%2F#%40FreeNapsternetV%20Reality-44ex1g5m
@@ -603,3 +602,4 @@ vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@zula.ir:443?path=%2Fhajmi%3Fed%3D20
 vless://Parsashonam-80@188.114.96.3:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%40V2rayTG+%F0%9F%87%A9%F0%9F%87%AA+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
 vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=zac1.striside.com#%40V2ray_Alpha+14
 vless://Parsashonam-11@[2a01:4f9:c011:1622::1]:12535?type=tcp&security=none#%40Parsashonam%20%F0%9F%87%AB%F0%9F%87%AE%20ipv6-%40Parsashonam%20%F0%9F%87%AB%F0%9F%87%AE%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%20ipv6
+vless://e6976a9a-eaf1-4814-ab1c-3cfbd6ee0ee0@65.109.184.0:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#https://t.me/VIPV2raایرانسل

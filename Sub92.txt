@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://443dd82b-68b9-40a6-aefd-094ad8c63e67@all.digiv2ray.shop:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray&sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2.space#@Mos_666_baz
 vless://5480fd11-f544-412f-b01c-f43b0ac0785a@104.24.246.154:2053?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒VL-GRPC-TLS🏴‍☠️NA-104.24.246.154:2053
 vless://82f6ca37-930d-47be-9cca-1be8e6779eb5@188.114.98.252:80?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#%40v2ray_npv
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.32.40:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao133.stunning-bassoon.pages.dev&type=ws&sni=baipiao133.stunning-bassoon.pages.dev#%F0%9F%8C%A8%EF%B8%8F+%40V2ray_Alpha+3
@@ -603,3 +602,4 @@ vless://--DIGIV2RAY--@185.146.173.132:2095?path=/DIGIV2RAY-digiv2ray%3Fed%3D2048
 vless://telegram-id-%41rV2ray@172.66.213.5:80?security=&type=ws&path=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn&path=/telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray,telegram-%41rV2ray?ed%3D2056&host=1.V2ray.mihanyas.ir.m2j.farsroid.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.Store.&encryption=none#@bored_vpn
 vless://1ea28346-1611-4716-9a5c-08c2bd666855@185.146.173.122:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇩🇪@Qand_shecan
 vless://83d63ef0-34c5-45ab-ba31-ee5ddef04b98@ir-1.overnet.vip:8000?security=none&encryption=none&headerType=none&type=tcp#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
+vless://a09a4046-c48a-4301-80f2-7850ee6ceed2@45.84.196.14:8443?security=reality&encryption=none&pbk=iKyQ8X8Ktz4Dv5H1dBpEYAyQ_cKPAFjB9HPXZpZrDRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=a6b01931#%40vipv2rey
