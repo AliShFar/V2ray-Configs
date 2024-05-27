@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://beb7eade-bca7-4d97-9ac4-f13c6e32d178@3.123.30.136:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.kiava.fun&fp=chrome&security=reality&pbk=dhWkfO4lv0bMytW1ckpAEydktXulqApJ3nDPiNkBDXc&sid=99#%40freeconfigv2%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%297797
 vless://c6affe4d-3884-4785-bb4a-493030e907f6@zula.ir:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#MdVpnSec-1ffsdhrp
 vless://738c5e99-7faa-4893-81a8-4d6655adde77@5.75.216.103:443?mode=gun&security=reality&encryption=none&pbk=44pa79d1pgsXBDhuaoAorrir4k2OSTNdOuMEXFw9zXc&fp=firefox&spx=%2F&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#%40Mso_666_baz
 vless://cb2f9474-2143-4ad9-8f37-385178d4f337@All.SHHPROXY.monster:443?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=shhV2ray.DIGTALCITY.xyz#@badsha_mohammad
@@ -602,4 +603,3 @@ vless://24057b4a-564a-467c-b165-d56ce3ea0558@49.13.75.84:443?mode=gun&security=r
 vless://f42f11b2-c034-471f-a3ad-e2a77c957807@zula.ir.:2095/?type=ws&path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM%2FVMESSKHODAM%3Fed%3D1024&host=V2ray-_-_-_-_-vMESSKHODAM.lars1.nl.&security=none#%2540vmesskhodam-Hamrah-
 vless://afe4c964-7d86-4c26-9a1c-0fbbbac364e2@185.146.173.94:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#@vpn_kanfik
 vless://9ae26e70-4ceb-49a2-9d47-df2d969531bc@104.20.254.143:8443?path=%2F&security=tls&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co&fp=chrome&type=ws&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#%D9%85%D9%88%D9%82%D8%AA+278+Irancell
-vless://e85b96b9-7f21-46f3-8b7b-104e964e9b75@visa.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=join-sho-falcunargo-nl.falcunar.uk.eu.org&fp=random&type=ws&sni=join-sho-falcunargo-nl.falcunar.uk.eu.org#Tel+Channel%F0%9F%91%89+configsCenter

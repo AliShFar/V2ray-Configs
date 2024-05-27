@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://oUo1ddbLyT@52.184.85.135:26104?security=tls&sni=web.facebook.com&type=tcp#Airtel%20199
 trojan://55X9v3np3p@68.183.180.244:36889?security=tls&headerType=none&type=tcp#ADD+HOST
 trojan://telegram-id-directvpn@35.157.209.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@Tiny_VPN_Official
 trojan://telegram-id-directvpn@54.77.233.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter
@@ -602,4 +603,3 @@ trojan://telegram-id-directvpn@52.60.157.47:22222?security=tls&alpn=http/1.1&hea
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@hdfy8d1.cpi1.eu.org:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&mode=gun#%F0%9F%87%B3%F0%9F%87%B1_Tel%3A%40HopeVPN
 trojan://telegram-id-privatevpns@35.177.101.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧UnitedKingdom-کانالتلگرام:@V2rayweb
 trojan://telegram-id-directvpn@13.39.255.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%A9%B5%7CTelegram+%3A+%40tv2rayrr%F0%9F%92%93%F0%9F%92%93
-trojan://telegram-id-privatevpns@13.53.58.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Tel+Channel%F0%9F%91%89+configsCenter

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443/?type=ws&encryption=none&host=Hagh.PaGes.DEv&path=%2F%3Fed%3D2048&security=tls&sni=Hagh.PaGes.DEv#%F0%9F%87%BA%F0%9F%87%B8US%40ToYoTA_PRoXY-1
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#TelegramID%28%40Outline_Vpn%29+440
 vless://fbdaa9e9-451d-4bc9-9c76-242cda0c1ded@185.146.173.237:80?path=%2Frxv2ray-rxv2ray-rxv2ray-rxv2ray%3Fed%3D2048&security=none&encryption=none&host=www.iran.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&type=ws#%40rxv2ray+%7C+MTN+MCI
 vless://f83a6b8c-ffd3-4bc7-b702-b667d974ed28@r1.bestvipirr.online:443?sni=discord.com&host=khamenei.ir&sid=4ad4192f&security=reality&headerType=http&encryption=none&fp=chrome&type=tcp&spx=%2F&pbk=-qukNC4Y3-PXF1eavfwCv-Yfgy9FpH3bzX_ck3FU00M#vpntalent
@@ -602,4 +603,3 @@ vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@104.31.16.8:80?path=%2Fwhoiam&secur
 vless://082135cb-cacb-42e5-9416-789e4738e45e@185.146.173.26:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#%40V2rayngconfiig+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
 vless://Parsashonam-65@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%40noori_93
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#%40m_vipv2
-vless://03297765-8861-4af3-8033-c67e70442b15@192.248.178.230:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3AV2rayBold%40%E2%9C%85

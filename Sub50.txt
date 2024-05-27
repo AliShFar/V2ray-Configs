@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://411e6b72-30df-4397-aa04-2a8aca27dbdf@nl-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 683
 vless://ee09cca8-c4b6-424f-abff-013076356c5c@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 684
 vless://211e6a9d-60d8-45ee-b2d1-e9a793c0b08a@ca-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 685
 vless://a12ffb13-19ab-4388-81d0-a7758c291596@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 686
@@ -602,4 +603,3 @@ vless://222badf2-8e87-479a-8b77-1a3c952edac2@104.21.92.186:2096?security=tls&sni
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.119.100:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔗 Vauth - 1280
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.176.18:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔗 Vauth - 1281
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.123.151:2082?type=ws#🔗 Vauth - 1282
-vless://f69052a7-2ed3-4196-87f0-4cf90a35ab79@185.146.173.185:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#🔗 Vauth - 1283
