@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5f75c7d3-446e-40c3-b5bf-da7f30857ee9@104.25.6.5:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05282312664
 vless://75b11d9a-0073-4f95-9f56-94882bfa2a4f@104.21.32.195:443?security=tls&sni=FAlcuNarGoo.16C6D5A124.woRKerS.DEV&type=ws&host=fALCUnARGoO.16c6D5A124.WoRkERS.Dev&path=%2FkQmBXVgVS6wPRtQg%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_05282312665
 vless://5311b72d-527b-4435-845e-f6a8d9191dd2@104.18.23.19:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&path=%2F%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+%40LiV2ray#%E6%9C%AA%E7%9F%A5_05282312666
 vless://53b0dad9-104a-4d39-95d5-8d7124c6541c@104.18.21.135:443?security=tls&sni=irancloidflare.pages.dev&type=ws&host=irancloidflare.pages.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_05282312667
@@ -603,3 +602,4 @@ vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.158.128:443?encryption=none&
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.128.196:2083?encryption=none&type=ws&host=pages.20230619.love&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0528235460
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.28.152:2083?encryption=none&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0528235461
 vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.32.238:443?encryption=none&type=ws&host=watashi.free.de.mnhacker.eu.org&path=Path%2F%3Fed%3D2048&security=tls&sni=watashi.free.de.mnhacker.eu.org&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0528235462
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.254.83:2083?encryption=none&type=ws&host=pages.20230619.love&security=tls&sni=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0528235463

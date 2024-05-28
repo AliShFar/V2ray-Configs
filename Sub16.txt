@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjcuMzgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhcS5kYW96aGFuZy5saW5rIiwKICAgICJpZCI6ICJmOGM5MmIzYi01NDQ3LTQ0YTUtOWU1NC0yM2NkYzI2OWNiOTMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJmOGM5MmIzYiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTYuNjcuMzgtMTA5NCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.183.137.85:2083?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-JP-Tokyo4
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.132:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.132-1301
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:812#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0790
@@ -603,3 +602,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDEgQG5vZHBhaSIsImFk
 {
 	"configs" : [
 		{
+			"remarks" : "dongtaiwang.com",

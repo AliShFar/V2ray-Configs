@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://6a4a7117-146f-4d71-8302-a96e39fd33dc@104.18.76.99:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#%E6%9C%AA%E7%9F%A5_05282311569
 vless://75769ab7-ebd9-49b7-af04-e542a45638b7@104.18.72.196:443?type=ws&encryption=none&path=%2F20650%2Fdownload&security=tls&sni=getdata.nigc-ar.com&fp=chrome&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0528231157
 vless://c77ecd7f-5e7f-459b-9903-05a497649979@ch.ni-ham.info:2082?path=/?ed=2087&security=none&encryption=none&host=ajghr.f-vipo.ir&type=ws#%E6%9C%AA%E7%9F%A5_05282311570
 vless://63912603-7f57-42ca-9f1c-131d893d581e@ch.ni-ham.info:2082?path=/?ed=2087&security=none&encryption=none&host=ajghr.f-vipo.ir&type=ws#%E6%9C%AA%E7%9F%A5_05282311571
@@ -603,3 +602,4 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.156.248:443?security=tls&sni
 vless://49c2667e-5fb9-4202-d106-762fbec3442a@104.25.188.126:443?security=tls&sni=*.starv2ray.cfd&type=ws&path=%2F&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_05282312106
 vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@104.21.39.52:80?security=none&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev#%E6%9C%AA%E7%9F%A5_05282312107
 vless://ae7df84e-fb25-4a53-857d-0eeb337c8ac7@104.21.20.148:2083?security=tls&sni=64.pingpong.na.am&type=grpc&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05282312108
+vless://67ac2966-c633-4fbe-92dd-8c666881c6de@198.41.196.161:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_05282312109
