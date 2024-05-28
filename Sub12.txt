@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://fb9ca098-c0a3-4f13-9b4a-ea31975d69a7@172.66.44.73:443?security=tls&sni=pardazeshvpn-tg2.pages.dev&type=ws&host=pardazeshvpn-tg2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E7%BE%8E%E5%9B%BD_0528232998
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.44.168:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#%E7%BE%8E%E5%9B%BD_0528232999
 vless://d9f3966e-0821-407a-9e70-25c37cc3fd7a@172.66.213.5:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F%3FTelegram%3A%40FreeVirGoolNet#%E7%BE%8E%E5%9B%BD_0528233000
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.213:443?security=tls&sni=join-tEleGRAAm-chANNEL-DiSVpN.PaGeS.DEv&type=ws&host=JOiN-tELEgRAam-channEl-dIsVPN.PAGEs.dev&path=%2FTelegram+Join%3A+%40DisVpn%2CTelegram+Join%3A+%40DisVpn&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0528233001
@@ -603,3 +602,4 @@ vless://438b0085-4108-43d9-a078-8e71f4430a6b@All.AbrArvan.org:2083?encryption=no
 vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.96.1:2096?encryption=none&type=ws&host=sisana.muzres.wOrKe...&security=tls&sni=sisana.muzres.wOrKerS.DEV#%E8%8D%B7%E5%85%B0_052823176
 vless://c499e1f3-e8ec-4486-a5d0-4089ebce931d@isamp.AbrArvan.org:8443?encryption=none&type=ws&host=SAmV2ray.naziitness.com&path=%2F%3Fed%3D1024&security=tls&sni=SAmV2ray.naziitness.com#%E8%8D%B7%E5%85%B0_052823178
 vless://63f043be-1038-4a90-8fa4-4f28f111eb75@188.114.98.224:8080?encryption=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=%2F#%E8%8D%B7%E5%85%B0_052823179
+vless://5bdf790f-0af2-4481-a624-41b66e7e3489@188.114.99.99:443?encryption=none&type=ws&host=cdn.ircp.online&path=%2F%40ln2ray%3Fed%3D2048&security=tls&sni=cdn.ircp.online&alpn=h2%2Chttp%2F1.1#%E8%8D%B7%E5%85%B0_052823180
