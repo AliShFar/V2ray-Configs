@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://4d146643-979e-4656-aa78-9b8e18716f06@172.66.46.233:8443?encryption=none&type=ws&path=%2F%3Fed&security=tls&sni=BaCHe-NaRo-Tu-KUNam.PaGes.DEV#%E7%BE%8E%E5%9B%BD_0528081507
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@cf.20230619.love:443?encryption=none&type=ws&host=pages.20230619.love&path=%2F%3Fed%3D2048&security=tls&sni=pages.20230619.love#%E7%BE%8E%E5%9B%BD_0528081508
 vless://4af9e9c9-8260-4fd7-a89c-07e2502f541a@Tgju.org:443?encryption=none&type=grpc&serviceName=%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C&security=tls&sni=Shopza.hsza.site&alpn=http%2F1.1%2Ch2#%E7%BE%8E%E5%9B%BD_0528081509
 vless://7dd59a60-130f-45e1-a481-7c4acfe4ab84@172.64.111.9:80?encryption=none&type=ws&host=hun.lam.xyz&path=%2F#%E7%BE%8E%E5%9B%BD_0528081510
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.237.205:443?encryption=none&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&sni=edge.020770.xyz#%E7%BE%8E%E5%9B%BD_0528081511
@@ -601,5 +603,3 @@ vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.64.199.158:80?type=ws&path=/gra
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@172.67.38.130:80?security=none&type=ws&host=ehda.sajaditsme.com#%E7%BE%8E%E5%9B%BD_0528082534
 vless://e68fd9c0-0e4e-11ef-b6f5-1239d0255272@23.158.72.133:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=ws&path=%2Fvlws#%E7%BE%8E%E5%9B%BD_0528082535
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#%E7%BE%8E%E5%9B%BD_0528082536
-vless://6ac90b73-0aa5-4145-b2d7-246c94a8f389@172.67.242.38:8443?security=tls&sni=germanfollower.uspro.ir&type=grpc&serviceName=abc&fp=chrome#%E7%BE%8E%E5%9B%BD_0528082537
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.1.191:443?security=tls&sni=V2FIveTEL.pAGes.dev&type=ws&host=V2FiVeTeL.pAges.Dev&path=%2FhoIUgKAOdQSTdFVG%2FOC4yMTkuNjAuNTQg%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0528082538
