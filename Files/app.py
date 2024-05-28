@@ -159,6 +159,17 @@ def main():
         "https://raw.githubusercontent.com/zengfr/free-vpn-subscribe/main/vpn_sub_.txt",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUB/main/BASE64.txt",
         "https://freefq.neocities.org/free.txt",
+        "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt",
+        "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt",
+        "https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt",
+        "https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/ssr",
+        "https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/trojan",
+        "https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray.txt",
+        "https://raw.githubusercontent.com/Mohammadgb0078/IRV2ray/main/vmess.txt",
+        "https://raw.githubusercontent.com/Mohammadgb0078/IRV2ray/main/vless.txt",
+        "https://raw.githubusercontent.com/Flik6/getNode/main/v2ray.txt",
+        "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all4",
+        "https://msdonor.pages.dev/sub/7f035a95-4b51-4e0b-8995-59864a9cde22#BPB-Normal",
     ]
     dir_links = [
         "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/vless_iran.txt",
@@ -210,6 +221,20 @@ def main():
         "https://raw.githubusercontent.com/rezaxanii/Config-Station/main/configs.txt",
         "https://branch.blanku.me",
         "https://raw.githubusercontent.com/halfaaa/Free/main/1.30.2023.txt",
+        "https://raw.githubusercontent.com/NiREvil/vless/main/sub/G-Core",
+        "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
+        "https://raw.githubusercontent.com/resasanian/Mirza/main/mirza-all.txt",
+        "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt",
+        "https://raw.githubusercontent.com/kaoxindalao/v2raycheshi/main/v2raycheshi",
+        "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64mix.txt",
+        "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt",
+        "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
+        "https://raw.githubusercontent.com/theGreatPeter/v2rayNodes/main/nodes.txt",
+        "https://links.achaemenidempireofpersia.uk/cR3Q5X#IrancpinetSub1",
+        "https://raw.githubusercontent.com/adoxnet/subV2ray/main/biit.txt",
+        "https://raw.githubusercontent.com/adoxnet/subV2ray/main/oxnet_ir.txt",
+        "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Test.txt",
+        "https://rentry.co/8tq7w82x/raw",
     ]
 
     decoded_links = decode_links(links)
