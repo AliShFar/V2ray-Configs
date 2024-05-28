@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://a1718180-d616-4b71-9bb6-3e96ba20f921@140.238.12.83:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://71354f48-e8c8-4c4c-a967-47d7ac5e953c@129.154.219.39:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://a646b695-f10c-42ef-8288-9021ded98927@104.17.20.55:8080?security=&type=ws&path=@v2box&host=v2box.aaaaa1.sbs&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.161:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.71.220:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://932f5b07-e1c8-4f6b-9f32-44c07ae1df8b@104.31.16.152:2053?security=tls&sni=15.globalnetvpn.site&type=grpc&serviceName=@global_net_vpn&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxMDQuMjEuNC4yOSIsImFpZCI6IjAiLCJob3N0Ijoib2xpdi5iZWF1dHkiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6Im9saXYuYmVhdXR5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.165:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://xxoo@13.210.76.227:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.55.84:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=reality&sni=partner.g2.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=g2com&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@162.159.32.35:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -603,3 +591,15 @@ vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@mci------join.outline-vpn.cloud:80?
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?encryption=none&security=tls&type=ws&sni=41.中華民族哭了1.tech&host=41.中華民族哭了1.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C92
 vless://35ac26b9-3b10-4b2e-845d-c59c02fa6aea@test2.vpremiumservice.shop:9652?type=tcp&encryption=none&security=none&path=%2f#%F0%9F%87%AE%F0%9F%87%B7%E2%81%9CIR%E2%81%9CLuxyNetBot%E2%81%9C93
 vless://6549cbdd-13d9-46d8-c1c9-4ea7bae11a40@re.freedrping.store:443?encryption=none&security=tls&type=ws&path=%2fdr#%F0%9F%87%AE%F0%9F%87%B7%E2%81%9CIR%E2%81%9CLuxyNetBot%E2%81%9C94
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@mci------join.outline-vpn.cloud:80?encryption=none&security=tls&type=ws&sni=public.列列男事的事列上赛男85.shop&host=public.列列男事的事列上赛男85.shop&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C95
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@mci------join.outline-vpn.cloud:80?encryption=none&security=tls&type=ws&sni=public.列列男事的事列上赛男85.shop&host=public.列列男事的事列上赛男85.shop&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C96
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?encryption=none&security=tls&type=ws&sni=zbdusocazx.维列上的赛事男10.tech&host=zbdusocazx.维列上的赛事男10.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C97
+vless://5eb636d1-f1da-4875-af76-3db836f0aaf9@3vv.fastv2.com:22073?encryption=none&security=tls&type=ws&path=%2f#%F0%9F%87%AE%F0%9F%87%B7%E2%81%9CIR%E2%81%9CLuxyNetBot%E2%81%9C98
+vmess://eyJhZGQiOiJzZXJ2ZXIxMi5iZWhlc2h0YmFuZWguY29tIiwidiI6MiwicHMiOiLwn4e68J+HuOKBnFVT4oGcTHV4eU5ldEJvdOKBnDk5IiwicG9ydCI6Ijg4ODAiLCJpZCI6IjM5YzAzZTZkLTllZmQtNGU1YS04ODUxLWNkNGVkMGVjMzAzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InNlcnZlcjEyLmJlaGVzaHRiYW5laC5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
+vless://5eb636d1-f1da-4875-af76-3db836f0aaf9@3vv.fastv2.com:22073?encryption=none&security=tls&type=ws&path=%2f#%F0%9F%87%AE%F0%9F%87%B7%E2%81%9CIR%E2%81%9CLuxyNetBot%E2%81%9C100
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vv.outline-vpn.cloud:80?encryption=none&security=tls&type=ws&sni=67.事出场次以运7.tech&host=67.事出场次以运7.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C101
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?encryption=none&security=tls&type=ws&sni=48.动列员球8.tech&host=48.动列员球8.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C102
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?encryption=none&security=tls&type=ws&sni=41.中華民族哭了1.tech&host=41.中華民族哭了1.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C103
+vmess://eyJhZGQiOiJzZXJ2ZXIxMi5iZWhlc2h0YmFuZWguY29tIiwidiI6MiwicHMiOiLwn4e68J+HuOKBnFVT4oGcTHV4eU5ldEJvdOKBnDEwNCIsInBvcnQiOiI4ODgwIiwiaWQiOiIzOWMwM2U2ZC05ZWZkLTRlNWEtODg1MS1jZDRlZDBlYzMwM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzZXJ2ZXIxMi5iZWhlc2h0YmFuZWguY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?encryption=none&security=tls&type=ws&sni=43.男子足子足球3.tech&host=43.男子足子足球3.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C105
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?encryption=none&security=tls&type=ws&sni=101.中華民族哭了1.tech&host=101.中華民族哭了1.tech&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%E2%81%9CUS%E2%81%9CLuxyNetBot%E2%81%9C106
