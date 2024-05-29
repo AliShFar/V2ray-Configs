@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.227.60:443?encryption=none&type=ws&host=936a99B4.v...&security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#%E6%9C%AA%E7%9F%A5_05290811296
-vless://cae48682-7c3f-4a91-bec7-2465c8256059@ch.ni-ham.info:2082?encryption=none&type=ws&host=a3envbw4cl-germany7.datam-co.ir&path=%2F%3Fed%3D2087#%E6%9C%AA%E7%9F%A5_05290811297
-vless://5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26@104.20.18.168:80?encryption=none&type=ws&path=%2Fvless-ws%2F%3Fed#%E6%9C%AA%E7%9F%A5_05290811298
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.68:443?encryption=none&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev#%E6%9C%AA%E7%9F%A5_05290811299
 vless://8b7160d8-86b1-4dce-bb69-2943359dcef9@104.20.11.224:80?encryption=none&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg&security=&type=ws#%E6%9C%AA%E7%9F%A5_052908113
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.67.38:2053?type=ws&encryption=none&path=%2Fp%3D19&security=tls&sni=itcenteriran.blog&packetEncoding=xudp#%E6%9C%AA%E7%9F%A5_0529081130
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.230.238:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&sni=mmdv2.pages.dev#%E6%9C%AA%E7%9F%A5_05290811301
@@ -603,3 +599,7 @@ vless://d7a6de6c-28ae-4074-87a8-c1efef623275@104.27.0.136:443?security=tls&sni=p
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.16.67.38:2082?security=none&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Funmanliest.appreviewcenter.com%2Fnimws#%E6%9C%AA%E7%9F%A5_05290812067
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.24.185.137:2087?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#%E6%9C%AA%E7%9F%A5_05290812068
 vless://02e75d78-58ad-4a73-afca-24b781d8fd11@104.17.219.150:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05290812069
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.16.198.114:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_05290812070
+vless://d978c26d-1c43-440b-b696-be950032ab6f@104.21.25.39:2053?security=tls&sni=worker-winter-sea-7f30.jvxxmax5.workers.dev&type=ws&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_05290812071
+vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@104.21.32.238:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_05290812072
+vless://e6fbedc0-2926-4b28-be63-5fb2e05f9208@104.26.13.8:2096?security=tls&sni=mz.49z.info&type=grpc&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_05290812073
