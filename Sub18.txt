@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-privatevpns@13.49.56.170:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5378%20812.7KB%2Fs
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.135.18:6697#US143%201.9MB%2Fs
-trojan://c6c083cb-6312-44e4-91ed-4c6831f4f9a8@104.18.138.163:443?security=tls&type=ws&sni=prosweed.ghodratebartar.ir&path=/NHDAEsR7pxcS1u6yNX6K824c&host=prosweed.ghodratebartar.ir#%E6%9C%AA%E7%9F%A5379
-ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@104.21.59.165:2087#%E6%9C%AA%E7%9F%A5380
 trojan://auto@3.35.139.150:8443?security=tls&type=ws&sni=vip.123789.pp.ua&host=vip.123789.pp.ua#%E6%9C%AA%E7%9F%A5381
 ss://NzU5OTI0NWUtMDYwNS00MzY1LWFlMjktNjAyN2U1MzEyYjc2Og==@188.114.97.1:443#%E6%9C%AA%E7%9F%A5382
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.183:8119#US144%201.6MB%2Fs
@@ -603,3 +599,7 @@ ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.17.110.12:443#%E6%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.187:56026#HK19
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.79:9073#%E6%9C%AA%E7%9F%A5763
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.29:7307#US313%201.7MB%2Fs
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.79:9008#%E6%9C%AA%E7%9F%A5764%201.2MB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.183:5500#US314%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZVZhdmw0M0ZENkRnRm9pbTdTNkhHa3M=@194.38.23.137:51348#%E6%9C%AA%E7%9F%A5765
+trojan://telegram-id-directvpn@15.188.181.167:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5766
