@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://49f0b70d-cfa7-47c7-8600-dc40b0e174ba@104.22.75.105:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#%E6%9C%AA%E7%9F%A5_0529232965
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.94.54:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_0529232966
 vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.115:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0529232967
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#%E6%9C%AA%E7%9F%A5_0529232968
@@ -603,3 +602,4 @@ vless://8233b555-97f1-45e8-852e-19c03b9b7549@185.146.173.24:8880?type=ws&encrypt
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@v2raygodvip--allh1.v2raygod.site:80?type=ws&encryption=none&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=tls&sni=V2rayGodVip--free.azaronline.Org.&packetEncoding=xudp#%E7%91%9E%E5%85%B8_052923105
 vless://697d21e8-bf16-4fd4-bbdf-feb9c3e4b0e7@185.146.173.59:8080?type=ws&encryption=none&path=%2F&security=tls&sni=hahaha.servernet.fun.&packetEncoding=xudp#%E7%91%9E%E5%85%B8_052923106
 vless://51701e0e-a004-4f2c-9466-9cd2670465b3@185.146.173.20:8080?type=ws&encryption=none&path=%2Fbackup&security=tls&sni=uzA2KMsNyBLrRoJomW5L.NIgc-ar.nET&packetEncoding=xudp#%E7%91%9E%E5%85%B8_052923107
+vless://513f74b0-ada2-4360-b3ff-9bf4d22fd242@185.146.173.32:8080?type=ws&encryption=none&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=tls&sni=xn--047h.v2raxx6.shop.&packetEncoding=xudp#%E7%91%9E%E5%85%B8_052923108
