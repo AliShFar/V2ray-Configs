@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@87.120.106.5:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.61.24:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@87.120.106.10:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@79.133.108.26:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@5.188.133.11:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.38.159.5:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -600,6 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.19:5000#%F0%9F%87%BA%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#%F0%9F%87%B7%F0%9F%87%BARU-217.196.103.206-2279
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:808#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0671
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.150-0699
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A6%F0%9F%87%AAAE-40.123.233.175-0754
-vless://9450802e-0837-4cb4-bd94-9202f53a04ef@77.221.153.68:52761/?type=grpc&encryption=none&serviceName=www.speedtest.net&sni=www.speedtest.net&fp=chrome&security=reality&pbk=atUztFxLhBPFwMHDQEvRFStJ9WvwToEudFv1IXLJTBg&sid=#%F0%9F%87%AB%F0%9F%87%B7%20FR-77.221.153.68%3A52761
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20IT-185.247.184.115%3A2096
