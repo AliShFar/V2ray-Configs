@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://95443db4-3efb-47ec-87ff-500501863977@telegram-VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 56
-vless://bbf2f191-fd7c-4a2a-ad09-ca5daa745b21@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 57
 vless://bbf2f191-fd7c-4a2a-ad09-ca5daa745b21@telegram-VPNCUSTOMIZE.kellekcollection.com:8080?path=/Join--VPNCUSTOMIZE.V2ray.re&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 58
 vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 59
 vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@telegram-VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 60
@@ -603,3 +601,5 @@ vless://1f822eb3-13bc-4632-ab2e-988942526c52@ua-full.privateip.net:443?type=tcp&
 vless://48cf0a3d-ceee-4239-bbe5-4313da9546db@es-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 653
 vless://4b4e99ca-2b86-4a03-89ce-681ae9d73b69@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 654
 vless://a858f540-242f-4aa1-a514-2d57877866ee@sg2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 655
+vless://4ebc6b52-af2f-4b10-ae8b-7d0b6d5e529f@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 656
+vless://e43b0a3f-f34d-4700-9787-28ae50f6d093@id-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#🔗 Vauth - 657

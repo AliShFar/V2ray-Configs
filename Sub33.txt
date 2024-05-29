@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://526cb764-c815-4375-951d-87cefe70d1a7@185.146.173.54:8880?security=none&type=ws&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,+@LIGHTNING6#4Sarina-8058
-vless://52a2db26-73f5-43d9-9fd0-bc5afa3fc7ac@104.168.107.230:7550?security=reality&flow=xtls-rprx-vision&sni=pixabay.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#4Sarina-8059
 vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@104.21.78.235:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#4Sarina-8060
 vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@172.67.138.107:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#4Sarina-8061
 vless://52c90a40-be6b-4f5c-a293-63c7d639739c@104.21.81.239:2083?security=tls&sni=dnsjvkyijgc8937.seminar-irani.ir&type=grpc&serviceName=2083vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#4Sarina-8062
@@ -603,3 +601,5 @@ vless://77de458b-5d58-4379-927a-7e749b2d17f8@104.21.21.88:443?security=tls&sni=t
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#4Sarina-8655
 vless://783164cb-6410-4a96-e432-832489e4848c@ec18.kiava.fun:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=5ek-pf6OKRVq8oRuLF1ApIfZd2eeA1RY2J7YTH5EsXc&sid=5e#4Sarina-8656
 vless://783164cb-6410-4a96-e432-832489e4848c@ec76.kiava.fun:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=wQGZ3Ppa4ajV1HrQUYdpZF9D6yejNt84iWv2fV3kVHc&sid=5e#4Sarina-8657
+vless://787f4dc2-1863-4be3-a9e6-04cd7e9e06ac@discord.com:8080?path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&encryption=none&host=de2.过滤器.store.&type=ws#4Sarina-8658
+vless://78935828-127e-479f-9dbc-378c9de72481@104.27.72.33:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#4Sarina-8659

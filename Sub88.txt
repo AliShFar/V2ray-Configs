@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://Parsashonam-10@[2a01:4f9:c011:1622::1]:12535?type=tcp&security=none#%40Gp_Config%20%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://95c16ffd-caa5-4bfd-8401-21097ff54871@194.87.216.59:38487?mode=gun&security=reality&encryption=none&pbk=nmNmrOHEY0OQK8fqGcfvtKkExb9Ij5uty5YB8NPWwUk&fp=firefox&type=grpc&serviceName=&sni=wwwV2ray.rabinhood.net&sid=1000#%F0%9F%91%89%F0%9F%86%94+%40telmavpn%F0%9F%87%B3%F0%9F%87%B1
 vless://fe0dba33-1a65-40eb-8d38-b2d8c533a96a@162.55.193.56:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇩🇪@V2ray_official|All
 vless://3b98c600-16a3-11ef-82af-1239d0255272@103.253.24.44:443?path=%2Fvlws&security=tls&encryption=none&type=ws&sni=m.whatsapp.net#whatsapp
@@ -603,3 +602,4 @@ vless://biain--ZEDMODEON@join-zedmodeon.kanal-asli-zedmodeon.shop.:2095?path=%2F
 vless://49df027c-9f09-44b6-9a28-cd133f258113@paris.tucn-serves.info:21340?security=tls&encryption=none&type=tcp&fp=chrome&headerType=none#فرانسه(vip)🇫🇷@toucan_vpn
 vless://634732e0-bc35-4552-8cbb-13df41858f3e@185.146.173.20:80?type=ws&security=none&host=BhHfkA8U3cu6tXvTvj7x.oPEenuP.COm&path=/backup#@VPN_VIP_NOR(ALL)
 vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl57.vlessx.us&fp=chrome&type=ws&sni=nl57.Vlessx.us#%40GoldenShiineVPN%F0%9F%8C%A0
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#TelegramID%28%40Outline_Vpn%29+834

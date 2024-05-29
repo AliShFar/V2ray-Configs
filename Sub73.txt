@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://33f6ac4b-c922-476d-b7d3-26fb77747a4b@cleanmci.barfak123.eu.org:2096?encryption=none&security=tls&sni=cloud.barfak123.eu.org&fp=chrome&type=grpc&serviceName=%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN&mode=gun#%40Private_Access_Guard_VPN
 vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@telegram-VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#ALL+%40Vpnafra+%E2%9B%88%EF%B8%8F
 vless://VPNCUSTOMIZE@VPNCUSTOMIZE.ninjacdn.org:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#meli_v2rayng
 vless://4d146643-979e-4656-aa78-9b8e18716f06@172.66.46.233:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=BaCHe-NaRo-Tu-KUNam.PaGes.DEV&type=ws&sni=BaCHe-NaRo-Tu-KUNam.PaGes.DEV#%40NPV_V2RAY
@@ -603,3 +602,4 @@ vless://MainV2ray_@www.speedtest.net:443?mode=gun&security=tls&encryption=none&a
 vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@sw.zershop.ir:2096?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=firefox&type=tcp&sni=msdn1.microsoft.com&sid=3a622700e73c6642#%F0%9F%87%A8%F0%9F%87%AD+All
 vless://0859b7f2-be12-4a5d-d2b4-6e57217b494b@education.bigcommerce.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=jadidtar.nufilter.store#%40NuFiLTeR%E2%9D%A4
 vless://9eb0967f-8c35-4aa5-b6be-a2e46f4c2348@tel.1lagvpn13.cfd:443/?type=grpc&encryption=none&serviceName=%40LAGVPN13&sni=gsmarena.com&fp=chrome&security=reality&pbk=uX1V5lrEbOrtXi-2dQyPNVJ6sf80g19HYujUUWN5nxA&sid=464f8607#@Capital_NET|MTN
+vless://02371562-6479-4698-a27c-04c5a73095ff@178.63.150.72:27542?security=reality&encryption=none&pbk=KK12e0CNmA6QTGOPlDA5zJeT27FB95gEMfswF4Mp9U8&host=zara.com&headerType=http&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com&sid=94e9e5c9#%40nim_vpn_ir

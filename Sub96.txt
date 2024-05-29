@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://1db5e77a-d621-11ee-aaa8-00505603e70d@172.67.158.12:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&fp=chrome&type=ws&sni=st-fr-1.brocdn.com#%40chatkonvaslshim%F0%9F%92%96Mci
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@23.227.60.186:80?encryption=none&security=none&type=ws&host=us2.rtacg.com&path=%2F#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%A8%F0%9F%87%A6CA+%F0%9F%94%BA%F0%9F%87%BA%F0%9F%87%B8US+%E2%98%91ADSL+%E2%8F%B05%2F27%2F2024
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=TELEGRAM-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%40V2r
 vless://08d9d13f-108f-45c8-a1a3-23398a8bbc5f@104.25.107.32:443?path=%2FpowerdbyWyvern%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=1eb7b087.wyvernfree.pages.dev&fp=randomized&type=ws&sni=1eb7b087.wyvernfree.pages.dev#Telegram%3A+Wyvernvpn+%F0%9F%86%93%EF%B8%8F
@@ -603,3 +602,4 @@ vless://78e6bb64-adfe-4257-fb70-1052144e4577@www.speedtest.net:443?encryption=no
 vless://68c31a7c-49df-456f-8df5-ac8d651b60b6@104.21.24.72:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegram-falcunargo.c54a5410b0.workers.Dev&type=ws&sni=telegram-falcunargo.c54a5410b0.workers.Dev#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@00-join.outline-vpn.cloud:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#%40V2rayngconfiig+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://Telegram----v2rayNGcloud@visa.com:80?path=%2F@v2rayNGcloud-@v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#@v2rayNGcloud
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#%E2%9A%A1%EF%B8%8F%40proxy48+%E2%9A%98%EF%B8%8F

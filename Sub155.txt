@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://be8b8f45-a290-4405-8699-ffeb07f3ee24@163.123.192.34:443?security=tls&sni=16-163-218-240.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8US-163.123.192.34-0533
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:21970?security=tls&sni=x41.flybar.work#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0532
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:16895?security=tls&sni=x40.flybar.work#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0531
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20288?security=tls&sni=z288.hongkongnode.top#%F0%9F%87%A8%F0%9F%87%B3CN-111.47.212.119-0528
@@ -603,3 +602,4 @@ trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-18.222.168.7-3830
 vmess://ewogICAgImFkZCI6ICJpY29vay5oayIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImljb29rLmhrIiwKICAgICJpZCI6ICIzZWIwNWNiNi1kMmUxLTRhMzEtOWY4Mi01MTRjZmE5OGZlMTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcmF5P2VkPTIwNDgiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE2MS4xMDQtMzgzMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI4OS4xNjMuMjEzLjIwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1NjY4ZmY5Ny02MzFmLTQ2MDItYTEzZi1iNTY1NTJjNjdhYmUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4ep8J+HqkRFLTg5LjE2My4yMTMuMjAtMzgzMyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTQ1LjE2NiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYzVhMmQ3YjgtYmY4NC00Zjk3LTg1NzctYjliODdmMmJhYWY3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0FVSUtOOEFVIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTQ1LjE2Ni0zODM0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#4Sarina-4458
-trojan://8b47d63f-1f8e-4f8e-a1e8-ead3686e5da6@91.194.11.168:443?security=tls#4Sarina-4459
 trojan://8b47d63f-1f8e-4f8e-a1e8-ead3686e5da6@ca-full.privateip.net:443?allowInsecure=1#4Sarina-4460
 trojan://8b47d63f-1f8e-4f8e-a1e8-ead3686e5da6@ca-full.privateip.net:443?security=tls#4Sarina-4461
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#4Sarina-4462
@@ -603,3 +601,5 @@ trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20141?secur
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20278?security=tls&sni=z278.hongkongnode.top#4Sarina-5055
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20279?security=tls&sni=z279.hongkongnode.top#4Sarina-5056
 trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20288?security=tls&sni=z288.hongkongnode.top#4Sarina-5057
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20294?security=tls&sni=x294.flybar.work#4Sarina-5058
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20295?security=tls&sni=z295.hongkongnode.top#4Sarina-5059

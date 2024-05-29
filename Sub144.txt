@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.173.255.21:443?sni=glc.hruqoaw.cn#default_namessr://MTE2LjE2Mi4xMjAuNTk6NTY1OmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1OVEU0TURrNk1URXhNVEV4JnJlbWFya3M9OEorSHFQQ2ZoN05mUTA1ZjVMaXQ1WnU5TFQ3d240ZTY4SitIdUY5VlUxL252bzdsbTcwPQ==
 trojan://trojan@185.146.173.94:80?path=%2F%3Fed%3D2560&security=none&host=freevpn.ahadadi796.workers.dev&type=ws#IP_CF
 trojan://telegram-id-privatevpns@15.237.146.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B
 trojan://2a9abeb7-6f97-4d33-9069-f6e009d88455@162.159.134.105:443?security=tls&sni=jp4.pqjc.buzz&allowInsecure=1&type=tcp#@Tiny_VPN_Official
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@masting.xyz:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40skivpn%F0%9F%8C%80mtn%E2%81
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ@series-a2-me.samanehha.co:443#%40V2RayCactus%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZek15TXpVMg==@95.164.35.90:8388#%40Zede_filteri+%F0%9F%87%B5%F0%9F%87

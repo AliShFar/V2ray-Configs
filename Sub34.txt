@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://787f4dc2-1863-4be3-a9e6-04cd7e9e06ac@discord.com:8080?path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&encryption=none&host=de2.过滤器.store.&type=ws#4Sarina-8658
-vless://78935828-127e-479f-9dbc-378c9de72481@104.27.72.33:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#4Sarina-8659
 vless://789dc12d-a9b0-4047-aceb-656a7b0d3e9b@70.34.207.20:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=6d3tL3SQ0dKHCjXkajIlu8VEsyYXD_Zt_sFlMVY4ZzQ&sid=f575cb95#4Sarina-8660
 vless://78d49132-05a0-4b0b-b6a8-36f712121da5@104.168.107.230:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pantercon.net&fp=chrome&pbk=tYK_yLinHwGyqqJTm1yxulbRcuseqbyIAqRHPCdtYAU&sid=bbbecc77d9eae847&type=tcp&headerType=none#4Sarina-8661
 vless://78dcde94-5b99-4dc0-a0a7-43c92df4f76b@45.152.112.197:80?security=none&type=tcp#4Sarina-8662
@@ -603,3 +601,5 @@ vless://92a6cede-9d06-45e6-a0e6-199ab8898bfa@104.22.6.4:2095?security=none&type=
 vless://92b934bb-7007-4439-a8e4-ad44cb1e263f@65.109.205.184:443?security=none&type=tcp#4Sarina-9255
 vless://92c12734-d19e-40a1-f7a2-1735711d039b@104.21.25.178:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#4Sarina-9256
 vless://92c12734-d19e-40a1-f7a2-1735711d039b@172.67.134.112:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#4Sarina-9257
+vless://92f7c243-321f-4d77-bbb2-d689245241cb@104.16.141.107:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#4Sarina-9258
+vless://92f7c243-321f-4d77-bbb2-d689245241cb@104.16.141.107:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#4Sarina-9259

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoiaGthYTAuc2hvcHznvo7lm70iLCJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJwb3J0IjoyMDgyLCJpZCI6IjdmNDBhYmQxLTYzOTctNDcwNi04NTEwLWJjNWQwOGRmOGFkNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InVzNEJiNW9TZ0pBLmZ6YnFmcnNlLnh5eiIsInBhdGgiOiIvdmlkZW8vQ3VUeTg3ekF6Vi8iLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiJyZW5ldHZwbi5yZW5ldHZpcC5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiaWEtdG8uY29kZS12Mi5jZmQiLCJpZCI6IlRlbGVncmFtLVYycmF5X2FscGhhIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMjA4NiIsInBzIjoiVGVsZWdyYW0gQFJFTkVULVZQTjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxODguMzQuMTU5LjE4NiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5N2U4ZmJhNy0zMjdhLTQ3NTItOGFjYS0wNDM4NThhN2U1MTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM1ODU1IiwicHMiOiJAdjJyYXluZ192cG5uINin2LHYs9mE2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiAiMTA0LjIxLjE1LjM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
@@ -603,3 +602,4 @@ trojan://cdaacb3e-00c4-4d6f-a63c-298cfb36e113@ovozhaws.ovonice.com:60002#%F0%9F%
 trojan://tIErrUuX7j@217.196.101.178:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒TR-GRPC-TLS🇩🇪DE-217.196.101.178:2053
 trojan://telegram-id-privatevpns@13.50.206.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?path=%2F6b777a91&security=tls&host=jobscareerforstudent.com&type=ws&sni=jobscareerforstudent.com#%40V2rayNG3
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)

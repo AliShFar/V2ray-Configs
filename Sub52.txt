@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.173.68:2096?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fblue#🔗 Vauth - 3056
-vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@104.21.39.52:443?security=tls&sni=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔗 Vauth - 3057
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔗 Vauth - 3058
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.17.250:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔗 Vauth - 3059
 vless://3d39930a-b33a-45d0-b511-f2b8d4d00c1e@91.195.110.245:2053?security=tls&sni=kfkjhkuyg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔗 Vauth - 3060
@@ -603,3 +601,5 @@ vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@172.67.193.157:8443?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 3653
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23cc@104.16.149.128:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔗 Vauth - 3654
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.18.250.25:443?security=tls&sni=xin331.ylks.link&type=ws&path=%2Fproxyip#🔗 Vauth - 3655
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@61.220.41.143:36633?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔗 Vauth - 3656
+vless://82e2f77d-7af5-4e6d-943f-d3de57acf96a@199.232.87.90:443?security=tls&sni=default.ssl.fastly.net&type=ws&host=tpwwfast.ir&path=%2Ffastlywsvles%3Fed%3D2560&fp=random&alpn=h2#🔗 Vauth - 3657

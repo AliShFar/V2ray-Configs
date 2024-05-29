@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vmess://eyJhZGQiOiAianAwMS5hcHBsZWlkLmJmIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImpwMDEuYXBwbGVpZC5iZiIsICJpZCI6ICJiNGYyODNmYi04Y2VlLTQ2YTgtYjNjOS0zY2NiNzRkOWMxNWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzP2VkPTIwNDgiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIjRTYXJpbmEtMTU4NTgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAianAwMS5hcHBsZWlkLmJmIiwgImFpZCI6ICIwIiwgImhvc3QiOiAianAwMS5hcHBsZWlkLmJmIiwgImlkIjogImI0ZjI4M2ZiLThjZWUtNDZhOC1iM2M5LTNjY2I3NGQ5YzE1ZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3M/ZWQ9MjA0OCIsICJwb3J0IjogIjIwODYiLCAicHMiOiAiNFNhcmluYS0xNTg1OSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJVUzMxMCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAianAwMy1hbHQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAiYWlkIjogMSwgImlkIjogIjFiYzUyMzA4LTBiZDktMzBkMC05MGZkLWNlZjMzNzg3NWQxMCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAyMTU4NSwgInBzIjogIjRTYXJpbmEtMTU4NjAiLCAic2N5IjogImF1dG8iLCAidGxzIjogInRscyIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAianAwMy1hbHQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAiYWlkIjogMSwgImlkIjogIjIyYWNjNDY3LTc0NDAtMzg2YS05MjdhLWQ4NGJlNTU0YjM3ZSIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAyMTU4MywgInBzIjogIjRTYXJpbmEtMTU4NjEiLCAic2N5IjogImF1dG8iLCAidGxzIjogInRscyIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAianAwNC12bTAuZW50cnkuc3J0aGR3LmFydCIsICJhaWQiOiAwLCAiaWQiOiAiMWJjNTIzMDgtMGJkOS0zMGQwLTkwZmQtY2VmMzM3ODc1ZDEwIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDQ0OCwgInBzIjogIjRTYXJpbmEtMTU4NjIiLCAic2N5IjogImF1dG8iLCAidGxzIjogIiIsICJ2IjogIjIifQ==
@@ -603,3 +601,5 @@ vless://telegram-VPNCUSTOMIZE@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray
 vless://VPNCUSTOMIZE@VPNCUSTOMIZE.ninjacdn.org:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🔗 Vauth - 53
 vless://telegram-VPNCUSTOMIZE@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 54
 vless://95443db4-3efb-47ec-87ff-500501863977@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 55
+vless://95443db4-3efb-47ec-87ff-500501863977@telegram-VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 56
+vless://bbf2f191-fd7c-4a2a-ad09-ca5daa745b21@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 57

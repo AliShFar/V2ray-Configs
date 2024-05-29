@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b55db54c-8994-492f-b340-b079bb926ef0@cpuvpn.vbox778.info:10878?security=none&encryption=none&headerType=http&type=tcp#%40cpuvpn++%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF+%D8%A8%D9%87+%DA%86%D9%86%D9%84+%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D9%87+%DA%A9%D9%86%DB%8C%D8%AF
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&encryption=none&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maps.google.com&sid=bfde1c85a6a4112a#%40V2ray
 vless://81f276fa-7a50-41d9-a5ff-83c2647bb064@3bia-channel.unlimiteddev.xyz:80?host=bia-to-channel.unlimiteddev.xyz&security=none&type=ws&path=%2F&encryption=none#@Garnet_Free
 vless://7f55b425-a623-439b-bbd5-0b1778162054@V2rayGodVip--allh1.V2rayGod.Site:80?path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=v2raygodvip--free24.Azaronline.Org.&type=ws#All%F0%9F%87%A9%F0%9F%87%AA+%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3D+%40V2rayGodVip
@@ -603,3 +602,4 @@ vless://66d84389-b7b6-4628-d255-57c8a771cddd@zula.ir:443?mode=gun&security=tls&e
 vless://bc9e193b-adbd-4609-b7be-fe513fb1d5f1@free.networknim.site:8080?path=%2F&security=none&encryption=none&host=nimnetwork.site&type=ws#%F0%9F%8C%9F%40hypervpns%F0%9F%8C%9Ftest
 vless://61cd74ce-d573-4ebb-810f-26f2544945e9@dnschecker.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ipV2Ray&sni=dm.irandtehran.org#TLS
 vless://4b5aa7b8-fd4a-4748-af27-320bb255fee2@185.146.173.58:2095?path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM%2FVMESSKHODAM%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_vmesskhodam.lars1.nl.&type=ws#%F0%9F%86%94%EF%B8%8F%40vmesskhodam-Vip_Irancell
+vless://084f45b2-3e31-4aa0-ac8d-1767252ed9b0@65.109.216.23:1685/?type=tcp&encryption=none&sni=discord.gg&fp=chrome&security=reality&pbk=b2-0N_dnkpPCKVyvU570OIBDT-6I-nfcOAZRaE9P3nw&sid=#@Capital_NET|MCI
