@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🔗 Vauth - 455
+vless://6aeba177-ee11-41c0-9d51-5136a3032deb@66.235.200.51:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.buffalochest.cfd&fp=chrome&type=ws&sni=joinchannel.buffalochest.cfd#🔗 Vauth - 456
+vless://0e8c32f7-a465-4ac7-b9a4-b6bf38a43e7f@104.22.13.192:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.blacksugar.cfd&fp=chrome&type=ws&sni=joinchannel.blacksugar.cfd#🔗 Vauth - 457
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=/&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2,http/1.1&sni=joinchannel.sameasyou.sbs#🔗 Vauth - 458
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joincha5nnel.jokerv2ray.store#🔗 Vauth - 459
+vless://373e6d58-210f-4433-b623-e34b47cca8de@178.62.240.53:15177?security=reality&encryption=none&pbk=QPIfuN2b5h3qV-dLKEEPzE7WneDIIan5jgPNDR9NDBo&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=457aa090#🔗 Vauth - 460
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.jokerv2ray.store&fp=firefox&type=ws&sni=joinchannel.jokerv2ray.store#🔗 Vauth - 461
 vless://98314183-548a-4606-a177-bdb2f67ac272@64.225.81.175:31175?security=reality&encryption=none&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&headerType=none&fp=firefox&spx=/&type=tcp&sni=greenpepper.ir&sid=f2e78b8b#🔗 Vauth - 462
 vless://98314183-548a-4606-a177-bdb2f67ac272@159.223.241.60:31175?type=tcp&security=reality&pbk=kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE&fp=firefox&sni=greenpepper.ir&sid=f2e78b8b&spx=/#🔗 Vauth - 463
@@ -597,9 +603,3 @@ vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.16.218.243:8443?security=tls&sn
 vless://bfba3560-84ee-48f4-b55e-495deed4e4a0@198.41.221.63:8080?security=none&type=ws&host=Noccoc.Unique69.com.&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔗 Vauth - 1052
 vless://a3f8cad2-e83b-4429-a290-373bec463c7e@172.67.158.249:443?security=tls&sni=colonelcy.aurorainiceland.com&type=ws&path=/nimws#🔗 Vauth - 1053
 vless://4dff7215-1e48-4b7b-8a2f-8fe0be2ac6a8@188.42.145.0:443?security=tls&sni=jeTfrEeWArp.paGes.deV&type=ws&path=%2F%3Fed#🔗 Vauth - 1054
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.20.199.180:59397?security=tls&sni=xin300.ylks.link&type=ws&path=/proxyip#🔗 Vauth - 1055
-vless://95a91266-42f3-41bc-8555-1596e44c9929@5.160.152.108:18312?security=none&type=tcp&host=Zula.ir&path=/&headerType=http#🔗 Vauth - 1056
-vless://308d0488-0230-4f92-9e9f-978a3583434a@95.38.155.212:2096?type=ws&host=bulgtn.private-server.host&path=/#🔗 Vauth - 1057
-vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.13.229:8443?security=tls&sni=pardazeshvpn-tg70.pages.dev&type=ws&host=pardazeshvpn-tg70.pages.dev&fp=chrome#🔗 Vauth - 1058
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔗 Vauth - 1059
-vless://feed264d-a3dd-41e8-a081-dd5b54902700@104.22.0.87:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔗 Vauth - 1060

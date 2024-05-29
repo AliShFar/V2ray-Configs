@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-3691
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#%F0%9F%87%BA%F0%9F%87%B8US-23.150.152.53-2305
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.116:8000#%F0%9F%87%BA%F0%9F%87%B8US-69.50.92.116-2655
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.72-2592
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.86.150:9102#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.150-2400
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.86.148:8000#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.148-2298
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-0633
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#%F0%9F%87%A8%F0%9F%87%B4CO-190.120.231.45-0815
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#%F0%9F%87%BA%F0%9F%87%B8US-15.204.87.225-2403
@@ -213,6 +207,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.120.98.45:443#%F0%9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.137-0730
 vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?encryption=none&security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=%2F%3Fed#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40VmessProtocol%20%7C%202
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.219.172:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://bd08e1b7-e20b-414b-abca-f40ed69b5253@78.141.196.65:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40vless_vmess
 vless://afe17092-2377-4e04-9bba-ef04012102db@www.visa.com:8080?host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#@melov2ray-%F0%9F%87%A9%F0%9F%87%AA1
 vless://34d160eb-d31c-4e44-98ab-54c4146de439@ch1.melobigg.site:443?allowInsecure=false&alpn=http%2F1.1%2Ch2&fp=chrome&path=%2Fmelov2ray&security=tls&sni=ch1.melobigg.site&type=ws#@melov2ray-%F0%9F%87%A9%F0%9F%87%AA1
@@ -423,6 +418,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@118.163.128.81:38370?encryption=non
 
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.219.172:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://bd08e1b7-e20b-414b-abca-f40ed69b5253@78.141.196.65:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40vless_vmess
 vless://afe17092-2377-4e04-9bba-ef04012102db@www.visa.com:8080?host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#@melov2ray-%F0%9F%87%A9%F0%9F%87%AA1
 vless://34d160eb-d31c-4e44-98ab-54c4146de439@ch1.melobigg.site:443?allowInsecure=false&alpn=http%2F1.1%2Ch2&fp=chrome&path=%2Fmelov2ray&security=tls&sni=ch1.melobigg.site&type=ws#@melov2ray-%F0%9F%87%A9%F0%9F%87%AA1
@@ -603,3 +599,7 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?encryption=none&sec
 vless://dad74759-d8ac-490c-aa26-d4d101220684@172.64.32.66:80?encryption=none&security=none&type=ws&host=SvnProBotV2rayGmOne6.9.6.9.ir.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.Com.&path=%2FSvnProBot-V2ray69Speed.ir.shop.com%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.64.32.66%3A80
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NjcyQVx1NzdFNV8wNTI5MTMwNDMiLA0KICAiYWRkIjogInNwZWVkLmNsb3VkZmxhcmUuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogImF1dG8iLA0KICAiaG9zdCI6ICJ1czRlLTIwMjQwMTExLnYyZnJlZXZwbi5jb20iLA0KICAicGF0aCI6ICIvdjE0OS1kc2tkczY1IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@172.67.135.169:443?encryption=none&security=tls&sni=steel.footballlovernews.com&type=ws&host=steel.footballlovernews.com&path=%2Fsteel#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.135.169%3A443
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?encryption=none&security=none&type=ws&host=ca.vpnbase.net&path=%2Fhttp#%40Hope_Net-join-us-on-Telegram
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_353
+
+vless://49f0b70d-cfa7-47c7-8600-dc40b0e174ba@162.251.82.187:443?encryption=none&security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&alpn=http%2F1.1&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#t.me%2Fpeterjest

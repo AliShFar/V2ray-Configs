@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://bef03301-0488-4ecd-8561-78d95d27ef4e@185.146.173.92:443/?type=ws&encryption=none&host=de3.v2vless.xyz&path=%2Fvless%20%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%20ed%3D2048&security=tls&sni=de3.v2vless.xyz#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-185.146.173.92%3A443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.160.122:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.64.160.122%3A443
 vless://f267c4f5-3629-480c-b835-00d835666bff@172.67.167.69:443/?type=ws&encryption=none&host=pPal03.julIUS-tROMp.wOrkerS.DeV&path=%2F3q7lIqbx9HtL8-oy%3Fed%3D2048&security=tls&sni=ppAL03.jUliuS-TrOMP.worKErS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.167.69%3A443
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@104.21.69.204:443/?type=ws&encryption=none&host=drug195.nimserver.top&path=%2Fparadise&security=tls&sni=drug195.nimserver.top&fp=chrome#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.69.204%3A443
@@ -603,3 +602,4 @@ trojan://7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7@45.67.228.199:443?security=tls&sni
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=wel-jp.optage.moe&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://114514@168.138.176.18:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://c7f2ac91-c9ce-46c6-98f3-7204178e4b7c@172.233.57.232:443?security=reality&sni=tunnel.svnreallity.online&fp=chrome&pbk=d35k8hJ0aMt0SQ7DPprVNf6nm_QKabQsbfVmpg819lE&sid=3fdec952&type=grpc&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.94.143.221:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
