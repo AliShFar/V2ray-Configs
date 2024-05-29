@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://74c470a7-e7ad-4313-9ebe-a9eabfa9a34b@185.162.231.101:2095?encryption=none&type=ws&host=Ht-P-S-t-Me-V2ray-420.jOiN-pRivAtE.Ir&path=%2F%40ExpressVPN_420%22%40ExpressVPN_420#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_052908008
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.32:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_052908013
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.159.35:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_052908014
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.158.24:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_052908015
@@ -603,3 +602,4 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.107:8443?security=tls&sni=
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.2:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E5%BE%B7%E5%9B%BD_052908211
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.119:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E5%BE%B7%E5%9B%BD_052908212
 vless://d3f83bb5-7510-4f7b-ab87-7dea180010f7@64.226.96.56:2024?security=none&type=tcp#%E5%BE%B7%E5%9B%BD_052908213
+vless://3d9c4523-b2a2-4524-a591-ff141a35a9d3@128.140.60.32:443?security=tls&sni=tl6lnel9kb9nxlnce9bf.fars-news.org&type=ws&host=tl6lnel9kb9nxlnce9bf.fars-news.org&path=/48773/CREATIVE&fp=chrome&alpn=http/1.1#%E5%BE%B7%E5%9B%BD_052908214
