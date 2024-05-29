@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?type=ws&encryption=none&path=Telegram-FreeVirGoolNet%2F%3Fed%3D2560&security=tls&sni=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&packetEncoding=xudp#%E7%91%9E%E5%85%B8_052923109
 vless://Parsashonam-81@185.146.173.58:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#%E7%91%9E%E5%85%B8_052923118
 vless://Parsashonam-80@185.146.173.58:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#%E7%91%9E%E5%85%B8_052923119
 vless://Parsashonam-76@185.146.173.58:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#%E7%91%9E%E5%85%B8_052923120
@@ -603,3 +602,4 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@172.66.47.196:443?security=tls&sni=
 vless://f5b98278-f2a0-42f0-b15f-f452b9ede61d@172.66.47.190:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&host=v2ray1ng.pages.dev&path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&fp=randomized#%E7%BE%8E%E5%9B%BD_0529231555
 vless://1ece19dd-1cb7-460b-8c40-f4607a5539b5@173.245.58.201:443?security=tls&sni=12.12migmigg54.top&type=grpc&fp=chrome#%E7%BE%8E%E5%9B%BD_0529231556
 vless://57255984-4656-45de-b6b5-0e1acfd3c135@172.66.213.5:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529231557
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.75.178.96:443?security=tls&sni=zdy116.kpcloud.eu.org&type=ws&path=%2Fproxyip#%E7%BE%8E%E5%9B%BD_0529231558
