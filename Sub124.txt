@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://e045325b-4ff1-480d-87e8-f93a0b55a48d@65.21.106.81:33258?mode=gun&security=reality&encryption=none&pbk=1G7LGuGwSBHfV9mgbvifsM07kCwkkRyCxsR-Omi5vjI&fp=firefox&spx=%2F&type=grpc&serviceName=@V2ray_Alpha@V2ray_Alpha@V2ray_Alpha&sni=ea.com&sid=bbcf1a4e#%C2%A9%EF%B8%8F%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%DB%8C%D9%85%DB%8C%D9%88%D9%85+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+Golf_VPN+%F0%9F%9A%80
 vless://ce6b7954-fd82-49ce-898a-3e7408a7e80e@pydar.banndedd.ir:8080?type=ws&host=7313d04874b5bc93.chh.bandinng.ir&path=/&security=none#Angus_vpn-HAMRAH
 vless://7a84d1c3-15ca-4fff-b73c-18e7ef98ae1e@tun.ferdowsi.shop:2087?type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=g4.ferdowsi.shop#%F0%9F%87%A9%F0%9F%87%AA%20Cephalon_ALA-%5B319%5D
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#ig
@@ -602,4 +603,3 @@ vless://23002f00-35b4-4080-bea1-31c03920a9bd@fit.acriliced.shop:6710?security=no
 vless://8b7160d8-86b1-4dce-bb69-2943359dcef9@104.16.232.20:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#vmessorg%20mci
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@lol.ps:2096?path=%2FPath%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=u6Zghn5ZytArEt4S838Q76kqGd9mN61uflu53560xV8NmU68Gd7Q25Y3PX.pAges.DEv&fp=chrome&type=ws&sni=u6Zghn5ZytArEt4S838Q76kqGd9mN61uflu53560xV8NmU68Gd7Q25Y3PX.pAges.DEv#https://t.me/VIPV2ra
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.visa.com:443?path=%2FanDYcrT6jguZnyra%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=d6F1D970.oXNeT-ir-xzU871.PAGeS.deV&fp=randomized&type=ws&sni=D6f1D970.oXnet-iR-xZu871.PaGES.DeV#Telegram%28%40kingofilter%29+382
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?encryption=none&security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&path=%2F%3Fed%3D2048#%40TeiknoVPN%20%E2%9D%A4%EF%B8%8F%20%201

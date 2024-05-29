@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://95443db4-3efb-47ec-87ff-500501863977@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%F0%9F%9A%80Join%3A%40V2rayng_anti
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypass.dd-6b2.workers.dev:443?path=%40bypass_filter%2F%3Fed%3D2048&security=tls&encryption=none&host=bypass.dd-6b2.workers.dev&type=ws&sni=bypass.dd-6b2.workers.dev#telegram+%F0%9F%91%89%40bypass_filter%F0%9F%91%88
 vless://8e785622-2593-45e4-b229-d2e2c9a00a32@all.mdvpnsec.cfd:80?path=%2F&security=none&encryption=none&host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#%F0%9F%94%B8+%40v2ray_team+%7C+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://673a3c06-c2fa-40bd-a167-f4abac0d382f@cf.mitowear.com:443?type=ws&host=v2ray-express-free-server.mitowear.com&path=/express?ed%3D2048&security=tls&sni=v2ray-express-free-server.mitowear.com#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20V2RAY.EXPRESS
@@ -602,4 +603,3 @@ vless://Parsashonam-Gift@185.146.173.58:8080?path=%2FParsashonam&security=none&e
 vless://46bb613e-a9e3-48c5-9f92-491f3939dcc1@www.speedtest.net:2053?path=%2F&security=tls&encryption=none&host=copy-az.kanal-tel-nufilter.store&fp=chrome&type=ws&sni=copy-az.kanal-tel-nufilter.store#%40lepingvpn
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@taktok.ir:80?path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048&security=none&encryption=none&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&type=ws#%40irov2rayN-
 vless://4ebbfaa6-7c73-431e-9ca7-e5704b60babd@49.13.225.84:2096/?type=tcp&encryption=none&flow=#%40proprojecss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.111.114.133:9090#%40proprojec
-vless://f5c97727-478f-4df5-87cf-6cc65389e75a@cl.parspack.com:2087?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=ram.49z.info#%40m_vipv2

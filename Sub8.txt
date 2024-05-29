@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://de44b044-8f90-4e18-b742-16591667ff96@172.66.47.196:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD_0529231554
-vless://f5b98278-f2a0-42f0-b15f-f452b9ede61d@172.66.47.190:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&host=v2ray1ng.pages.dev&path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&fp=randomized#%E7%BE%8E%E5%9B%BD_0529231555
-vless://1ece19dd-1cb7-460b-8c40-f4607a5539b5@173.245.58.201:443?security=tls&sni=12.12migmigg54.top&type=grpc&fp=chrome#%E7%BE%8E%E5%9B%BD_0529231556
 vless://57255984-4656-45de-b6b5-0e1acfd3c135@172.66.213.5:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529231557
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.75.178.96:443?security=tls&sni=zdy116.kpcloud.eu.org&type=ws&path=%2Fproxyip#%E7%BE%8E%E5%9B%BD_0529231558
 vless://9d68258a-453b-418a-8b90-27b7d1637a33@172.67.195.153:2053?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&path=%2Fpub0000x-9.pages.dev%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0529231559
@@ -603,3 +600,6 @@ vless://f22b09c9-5fa6-4ed7-992f-1dcbc4dba3ad@172.66.47.178:443?security=tls&sni=
 vless://41340698-cc0e-4bb7-a796-8b245b1f2370@172.66.203.36:2052?security=none&type=ws&host=netflixvgiuf%F0%9F%98%82%F0%9F%97%BFyduuvgguiigyquhoihtfxtopuihojV2rayolhgyfyvyvlknouvrdfed2s2svyhij22kkuogifjfkfifofotitirruye63467r8t8t8tgigjgjvnvmfsraew4w4w5e5e7t8y9u9uhoihopjjpkbbkvngnmcmchfyfd.7.smvpn1997.shop.&path=%40Xray_VPN_Pro%2B%40Xray_VPN_Pro%2B%40Xray_VPN_Pro%2B%40Xray_VPN_Pro%2B%40Xray_VPN_Pro#%E7%BE%8E%E5%9B%BD_0529232151
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.244.43:443?security=tls&sni=mt1.nabsk.com&type=ws&alpn=http/1.1&allowInsecure=1#%E7%BE%8E%E5%9B%BD_0529232152
 vless://27296b86-e52d-4293-8814-20f041c291a1@172.67.169.190:8443?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0529232153
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@206.119.178.149:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0529232154
+vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.170.85:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529232155
+vless://669ad826-af8a-434b-8e61-d8d7caa230c2@172.67.158.249:443?security=tls&sni=forwarder.aurorainiceland.com&type=ws&path=%2Fnimws#%E7%BE%8E%E5%9B%BD_0529232156

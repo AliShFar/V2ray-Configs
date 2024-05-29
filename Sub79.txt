@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://e74391c2-9414-49c7-91cf-00d29710d86e@37.27.45.137:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#%F0%9F%94%92+VL-GRPC-RLT+%F0%9F%87%AB%F0%9F%87%AE+FI-37.27.45.137%3A2053+%F0%9F%93%A1+PING-175.83-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#t.me/Config_Station
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#%F0%9F%92%99%F0%9F%92%99
 vless://e2e869c8-b576-4a45-a7cd-8dbceddc2e18@zula.ir:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=abcdefghijklmnopqrstuvwxyza.likeboukan1.top#%F0%9F%8C%99%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40@iroazadi
@@ -602,4 +603,3 @@ vless://BugFreeNet4@185.146.173.58:8080?path=%2Ftelegram-BugFreeNet%2CCHannel-Bu
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@V2rayi_net
 vless://f9d617c9-8d17-4b67-8c85-07d32a2e5b56@185.146.173.201:80?path=%2FV2ray.motorcycles%3Fed%3D80&security=none&encryption=none&host=Register.Elmahstyle.ir&type=ws#%F0%9F%94%92+VL-WS-NONE+%F0%9F%87%B8%F0%9F%87%AA+SE-185.146.173.201%3A80
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@162.159.2.9:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.jppublic.moh539.link&type=ws&sni=watashi.free.jppublic.moh539.link#%40chatkonvaslshim%F0%9F%92%96
-vless://DIGIV2RAY-@104.18.202.232:80?path=%2FDigiv2ray-%3FTelegram%3D%40V2RayTz%2C%40V2RayTz&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#TelegramID%28%40♥️%29+635

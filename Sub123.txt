@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=%2F%3Fed&security=tls&sni=mmdv2.pages.dev&fp=randomized#%F0%9F%85%B1%EF%B8%8F28%40oneclickvpnkeys
 vless://0fcbb842-a042-4681-8288-112d117c7d54@185.146.173.94:2095?path=%2F&alpn=Tel:@SRCVPN,@SRCVPN&host=V2ray-_-_-_-_-_-%53%68%68%50%72%6F%78%79.TelegramChannelJoinBede.com.&type=ws#🇩🇪@SRCVPN|All
 vless://22ea866c-3b37-4928-a2cd-9597d19a2c6f@joinbede1.vmessorg.site:8080?security=&type=ws&path=/Telegram:@vmessorg?ed%3D2048&host=vmessorg2.xn--54qv00ez5ar77g.co.&encryption=none#🇧🇬Bulgaria-کانالتلگرام:@V2rayweb
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@190.93.247.155:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=test50.pages.dev&fp=chrome&type=ws&sni=test50.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%40V2ray_Alpha+10
@@ -602,4 +603,3 @@ vless://003efe34-544e-4765-9129-658cc23a7fb5@188.114.98.224:8080?path=@v2safee-@
 vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.53.234.194:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=F2vObpJrv7tSzWyBUE1qtsEPwqJEtzL7zNXDtftI_SE&sid=f450be&spx=%2F&type=tcp&headerType=none#%E2%9C%85%3AKiava-S2-114
 vless://63f043be-1038-4a90-8fa4-4f28f111eb75@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#MdVpnSec-awrrcvk8
 vless://80d743d5-40a5-4ce0-b660-e3f5859e2c99@discord.gg:2087?path=%2F&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#%F0%9F%94%B5+%40FilterZapata+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7
-vless://e045325b-4ff1-480d-87e8-f93a0b55a48d@65.21.106.81:33258?mode=gun&security=reality&encryption=none&pbk=1G7LGuGwSBHfV9mgbvifsM07kCwkkRyCxsR-Omi5vjI&fp=firefox&spx=%2F&type=grpc&serviceName=@V2ray_Alpha@V2ray_Alpha@V2ray_Alpha&sni=ea.com&sid=bbcf1a4e#%C2%A9%EF%B8%8F%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%DB%8C%D9%85%DB%8C%D9%88%D9%85+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+Golf_VPN+%F0%9F%9A%80

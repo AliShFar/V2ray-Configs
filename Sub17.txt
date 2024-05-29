@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.234:8443?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_75
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.114:443?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_76
-vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.64:8443?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_77
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.0.212:8443?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_78
 vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.208.197:2083?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_79
 vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.141:2053?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_80
@@ -603,3 +600,6 @@ trojan://auto@104.18.15.166:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pa
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.49.5.114:989#%E6%9C%AA%E7%9F%A5366%20962.6KB%2Fs
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@103.172.116.79:9040#%E6%9C%AA%E7%9F%A5367%201.2MB%2Fs
 trojan://moist@146.56.44.226:55555?security=tls&type=ws&sni=trojan.freenods.sbs&path=/&host=trojan.freenods.sbs#%E6%9C%AA%E7%9F%A5368
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.126.108:443#%E6%9C%AA%E7%9F%A5369
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#%E6%9C%AA%E7%9F%A5370%201.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@4.250.140.59:443#%E6%9C%AA%E7%9F%A5371%204.7MB%2Fs

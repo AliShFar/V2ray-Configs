@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://badde8e3-e2e8-4709-af31-056d29757861@138.68.91.27:37673?security=none&encryption=none&host=https%3A%2F%2Faggressive-refined-changelog-collaboration.trycloudflare.com&headerType=http&type=tcp#%40v2rayng_free1
 vless://fbe57678-965b-47b7-9035-3843e8e035b0@37.27.42.75:2053?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40v2ray313+%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86+%E2%98%98%EF%B8%8F
 vless://34850d72-3778-49eb-b3ff-d003660321b9@discord.gg:2095?path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=zedmodeon2.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#WS+%F0%9F%87%A6%F0%9F%87%B9+%28%40ZEDMODEON%29
 vless://8adb8f2c-6ce1-4663-b09e-5ad5613b33d1@138.201.100.212:19789?type=tcp&security=none#1-
@@ -602,4 +603,3 @@ vless://e81ce259-6149-405e-bbe5-a6c17c8812a9@185.146.173.58:8080?path=%2FTELEGRA
 vless://a61509e0-5684-4852-9de0-0c0478eef6b2@new-nt-sv.shoponetop.com:2053?mode=gun&security=reality&encryption=none&authority=&pbk=QKqp288bhBMdYqIfyLJVa9oKE21fBo6XG6xvTyPQVBQ&fp=firefox&type=grpc&serviceName=xyz&sni=www.speedtest.net&sid=c8e415a0fe1f6a1e#%40webovpn
 vless://b8024155-ee18-4b5e-fea3-779a0e218b66@146.190.97.78:26543?path=%2Ffree_not_for_sale&security=none&encryption=none&host=web.whatsapp.net&type=ws#DRV2RAY-By_Tharuwa
 vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?path=%2F%3Fed&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#%E2%87%9D+%40v2mystery+%E2%80%A2+%F0%9F%8C%BB%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%DA%86%D9%86%D9%84
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@190.93.247.155:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=test50.pages.dev&fp=chrome&type=ws&sni=test50.pages.dev#WebRovers+%F0%9F%8C%B1
