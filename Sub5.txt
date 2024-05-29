@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.30.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_0529135494
-vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.51.3:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%E6%9C%AA%E7%9F%A5_0529135495
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@104.21.60.92:8880?security=none&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0529135496
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.16.103.112:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#%E6%9C%AA%E7%9F%A5_0529135497
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#%E6%9C%AA%E7%9F%A5_0529135498
@@ -603,3 +601,5 @@ vless://67e4c75e-fea0-400c-8da2-c6e8e779771a@104.18.13.149:8443?security=tls&sni
 vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@104.21.31.15:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_0529136091
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.21.56.71:443?security=tls&sni=mAMane-filTErCHI.pageS.Dev&type=ws&host=mamAnE-fILTErchI.paGES.deV&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0529136092
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.13.54:443?security=tls&sni=PrOXySTORePANeL.eU.ORg&type=ws&host=pROXYSTorepAnEl.Eu.OrG&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0529136093
+vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@104.21.39.52:443?security=tls&sni=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_0529136094
+vless://84ddd05a-0e2a-4b7e-a0d2-f214bff4243b@104.21.233.140:443?security=tls&sni=xn--mgbUg7c2aM63g.jObfineX.ir.&type=grpc&fp=chrome#%E6%9C%AA%E7%9F%A5_0529136095

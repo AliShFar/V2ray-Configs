@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@www.udemy.com:8443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xin300.ylks.link#%E6%9C%AA%E7%9F%A5_0529134636
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?path=%2Ftelegram-%40v2ray_alpha%2F%3Fed&security=tls&encryption=none&type=ws&sni=B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev#%E6%9C%AA%E7%9F%A5_0529134637
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@yh1.dtku41.xyz:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=qifei2024.dns.army&type=ws&sni=qifei2024.dns.army#%E6%9C%AA%E7%9F%A5_0529134647
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net15.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net15.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0529134650
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net13.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net13.ntr.biz.id&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0529134651
@@ -603,3 +601,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.25.255.254:2053?security=tls&sn
 vless://bf71f663-13fb-4765-8ba2-e2b7273e73fa@104.16.219.230:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0529135491
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.8.55:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#%E6%9C%AA%E7%9F%A5_0529135492
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love#%E6%9C%AA%E7%9F%A5_0529135493
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.30.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_0529135494
+vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.51.3:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%E6%9C%AA%E7%9F%A5_0529135495

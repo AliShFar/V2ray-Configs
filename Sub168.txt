@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.61.24:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@87.120.106.10:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@79.133.108.26:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@5.188.133.11:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.38.159.5:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@80.240.113.12:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.122.186:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@79.133.108.6:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@80.240.113.10:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.124.27:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -596,10 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:808#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0671
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.150-0699
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A6%F0%9F%87%AAAE-40.123.233.175-0754
-vless://9450802e-0837-4cb4-bd94-9202f53a04ef@77.221.153.68:52761/?type=grpc&encryption=none&serviceName=www.speedtest.net&sni=www.speedtest.net&fp=chrome&security=reality&pbk=atUztFxLhBPFwMHDQEvRFStJ9WvwToEudFv1IXLJTBg&sid=#%F0%9F%87%AB%F0%9F%87%B7%20FR-77.221.153.68%3A52761
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20IT-185.247.184.115%3A2096
-vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#%F0%9F%87%AE%F0%9F%87%AA%20IE-85.159.229.8%3A2087
-vless://c89de9c4-df81-48d4-abaf-334afff612a7@179.61.251.238:8443/?type=tcp&encryption=none&sni=flutter.dev&fp=chrome&security=reality&pbk=HWlARwnjdY9TQOW_jJZtTFNNgV-4PL2aoZ3XwZ8xAR8&sid=a66923d4#%F0%9F%87%A9%F0%9F%87%AA%20DE-179.61.251.238%3A8443
-vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443/?type=tcp&encryption=none&sni=analytics.google.com&fp=chrome&security=reality&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#%F0%9F%87%AB%F0%9F%87%B7%20FR-141.95.75.212%3A443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#%20%F0%9F%87%B3%F0%9F%87%B1%20NL-193.29.139.248%3A8080
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@146.185.248.22:989#%20%F0%9F%87%A6%F0%9F%87%B2%20AM-146.185.248.22%3A989

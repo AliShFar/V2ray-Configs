@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://e2443e49-e0ce-4628-808f-76469b53cf66@net2.ntr.biz.id:443?encryption=none&security=tls&sni=net2.ntr.biz.id&fp=randomized&type=ws&host=net2.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529131393
-vless://e2443e49-e0ce-4628-808f-76469b53cf66@net1.ntr.biz.id:443?encryption=none&security=tls&sni=net1.ntr.biz.id&fp=randomized&type=ws&host=net1.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529131394
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx22.ntr.biz.id&sni=cx22.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529131395
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80?encryption=none&security=none&type=ws&host=cx10.ntr.biz.id&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529131396
 vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=%2fray#%E7%BE%8E%E5%9B%BD_0529131397
@@ -603,3 +601,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.184:8443?security=tls&sn
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.173:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_0529132159
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.233:443?security=tls&sni=jOiNmahDiseRVEr-46s.pAgES.dEv&type=ws&host=joINmaHdIseRVer-46s.PAgES.Dev&path=%2Fy6H1pZJtbSyOjnbQ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0529132160
 vless://0b750188-a0d7-4a71-9882-fcb42fbf4311@172.65.90.1:80?security=none&type=ws&host=arsha.%E5%B8%AD%E7%89%B9%E5%93%88%E6%96%AF%C2%B7%E7%BD%97%E4%BC%8A.Vash%E5%88%80%E9%94%8B%E7%9A%84%E8%BE%B9%E7%BC%98.dontcall%E5%88%AB%E7%A7%B0%E5%85%B6%E4%B8%BA%E7%A5%9E%E7%A7%98%E7%94%B5%E5%BD%B1.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0529132161
+vless://bb2af53a-8a2a-4466-bcf4-7e7de11b8381@172.67.195.105:443?security=tls&sni=mtnasl001.chaghooosazi.shop&type=ws&host=mtnasl001.chaghooosazi.shop&path=/xMKyVeMwq7FLS5oNsuc&alpn=http/1.1#%E7%BE%8E%E5%9B%BD_0529132162
+vless://f22b09c9-5fa6-4ed7-992f-1dcbc4dba3ad@172.66.47.178:443?security=tls&sni=pardazesh12.pages.dev&type=ws&host=pardazesh12.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E7%BE%8E%E5%9B%BD_0529132163

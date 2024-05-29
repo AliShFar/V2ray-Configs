@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?encryption=none&security=none&type=grpc#%E4%BC%8A%E6%9C%97_052913019
-vless://d21b31fa-0336-430d-8388-14873d0942ea@62.60.172.187:2053?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=DZBeIUun4KIaejwUglGBmiNNwpIHBI7-9un6dR0aJVY#%E4%BC%8A%E6%9C%97_052913020
 vless://1ef0d3db-71f1-6b96-8bd9-b38cced1bca3@85.198.16.246:2053?security=reality&sni=zula.ir&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%E4%BC%8A%E6%9C%97_052913021
 vless://69b6d557-f883-4606-8fd3-a7a678d4c885@193.162.129.235:8071?security=none&type=tcp&serviceName=-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@Uranium&host=upload.com&headerType=http#%E4%BC%8A%E6%9C%97_052913022
 vless://a96b62ec-799d-40ae-8cea-3c48a2132569@185.206.93.162:2053?security=none&type=tcp&host=time.ir&headerType=http#%E4%BC%8A%E6%9C%97_052913023
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.205.188:2096?path=%2Fblue&se
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.158.158:2087?path=%2F&security=tls&encryption=none&type=ws&sni=jd.wxgqlfx.top#%E6%96%B0%E5%8A%A0%E5%9D%A1_052913098
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.253.41:2053?path=%2F&security=tls&encryption=none&type=ws&sni=jd.wxgqlfx.top#%E6%96%B0%E5%8A%A0%E5%9D%A1_052913099
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@8.222.138.166:21737?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=v300.ylkszy.eu.org#%E6%96%B0%E5%8A%A0%E5%9D%A1_052913100
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.174.206:2053?path=%2Fproxyip&security=tls&encryption=none&type=ws&sni=v300.ylkszy.eu.org#%E6%96%B0%E5%8A%A0%E5%9D%A1_052913101
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.237.90:2087?path=%2F&security=tls&encryption=none&type=ws&sni=jd.wxgqlfx.top#%E6%96%B0%E5%8A%A0%E5%9D%A1_052913102
