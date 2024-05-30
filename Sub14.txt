@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://2fadf1dc-f401-4225-ac95-da030118eaef@xibaozi.19890604.day:10850?type=tcp&sni=cloudflare.node-ssl.cdn-alibaba.com&allowInsecure=1#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E4%B8%AD%E5%9B%BD%0D_12
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6ZfQ0Ff5Yqg5ou/5aSnIiwiYWRkIjoiMjMuMjI3LjM4LjIyIiwicG9ydCI6ODA4MCwiaWQiOiI5MjU4MTUzYS1kYzk3LTRlMzktOTAzNy0wMDlhYmZjNGZlZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJwZXItZXNzZXgtcGF0dGVybnMtYm93bGluZy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiI5MjU4MTUzYS1kYzk3LTRlMzktOTAzNy0wMDlhYmZjNGZlZDAtdm0iLCJ0bHMiOiIifQ==
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@16.162.37.167:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%ad%f0%9f%87%b0+HK+%e9%a6%99%e6%b8%af+32
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%8B%B1%E5%9B%BD%0D_2
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDAxIiwiYWRkIjoiYXdzLmFwcGxlaWQuYmYiLCJwb3J0IjoiMjA4NiIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ3cuYWxpY2RuLmNvbSIsInBhdGgiOiJcL0NBVCIsInRscyI6IiJ9
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.232.14:2083?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-HK-Hong%20Kong16
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiIxNjIuMTU5LjUuNiIsInBvcnQiOjgwODAsImlkIjoiZDljNWVjNmEtYThkOC00NzMyLTg0NDctNTZmYmQyZjkzZTk2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoicGNzLXJlZmVyZW5jZWQtY2FtZXJhLWNvbmNlcm5zLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6ImQ5YzVlYzZhLWE4ZDgtNDczMi04NDQ3LTU2ZmJkMmY5M2U5Ni12bSIsInRscyI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:806#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0796
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-TW4
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTA0LjIxLjIzNC41MiIsInBvcnQiOjgwLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImEucHJhcHQxLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiJmYmkuZ292IiwicG9ydCI6ODA4MCwiaWQiOiJlZjhjOTU0ZS0wMTRmLTRiMzYtODI3My05YjUwODZhZmFiMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJiaWJsaW9ncmFwaGljLXN3b3JkLXNlcXVlbmNlLWFkdmVydGlzZXJzLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6ImVmOGM5NTRlLTAxNGYtNGIzNi04MjczLTliNTA4NmFmYWIzNC12bSIsInRscyI6IiJ9
+trojan://telegram-id-directvpn@3.141.130.47:22222?type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.198.48:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-KR5
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0719
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@211.52.190.145:10548?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-KR4
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.3.37.27:9004?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%ad%f0%9f%87%b0+HK+%e9%a6%99%e6%b8%af+31
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzAuMzEiLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCAic25pIjogIiIsICJob3N0IjogImEucHJhcHQxLmlyIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIn0=
@@ -589,17 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDEgQG5vZHBhaSIsImFk
 			"remarks" : "dongtaiwang.com",
 			"id" : "DE9E32FF31B704BF98967202DE78D00D",
 			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
