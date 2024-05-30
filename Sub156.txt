@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-directvpn@13.39.205.100:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.205.100-2841
-trojan://70eb38a6-673c-4877-bceb-dbe6369fa210@it-full.privateip.net:443?security=tls#%F0%9F%87%AE%F0%9F%87%B9IT-95.164.46.235-2842
-trojan://2jPKGpTasZzU@13.212.249.44:13001?security=tls&sni=appsvs.shop#%F0%9F%87%B8%F0%9F%87%ACSG-13.212.249.44-2843
-trojan://466cb726-333d-44aa-924f-1f7977e44dbb@198.244.190.189:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-198.244.190.189-2844
-trojan://telegram-id-privatevpns@13.49.36.139:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.36.139-2845
-trojan://CMLiu@210.87.195.139:26439?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR-210.87.195.139-2846
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%8F%81RELAY-198.41.220.10-2847
-trojan://telegram-id-privatevpns@18.194.145.135:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.194.145.135-2848
-trojan://CMLiu@45.59.186.34:34237?security=tls&sni=trojan.classelivre.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-45.59.186.34-2849
-trojan://765409b4-3e9b-4d1d-bcbb-c6b65956b689@173.245.59.100:443?security=tls&sni=de1.trojanvpn.de#%F0%9F%8F%81RELAY-173.245.59.100-2850
-trojan://telegram-id-directvpn@52.19.102.145:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-52.19.102.145-2851
-trojan://iGRsJgiit1Fq@13.40.84.236:13009?security=tls&sni=appsvs.shop#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.84.236-2852
-trojan://d971ee7a-32d9-402a-8a4f-d2135d48a47b@us04.421421.xyz:20230?security=tls&sni=421421.xyz#%F0%9F%87%BA%F0%9F%87%B8US-35.92.61.59-2853
-trojan://ea630804-4d5d-4180-a464-a360e3793dc2@51.75.77.237:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-51.75.77.237-2854
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?security=tls&sni=jobscareertoday.com#%F0%9F%8F%81RELAY-104.19.171.36-2855
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com#%F0%9F%8F%81RELAY-198.41.220.8-2856
 trojan://telegram-id-privatevpns@18.193.206.220:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.193.206.220-2858
@@ -603,3 +589,17 @@ trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=t
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@gz01.xiaohouzi.club:20091?security=tls&sni=gz01.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-54.157.24.8-3692
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTgzNmVkYy1lNzM4LTRlNjMtOTY0ZC1hZDYxZDllM2YyN2I=@api-a-asia-4.mcqqn.com:61002#%F0%9F%87%AF%F0%9F%87%B5JP-154.16.55.112-3693
 vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTU0LjE1NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY0LjE1NC4xNTUtMzY5NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.191.190:443#%F0%9F%87%B8%F0%9F%87%ACSG-13.215.191.190-3696
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:812#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3697
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:805#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3698
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:808#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3699
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:811#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3700
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:807#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3701
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:802#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3702
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:804#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3703
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:810#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3704
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@ak1617.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:802#%F0%9F%87%BA%F0%9F%87%B8US-54.157.24.8-3705
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:803#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3706
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.161.118.38:800#%F0%9F%87%A8%F0%9F%87%A6CA-51.161.118.38-3707
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@85.208.108.90:2376#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.90-3708
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.166.104:443#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.166.104-3709
