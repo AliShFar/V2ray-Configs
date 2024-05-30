@@ -243,6 +243,8 @@ def main():
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/ss",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/tuic",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/hy2",
+        "https://gist.githubusercontent.com/johhny1898/eef96d3998241a8527bbb9557704d6bb/raw/0e6ff0583ca5e226e82756d0f602ae18d6ac5a9b/gistfile1.txt",
+        "https://api.yebekhe.link/shervin/",
     ]
 
     decoded_links = decode_links(links)
