@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013036
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.43:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013037
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013038
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013039
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.84:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013040
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013041
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013042
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013043
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.184:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013044
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013045
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013046
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.200:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013047
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013048
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013049
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053013050
@@ -603,3 +591,15 @@ vless://fbe02c0b-775f-4431-8615-a9497255c876@199.59.243.225:443?security=reality
 vless://382fb457-f427-428a-8527-b3920d25c062@172.67.190.34:443?security=reality&sni=check-host.net&type=grpc&fp=chrome&pbk=sZLyYIpu8wJZNdSo9P0V8K23BSMThrSO8umo6cbYRS0#%E7%BE%8E%E5%9B%BD_0530131463
 vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.125.36:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40#%E7%BE%8E%E5%9B%BD_0530131464
 vless://56096be1-d610-4613-aee5-369f9ecce276@103.35.189.42:8443?security=reality&sni=172.67.193.108&type=tcp&host=us1.x2fast.net&headerType=http&fp=chrome&pbk=t_XMV-WyVYbcDCIgiSSCi3bSPDdW1rqKFa9ZoI8b4RA&sid=dbdf78b1df376900#%E7%BE%8E%E5%9B%BD_0530131465
+vless://64db2a61-4296-4747-8f50-017201a4c5e4@74.48.95.50:17974?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=17FnGUGQ9rrtCtJvtYWywWCYtAc0dyxVbwNbNEp05yE&sid=6a565d14#%E7%BE%8E%E5%9B%BD_0530131466
+vless://5184b87c-8537-41d6-be54-5027c8432d50@172.67.185.196:443?security=tls&sni=paRVIZsabEti.pAgeS.dEV&type=ws&host=PARvIzsABETI.paGeS.DEv&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530131467
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.191:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_0530131468
+vless://920d0e13-fdd0-4a36-a044-a9086f123d7b@172.66.47.191:443?security=tls&sni=b4a3567c.servernett.pages.dev&type=ws&host=b4a3567c.servernett.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%E7%BE%8E%E5%9B%BD_0530131469
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@3.145.48.194:21234?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#%E7%BE%8E%E5%9B%BD_0530131470
+vless://5bb042a9-5af6-4037-b142-5de9e8f7c2ca@172.67.204.84:443?security=tls&sni=ss.st1lol.ir&type=ws&host=ss.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530131471
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.47:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0530131472
+vless://b2ee64ad-2645-429e-f398-338cf87e7b63@172.66.213.38:2095?security=none&type=ws&host=al.internetnor01.sbs&path=/@mostafa_sa120#%E7%BE%8E%E5%9B%BD_0530131473
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0530131474
+vless://37d0b151-023e-4729-9994-45a7d9df5fd1@172.67.151.51:8443?security=tls&sni=pardazeshvpn-tg23.pages.dev&type=ws&host=pardazeshvpn-tg23.pages.dev&fp=chrome#%E7%BE%8E%E5%9B%BD_0530131475
+vless://aaf32ee2-4803-4581-bfdd-b647a66d3b6b@172.67.142.10:2087?security=tls&sni=turkey-mci-hhh.jsfui232.ir&type=grpc&fp=chrome&alpn=h2#%E7%BE%8E%E5%9B%BD_0530131476
+vless://e7e4b9e5-ec07-479f-9e6c-06fbebbe38cb@172.67.163.103:8443?security=tls&sni=hesha.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530131477
