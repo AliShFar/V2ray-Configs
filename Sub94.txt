@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5488f821-2f39-4aee-832a-078e2ac14717@54.237.49.110:8880?encryption=none&security=none&type=tcp&headerType=none#%40TeiknoVPN%20%E2%9D%A4%EF%B8%8F%20%20
-vless://c47b77b2-ef5a-41c4-a2f1-d752fc5ac65a@185.146.173.58:2095?path=%2F&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#TelegramID%28%40Outline_Vpn%29+500
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#TelegramID%28%40Outline_Vpn%29+92
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.202.5:2053?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=zsf-5fa.pages.dev&fp=chrome&type=ws&sni=zsf-5fa.pages.dev#%40LOCKEY_VPN
 vless://5ff1ce6d-5a22-4c17-8ffd-bff41b7070d0@www.speedtest.net:8880?type=ws&security=none&host=happy.mappy.nowrouz.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A82024%E5%9C%B0%E7%8B%B1.site.&path=/index.php?ed%3D1024#@VPN_VIP_NOR(ALL)4
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#@zede_filteri
 vless://ee64e6ff-1a0a-4ecf-af51-3a1f52bf0dfc@LIGHTNING6-joinbed.filj.top:8880?path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&security=none&encryption=none&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&type=ws#%40V2rayNG_account_free
@@ -603,3 +599,7 @@ vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=%2F%3Fed%
 vless://02cd1f19-40ec-439f-92d7-dfca02ae8b6c@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.novaball.LINK.&type=ws#%40V2ray_Alpha+1
 vless://12822cde-491b-40b9-8301-814fc10b5547@188.114.96.163:2083?path=%2Fvless&security=tls&encryption=none&host=de1.v2vless.xyz&type=ws&sni=de1.v2vless.xyz#@V2ray_Raha+Mci+2
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@185.146.173.58:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒VL-GRPC-TLS🇸🇪SE-185.146.173.58:8443
+vless://7f55b425-a623-439b-bbd5-0b1778162054@188.114.97.0:80?path=%40VPNHTTPInjectorfree&security=none&encryption=none&host=v2raygodvip--free24.Azaronline.Org.&type=ws#https%3A%2F%2Ft.me%2FV2rayNG_nV
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.53.135.44:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=gsv3AGo3mz1gJ7wg-9yhpQgjXPdOFuFXE40R_HMiIn0&sid=1db3&spx=%2F&type=tcp&headerType=none#%E2%9C%85%3AKiava-S9-113
+vless://919e6f38-08dc-40ef-81e6-f89c50997fa2@speedent.diitreal.online:2087?encryption=none&security=tls&sni=arushi.diitreal.online&alpn=http%2F1.1%2Ch2%2Ch3&fp=safari&type=grpc&serviceName=%40Speedent_Net%2C%40Speedent_Net%2C%40Speedent_Net&mode=gun#%F0%9F%87%AB%F0%9F%87%AEFinland-Config%3A1%20%3E%40Speedent_Net
+vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.134.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒VL-GRPC-TLS🏴‍☠️NA-162.159.134.234:2096

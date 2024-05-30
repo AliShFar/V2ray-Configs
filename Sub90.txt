@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://476a69ba-f634-4b46-8ae0-d06a2b1e78a1@209.38.208.73:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray#%40v2ray_swhil-fh2lxm4l
-vless://49a0c36d-dea4-4f94-854b-27fdf3afc396@s2.v2rayultramax.site:53614?type=tcp&security=none#v2rayultramax%20-%20channel-%F0%9F%9A%80%20Gift%20Config%20%F0%9F%92%A5
-vless://3ceb1d68-2b99-482e-bb3e-246c9cfbf47a@zizpub.ddns.net:443?security=reality&encryption=none&pbk=F4SzdmyBbTOj4btOa5xO2_lJwmwnFHKJuiqaU9Xq0Ro&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=anandtech.com#ForAll
-vless://5ee39c9d-754c-4207-90ea-b15c0a720ac0@185.146.173.58:2095?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=V2ray-_-_-_-_-Vpn_Mikey.Amir-Mikey.Tech.&type=ws#%40asr_proxy
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#Tel+Channel%F0%9F%91%89+configsCenter
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#%F0%9F%8C%B1+%40V2ray_Alpha+4
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@162.159.138.26:443?type=ws&security=tls&host=biA-PAIn-bAChE.PaGeS.deV&path=/RoC11jdaeVVXmmG4?ed%3D2560&fp=randomized&sni=bIa-PAin-bache.PageS.deV&alpn=h2,http/1.1#@VPN_VIP_NOR(ALL)32
@@ -603,3 +599,7 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=%2F&securit
 vless://6818e7da-6e2b-4fbb-bf49-f5305634f38f@discord.gg:80?type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org.&path=/&security=none#Tel+Channel%F0%9F%91%89+configsCenter
 vless://c4a547dc-cfe5-4056-9158-a5c15487e624@104.26.15.85:2053?security=tls&sni=ErFaN2.tOtFaRaNgHi.SbS&type=grpc&serviceName=@FREE_VPN02,@FREE_VPN02,@FREE_VPN02,@FREE_VPN02#🔒VL-GRPC-TLS🏴‍☠️NA-104.26.15.85:2053
 vless://bdab18c1-d3f9-428c-a376-ca8cce0f1710@172.66.213.38:2082?encryption=none&security=none&type=ws&host=cdn54.nigc-ar.com&path=%2Fbackup#%40TeiknoVPN%20%E2%9C%8C%EF%B8%8F%201
+vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mwa100100m.a2c6ec2a96.workers.dev&fp=randomized&type=ws&sni=mwa100100m.a2c6ec2a96.workers.dev#alsheykhfree10
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.162.228.142:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
+vless://6750c4b4-f4da-42fd-8a26-454fbea2e572@13.50.49.111:39408?type=tcp&path=%2F&host=Ftp.debian.org&headerType=http&security=none#Mci1-Confing_problems
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=Telegram-V2ray_Alpha%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#amin

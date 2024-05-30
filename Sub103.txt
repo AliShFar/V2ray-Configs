@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://Parsashonam-79@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%40Parsashonam+%F0%9F%87%A9%F0%9F%87%AA+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
-vless://37e01fb4-50b5-41cc-a135-4a7c66f04c24@bia-to2.unlimiteddev.site:8443?type=ws&security=tls&path=%2F&host=unlimiteddev.xn--9iqr0tm1r4wg.co&fp=chrome&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#@unlimiteddev-Irancell1
-vless://Source-ipV2Ray@135.181.193.202:443?mode=gun&security=reality&encryption=none&pbk=DCG9AZIW3Lsk8UImqLRiyRWY0D-Xft66O5jx46OernY&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=4e0eba1e#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+%40V2rayNGprivate
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?type=ws&host=12148dF7.miKApaGE.pagES.dEV&path=Telegram@SiNABiGO/?ed%3D2048&security=tls&fp=randomized&sni=12148Df7.miKApaGE.PAgeS.Dev#%F0%9F%90%A8@SINABIGO%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@zula.ir:80?path=%2FTeleGram%40Free_V2rng%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.121:443?path=%2F&security=tls&encryption=none&host=KWOdphURST8jSJGgLs4.goteli.com&fp=chrome&type=ws&sni=KWOdphURST8jSJGgLs4.goteli.com#MEGA21
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.88:443?path=%2FTelegram-FILTERK0SH%2F%3Fed%3D2048&security=tls&encryption=none&host=12148dF7.miKApaGE.pagES.dEV&fp=randomized&type=ws&sni=12148Df7.miKApaGE.PAgeS.Dev#%40m_vipv2ray
@@ -603,3 +599,7 @@ vless://b1c1da37-726b-4db1-8139-27a7497e3186@195.201.89.188:443?mode=gun&securit
 vless://d23d58db-db92-45e1-be42-c4afa25c51f5@89.116.46.1:80?path=%2F&security=none&encryption=none&host=rcrc.numallas.sbs.&type=ws#%40V2ray_Phoenix%F0%9F%91%89%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+%D9%85%D8%A7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%E2%9D%84%EF%B8%8F
 vless://db5a8d71-b3f3-4e5c-a2a9-e7f78c9d141c@188.114.98.224:2095?path=%2F&alpn=Tel:@SRCVPN,@SRCVPN&host=V2ray-_-_-_-_-_-%53%68%68%50%72%6F%78%79.TelegramChannelJoinBede.com.&type=ws#🇩🇪@SRCVPN|Mkh
 vless://ff34cb72-786a-4cd1-ae37-0a1500ceb00c@66.235.200.129:8443?path=%2F&security=tls&encryption=none&host=vmessorg.xn--54qv00ez5ar77g.co&fp=chrome&type=ws&sni=vmessorg.xn--54qv00ez5ar77g.co#%40v2raying
+vless://a11abbaf-8361-4829-9bbd-682a9d84f0ff@channel-netprivate.sub-netprivate.xyz:7788?security=none&encryption=none&headerType=http&type=tcp#Telegram🆔:@Net_Private
+vless://join-VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKHlrnbymaa
+vless://8b4d4a14-7142-4d61-b6db-5d493fde6378@77.91.70.77:8443?security=reality&encryption=none&alpn=h2&pbk=vLYedzvLHbq6uJQ8p53514zC3KoEhHbmFZlKw351FSM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plug-mirror.rcac.purdue.edu&sid=5574689a6bb0#t.me%2FV2rayNGprivate
+vless://80ce8c17-f249-471b-b78a-17a60f17b1be@188.114.96.0:80?path=%2Ftelegram%2Fid%2Fov2ray&security=none&encryption=none&host=www.moji1372.buzz&type=ws#iran-1rifdhcb

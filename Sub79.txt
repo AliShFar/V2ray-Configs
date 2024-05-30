@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?path=%2F%3Fed&security=tls&encryption=none&host=pardazeshvpn-tg3.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg3.pages.dev#TelegramID%28%40Outline_Vpn%29+661
-vless://bbf2f191-fd7c-4a2a-ad09-ca5daa745b21@telegram-VPNCUSTOMIZE.kellekcollection.com:8080?security=none&encryption=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=/Join--VPNCUSTOMIZE.V2ray.re#جوینشوتلگرامقطعنشه:ultrasurf_12@
-vless://75164cbb-f69a-416d-dfcd-38f6dc794541@168.119.64.208:8080/?type=grpc&encryption=none&flow=&serviceName=%40unlimiteddev&sni=ftp.debian.org&fp=chrome&security=reality&pbk=Bmnyed_YW_nV6Qhm5DePFo7p4iFITrFYFfe79zQ59Tg&sid=bd#%28%40FREECONFIGV2%29%E2%9A%BD%EF%B8%8F
-vless://d396ade5-431b-4127-a7bf-46979eb78761@free.to.free.join-private.ir:443?security=none&encryption=none&headerType=http&type=tcp#TelegramID%28%40♥️%29+453
 vless://37b9c44c-bba1-4add-ac39-2f01774caa7d@5.161.159.111:39379?security=reality&sni=discord.com&type=grpc&fp=firefox&pbk=3TO2yeC8KYTVCLzLRR9dW4AAzHFGxorRZzvxdV2kDW4&sid=0333e61c#🔒VL-GRPC-RLT🇺🇸US-5.161.159.111:39379
 vless://ecf22f28-e4e2-434a-8cd9-ea2547d63dae@5.78.41.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=medium.com&allowInsecure=1&fp=chrome&security=reality&pbk=q-wB_Y955Qj3uZe-3UJ4yUTLSJVrbXzQnUIj2cokjCg&sid=c0bb2b6bc7708eac#%F0%9F%87%BA%F0%9F%87%B2%20*%20%40s0013_Official%20%7BUS%7D
 vless://35716dbe-5f0c-43b4-9c14-1179d87c6057@172.67.183.18:443?path=%2Fvless&security=tls&encryption=none&host=uk1.v2vless.xyz&type=ws&sni=uk1.v2vless.xyz#%40hopev2ray%F0%9F%92%96
@@ -603,3 +599,7 @@ vless://c4c491b0-ea86-44db-eda9-34125908868c@94.101.187.67:38823?path=%2F&securi
 vless://3c0d6d86-f04b-4031-b228-6684d9d78c30@sg-s8.n3-fatvpn.top:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sg-s8.n3-fatvpn.top#3c0d6d86-VLESS_TCP%2FTLS_Vision
 vless://---DIGIV2Ray---@185.146.173.179:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---__---DIGIV.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://--DIGIV2RAY--@www.Speedtest.Net:2095?path=/DIGIV2RAY-digiv2ray%3Fed%3D2048&security=none&encryption=none&host=www.zula.ir.www.iranseda.ir.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B.website.&type=ws#@Digiv2ray-2
+vless://538e4863-d346-4a38-87db-14b739f97f09@hadi.v2rayngz.com:33238?mode=gun&security=reality&encryption=none&pbk=8CNTnE3Hb8AP9vrlIYdzF_hBG0oklABXD7E8oY-GRDU&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=sourceforge.net&sid=466a6ae0#%40V2_TEAM
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.150.151:443?path=Path%2FTelegramproxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#Server+2
+vless://diGIV2rAY@185.146.173.22:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---__---DIGI.radiotehran.org.&type=ws#%40iranargo
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed%3D2048%2FTelegram%2FFreev2Alpha&security=tls&encryption=none&host=w2.sylarsun.eu.org&fp=chrome&type=ws&sni=w2.sylarsun.eu.org#%F0%9F%87%A9%F0%9F%87%AA+%28%40ZVPNN%29+7

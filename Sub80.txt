@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://538e4863-d346-4a38-87db-14b739f97f09@hadi.v2rayngz.com:33238?mode=gun&security=reality&encryption=none&pbk=8CNTnE3Hb8AP9vrlIYdzF_hBG0oklABXD7E8oY-GRDU&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=sourceforge.net&sid=466a6ae0#%40V2_TEAM
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.150.151:443?path=Path%2FTelegramproxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&type=ws&sni=edgu.pureboy.eu.org#Server+2
-vless://diGIV2rAY@185.146.173.22:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---__---DIGI.radiotehran.org.&type=ws#%40iranargo
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed%3D2048%2FTelegram%2FFreev2Alpha&security=tls&encryption=none&host=w2.sylarsun.eu.org&fp=chrome&type=ws&sni=w2.sylarsun.eu.org#%F0%9F%87%A9%F0%9F%87%AA+%28%40ZVPNN%29+7
 vless://Source-ipV2Ray@49.13.85.112:443/?type=grpc&encryption=none&serviceName=%40ipV2Ray&sni=gsmarena.com&fp=firefox&security=reality&pbk=wv_--wRP5LoSjyE4AV5Lp5U07HI0sYLv4RG1SCUE1mg&sid=a90ee22c#@Capital_NET|MTN
 vless://e36b8245-479f-4816-83df-010f3056e2de@188.114.98.224:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇩🇪@ehsawn8|Mkh
 vless://732cfe91-201c-4da6-bf18-d521f76c0775@188.114.96.215:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=kfkjhkuyg.mic-mokhaderat-irancell-shatel-irancel.shop#%F0%9F%86%93+%7C+t.me%2Frayanconf+%7C+%F0%9F%9A%80%F0%9F%92%AB%F0%9F%92%A5
@@ -603,3 +599,7 @@ vless://bdc47e24-820a-4771-addd-3c7f85c5276b@tgju.org:2096?path=%2F%3Fed%3D2048&
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%D2%93%C9%AA%CA%80%E1%B4%87%E1%B4%A1%E1%B4%80%CA%9F%CA%9F%E1%B4%A0%E1%B4%98%C9%B4%F0%9F%87%AD%F0%9F%87%B0
 vless://Jon--V2RAXX@v2raxx.amalfatm.ir:8080?type=ws&security=none&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&host=xn--047h.v2raxx6.shop.#%F0%9F%87%A9%F0%9F%87%AA+ALL%C2%B3+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray+@kurd_v2ray
 vless://5cb97c62-c57f-4a88-ac2c-4eb496c34ce1@discord.gg:80?path=%2F&security=none&encryption=none&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&type=ws#🇩🇪@Shh_Proxy|MCI
+vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@movaghat.foxriverme.online:38923/?type=grpc&encryption=none#%F0%9F%93%B327%40oneclickvpnkeys
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&type=ws&sni=turkmenistan.armanibash.Shop.#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍭
+vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?type=ws&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&path=/?ed%3D2048&security=none#Telegram:%20(V2FETCH)
+vless://Free_For_All@Join--VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍉
