@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://1e864882-3a3d-4f70-aa10-b1a2714f6b98@uk2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 627
-vless://cfc2f38a-5402-42d8-ba22-cd6111b0d04e@de-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 628
 vless://4d6fa72f-62cf-4b4a-92b1-a7dbf354e4c6@de2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 629
 vless://1b470f0c-4c0e-4eab-80e7-b4810b85ac8e@au-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 630
 vless://79126b5a-7e08-4e64-8f7a-7d59ef330669@it-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 631
@@ -603,3 +601,5 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.245.217:443?security=tls&sn
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?security=tls&sni=ooao14004.74gwenneth.workers.dev&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔗 Vauth - 1224
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔗 Vauth - 1225
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔗 Vauth - 1226
+vless://c3338dcd-369a-4254-9a55-a96015a90dc6@172.67.176.62:443?security=tls&sni=39cb7e91b7e02850.hcvjfhbnghfgafxgyghfh.space&type=grpc&serviceName=443vless#🔗 Vauth - 1227
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.183.136:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔗 Vauth - 1228
