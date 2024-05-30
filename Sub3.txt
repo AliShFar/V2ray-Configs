@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E6%96%B0%E5%8A%A0%E5%9D%A1_053013059
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.4:443?type=ws&encryption=none&host=shg2.azurewebsites.net&path=%2F&security=tls&sni=shg2.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_053013060
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@51.79.254.182:443?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz#%E6%96%B0%E5%8A%A0%E5%9D%A1_053013064
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.236.125.62:2087?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz#%E6%96%B0%E5%8A%A0%E5%9D%A1_053013065
@@ -603,3 +602,4 @@ vless://f020a6cf-0ce7-47f3-88b3-d840dd8a557b@104.21.94.125:80?security=none&type
 vless://ada7333c-b5ee-48f0-8cae-80de363e863a@104.21.25.46:443?security=tls&sni=be1-vless.sshmax.xyz&type=ws&host=be1-vless.sshmax.xyz&path=/vless#%E6%9C%AA%E7%9F%A5_0530131714
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.156.141:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0530131715
 vless://face174e-eb9a-475a-bf70-23fbf3903847@162.159.152.2:8880?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2FTelegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0530131716
+vless://fae30f40-620f-4622-8845-0007a2d5ad1e@104.18.219.101:2087?security=tls&sni=freakv2.tm-online.xyz&type=grpc&fp=chrome#%E6%9C%AA%E7%9F%A5_0530131717
