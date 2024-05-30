@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://c1fcd7eb-7d28-419c-a62f-fe3437fd884b@172.64.100.193:8443?security=tls&sni=pardazeshvpn-tg36.pages.dev&type=ws&host=pardazeshvpn-tg36.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#%E7%BE%8E%E5%9B%BD_0530231473
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.67.221.18:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#%E7%BE%8E%E5%9B%BD_0530231474
-vless://dc83e81b-f527-42f4-8013-ce9e1d5f6967@172.67.204.84:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530231475
-vless://3575d763-5557-4f01-baec-1a6fc5c5f58f@172.66.47.158:80?security=none&type=ws&host=GGO5Ho.dIVaR.prO&path=/backup#%E7%BE%8E%E5%9B%BD_0530231476
-vless://27296b86-e52d-4293-8814-20f041c291a1@172.67.169.190:8443?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530231477
-vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&path=/&fp=chrome#%E7%BE%8E%E5%9B%BD_0530231478
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.183:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530231479
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0530231480
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?security=tls&sni=ghazal7799.pages.dev&type=ws&host=ghazal7799.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#%E7%BE%8E%E5%9B%BD_0530231481
-vless://d78497b1-5298-4337-852f-fe38ac6a9222@161.145.150.11:443?security=tls&sni=cdn.hinata.ir&type=ws&host=cdn.hinata.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0530231482
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.130:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_0530231483
-vless://0dcaa67f-90c2-42ca-8745-698465cf6655@172.67.192.224:2083?security=tls&sni=ho1.bestgameir.ir&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530231484
 vless://1b8a2b1e-14b0-4373-d45f-f46d33c7bfca@151.101.194.168:80?security=none&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-#%E7%BE%8E%E5%9B%BD_0530231485
 vless://3b7ac5ec-ff18-487b-938c-09fedbbfc0a3@172.66.44.243:8443?security=tls&sni=pardazeshvpn-tg57.pages.dev&type=ws&host=pardazeshvpn-tg57.pages.dev&fp=chrome#%E7%BE%8E%E5%9B%BD_0530231486
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.19.244:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#%E7%BE%8E%E5%9B%BD_0530231487
@@ -603,3 +591,15 @@ vless://ce526092-81c1-42be-8354-88e58946c1f3@172.67.158.249:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0530232070
 vless://b4f9c540-3911-4826-a274-e8d6d0cf8de1@172.67.165.213:2096?security=tls&sni=sinaazizpor.cozwao.WOrkERS.dev&type=ws&host=sinaazizpor.cozwao.WOrkERS.dev&fp=chrome&alpn=h2#%E7%BE%8E%E5%9B%BD_0530232071
 vless://8a285610-d24b-4f53-8d0d-fd447eef6b6b@172.67.184.1:2083?security=none&type=tcp#%E7%BE%8E%E5%9B%BD_0530232072
+vless://2e23f47c-5cf1-4b8b-9992-db41f2265ed9@172.67.204.237:2053?security=tls&sni=dl6.mn-g.ir&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530232073
+vless://5bad0d35-6fab-4044-d161-6d7633d639ae@18.238.192.35:443?security=tls&sni=app3-noizji4r.b4a.run&type=ws&path=/vless1#%E7%BE%8E%E5%9B%BD_0530232074
+vless://ad904b46-f30b-4df4-88db-6a368c781a3b@172.66.44.167:443?security=tls&sni=fr1.vless.site&type=ws&host=fr1.vless.site&path=@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb,@AstroVPN_official,@freeiranweb#%E7%BE%8E%E5%9B%BD_0530232075
+vless://67ac2966-c633-4fbe-92dd-8c666881c6de@172.64.229.27:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0530232076
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.210.231.33:18091?security=tls&sni=xin222.ylks.link&type=ws&path=/proxyip#%E7%BE%8E%E5%9B%BD_0530232077
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.46:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E7%BE%8E%E5%9B%BD_0530232078
+vless://5bad0d35-6fab-4044-d161-6d7633d639ae@52.84.18.95:443?security=tls&sni=app3-noizji4r.b4a.run&type=ws&path=/vless1#%E7%BE%8E%E5%9B%BD_0530232079
+vless://6a26a6ea-33c4-4909-98b5-41b509882ca7@172.67.183.7:2087?security=tls&sni=Mmmm.kowlim.com&type=ws&host=v2ray.kowlim.com&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD_0530232080
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.24:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0530232081
+vless://4c03d139-631b-41dd-be68-933c3df0d7c2@172.64.32.100:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#%E7%BE%8E%E5%9B%BD_0530232082
+vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@172.67.222.107:8443?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#%E7%BE%8E%E5%9B%BD_0530232083
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.148.105.5:443?security=tls&sni=xin222.ylks.link&type=ws&path=%2Fproxyip#%E7%BE%8E%E5%9B%BD_0530232084
