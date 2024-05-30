@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://a56b225a-5f29-4c39-ad3e-e7e6de0c5df4@172.67.185.9:80?security=none&type=ws&host=ireland.cf.cdn.artificialintelligence-turbooserver.com&path=/improve-ping/b#%E7%BE%8E%E5%9B%BD_0530082096
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@172.67.148.122:443?security=tls&sni=3.irancloudflare.cab&type=ws&host=3.irancloudflare.cab&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0530082097
 vless://1e5de110-c081-498b-8c0e-44e475593476@108.165.216.234:2053?security=tls&sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc#%E7%BE%8E%E5%9B%BD_0530082098
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0530082099
@@ -602,4 +603,3 @@ vless://4b2f62e8-82cf-4492-be0b-54bf4f661c83@172.67.132.41:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#%E7%BE%8E%E5%9B%BD_0530082693
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@45.205.0.50:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#%E7%BE%8E%E5%9B%BD_0530082694
 vless://206cbf43-c050-4be1-87d0-b0db774a244e@173.245.59.101:2053?security=tls&sni=FreeIran.DarkMood.cfd&type=grpc&serviceName=FreeIran.DarkMood.cfd&fp=chrome#%E7%BE%8E%E5%9B%BD_0530082695
-vless://b698d363-fc2f-4cf3-bb24-9edca375b34b@172.67.155.34:443?security=tls&sni=irnv2ray.irnv2ray.workers.dev&type=ws&host=irnv2ray.irnv2ray.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#%E7%BE%8E%E5%9B%BD_0530082696

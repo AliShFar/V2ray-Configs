@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://95443db4-3efb-47ec-87ff-500501863977@telegram-VPNCUSTOMIZE.V2ray.re:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&type=ws#%E7%91%9E%E5%85%B8_053008007
 vless://bbf2f191-fd7c-4a2a-ad09-ca5daa745b21@telegram-VPNCUSTOMIZE.kellekcollection.com:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&type=ws#%E7%91%9E%E5%85%B8_053008008
 vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@telegram-VPNCUSTOMIZE.V2ray.re:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&type=ws#%E7%91%9E%E5%85%B8_053008009
 vless://Telegram-ipV2Ray-pyt@185.146.173.58:80?host=V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008010
@@ -602,4 +603,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@172.67.75.194:8443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.106:443?security=tls&sni=PrOxYsTOREpanEl.eu.OrG&type=ws&host=PrOXYstORepAneL.eu.OrG&fp=randomized&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530081493
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@108.162.193.100:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#%E7%BE%8E%E5%9B%BD_0530081494
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.67.161.65:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530081495
-vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:443?security=tls&sni=esetsecuritylicense.ikgbvch.wORkers.deV&type=ws&host=esetsecuritylicense.ikgbvch.wORkers.deV&fp=chrome&alpn=h3,h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530081496
