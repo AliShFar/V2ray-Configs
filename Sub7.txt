@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://bbf2f191-fd7c-4a2a-ad09-ca5daa745b21@telegram-VPNCUSTOMIZE.kellekcollection.com:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&type=ws#%E7%91%9E%E5%85%B8_053008008
+vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@telegram-VPNCUSTOMIZE.V2ray.re:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&type=ws#%E7%91%9E%E5%85%B8_053008009
+vless://Telegram-ipV2Ray-pyt@185.146.173.58:80?host=V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008010
+vless://Telegram-ipV2Ray-klp@185.146.173.58:80?host=2.V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008011
+vless://Telegram-ipV2Ray-iuy@185.146.173.58:80?host=V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008012
+vless://Telegram-ipV2Ray-koe@185.146.173.58:80?host=2.V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008013
 vless://Telegram-ipV2Ray-gte@185.146.173.58:80?host=V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008014
 vless://Telegram-ipV2Ray-uie@185.146.173.58:80?host=2.V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008015
 vless://Telegram-ipV2Ray-tre@185.146.173.58:80?host=V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#%E7%91%9E%E5%85%B8_053008016
@@ -597,9 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.106:443?security=tls&sni
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@108.162.193.100:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#%E7%BE%8E%E5%9B%BD_0530081494
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.67.161.65:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530081495
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:443?security=tls&sni=esetsecuritylicense.ikgbvch.wORkers.deV&type=ws&host=esetsecuritylicense.ikgbvch.wORkers.deV&fp=chrome&alpn=h3,h2,http/1.1#%E7%BE%8E%E5%9B%BD_0530081496
-vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@172.67.156.210:2083?security=tls&sni=ambatukamnotthatship2.v2logy.ir&type=grpc&fp=edge&alpn=http/1.1#%E7%BE%8E%E5%9B%BD_0530081497
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.64.153.211:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev#%E7%BE%8E%E5%9B%BD_0530081498
-vless://485c4e8f-f436-4724-a2ed-746281cce22b@69.164.203.163:443?security=tls&sni=us2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#%E7%BE%8E%E5%9B%BD_0530081499
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@172.67.73.163:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#%E7%BE%8E%E5%9B%BD_0530081500
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.182.110:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0530081501
-vless://71959fd9-b248-4f84-be6d-0700e32a691c@172.67.214.153:2053?security=tls&sni=abo.kiosmobileshop.ir&type=grpc&serviceName=2053vless#%E7%BE%8E%E5%9B%BD_0530081502
