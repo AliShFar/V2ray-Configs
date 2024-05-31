@@ -3,25 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "148477AE146D474DFF2EA001FFF8DF35",
-			"server" : "aiavnd1.vip.conectinnode.info",
-			"server_port" : 1611,
-			"server_udp_port" : 0,
-			"password" : "mtbv8n",
 			"method" : "chacha20-ietf",
 			"protocol" : "auth_aes128_md5",
 			"protocolparam" : "135238:ekBYebTKgsF",
@@ -603,3 +584,22 @@ vmess://eyJ0eXBlIjoiIiwicHMiOiIyNDkt8J+HqPCfh6ZDQV80MDkwX0BTdXJmYm9hcmR2MnJheSIs
 vless://f6b1bae8-91f0-4c05-a923-d7231d9078ea@pardazeshvpn-tg88.pages.dev:443?encryption=none&type=ws&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&host=pardazeshvpn-tg88.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=pardazeshvpn-tg88.pages.dev#250-%F0%9F%87%A8%F0%9F%87%A6CA_3587_%40Surfboardv2ray
 vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?encryption=none&type=ws&path=%2F&host=f.auto.r.exit.e.e.watashi-java.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=f.auto.r.exit.e.e.watashi-java.ir#251-%F0%9F%87%BA%F0%9F%87%B8US_3705_%40Surfboardv2ray
 vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTIt8J+HqPCfh6ZDQV80MTg5X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny4xOTYuMTEyIiwicG9ydCI6NDQzLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUifQ==
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTMt8J+HqPCfh6ZDQV8zOTc1X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjEwNC4yMS40LjYiLCJwb3J0Ijo0NDMsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Imdsd2VpZGYuY2ZkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiaW9zIn0=
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@198.41.198.76:443?encryption=none&type=ws&path=Telegram-%40V2ray_Alpha%2F%3Fed%3D2048&host=t-netplus-4vx.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=t-netplus-4vx.pages.dev#254-%F0%9F%87%A8%F0%9F%87%A6CA_2382_%40Surfboardv2ray
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=turkmenistan.armanibash.Shop.#255-%F0%9F%87%A8%F0%9F%87%A6CA_1496_%40Surfboardv2ray
+vless://190f5f47-2009-4284-86f2-191968addef4@104.22.13.192:443?encryption=none&type=ws&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D223555&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C10-50&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir#256-%F0%9F%87%A8%F0%9F%87%A6CA_429_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyNTct8J+HqPCfh6ZDQV80MTY5X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny4xNzUuNTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im9iZGlpLmNmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0Ijoib2JkaWkuY2ZkIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=bpb-worker-panel-h5f.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C10-20&sni=bpb-worker-panel-h5f.pages.dev#258-%F0%9F%87%A8%F0%9F%87%A6CA_401_%40Surfboardv2ray
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&type=ws&path=%2F%3Fed&host=bpb-worker-panel-h5f.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C30-80%2C10-20&sni=bpb-worker-panel-h5f.pages.dev#259-%F0%9F%87%A8%F0%9F%87%A6CA_395_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyNjAt8J+HqPCfh6ZDQV80MjE2X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny43MS4xNjAiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im9iZGlpLmNmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0Ijoib2JkaWkuY2ZkIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJpb3MifQ==
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&host=ton.apple&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C30-80%2C20-50&sni=www.arizona.edu#261-%F0%9F%87%BA%F0%9F%87%B8US_2987_%40Surfboardv2ray
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.48:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=us3.rtacg.com#262-%E6%9C%AA%E7%9F%A5_0531181624
+vless://850e1920-7a02-4cd3-8072-dd338eea7b0f@104.21.69.44:2086?encryption=none&type=ws&host=nl4.vlessx.us&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=nl4.vlessx.us#263-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.69.44%3A2086
+vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?encryption=none&type=ws&path=wss51122&security=none&alpn=h3%2Ch2&fp=firefox&sni=64.176.64.31#264-%F0%9F%87%B5%F0%9F%87%B1PL%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40DailyV2RY%20%7C%2090
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.20:443?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=cfed.tgzdyz2.top#265-%E8%8B%B1%E5%9B%BD_053118113
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjY2LfCfj4FSRUxBWS0xOTguNDEuMjAzLjYtNjg2MiIsImFkZCI6IjE5OC40MS4yMDMuNiIsInBvcnQiOjQ0MywiaWQiOiIyYjIxNDEyMi0xOTA2LTQyOGEtYmJiNy1hMDM5Y2JiN2NkNWMiLCJhaWQiOjAsInRscyI6InRscyIsInNuaSI6ImZyMS50cnVtcDIwMjMub3JnIiwibmV0Ijoid3MiLCJwYXRoIjoiLzlKWkZEVEtFIiwiaG9zdCI6ImZyMS50cnVtcDIwMjMub3JnIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJlZGdlIn0=
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyNjct8J+HuvCfh7hVUyB8IPCfn6IgfCB2bWVzcyB8IEBTaGFkb3dQcm94eTY2IHwgMiIsImFkZCI6ImNhcmV0YWtlci5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwibmV0Ijoid3MiLCJwYXRoIjoiL2l2aWRlb3Muc2JzL2xpbmt3cyIsImhvc3QiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsImFscG4iOiJoMiIsImZwIjoiZmlyZWZveCJ9
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMjY4LfCfj4FSRUxBWS0xNDEuMTAxLjExNC4zMi02OTMwIiwiYWRkIjoiMTQxLjEwMS4xMTQuMzIiLCJwb3J0Ijo0NDMsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwiYWlkIjowLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsZzEwLmNmY2RuMS54eXoiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQTJESk9QRlQiLCJob3N0IjoibGcxMC5jZmNkbjEueHl6IiwiYWxwbiI6ImgzLGgyIiwiZnAiOiJyYW5kb21pemVkIn0=
+vless://a6cd3528-9962-4a13-ad5f-197aafb1babc@193.227.99.66:443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C30-80%2C10-50&sni=Xzc.donaldvpn.sbs#269-%E9%A9%AC%E8%80%B3%E4%BB%96_053118003
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyNzAtUkVMQVnwn5qpIHwgZnI3LnRlaG1lMTAwLmZ1bi04ODgwIHwgOS4xOG1zIiwiYWRkIjoiNDUuMTMxLjIwOS4zMiIsInBvcnQiOjg4ODAsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwiYWlkIjoiMCIsInRscyI6IiIsInNuaSI6ImZyNy50ZWhtZTEwMC5mdW4iLCJuZXQiOiJ3cyIsInBhdGgiOiIvSm52OFZpWk9VVmdpampPaDBwNXVHakhuWElpWSIsImhvc3QiOiJmcjcudGVobWUxMDAuZnVuIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyNzEtQE1laHJhZExlYXJuIHwg2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixIiwiYWRkIjoiY2FyZXRha2VyLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJuZXQiOiJ3cyIsInBhdGgiOiIvaXZpZGVvcy5zYnMvbGlua3dzIiwiaG9zdCI6Im1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJyYW5kb21pemVkIn0=
