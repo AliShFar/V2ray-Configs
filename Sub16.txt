@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-
-	],
 	"token" : {
 
 	},
@@ -603,3 +601,5 @@ vless://888543ff-4a2b-43a2-b540-ec0384d05635@104.17.42.10:80?encryption=none&typ
 vless://669ad826-af8a-434b-8e61-d8d7caa230c2@104.21.74.139:443?encryption=none&type=ws&path=%2Fnimws&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C10-20&sni=forwarder.aurorainiceland.com#326-%E6%9C%AA%E7%9F%A5_0531131538
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.210.57:2083?encryption=none&type=ws&path=%2F%3Fed&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=aut226.ylks.link#327-%E6%96%B0%E5%8A%A0%E5%9D%A1_053113264
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzI4LfCfj4FSRUxBWS0xNzIuNjQuMjA3LjIzMi0xMDA2MyIsImFkZCI6IjE3Mi42NC4yMDcuMjMyIiwicG9ydCI6MjA5NSwiaWQiOiI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZ2NlZm9tbiIsImhvc3QiOiIiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImZpcmVmb3gifQ==
+vmess://eyJ0eXBlIjoibm9uZSIsInBzIjoiMzI5LVJFTEFZ8J+aqSB8IFJvY2twLkJsYW5rdS5NZS00NDMgfCAzLjU2bXMiLCJhZGQiOiIxMDQuMTYuNC4xMDMiLCJwb3J0Ijo0NDMsImlkIjoiM2VkOWFjNTMtY2UwMC00YWE1LTlmN2EtYTJlNmZhYjBlMTRhIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6IlJvY2twLkJsYW5rdS5NZSIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M0OTQwNiIsImhvc3QiOiJUcmVlLkJsYW5rdS5NZSIsImFscG4iOiJoMyxoMiIsImZwIjoiZmlyZWZveCJ9
+vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzMwLfCfh7rwn4e4VVMtMTk4LjIuMTk3LjcyLTk4OTIiLCJhZGQiOiIxOTguMi4xOTcuNzIiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwidGxzIjoidGxzIiwic25pIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTY4OTkzNTI0MzAyNyIsImhvc3QiOiIiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6InNhZmFyaSJ9

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.65:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E8%8A%AC%E5%85%B0_053118036
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@45.195.62.108:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8A%AC%E5%85%B0_053118037
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.89.159:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#%E8%8A%AC%E5%85%B0_053118038
 vless://957e3de7-7f01-49b9-afcc-949930381128@37.27.47.189:2061?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#%E8%8A%AC%E5%85%B0_053118039
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.92.208:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#%E8%8A%AC%E5%85%B0_053118040
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE0NS4yMzkuNi4yMDI6NDQ0NA==#%E6%B3%95%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTQ1LjIzOS4xLjEwMDo4MDA5#%E6%B3%95%E5%9B%BD_121320063
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQ5LjIwMi44Mi4xNzI6MzMwNg==#%E6%B3%95%E5%9B%BD_121320064
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNDUuMjM5LjEuMTAwOjU1MDA=#%E6%B3%95%E5%9B%BD_121320065
+ss://YWVzLTI1Ni1nY206bGNYU1g4alpoMkA1MS42OC4yMTQuMjI2OjQyMTI4#%E6%B3%95%E5%9B%BD_121320074
+ss://YWVzLTI1Ni1nY206bGNYU1g4alpoMkB1ay5mcmVlc2hhZG93c29jay5jb206NDIxMjg=#%E6%B3%95%E5%9B%BD_121320075

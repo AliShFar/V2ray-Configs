@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.198.139:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#%E6%96%B0%E5%8A%A0%E5%9D%A1_053118068
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.172.95:2083?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#%E6%96%B0%E5%8A%A0%E5%9D%A1_053118069
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.82.15:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#%E6%96%B0%E5%8A%A0%E5%9D%A1_053118070
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.254.120:2096?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=/proxyip#%E6%96%B0%E5%8A%A0%E5%9D%A1_053118071
 vless://a3642b74-e138-434b-dbd0-90979ff2755e@167.71.209.134:26278?security=none&type=ws&host=store.steampowered.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1_053118072
@@ -603,3 +601,5 @@ vless://5a90eb13-846a-49b0-8eaa-66aa2e96625e@104.18.203.232:8880?security=none&t
 vless://c5b7226a-66fb-4135-866c-dec20dca1824@104.21.25.193:443?security=tls&sni=cdn13.gsmvp.com&type=ws&host=cdn13.gsmvp.com&path=/ocoqws&fp=chrome#%E6%9C%AA%E7%9F%A5_0531181587
 vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.120.47:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=#%E6%9C%AA%E7%9F%A5_0531181588
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?security=tls&sni=lmn39.sbs&type=ws&host=lmn39.sbs&path=%2Ffflsws#%E6%9C%AA%E7%9F%A5_0531181589
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?encryption=none&fp=firefox&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws#%E6%9C%AA%E7%9F%A5_053118159
+vless://1ca7e43f-a737-4667-948e-67c2059f82e9@104.26.14.16:443?security=tls&sni=falcunargo.f0e7dc3bfe.workers.Dev&type=ws&host=falcunargo.f0e7dc3bfe.workers.Dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0531181590

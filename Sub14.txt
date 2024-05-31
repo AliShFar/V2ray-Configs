@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:5500#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%2BV2CROSS.COM
-
 trojan://TNDSJfNv@36.151.195.48:4787?security=tls&type=tcp&headerType=none#%E6%B1%9F%E8%8B%8F%E7%9C%81%2B%E7%A7%BB%E5%8A%A8
 trojan://AVTI4CYCyIza@57.181.37.6:14435?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E6%B3%95%E5%9B%BD%2B%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E7%94%B5%E8%AE%AF%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%28SITA%29
 trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAmazon%2BEC2%E6%9C%8D%E5%8A%A1%E5%99%A8
@@ -603,3 +601,5 @@ vmess://ewogICAgImFkZCI6ICIxNTIuNjkuMTk3Ljc0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.205.0.77:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b2%f0%9f%87%ba+MU+%e6%af%9b%e9%87%8c%e6%b1%82%e6%96%af+20
 vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZM6QGhrYWEw4paT576O5Zu9XzIiLCJhZGQiOiJ3d3cueXdub3V2YmFsZS5iaXoiLCJwb3J0Ijo4MDgwLCJpZCI6IjIyODI2YjQ0LTVjMWEtNGI0Yi1kYmFhLTgzYTJlOGJkOTVmMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Ind3dy55d25vdXZiYWxlLmJpeiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiIxMjAuMjMyLjI0Mi4xMjYiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0MTQ5MiIsInBzIjoi6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7993
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzAuNTAiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsICJzbmkiOiAiIiwgImhvc3QiOiAiYS5wcmFwdDQuaXIiLCAicGF0aCI6ICIvP2VkPTIwNDgmVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMifQ==
