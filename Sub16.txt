@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
 	"proxyAuthUser" : "",
 	"proxyAuthPass" : "",
 	"proxyUserAgent" : "",
@@ -589,17 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.164:2083?encryption=none&
 vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzAxLVNH8J+HuPCfh6wgfCB3d3cuNDA1ODczMzMueHl6LTQ0MyB8IDQ4NzEuODltcyIsImFkZCI6IjIzLjEwOC4xMDAuMTAzIiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwidGxzIjoidGxzIiwic25pIjoid3d3LjQwNTg3MzMzLnh5eiIsIm5ldCI6IndzIiwicGF0aCI6Ii9mb290ZXJzIiwiaG9zdCI6Ind3dy40MDU4NzMzMy54eXoiLCJhbHBuIjoiaDIiLCJmcCI6InNhZmFyaSJ9
 vless://ff8ad9f7-8d85-4b0e-8e9b-392ba6121414@104.21.13.61:2083?encryption=none&type=ws&host=napsternetv2-napsternetv2.qqphsj.workers.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-20&sni=napsternetv2-napsternetv2.qqphsj.workers.dev#302-%E6%9C%AA%E7%9F%A5_0531132789
 vless://f56362e0-909f-4094-a15e-fb4b32b952cb@198.41.216.0:2096?encryption=none&type=ws&path=vless-ws%2F%3Fed%3D2048&host=ililoxnu.ziroxbioxa.oNFLaShDRiVE.aPP&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-50%2C10-50&sni=ililoxnu.ziroxbioxa.oNFLaShDRiVE.aPP#303-%E6%9C%AA%E7%9F%A5_0531132794
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?encryption=none&type=ws&path=%2F%3Fed&host=always-online1.lp-airdrop.top&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C10-50%2C10-50&sni=always-online1.lp-airdrop.top#304-%E6%9C%AA%E7%9F%A5_0531132310
-vless://34cca50d-721a-4d01-9288-0ae36afa81dd@190.93.247.155:8443?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=weed.shadan.online#305-%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0_053113027
-vmess://eyJ0eXBlIjoiaHR0cCIsInBzIjoiMzA2LUNB8J+HqPCfh6YgfCAxNjcuOTkuMTc5LjI3LTMzODkgfCAxNC4ybXMiLCJhZGQiOiIxNjcuOTkuMTc5LjI3IiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOiIwIiwidGxzIjoiIiwic25pIjoiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzA3LfCfj4FSRUxBWS0xNzIuNjcuMTQ3LjE2OC05MzM5IiwiYWRkIjoid3d3LnN0dGxpbmsuY2MiLCJwb3J0Ijo4MCwiaWQiOiJkM2EyNGJlOC1jODQ3LTRjN2YtYmEzMi04ZGQ2ZTc5ZTUyYjIiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6Ind3dy5zdHRsaW5rLmNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL0FTRkhMQVNIRk8iLCJob3N0Ijoid3d3LnN0dGxpbmsuY2MiLCJhbHBuIjoiaDIiLCJmcCI6ImZpcmVmb3gifQ==
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzA4LfCfj4FSRUxBWS0xMDQuMTcuMTYxLjEzOS05NTA1IiwiYWRkIjoiY2RuLm5hcnV0b3MudG9wIiwicG9ydCI6ODg4MCwiaWQiOiI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6ImNkbi5uYXJ1dG9zLnRvcCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ScFQ2a1pqa3c0NUVlbm1UY0RZV3MiLCJob3N0IjoiY2RuLm5hcnV0b3MudG9wIiwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUifQ==
-vless://c07fef7d-e8d2-42fe-b977-50e368f18293@104.17.36.178:443?encryption=none&type=ws&path=%2FThe-Great-Awakening_ws&host=vincent-jackson2021.ga&security=tls&flow=xtls-rprx-origin&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=vincent-jackson2021.ga#309-%E6%9C%AA%E7%9F%A5_053113982
-vmess://eyJ0eXBlIjoiIiwicHMiOiIzMTAtVVPwn4e68J+HuCB8IGVkZWVuLm1ha2V1cC00NDMgfCA2NjQuMzNtcyIsImFkZCI6IjEwNC4yMS4yNy4xMzkiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImVkZWVuLm1ha2V1cCIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJob3N0IjoiZWRlZW4ubWFrZXVwIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJzYWZhcmkifQ==
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzExLfCfj4FSRUxBWS0xNjIuMTU5LjI0OS44MC0xMDEwMSIsImFkZCI6IjE2Mi4xNTkuMjQ5LjgwIiwicG9ydCI6MjA5NSwiaWQiOiI0MTdkMjdmYi1jYjkzLTNiZDgtOWJmNy03MWNkOTEzMTk4MjEiLCJhaWQiOjAsInRscyI6IiIsInNuaSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZ2NlZm9tbiIsImhvc3QiOiIiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQifQ==
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?encryption=none&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&alpn=h2&fp=safari&fragment=tlshello%2C30-80%2C10-20&sni=a.ssll.gay#312-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053113039
-vless://ae312a2c-ab92-4c55-9cc3-66f15d409139@185.146.173.27:80?encryption=none&type=ws&path=config-injectorV2%3Fed%3D80&host=channel.-_-_-_-_-_-.config-injectorV2.snaapppfree.com.&security=none&alpn=h2%2Chttp%2F1.1&fp=android&sni=channel.-_-_-_-_-_-.config-injectorV2.snaapppfree.com.#313-%E7%91%9E%E5%85%B8_053113337
-vless://47cd56cb-23cc-455e-8936-7dad092efb6d@190.93.246.241:2053?encryption=none&type=ws&path=%2Fbackup&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=homepage.dr-salam.com#314-%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0_053113012
-vmess://eyJ0eXBlIjoiYXV0byIsInBzIjoiMzE1LfCfh63wn4ewSEstNDcuMjQyLjYxLjEyNS05MzE0IiwiYWRkIjoiNDcuMjQyLjYxLjEyNSIsInBvcnQiOjUxNzg0LCJpZCI6IjQzMWM0YzAxLWI1OTYtNGQxMi1hOWU2LTRmN2YyMWZlODJiYSIsImFpZCI6MCwidGxzIjoiIiwic25pIjoiNDcuMjQyLjYxLjEyNSIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwiaG9zdCI6IiIsImFscG4iOiJoMyxoMiIsImZwIjoicmFuZG9taXplZCJ9
-vless://16f72e96-e183-4e3d-c5f2-3a2ca8f1073b@public.alpanel.top:1380?encryption=none&type=grpc&security=reality&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&sid=4c5aaad0&spx=%2F&mode=gun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=www.iranserver.com#316-%E2%9D%94XX%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40vpn_go67%20%7C%2012
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.211:2053?encryption=none&type=ws&path=twitterfreecodes&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C20-50&sni=a.ssll.gay#317-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A_053113007
