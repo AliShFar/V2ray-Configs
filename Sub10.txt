@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@172.67.157.203:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#%E7%BE%8E%E5%9B%BD_0531132381
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.62:443?security=tls&sni=telegram-chanel-ab-841-vpns.pages.dev&type=ws&fp=chrome#%E7%BE%8E%E5%9B%BD_0531132382
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.200:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0531132383
-vless://325a4cdb-3f40-4669-a852-fdf31735bd59@199.59.243.225:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&fp=chrome&alpn=h3,h2#%E7%BE%8E%E5%9B%BD_0531132384
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.26:443?security=tls&sni=8c513cF9.GaZAALAm-PaneL.Pages.DEV&type=ws&host=8c513cF9.GazaaLam-panEL.PaGeS.Dev&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0531132385
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.21:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0531132386
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?security=tls&sni=ghazal7799.pages.dev&type=ws&host=ghazal7799.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#%E7%BE%8E%E5%9B%BD_0531132387
 vless://f9bf6e04-da12-4a6e-aff2-641efeb2b928@170.114.46.36:443?security=tls&sni=gogoli.nufilter.online&type=ws&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#%E7%BE%8E%E5%9B%BD_0531132388
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@172.64.160.149:80?security=none&type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0531132389
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.178.114:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev#%E7%BE%8E%E5%9B%BD_0531132390
@@ -603,3 +596,10 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.22.116.134:2096?encryption=none&
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E8%8B%B1%E5%9B%BD_053113103
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E8%8B%B1%E5%9B%BD_053113104
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E8%8B%B1%E5%9B%BD_053113105
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.76.77:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%E8%8B%B1%E5%9B%BD_053113110
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.132.21:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%E8%8B%B1%E5%9B%BD_053113111
+vless://864655f0-d10e-4d8b-a91f-90f7706f8da3@136.244.68.155:800?security=reality&sni=yahoo.com&type=grpc&serviceName=telegram--metavpnn&fp=chrome&pbk=Abwh4dXxxCbtsTWi8QoVehw2KKBSiwGFkFgmaDQktXw&sid=c3a96170#%E8%8B%B1%E5%9B%BD_053113112
+vless://864655f0-d10e-4d8b-a91f-90f7706f8da3@95.179.239.48:800?security=reality&sni=yahoo.com&type=grpc&serviceName=telegram--metavpnn&fp=chrome&pbk=Abwh4dXxxCbtsTWi8QoVehw2KKBSiwGFkFgmaDQktXw&sid=c3a96170#%E8%8B%B1%E5%9B%BD_053113113
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@217.163.76.88:443?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#%E8%8B%B1%E5%9B%BD_053113114
+vless://f478a594-5882-4713-bfdc-80c3e9345bd1@146.75.73.60:80?security=none&type=ws&host=dailyconfigs.com#%E8%8B%B1%E5%9B%BD_053113115
+vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@136.244.64.101:8080?security=none&type=tcp#%E8%8B%B1%E5%9B%BD_053113116
