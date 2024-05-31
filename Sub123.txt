@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#TelegramID%28%40kingofilter%29+156
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@090--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#M247
 vless://a4a094c7-3d6a-44a2-a7d8-fc44d666b233@66.235.200.123:8443?encryption=none&security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&fp=chrome&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F#%40v2reyy
 vless://d3f83bb5-7510-4f7b-ab87-7dea180010f7@64.226.96.56:2024?security=none&encryption=none&headerType=none&type=tcp#@vpnstorefast+200gig
 vless://bc2a87ed-6753-47cd-9938-6a844ffe1a71@join-zedmodeon.kanal-asli-zedmodeon.shop.:80?path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#all+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
@@ -603,3 +601,5 @@ vless://5d0245cd-8412-4a32-b52c-ef810651e614@190.93.247.155:443?mode=gun&securit
 vless://8334979f-2f04-4f49-8ead-bbceed373ecb@www.gov.se:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=esetsecuritylicense.roobdi.workers.dev&fp=randomized&type=ws&sni=esetsecuritylicense.roobdi.workers.dev#%F0%9F%86%94%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+EsetSecurityLicense%40
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.34.223:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram@VlessConfig🇫🇷
 vless://a725f7fa-76c1-463b-af30-4ac1e160e3e8@arvantunel.aticloud.ir:2589?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Club_Vpn9
+vless://9f8a3144-acf1-489f-b180-d6f36efd7e04@185.146.173.94:2095?security=none&encryption=none&type=ws&headerType=none&path=%252F&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.#🇩🇪@vpncostumer
+vless://9ce4324d-52df-4833-9fb5-7eaee76f1e1a@7ho.st:443?encryption=none&security=tls&sni=pardazesh.pages.dev&fp=randomized&type=ws&host=pardazesh.pages.dev&path=%2F%3Fed%3D2048#%40vmessprotocol%20%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1

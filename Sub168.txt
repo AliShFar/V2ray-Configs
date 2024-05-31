@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ssr://MTAzLjE3Mi4xMTYuNzk6OTA1MDpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46UmtjMVpHUk1jMDFRWWxZMVEzVjBSUT09Lz9yZW1hcmtzPUlId3pNQzR4TVUxaQ==
 ssr://MTAzLjE3Mi4xMTYuNzk6OTAxNTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46V25CT1JFUkxVblU1VFdGblRuWmhaZz09Lz9yZW1hcmtzPUlId3pNQzR3TmsxaQ==
 trojan://7b06d22a8a7c764f@5.44.249.50:3306?allowInsecure=1&sni=n2.gladns.com&type=ws&path=/gateway/connect&host=TG.WangCai_1#%F0%9F%87%B8%F0%9F%87%ACSG_7b06%40WangCai_1_4
 trojan://6e28f704-29a0-4c86-b25b-dd090603c741@nl2-full.privateip.net:443?allowInsecure=1#%E8%8D%B7%E5%85%B0%28yudou66.com+%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29%0D_3
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@ak1846.www.outline.network
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@8.219.196.24:80?security=&type=ws&path=/?ed%3D2048&host=datafransfer.tunn.free.hr&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.142.250:8443?security=reality&sni=www.makers.com&fp=chrome&pbk=TiCVdLb8uB32hkr3vKKVRm75JysiIMTvwvaohyj3lCk&sid=3c&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=%2Fhttp&security=none&encryption=none&host=ca.vpnbase.net&type=ws#%40V2ray_Alpha-7
-vless://be5e517d-75d7-451f-b65d-41827b5d190f@channel.hopev2ray.link:443?path=%2Fvless&security=tls&encryption=none&host=de3.v2vless.xyz&type=ws&sni=de3.v2vless.xyz#%40hopev2ray%F0%9F%92%99
 vless://378387d5-4370-4e38-9661-25796e8630ba@143.47.241.46:16097?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=qMH_7IYKzR0mOLN35mnQijwzN8IiWdudhryTHaQzWS0&type=tcp&headerType=none#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 vless://962c4650-ca89-4af8-9e3b-c3f9510ba07a@104.18.203.232:8443?security=tls&sni=02.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒VL-GRPC-TLS🏴‍☠️NA-104.18.203.232:8443
 vless://609190af-d9a6-4864-84b8-211772e6b7dd@emirat.blueberryvpn.online:333?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=R5JhCiodctBYq93BbYx_GzSqAXlqHeF32tCxBERF4l0&sid=bb313e7a&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%40BlueberryVPN
@@ -603,3 +601,5 @@ vless://fe0cae13-0aab-4bbf-a1a1-f0fb7c7352ca@maz.maznet.cfd:2083?path=@Maznet--@
 vless://d1367a79-0c9c-4209-95dd-7cf0e908563b@VPN-MIKEYmci011.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd#@Tiny_VPN_Official
 vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.49.102.150:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=aG4GaoEpt529YYeMSMlka3pu6Xh8Je72HHKPdMwnzAY&sid=f450be&spx=%2F&type=tcp&headerType=none#%E2%9C%85%3AKiava-S1-114
 vless://103ebe01-2594-4c89-f902-45ee5ad1445c@vol1.lepingcloud.com:8443?path=%2F&security=tls&encryption=none&host=cdn1.lepingshop.online&fp=chrome&type=ws&sni=cdn1.lepingshop.online#vol-68766-lepingshop
+vless://dda2dda8-7105-4e03-8668-ef7f1295d757@188.114.98.224:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇩🇪@V2ray_official|Mkh
+vless://fca838fe-5994-4fcb-99e5-0aa106e9396d@116.203.254.178:30667?mode=gun&security=none&encryption=none&type=grpc&serviceName=@v2raxx@v2raxx@v2raxx#%40V2rayngconfiig

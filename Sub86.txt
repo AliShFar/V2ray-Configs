@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F%3Fed&security=tls&encryption=none&host=ton.apple&type=ws&sni=www.arizona.edu#TelegramID%28%40Outline_Vpn%29+515
-vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
 vless://1ca7d3a9-6b3e-47ed-88a7-ccbd1ff927c6@188.114.96.11:80?path=%2Fbackup&security=none&encryption=none&host=iNvesTiNg.SpamDeTectOr.worlD&type=ws#%40vless_vmess
 vless://5f5c1ee9-552d-4591-936d-a23f2abb8091@res.sumsong.shop:443?encryption=none&security=tls&sni=cdn1.winteamtech.ir&alpn=h2&fp=randomized&type=ws&host=cdn1.winteamtech.ir&path=%2Fy6hcoxbCOnc101NwjGgKUVXFm#WVPN-Gift3
 vless://292b70d5-de7a-4ff9-9269-244906102624@185.146.173.9:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇩🇪@Shh_Proxy|All¹
@@ -603,3 +601,5 @@ vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=%2FTelegram-
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%40v2rayng_147
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=Path%2F%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Alibaba
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.23.19:443?path=TELEGRAM-FILTERK0SH%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&type=ws&sni=bIA-paIn-bacHE.PAGeS.DEv#%40V2r
+vless://d41ec4db-245e-42b2-8953-8b21def3d9f3@51.75.162.236:54617/?type=ws&encryption=none&flow=&host=zulaoyoun.com&path=%2F#%F0%9F%94%AE%20Telegram%20%F0%9F%86%94%20%40Romax_VPN%20%7C%20Server%
+vless://ff49a775-a816-4d46-b07c-30645642e5e2@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@meli_proxyy
