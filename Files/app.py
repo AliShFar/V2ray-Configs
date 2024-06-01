@@ -235,6 +235,7 @@ def main():
         "https://raw.githubusercontent.com/adoxnet/subV2ray/main/oxnet_ir.txt",
         "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Test.txt",
         "https://rentry.co/8tq7w82x/raw",
+        "https://rentry.co/DailyV2ry/raw",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/mix",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/vmess",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/vless",
