@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.156:811#%F0%9F%87%A8%F0%9F%87%A6CA-196.247.59.156-15770
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.147.230:810#%F0%9F%87%BA%F0%9F%87%B8US-37.120.147.230-10335
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.91.107.225:812#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.225-15693
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.156:808#%F0%9F%87%A8%F0%9F%87%A6CA-196.247.59.156-15691
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esU0ctNTEuNzkuMTY0LjE0Ni0yNzc4IiwNCiAgImFkZCI6ICJzZy1vdmgxLnYyLXJheS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYTk0ODE2MDAtZWYzNi00MDJhLWEwZTUtNTU0N2JmZDdiODdjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogImF1dG8iLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICJzZy1vdmgxLnYyLXJheS5jb20iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
@@ -601,5 +603,3 @@ vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.61.25:443?security=tls&sni=r
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.118.14:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@5.8.43.5:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@181.174.80.182:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@78.111.103.5:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.92.24:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core

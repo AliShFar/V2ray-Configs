@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://10786a3d-ba0d-4b65-87c7-8dfa62abf186@172.67.163.103:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#4Nika-6628
-vless://10786a3d-ba0d-4b65-87c7-8dfa62abf186@190.93.247.155:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#4Nika-6629
-vless://108718b8-eacd-478f-d701-6d9c8a91bfa1@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=footlo.argha-v2pedia.monster#4Nika-6630
-vless://109da3aa-afca-4819-826c-bc8de2dc65d2@104.16.0.35:8880?security=none&type=ws&host=worker-odd-bonus-bf32.voydepofyu.workers.dev&path=%2F%3Fed%3D2048#4Nika-6631
-vless://10aa383d-9000-4ee3-9667-27f5604600eb@104.21.91.134:8880?security=none&type=ws&host=Daily-Configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#4Nika-6632
-vless://10aecf00-ad54-49d5-9643-e356b5a16bab@104.21.20.205:443?security=tls&sni=selinc-selinc-selinc-selinc.kuhkf.workers.dev&type=ws&host=selinc-selinc-selinc-selinc.kuhkf.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#4Nika-6633
-vless://10aecf00-ad54-49d5-9643-e356b5a16bab@172.67.194.102:443?security=tls&sni=selinc-selinc-selinc-selinc.kuhkf.workers.dev&type=ws&host=selinc-selinc-selinc-selinc.kuhkf.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#4Nika-6634
-vless://10c31b4f-a4b1-4887-eeb5-2f077c971049@172.67.223.8:8443?security=tls&sni=v2vu2.rayvenstorm.com&type=ws&path=%2Fxx&fp=chrome&alpn=h2,http/1.1#4Nika-6635
-vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?security=tls&sni=pardazeshvpn-tg27.pages.dev&type=ws&host=pardazeshvpn-tg27.pages.dev&path=%2F%3Fed%3D2048#4Nika-6636
-vless://11710a27-cc86-45c1-90b0-6f05b69565a9@[::ffff:159.69.31.165]:20484?security=reality&sni=canva.com&fp=chrome&pbk=2R-nVvvE949B16TFWmNm5UBKH6BOfhlCrqIz4JrU-kc&sid=9b7f7cdc&type=tcp&encryption=none#4Nika-6637
-vless://118e23b4-1990-4edc-a35b-004aa46f96ee@104.26.13.8:80?security=none&type=ws&host=configt-channels.sg-forum.info&path=/#4Nika-6638
-vless://119f959d-2fef-4fa6-8f86-698e760b6e01@104.17.231.29:8443?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=h2#4Nika-6639
-vless://11c62a58-2205-4840-a2c3-a067293b8c09@104.17.50.38:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#4Nika-6640
-vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.146.173.59:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=%40frev2ray%2C%40frev2ray&alpn=h2,http/1.1#4Nika-6641
-vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev#4Nika-6642
-vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev#4Nika-6643
-vless://12210f4e-9487-41f0-9cc5-74867be58033@162.159.153.2:80?security=none&type=ws&host=daily-configs-daily-configs.義務警員.online.&path=@daily_configs--@daily_configs--@daily_configs--@daily_configs@daily_configs#4Nika-6644
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.18.34.21:8443?encryption=none&security=tls&sni=who-doesnt-care.BacheBiaPain.IR&alpn=http%2F1.1&type=ws&host=who-doesnt-care.BacheBiaPain.IR&path=%2F#4Nika-6645
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.18.34.21:8443?security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws&host=who-doesnt-care.BacheBiaPain.IR&fp=chrome&alpn=http/1.1#4Nika-6646
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.21.7.50:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=who-doesnt-care.BacheBiaPain.IR&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws#4Nika-6647
@@ -603,3 +586,20 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.232.214.11:8443?encryption=none
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.232.214.11:8443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#4Nika-7225
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.44.255.27:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7226
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.84.110.114:11443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#4Nika-7227
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.86.44.125:65432?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#4Nika-7228
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.38.15:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#4Nika-7229
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.254.140.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7230
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.167:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7231
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.188:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7232
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7233
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7234
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.42:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7235
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.4:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7236
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@112.168.91.60:18888?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4Nika-7237
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@118.163.128.81:39560?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#4Nika-7238
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@119.28.189.227:32079?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7239
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@124.156.147.158:32797?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Nika-7240
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.198.48:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4Nika-7241
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.212.181:44699?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4Nika-7242
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.212.181:44699?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#4Nika-7243
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.222.116:20010?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4Nika-7244

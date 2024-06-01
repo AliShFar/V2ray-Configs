@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud54.jafiyun.world:22054?security=tls&sni=scloud54.jafiyun.world#4Nika-3628
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud55.jafiyun.world:22055?security=tls&sni=scloud55.jafiyun.world#4Nika-3629
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud56.jafiyun.world:22056?security=tls&sni=scloud56.jafiyun.world#4Nika-3630
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud57.jafiyun.world:22057?security=tls&sni=scloud57.jafiyun.world#4Nika-3631
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud58.jafiyun.world:22058?security=tls&sni=scloud58.jafiyun.world#4Nika-3632
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud59.jafiyun.world:22059?security=tls&sni=scloud59.jafiyun.world#4Nika-3633
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud60.jafiyun.world:22060?security=tls&sni=scloud60.jafiyun.world#4Nika-3634
-trojan://06a8765e-ccd0-3cdb-ab8d-c1d92e6b5f54@194.147.16.123:52560?security=tls&allowInsecure=1&type=tcp#4Nika-3635
-trojan://081a4198-d664-4bc5-a7c6-e35982da964b@jgwhdlb4.gaox.ml:443?allowInsecure=1&sni=jgwhdlb4.gaox.ml#4Nika-3636
-trojan://081a4198-d664-4bc5-a7c6-e35982da964b@jgwhdlb4.gaox.ml:443?sni=jgwhdlb4.gaox.ml#4Nika-3637
-trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#4Nika-3638
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp#4Nika-3639
-trojan://09afab13-a23c-4264-9da4-985e3b62b789@104.24.173.19:443?security=tls&sni=p.mrproxy.shop&type=ws&host=h.mrproxy.shop&path=/tomfCNawNqSxpHShBC1yO&fp=chrome&alpn=h2#4Nika-3640
-trojan://09afab13-a23c-4264-9da4-985e3b62b789@104.24.173.19:443?security=tls&type=ws&sni=p.mrproxy.shop&path=/tomfCNawNqSxpHShBC1yO&host=h.mrproxy.shop#4Nika-3641
-trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&sni=royalshop.tech&type=tcp#4Nika-3642
-trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&type=tcp&sni=royalshop.tech#4Nika-3643
-trojan://0ZMZlZkMgdkE@18.141.236.195:14649?sni=appsvs.shop#4Nika-3644
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com#4Nika-3645
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#4Nika-3646
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&type=ws&sni=sherasheba.com&path=/6b777a91&host=sherasheba.com#4Nika-3647
@@ -603,3 +586,20 @@ trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:18436?security=t
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:18463?security=tls&sni=$$hn.xiaohouzi.club#4Nika-4225
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19359?security=tls&sni=$$$$$hn.xiaohouzi.club#4Nika-4226
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19362?security=tls&sni=aws-hk03.xiaohouzi.club#4Nika-4227
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19365?security=tls&sni=$$supaz041.xiaohouzi.club#4Nika-4228
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:42541?security=tls&sni=hn.xiaohouzi.club#4Nika-4229
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48431?security=tls&sni=hn.xiaohouzi.club#4Nika-4230
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48461?security=tls&sni=$$$$hn.xiaohouzi.club#4Nika-4231
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48462?security=tls&sni=$$hn.xiaohouzi.club#4Nika-4232
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48464?security=tls&sni=$$vuus04.xiaohouzi.club#4Nika-4233
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48465?security=tls&sni=$$vuus05.xiaohouzi.club#4Nika-4234
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:49438?security=tls&sni=hn.xiaohouzi.club#4Nika-4235
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:51054?security=tls&sni=hn.xiaohouzi.club#4Nika-4236
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:61005?security=tls&sni=$$aru05.xiaohouzi.club#4Nika-4237
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn01.xiaohouzi.club:16081?security=tls&sni=hn01.xiaohouzi.club#4Nika-4238
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:17103?security=tls&sni=$$canada01.xiaohouzi.club#4Nika-4239
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:17108?security=tls&sni=hnm.xiaohouzi.club#4Nika-4240
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:47552?security=tls&sni=hnm.xiaohouzi.club#4Nika-4241
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:47555?security=tls&sni=$$$au02.xiaohouzi.club#4Nika-4242
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:51052?security=tls&sni=hnm.xiaohouzi.club#4Nika-4243
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:60047?security=tls&sni=$$supaz05.xiaohouzi.club#4Nika-4244

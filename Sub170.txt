@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.112.215:80/?type=ws&encryption=none&host=us2.rtacg.com&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.112.215%3A80
+vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2086/?type=ws&encryption=none&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.161.1%3A2086
 vless://2dafa27b-898b-4eb2-bbc4-6a1bbc27639b@104.19.219.113:443/?type=ws&encryption=none&host=bb.limoo.online&path=%2F%3Fed%3D2048&security=tls&sni=bb.limoo.online&fp=chrome#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.219.113%3A443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.55.205:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=Telegram-V2rayi_net_-_-_-_-Telegram-V2rayi_net%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.55.205%3A443
 
@@ -601,5 +603,3 @@ vless://932f5b07-e1c8-4f6b-9f32-44c07ae1df8b@104.31.16.152:2053?security=tls&sni
 vmess://eyJhZGQiOiIxMDQuMjEuNC4yOSIsImFpZCI6IjAiLCJob3N0Ijoib2xpdi5iZWF1dHkiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6Im9saXYuYmVhdXR5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.165:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://xxoo@13.210.76.227:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.55.84:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
