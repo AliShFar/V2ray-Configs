@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.75.230:80/?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#Freenet%200077
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.107.29:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev#Freenet%200078
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.116.107:80/?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#Freenet%200079
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.246.79:80/?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#Freenet%200080
 vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443/?type=ws&encryption=none&host=pardazeshvpn-tg18.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg18.pages.dev&fp=randomized#Freenet%200081
@@ -601,5 +603,3 @@ vless://0a1d78ed-b293-4e70-a1ca-fefab75167fa@172.67.132.41:80?security=&type=ws&
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@188.42.145.182:443?security=tls&sni=3jp5.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.78:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.18.107:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIzOC42MC4yMjAuMjE0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjAxNjdkODJkLTJhNWItNGU4Mi05YzJmLWFlNmYzMGFjYWNkZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDIwNDAiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9

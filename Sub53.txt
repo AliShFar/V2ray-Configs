@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.13.10.226:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔗 Vauth - 963
-vless://4422fd33-6f0b-4010-9ace-4904bd826123@35.220.185.18:23333?security=reality&flow=xtls-rprx-vision&sni=gamedownloads-rockstargames-com.akamaized.net&type=tcp&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&sid=f3586c01#🔗 Vauth - 964
-vless://fb88c50f-c41b-4190-a9c2-b13cc0087c49@109.68.213.105:43151?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=%40aklisvpn&fp=safari&pbk=BBRvgVf8Ewh7RTJupchXCMx5C7jj_bnYJDJnBXar7E8&sid=bd9c9215#🔗 Vauth - 965
-vless://9b5d977e-b4d6-474d-afe6-181dd694d2a1@16.170.231.188:8443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔗 Vauth - 966
-vless://2d4aa928-f135-477a-9afc-e8cc9f8cf282@5.182.86.224:2095?security=reality&sni=www.sourceforge.net&type=grpc&fp=chrome&pbk=joWIDoA_03Cbcp9YgA3qbZAkskAeWju-xAtEfb98Vg0&sid=2e928ced#🔗 Vauth - 967
-vless://9dbd60d1-1cbd-4db1-b7fa-8de75e0cb6bf@103.231.75.235:2087?security=reality&sni=www.cloudflare.com&type=grpc&serviceName=xyz&fp=chrome&pbk=nV4R_i8m6IsyTww44mGkJ4CrlIJYWOi7tqPCX1qr9T8&sid=ddcde71a286c9aaa#🔗 Vauth - 968
-vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@157.90.145.163:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔗 Vauth - 969
-vless://382fb457-f427-428a-8527-b3920d25c062@104.21.10.120:443?security=reality&sni=check-host.net&type=grpc&fp=chrome&pbk=sZLyYIpu8wJZNdSo9P0V8K23BSMThrSO8umo6cbYRS0#🔗 Vauth - 970
-vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@51.107.6.131:2096?security=reality&sni=msdn1.microsoft.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔗 Vauth - 971
-vless://ba938007-2c93-4d5b-9472-77ac0c76f477@192.248.181.165:39578?security=reality&sni=lw.lizard2shop.com&type=grpc&fp=chrome&pbk=vPrWZG2z6yJ9ZFkGJqOtaiPeAUDLlkUQsLztVO3XBCo&sid=4ab5ec25#🔗 Vauth - 972
 vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@104.21.39.202:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔗 Vauth - 973
 vless://b0107817-029c-432c-ad4d-bd1e9e1c3471@65.108.58.248:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@VPNwedbaz--@vpnwedbaz&fp=firefox&pbk=RL6RJY-vbjYIUpDulvSJ8LHI9zCsJ0ICWWY5I-coWwE&sid=cac59972#🔗 Vauth - 974
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔗 Vauth - 975
@@ -603,3 +593,13 @@ vless://719a68f9-d888-44ec-8ec6-6907ac8ee8d1@172.67.218.120:2083?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.162.67:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔗 Vauth - 1560
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.145.85:443?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔗 Vauth - 1561
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws/?ed#🔗 Vauth - 1562
+vless://91bf455c-7fac-4db9-8f58-a93778b95ab8@172.64.33.107:443?security=tls&sni=pahlevan2.jajiga.store&type=ws&host=pahlevan2.jajiga.store&path=%2Fwss#🔗 Vauth - 1563
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.155:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔗 Vauth - 1564
+vless://fe1281aa-5b5f-405c-cb72-b34e2c923f90@104.20.154.201:443?security=tls&sni=max-allnet.mpyana.ir&type=grpc&fp=chrome&alpn=h2#🔗 Vauth - 1565
+vless://e5bf6f9f-c638-4543-8a57-0c7629f993b2@217.60.252.121:6710?security=none&type=tcp&path=/&headerType=http#🔗 Vauth - 1566
+vless://242caabe-dcba-467f-bb51-8d8d5163840f@104.21.75.149:443?security=tls&sni=ch2.melobigg.site&type=ws&path=%2Fmelov2ray&fp=chrome&alpn=http%2F1.1%2Ch2#🔗 Vauth - 1567
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.47.197:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev#🔗 Vauth - 1568
+vless://f8c331e0-0ae8-493e-9cda-ebf1dfec2bdb@104.21.69.44:80?security=none&type=ws&host=6290250087.ir.www.zula.ir.xn--4all.king4usd.shop.#🔗 Vauth - 1569
+vless://a04be4ef-1797-4ca9-a549-4385ce42494c@188.114.97.0:443?security=tls&sni=vls2.nimaxmusic.ir&type=ws&host=vls2.nimaxmusic.ir&path=%2Fvls2ws&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 1570
+vless://be40e282-0efd-489b-9350-a1dd266c9961@162.159.133.234:2096?security=tls&sni=ads.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔗 Vauth - 1571
+vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&sni=heY.bACHeBiapAiN.Ir&type=ws&host=hey.bacheBiapAIN.iR&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 1572

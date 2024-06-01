@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://55X9v3np3p@68.183.180.244:36889?security=tls&headerType=none&type=tcp#ADD+HOST
+trojan://2c92e650-91ed-11ee-ae34-1239d0255272@15.204.240.119:443/?security=tls&type=tcp&sni=zoom.us#SLTZOOM
 trojan://7fcced56-528a-4fc8-9a78-18deeb70631e@www.visa.com:443?path=%2F&security=tls&host=uk1.trojanvpn.xyz&type=ws&sni=uk1.trojanvpn.xyz#%40hopev2ray%F0%9F%A7%A1
 trojan://E8iH4gZn6C@54.169.158.6:59686?security=none&type=ws&headerType=none&path=%252Fow&host=m.twitter.com#SahanWickramasinghe-4ktk87o4
 trojan://telegram-id-privatevpns@3.11.163.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206am10Z3NtVzQwUg==@8.210.231.146:1146#%40daredevill_
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaXdpNlVHdm9xSW9YNHhMQ2gzK1VDNzBPS0c2ZnZtV2JoSHkzWmV3NThrPQ==@3.72.93.169:8880#Kiava-T52-S4
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.171.89:989#%40V2RayCactus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@65.21.158.243:5614#%40daredevill_
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6c3dVWGJaT3pFaDZWck9BUll2RkhrYUxubHdxaXlVQ0R4bUtKNENVcnZRPQ==@13.53.171.109:8080#Kiava-T22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freeiranwebtest.ddns.net:443#Telegram%3A+%F0%9F%8C%BB%40proxy48+%F0%9F%87%AC%F0%9F%87%A7

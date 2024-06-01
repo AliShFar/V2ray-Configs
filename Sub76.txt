@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://5184b87c-8537-41d6-be54-5027c8432d50@172.67.185.196:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PARvIzsABETI.paGeS.DEv&fp=randomized&type=ws&sni=paRVIZsabEti.pAgeS.dEV#%F0%9F%92%AB+%40V2ray_Alpha-14
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.10.94:443?path=%2F&security=tls&encryption=none&host=baipiao406.stunning-bassoon.pages.dev&type=ws&sni=baipiao406.stunning-bassoon.pages.dev#%40NPV_V2RAY
 vless://4e14164b-2240-42db-bfde-7c5d8da9ed96@3TelegramTMV2RAY.webv2ray.shop:2053?mode=multi&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@TMV2RAY@TMV2RAY&sni=2TelegramTMV2RAY.webv2ray.shop#Tel%3A+%40TMv2ray-irancell-50G+tel%3A+TMv2ray
 vless://0e3fc469-0ec4-41a4-8ae8-792f7cddb12e@[::ffff:5be7:b6a5]:36898?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%A9%B5%7CTelegram+%3A+%40tv2rayrr%F0%9F%92%93%F0%9F%92%93
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.17.42.10:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=HETZNER-D.pages.DEV&fp=randomized&type=ws&sni=HETZNER-D.pages.DEV#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
@@ -601,5 +603,3 @@ vless://92028b82-4f86-42b0-9c14-8872c7370f84@185.146.173.59:2095?type=ws&path=%2
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?path=%2F%40FreeVirGoolNet%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=BiA-pAIN-bACHE.pAges.DEv&fp=randomized&type=ws&sni=BIa-pAIN-bAche.PagEs.DeV#%40v2raa_server%7E
 vless://07cacce3-a4ad-49c3-af13-9f466ebd838e@185.146.173.94:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇩🇪@Shh_Proxy|All
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#%40V2ray_Alpha-16
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%40asr_proxy
-vless://7dfdac7c-64b4-40ed-ae02-75c2e8e492f5@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇩🇪@Qand_shecan
