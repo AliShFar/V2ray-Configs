@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://_VPNCUSTOMIZE_@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🔗 Vauth - 47
+vless://_VPNCUSTOMIZE_@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 48
+vless://MCI@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🔗 Vauth - 49
 vless://ff49a775-a816-4d46-b07c-30645642e5e2@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 50
 vless://ff49a775-a816-4d46-b07c-30645642e5e2@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 51
 vless://b9369d06-9622-432f-aa19-38243f22ef9e@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 52
@@ -600,6 +603,3 @@ vless://1be898bc-df68-4c6d-98ce-8351e8728ea3@jp-full.privateip.net:443?type=ws&e
 vless://52347667-5eeb-482b-b8a9-49b6fbaf632b@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#🔗 Vauth - 644
 vless://62dd9f59-4b3d-4c3c-b59b-51b71baed832@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#🔗 Vauth - 645
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#🔗 Vauth - 646
-vless://a2359222-1ba4-4362-a4bc-ec678a3e7326@us-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 647
-vless://1f9bdc4c-b45f-425e-bc14-20fbefc5ee74@us2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 648
-vless://5d19853b-93ed-4718-b228-2979cf38cc28@tr-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#🔗 Vauth - 649

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.91.58:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#%E9%A6%99%E6%B8%AF_060113070
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.201.73:80?security=none&type=ws&path=%2Fblue#%E9%A6%99%E6%B8%AF_060113071
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.210.245.224:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#%E9%A6%99%E6%B8%AF_060113072
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.234.9:80?security=none&type=ws&path=/blue#%E9%A6%99%E6%B8%AF_060113073
@@ -602,4 +603,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@167.68.5.90:8443?encryption=none&se
 vless://f5a78514-1a94-486e-92a7-3bc9817095a6@nitriding.appreviewcenter.com:443?encryption=none&security=tls&sni=nitriding.appreviewcenter.com&type=ws&path=%2Fnimws#%E6%96%B0%E5%8A%A0%E5%9D%A1%28t.me%2Fvvkj11%29%0D_94_230
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_55_231
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.163:8443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_56_232
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%28t.me%2Fvvkj11%29%0D_95_233

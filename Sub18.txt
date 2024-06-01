@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@47.74.6.55:2083?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=fuck0yes%21#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_406
 vless://73b6dbd5-a27a-4c76-9ad1-42a82380dddb@v2ray-alpha.alpha6.top:2053?encryption=none&security=tls&sni=ed.ariesver.online&type=ws&path=%2Fblue#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_415
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@v2ray-alpha.alpha6.top:2087?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=path%2Ftelegram%2Fv2ray_alpha%2F%3Fed%3D2048#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_8
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@hk03.nttkk.com:443?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=free0vpn#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_135
@@ -602,4 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.246:8443?security=tls&ty
 ss://MzU3NWJkYWQtOTlkMi00NzQyLWEzZWQtYzdmYzdiZGFhNjBkOg==@172.67.223.232:443#%E6%9C%AA%E7%9F%A5141
 ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.21.36.71:443#%E6%9C%AA%E7%9F%A5142
 ss://MjI4Y2Y0NjAtYmI1Mi00ODEwLWI1MjMtZTRjMGY1MWY3MWRkOg==@172.67.161.215:2053#%E6%9C%AA%E7%9F%A5143
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A5144
