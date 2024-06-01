@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud16.jafiyun.world:22016?security=tls&sni=scloud16.jafiyun.world#4Sarina-3628
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud41.jafiyun.world:22041?security=tls&sni=scloud41.jafiyun.world#4Sarina-3629
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud42.jafiyun.world:22042?security=tls&sni=scloud42.jafiyun.world#4Sarina-3630
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud43.jafiyun.world:22043?security=tls&sni=scloud43.jafiyun.world#4Sarina-3631
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud44.jafiyun.ltd:22044?security=tls&sni=scloud44.jafiyun.ltd#4Sarina-3632
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud45.jafiyun.world:22045?security=tls&sni=scloud45.jafiyun.world#4Sarina-3633
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud47.jafiyun.world:22047?security=tls&sni=scloud47.jafiyun.world#4Sarina-3634
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud50.jafiyun.ltd:22050?security=tls&sni=scloud50.jafiyun.ltd#4Sarina-3635
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud52.jafiyun.world:22052?security=tls&sni=scloud52.jafiyun.world#4Sarina-3636
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud53.jafiyun.world:22053?security=tls&sni=scloud53.jafiyun.world#4Sarina-3637
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud54.jafiyun.world:22054?security=tls&sni=scloud54.jafiyun.world#4Sarina-3638
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud55.jafiyun.world:22055?security=tls&sni=scloud55.jafiyun.world#4Sarina-3639
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud56.jafiyun.world:22056?security=tls&sni=scloud56.jafiyun.world#4Sarina-3640
@@ -593,13 +603,3 @@ trojan://62fe12a0-8a05-11ee-85b2-1239d0255272@104.16.125.175:443?security=tls&sn
 trojan://63384531-a43e-4250-bd1e-b20c5cffed6c@95.164.114.43:443?security=tls#4Sarina-4225
 trojan://63384531-a43e-4250-bd1e-b20c5cffed6c@kz-full.privateip.net:443?security=tls#4Sarina-4226
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#4Sarina-4227
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.214:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#4Sarina-4228
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@162.159.32.35:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#4Sarina-4229
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@cnamemc1.cdncisco4.co:443?type=ws&sni=c1mc.cdncisco4.co&allowInsecure=1&path=/422Kdfwzf49IxeZJa#4Sarina-4230
-trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443#4Sarina-4231
-trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@jp2.twincloud.xyz:443?security=tls#4Sarina-4232
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@gz01.xiaohouzi.club:51058?security=tls&sni=$$aru01.xiaohouzi.club#4Sarina-4233
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:16012?security=tls&sni=supsig.xiaohouzi.club#4Sarina-4234
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:17112?security=tls&sni=$$supaz012.xiaohouzi.club#4Sarina-4235
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:17115?security=tls&sni=$$hn.xiaohouzi.club#4Sarina-4236
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:18436?security=tls&sni=$$avas01.xiaohouzi.club#4Sarina-4237
