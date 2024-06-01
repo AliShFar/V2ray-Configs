@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join---------to.outline-vpn.cloud:8443?path=%2F%3Fed%3D2048;security=tls;encryption=none;host=baipiao1.curly-train.pages.dev;type=ws;sni=baipiao1.curly-train.pages.dev#%40VMESSIR4N+%D8%AE%D8%B1%DB%8C%D8%AF+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
+vless://Telegram-ipV2Ray-rop@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9169.Site.&type=ws#%40V_2rey+ALL
 vless://DiGiV2rAY@www.Speedtest.Net:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=www.zula.ir.www.iranseda.ir.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B.website.&type=ws#%40vpnsal-2
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 vless://ab42912e-cb64-4472-8876-827968a798c4@derby.howareu.xyz:8443?path=%2F&security=tls&encryption=none&host=melody.howareu.xyz&fp=chrome&type=ws&sni=Melody.howareu.xyz#t.me%2Fv2rplus%F0%9F%8C%8D%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+%D9%85%D8%A7
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=Tel-proxy_mt
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?type=ws&security=tls&path=%2FTelegram-V2ray_Alpha%3Fed%3D2560&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&sni=e10c0e4b.oodaeq2.pages.dev#@v2rayngbaloch+1
 vless://f9f58ca0-b72b-489c-b0dd-f557c5ece801@XvProxy.savagev2ray.site:443?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=tls&encryption=none&host=all4.savagev2ray.site&type=ws&sni=all4.savagev2ray.site#%40XvProxy+-+Ws-z3k90tvd
 vless://a3475523-9876-496f-cb70-87c1cfab64be@157.230.42.62:443?security=tls&encryption=none&alpn=http/1.1&headerType=none&type=tcp&sni=store.steampowered.com#%40TMS-VPN-Public
-vless://ef76aa8d-4841-4a9c-c304-688db19e3a52@flyv2ray.ddns.net:443/?type=grpc&encryption=none&serviceName=%40flyv2ray&sni=greenpepper.ir&fp=firefox&security=reality&pbk=xq6RYOPcRTrtWBzj2q6iiecamHAREvsoffEgfgtgKm0&sid=15273896#@Capital_NET|MTN
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
