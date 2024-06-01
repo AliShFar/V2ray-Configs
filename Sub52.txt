@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?path=/pPQqxfK8yz3JBNAb?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JAvIdsHAH.PaGes.DEV&fp=randomized&type=ws&sni=jAVIdshAh.PageS.deV#🔗 Vauth - 453
-vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@104.21.40.63:443?path=/nimws&security=tls&encryption=none&host=thorianite.toptechnonews.com&type=ws&sni=thorianite.toptechnonews.com#🔗 Vauth - 454
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#🔗 Vauth - 455
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#🔗 Vauth - 456
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.106.51:2053?path=/p=19&security=tls&encryption=none&host=itcenteriran.blog&type=ws&sni=itcenteriran.blog#🔗 Vauth - 457
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.5.79:2053?path=/p=19&security=tls&encryption=none&host=itcenteriran.blog&type=ws&sni=itcenteriran.blog#🔗 Vauth - 458
-vless://93cd6bd9-20fc-4864-8b49-af4c43592056@185.146.173.70:8880?path=/Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray?ed=2048&security=none&encryption=none&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.mralpha-vpn.COM.&type=ws#🔗 Vauth - 459
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#🔗 Vauth - 460
-vless://012a1d49-1352-47ce-8bdd-f4afffcd0faf@64.176.64.31:51122?path=wss51122&security=none&encryption=none&type=ws#🔗 Vauth - 461
-vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#🔗 Vauth - 462
-vless://e8ec9c2a-2fd6-4689-b922-c2a396f011e5@gama.ir:443?type=grpc&mode=gun&serviceName=/@custom_config?ed=2056&authority=xn--mgbUg7c2Am63G.joBfiNex.ir.&security=tls&sni=xn--mgba9a3dg42f.jObfineX.ir.&fragment=50-100,10-20,tlshello#🔗 Vauth - 463
-vless://9e12bd42-0f65-4467-b9fb-b9bca2b9013b@104.20.116.133:443?type=ws&host=tODdsaNTOS.paGEs.dEV&path=/LnXosxOzRSEuGg9y?ed=2560&security=tls&fp=chrome&sni=TODdsaNtOS.PAGes.dev&alpn=h2,http/1.1&fragment=34-35,1-2,tlshello#🔗 Vauth - 464
-vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?type=ws&host=kIngOFIRAN.PAGes.DEv&path=/Telegram-@SiNABiGO/?ed=2560&security=tls&fp=randomized&sni=kingOfIRaN.Pages.DEV&alpn=h2,http/1.1#🔗 Vauth - 465
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.188:443?type=ws&host=mmdv2.pages.dev&path=Telegram-------SiNABiGO_-_-_-_-Telegram-------SiNABiGO/?ed=2048&security=tls&sni=mmdv2.pages.dev#🔗 Vauth - 466
 vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?type=ws&host=kIngOFIRAN.PAGes.DEv&path=/Telegram@SiNABiGO?ed=2560&security=tls&fp=randomized&sni=kingOfIRaN.Pages.DEV&alpn=h2,http/1.1#🔗 Vauth - 467
 vless://telegram-VPNCUSTOMIZE@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🔗 Vauth - 468
@@ -603,3 +590,16 @@ vless://49cfba31-47ee-4b84-99cc-5a40da4f8e71@88.99.171.219:443?security=reality&
 vless://b60431bb-df0c-45e7-adee-89e1e55201b5@45.33.101.184:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=Lp-TWm_9jWbuzIAGdNO4xYFwHRXBKcmONlXpu1HEwXc&sid=666db971#🔗 Vauth - 1050
 vless://a61509e0-5684-4852-9de0-0c0478eef6b2@94.232.245.231:2053?security=reality&sni=www.speedtest.net&type=grpc&serviceName=xyz&fp=firefox&pbk=QKqp288bhBMdYqIfyLJVa9oKE21fBo6XG6xvTyPQVBQ&sid=c8e415a0fe1f6a1e#🔗 Vauth - 1051
 vless://94ee07ed-89a7-4496-89a5-38bfd9257db3@109.120.187.105:443?security=reality&sni=discord.com&type=tcp&fp=chrome&pbk=wyLWK0M2EOazAXeCI8WIAjB8xJlpbLBg5IOKyWRmBx8&sid=7f4d9ece#🔗 Vauth - 1052
+vless://5ec7ea23-6e8e-4ed4-91e6-9a1ddc5b874c@5.42.84.27:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=0UKN3C6bUnv7bu57j6_FZSDfZ7KYXTYj0P0n4x2uTxk&sid=8da0d92a#🔗 Vauth - 1053
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&flow=xtls-rprx-vision&sni=partner.g2.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔗 Vauth - 1054
+vless://9889649a-103c-4fde-9525-094e77ef9d44@66.245.192.132:8443?security=reality&sni=dl6.exoshop.ir&type=grpc&fp=firefox&pbk=t5kbU9Rnq-ENbNMdTPsRJuA4XWEwl4lWBwVM1akFlU4&sid=b075e898#🔗 Vauth - 1055
+vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔗 Vauth - 1056
+vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.117.73:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40#🔗 Vauth - 1057
+vless://2e0d2cf2-8805-43c9-b2ca-4a12b1e0e89b@92.246.137.132:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=RkyOiDk70NiEsGw2QuDrzsjWShsT3PRveZE8_Ch2B3U&sid=c82579d4#🔗 Vauth - 1058
+vless://b2fe22d0-2511-4116-b814-62b0e7509b8b@168.119.117.42:443?security=reality&sni=*.boundless.link&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=U3DxmKzqU4kZUKCGZjihhjRroSwbaSn-77_VXlq1GWU&sid=be1f33fc#🔗 Vauth - 1059
+vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#🔗 Vauth - 1060
+vless://864655f0-d10e-4d8b-a91f-90f7706f8da3@95.179.239.48:800?security=reality&sni=yahoo.com&type=grpc&serviceName=telegram--metavpnn&fp=chrome&pbk=Abwh4dXxxCbtsTWi8QoVehw2KKBSiwGFkFgmaDQktXw&sid=c3a96170#🔗 Vauth - 1061
+vless://694e7135-1a12-4ad0-a53f-b9217746bf9e@82.153.220.10:443?security=reality&flow=xtls-rprx-vision&sni=srhrforall.org&type=tcp&fp=chrome&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#🔗 Vauth - 1062
+vless://d44b0cfe-b263-4366-b607-d702f285d275@49.13.239.9:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔗 Vauth - 1063
+vless://210fdab8-023f-46ba-85e4-be583438ff5d@104.168.107.230:8224?security=reality&flow=xtls-rprx-vision&sni=mashable.com&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔗 Vauth - 1064
+vless://f0fc1e03-19cc-48d4-91cc-99b41a21a6eb@70.34.216.178:22555?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=RGUIKnfGKrxe2skkgFKj7vsdFVD6EqqnTfEBb_y0lxQ&sid=4169825a#🔗 Vauth - 1065
