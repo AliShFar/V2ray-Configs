@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://55167515-d9da-48be-a314-851cf4302440@104.18.24.92:2083?security=tls&sni=global.globalnetvpn.site&type=ws&path=/&host=global.globalnetvpn.site&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vmess://eyJhZGQiOiIxNDYuNTkuMTQ3LjI1MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI4MjQ0N2FiZi1kY2I5LTQwOGEtOWNhNi03OWUwYTc2OThkMDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5Nzc2IiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.158.206:443?security=tls&sni=mt1.nabsk.com&allowInsecure=1&type=ws&path=users?ed%3D2048&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxNzIuNjYuNDUuMzQiLCJhaWQiOiIwIiwiaG9zdCI6ImlkYy5rbW9samtsai50b3AiLCJpZCI6ImMyZTdhMGM2LTYwMzQtNDljMi04ZTI1LTRhYTU5MmFmZDcxOSIsIm5ldCI6IndzIiwicGF0aCI6Ii85aXF2eTRhMGJaIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiJpZGMua21vbGprbGoudG9wIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
@@ -599,7 +603,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiMTk5LjE5LjIyNi4xNzQiLCJwb3J0IjoiNDQzIiwi
 vmess://eyJhZGQiOiIxOTUuMTMzLjUzLjE5MiIsInYiOiIyIiwicHMiOiIiLCJwb3J0IjoxNDM2OSwiaWQiOiIyMzMxYWZmYS0xMTk0LTQ1YWUtOTQ1Ny0zNzQ2MTIwYzQ3NTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjE5NS4xMzMuNTMuMTkyIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@193.108.117.75:8090
 vmess://eyJ2IjoiMiIsInBzIjoiIiwiYWRkIjoiMTc2LjExOS4xNTYuMjI5IiwicG9ydCI6Ijg1MiIsImlkIjoiMmU1ZjEyNDEtZTcyZS00MDE2LTgxZTgtOWQ1YzUyZWUwYTE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImQ3NmJiMzU2OTYubGFvd2FueGlhbmcuY29tIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==
-vmess://eyJhZGQiOiIxMDMuMjUyLjExNi40MSIsImFpZCI6MCwiaG9zdCI6InYucXEuY29tIiwiaWQiOiJmZjUyOWEzNy0yY2Y5LTRiZjQtYmJmYy0zZDZkZDk1NWFkYTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaW1hZ2VzIiwicG9ydCI6ODAsInBzIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vmess://eyJhZGQiOiIxMDMuMTUxLjIzOC40MCIsImFpZCI6MCwiaG9zdCI6ImZyb250aWVyLWkxOG4udGlrdG9rdi5jb20iLCJpZCI6ImU5ODIxODRmLWM2ZTAtNGJhNC05MWNjLTcxZWI2YzcwMjU4OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ua3B2cG4uc2l0ZSIsInBvcnQiOjgwLCJwcyI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vmess://eyJhZGQiOiIxMDQuMTkuMy4xNiIsInYiOiIyIiwicHMiOiIiLCJwb3J0Ijo0NDMsImlkIjoiOWU2Y2VlZmYtMjU0Ni0zNjkwLWFjMDAtNmZjZGYzMWRlYzk0IiwiYWlkIjoiMSIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ2MmZseS5zYW1ydC53ZWJzaXRlIiwicGF0aCI6Ii9jaGNhciIsInRscyI6InRscyJ9
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.59:443
