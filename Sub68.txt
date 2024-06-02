@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh63wn4ewIDE3fOmmmea4ryAwNSB8IDF4IEhLIGdpdGh1Yi5jb20vemVuZ2ZyL2ZyZWUtdnBuLXN1YnNjcmliZSIsDQogICJhZGQiOiAiNW00aDBrMDUubWNmcm9udC54eXoiLA0KICAicG9ydCI6ICIzMTYwNiIsDQogICJpZCI6ICI2MjVhZjFjNy00YzRmLTRhYTktYmQ3ZS1kNTdjYTU2MTU4ZGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI1bTRoMGswNS5tY2Zyb250Lnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEwfPCfh7rwn4em5LmM5YWL5YWwMDQgZ2l0aHViLmNvbS96ZW5nZnIvZnJlZS12cG4tc3Vic2NyaWJlIiwNCiAgImFkZCI6ICI4dTlhMDQuYWJ6b29uZXMueHl6IiwNCiAgInBvcnQiOiAiMzY4NzEiLA0KICAiaWQiOiAiOTNlNWQyNGYtYzk5OS00ZWE4LTg0MjctY2Y1NDQ3ZDQ5Y2Q1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiOHU5YTA0LmFiem9vbmVzLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@s-g04.xingyunwu.top:50042?sni=xingyunwu.top&type=tcp&headerType=none#CF%7CTG%E9%A2%91%E9%81%93%E5%86%85%E9%9A%8F%E6%9C%BA%E6%97%B6%E9%97%B4%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@t-wn04.xingyunwu.top:50058?security=tls&sni=xingyunwu.top&type=tcp&headerType=none#%E6%9C%AA%E7%9F%A577%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@gonggao03.xingyunwu.top:50004?security=tls&sni=xingyunwu.top&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3CN-14.116.209.65-0065%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@gonggao02.xingyunwu.top:50002?security=tls&sni=xingyunwu.top&type=tcp&headerType=none#YD%7C%40Zyw_Channel%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuacquefpTYyIGdpdGh1Yi5jb20vemVuZ2ZyL2ZyZWUtdnBuLXN1YnNjcmliZSIsDQogICJhZGQiOiAiMjIua2NjaWMycGEueHl6IiwNCiAgInBvcnQiOiAiNTAwMjIiLA0KICAiaWQiOiAiMDZiZDA2ODktZGVlMS00ZTJmLTk0MTMtNjU5ZmY4OWY0ZTg3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-trojan://d9e70e09-e187-4ba1-82e4-1224676216b1@sg6.421421.xyz:20230?security=tls&sni=421421.xyz&type=tcp&headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@8h2k03.abzoones.xyz:36611?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_614%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4emIDEwfPCfh6jwn4em5Yqg5ou/5aSnMDQgZ2l0aHViLmNvbS96ZW5nZnIvZnJlZS12cG4tc3Vic2NyaWJlIiwNCiAgImFkZCI6ICI1YzFhMDQuYWJ6b29uZXMueHl6IiwNCiAgInBvcnQiOiAiMzY3MDEiLA0KICAiaWQiOiAiOTNlNWQyNGYtYzk5OS00ZWE4LTg0MjctY2Y1NDQ3ZDQ5Y2Q1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiNWMxYTA0LmFiem9vbmVzLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIDEwfPCfh7nwn4e85Y+w5rm+MDQgZ2l0aHViLmNvbS96ZW5nZnIvZnJlZS12cG4tc3Vic2NyaWJlIiwNCiAgImFkZCI6ICI4dDZ3MDQuYWJ6b29uZXMueHl6IiwNCiAgInBvcnQiOiAiMzYzMDEiLA0KICAiaWQiOiAiOTNlNWQyNGYtYzk5OS00ZWE4LTg0MjctY2Y1NDQ3ZDQ5Y2Q1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiOHQ2dzA0LmFiem9vbmVzLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4IDE3fOe+juWbvSAwNSB8IDF4IFVTIGdpdGh1Yi5jb20vemVuZ2ZyL2ZyZWUtdnBuLXN1YnNjcmliZSIsDQogICJhZGQiOiAiNGEydTBhMDUubWNmcm9udC54eXoiLA0KICAicG9ydCI6ICIzMTUwNiIsDQogICJpZCI6ICI2MjVhZjFjNy00YzRmLTRhYTktYmQ3ZS1kNTdjYTU2MTU4ZGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0YTJ1MGEwNS5tY2Zyb250Lnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-20.27.73.77-6838%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://d2eb7266-b912-4fc0-bcfb-47277251b506@tr.mjt001.com:443?security=tls&sni=tr.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-4.193.87.21-8702%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sg.mjt001.com:443?security=tls&sni=sg.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-20.249.8.245-8707%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://b00ac480-3e34-4ca9-8b3b-0b4515e4b75d@ua.mjt001.com:443?security=tls&sni=ua.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-4.193.87.21-8704%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://d2eb7266-b912-4fc0-bcfb-47277251b506@vn.mjt001.com:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.184.172-8701%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@8t6w02.abzoones.xyz:36306?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_616%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-trojan://70621399-151c-4d2a-81b7-bb334e06b580@chjs.stablize.top:443?type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_%E3%80%90YouTube-VV%E7%A7%91%E6%8A%80%E3%80%91%20github.com%2Fzengfr%2Ffree-vpn-subscribe
-vmess://ew0KICAidiI6ICIwIiwNCiAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuOC4yMzktMTA3OSBnaXRodWIuY29tL3plbmdmci9mcmVlLXZwbi1zdWJzY3JpYmUiLA0KICAiYWRkIjogImNkbi50d2l0dGVyLm5vdy5jYyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4ZDJiYTQ1Ni0yZjBkLTRjMTMtYjhhMC1iZmY5OWM2Nzk3MDkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiYXV0byIsDQogICJob3N0IjogInZjZXUzZS50d2l0dGVpLm1lIiwNCiAgInBhdGgiOiAiL2lrdW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4IDEwfPCfh7rwn4e4576O5Zu9MDQgZ2l0aHViLmNvbS96ZW5nZnIvZnJlZS12cG4tc3Vic2NyaWJlIiwNCiAgImFkZCI6ICIzdTFzMDQuYWJ6b29uZXMueHl6IiwNCiAgInBvcnQiOiAiMzY1MDEiLA0KICAiaWQiOiAiOTNlNWQyNGYtYzk5OS00ZWE4LTg0MjctY2Y1NDQ3ZDQ5Y2Q1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiM3UxczA0LmFiem9vbmVzLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 trojan://140e6043-34e9-4384-82e3-fc7a80cf0eb9@lu.stablize.top:443?type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC_%E3%80%90YouTube-VV%E7%A7%91%E6%8A%80%E3%80%91%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2JlZTgzMC0wOWFhLTQzYjItODk0NS0zYjM0MWI4Nzg3ZGI=@p1.bxy-fun1.com:23102#%F0%9F%87%A8%F0%9F%87%B3CN-121.31.49.210-13345%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@k-r02.xingyunwu.top:50022?sni=xingyunwu.top&type=tcp&headerType=none#CF%7Cwww.zyw.asia%20ZYW%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%20github.com%2Fzengfr%2Ffree-vpn-subscribe
@@ -603,3 +582,24 @@ trojan://9a27800ca7b52ee0@103.172.116.113:3389/?type=tcp&security=tls&allowInsec
 trojan://70face6dd320ea29@5.44.249.53:3306/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_007
 trojan://4c68fce6-2b72-4ab6-8dd4-8e07139e2b2e@sgt1.sshocean.net:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_008
 trojan://26a663656e575c0b@5.44.249.51:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_009
+trojan://0c6a3341e8d5ab17@103.172.116.195:3389/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_010
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@103.172.116.94:9008#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_011
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@103.172.116.90:9008#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_012
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@103.172.116.79:9008#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_013
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@103.172.116.103:9008#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_014
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@103.172.116.94:9060#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_015
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@103.172.116.90:9060#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_016
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@103.172.116.103:9060#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_017
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.94:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_018
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.90:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_019
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.79:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_020
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.103:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_021
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@103.172.116.94:9093#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_022
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@103.172.116.90:9093#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_023
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@103.172.116.103:9093#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_024
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@103.172.116.94:9094#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_025
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@103.172.116.90:9094#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_026
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@103.172.116.79:9094#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_027
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@103.172.116.103:9094#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_028
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@103.172.116.94:9056#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_029
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@103.172.116.90:9056#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_030
