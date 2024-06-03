@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://bLYUuMKgn1aHGKID@usa8.wujie8.xyz:443?security=tls&sni=usa8.wujie8.xyz&allowInsecure=1&type=tcp#4Nika-4835
+trojan://ba43b064-03f6-4b80-9ba6-f96e491cf2eb@141.94.115.231:443?security=tls&sni=fr-full.privateip.net#4Nika-4836
+trojan://ba43b064-03f6-4b80-9ba6-f96e491cf2eb@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&allowInsecure=1#4Nika-4837
+trojan://ba43b064-03f6-4b80-9ba6-f96e491cf2eb@fr-full.privateip.net:443#4Nika-4838
+trojan://ba43b064-03f6-4b80-9ba6-f96e491cf2eb@fr-full.privateip.net:443?security=tls#4Nika-4839
+trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#4Nika-4840
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?allowInsecure=1#4Nika-4841
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?security=tls#4Nika-4842
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#4Nika-4843
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@168.100.6.189:443?security=tls&sni=YbV27nj.diamondgalery.ir&type=ws&host=YbV27nj.diamondgalery.ir&path=%2FU13Hsk6pJ3kV6p1uO5Avv&fp=chrome&alpn=http/1.1#4Nika-4844
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@168.100.6.189:443?security=tls&type=ws&sni=YbV27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv&host=YbV27nj.diamondgalery.ir#4Nika-4845
@@ -595,11 +603,3 @@ trojan://telegram-id-privatevpns@3.10.253.115:22222?alpn=http%2F1.1&headerType=n
 trojan://telegram-id-privatevpns@3.10.253.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-5432
 trojan://telegram-id-privatevpns@3.10.253.115:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-5433
 trojan://telegram-id-privatevpns@3.10.253.115:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Nika-5434
-trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-5435
-trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-5436
-trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-5437
-trojan://telegram-id-privatevpns@3.124.234.26:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Nika-5438
-trojan://telegram-id-privatevpns@3.124.234.26:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#4Nika-5439
-trojan://telegram-id-privatevpns@3.125.188.184:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Nika-5440
-trojan://telegram-id-privatevpns@3.126.57.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-5441
-trojan://telegram-id-privatevpns@3.126.57.99:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-5442

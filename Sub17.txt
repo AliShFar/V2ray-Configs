@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
@@ -595,11 +603,3 @@ vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.21.7.50:443?encryption=none&typ
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?encryption=none&type=ws&path=%2F%3Fed&host=bpb-worker-panel3.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C20-50&sni=bpb-worker-panel3.pages.dev#258-%F0%9F%87%A8%F0%9F%87%A6CA_346_%40Surfboardv2ray
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C10-50&sni=turkmenistan.armanibash.Shop.#259-%F0%9F%87%A8%F0%9F%87%A6CA_188_%40Surfboardv2ray
 vmess://eyJ0eXBlIjoiIiwicHMiOiIyNjAt8J+HqPCfh6ZDQV80X0BTdXJmYm9hcmR2MnJheSIsImFkZCI6IjE3Mi42Ny4xNzAuMTMiLCJwb3J0Ijo0NDMsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Imdsd2VpZGYuc2JzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJnbHdlaWRmLnNicyIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=ton.apple&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=www.arizona.edu#261-%F0%9F%87%BA%F0%9F%87%B8US_368_%40Surfboardv2ray
-vmess://eyJ0eXBlIjoiIiwicHMiOiIyNjIt8J+Hs/Cfh6YgTmFtaWJpYSAtIE5BIPCfjI0gVk0tV1MtVExTIDTig6MiLCJhZGQiOiIxMDQuMTYuNjEuOCIsInBvcnQiOjIwOTYsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6Im1pa3ZkdXVqZmpmYWpkM2picjdmOGkzamVvOWQ5Zmpyc2hjdWM4YzluMmkyOTA5ZGozbm9taWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nd2RlZi5zYnMvbGlua3dzIiwiaG9zdCI6Im1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUifQ==
-vless://38b36376-fbd4-41a0-86e3-70b995f45008@LIGHTNING6-joinbede.filj.top:2087?encryption=none&type=ws&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&host=LiV2raya.yoyoyo.ir.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C30-80%2C10-20&sni=LiV2rayc.yoyoyo.ir#263-%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0_060308030
-vless://eeb4fbc8-fc68-4f64-e1f1-8ad956143d10@188.136.206.170:443?encryption=none&type=tcp&host=www.speedtest.net&security=none&headerType=http&alpn=h2%2Chttp%2F1.1&fp=firefox&sni=www.speedtest.net#264-%E4%BC%8A%E6%9C%97_060308020
-vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@188.64.12.69:443?encryption=none&type=ws&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&host=de.tradex2080.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=de.tradex2080.com#265-%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A_060308004
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.68:2083?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=juzibaipiao.5112233.xyz&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=juzibaipiao.5112233.xyz#266-%E6%96%B0%E5%8A%A0%E5%9D%A1_060308037
-vless://962a733d-26d7-108d-7fa6-a8102ffea8eb@172.67.193.154:443?encryption=none&type=ws&path=%2Fcurrent_time&security=tls&alpn=h3%2Ch2&fp=safari&fragment=tlshello%2C10-20%2C10-20&sni=vowelquran18.xyz#267-%E7%BE%8E%E5%9B%BD_0603082914
-vless://efd542cd-6b60-43db-a115-9bf0b825f38b@www.speedtest.net:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=kennethrasmussenkennethrasmussenkennethrasmussenkennethras.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=kennethrasmussenkennethrasmussenkennethrasmussenkennethras.pages.dev#268-%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40V2rayCollectorDonate%20%7C%2014

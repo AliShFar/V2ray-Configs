@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.118.7:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.12.22:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@82.213.5.50:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@5.188.121.166:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@37.110.209.228:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@194.152.37.185:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -600,6 +603,3 @@ ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@80.92.204.106:9094#%20%F0%9F%87%A9%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.120.103.192:443#%20%F0%9F%87%A6%F0%9F%87%AA%20AE-40.120.103.192%3A443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.111.114.133:5499#%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A5499
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.108:7001#%20%F0%9F%87%BA%F0%9F%87%B8%20US-38.75.136.108%3A7001
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#%20%F0%9F%87%AC%F0%9F%87%A7%20GB-145.239.6.202%3A8090
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@145.239.6.202:9101#%20%F0%9F%87%AC%F0%9F%87%A7%20GB-145.239.6.202%3A9101
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.111.114.133:5004#%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A5004
