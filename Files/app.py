@@ -172,10 +172,6 @@ def main():
         "https://msdonor.pages.dev/sub/7f035a95-4b51-4e0b-8995-59864a9cde22#BPB-Normal",
     ]
     dir_links = [
-        "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/vless_iran.txt",
-        "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/vmess_iran.txt",
-        "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/trojan_iran.txt",
-        "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/ss_iran.txt",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt",
         "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment",
         "https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt",
