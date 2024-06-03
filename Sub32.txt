@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-directvpn@35.183.74.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-5378
-trojan://telegram-id-directvpn@35.183.74.248:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-5379
-trojan://telegram-id-directvpn@35.183.74.248:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-5380
-trojan://telegram-id-directvpn@35.183.74.248:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Sarina-5381
-trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-5382
-trojan://telegram-id-directvpn@35.95.189.119:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-5383
-trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-5384
-trojan://telegram-id-directvpn@44.211.71.82:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-5385
-trojan://telegram-id-directvpn@46.137.144.18:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Sarina-5386
-trojan://telegram-id-directvpn@51.20.243.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-5387
-trojan://telegram-id-directvpn@51.20.243.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Sarina-5388
-trojan://telegram-id-directvpn@52.29.226.146:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-5389
-trojan://telegram-id-directvpn@52.47.174.48:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-5390
-trojan://telegram-id-directvpn@52.47.41.227:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#4Sarina-5391
-trojan://telegram-id-directvpn@52.51.114.1:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Sarina-5392
 trojan://telegram-id-directvpn@52.59.62.136:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-5393
 trojan://telegram-id-directvpn@52.59.62.136:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Sarina-5394
 trojan://telegram-id-directvpn@54.201.233.102:22222?security=tls&sni=trojan.burgerip.co.uk#4Sarina-5395
@@ -603,3 +588,18 @@ vless://0853bba0-e18b-49c1-b41a-44259366419b@104.24.237.170:2082?security=none&t
 vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.21.73.45:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#4Sarina-5975
 vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.26.6.64:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#4Sarina-5976
 vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@172.67.140.33:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=%2F#4Sarina-5977
+vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@45.131.4.9:2095?type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.houselife.ir&path=%2F#4Sarina-5978
+vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#4Sarina-5979
+vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@172.67.205.139:2086?security=none&type=ws&path=/#4Sarina-5980
+vless://089d6056-551d-4f82-91ea-cb6d0c8c4718@185.146.173.112:80?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0en%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0.v2rayng-mmd.cfd.&path=%2F%40Mmd_V2rayng-%40LookiVpn%3Fed%3D1024#4Sarina-5981
+vless://08ff0d19-f06e-4cf9-948d-5b26d13ebaa6@185.146.173.58:2096?security=tls&sni=Vsy.samancenter.com.&type=ws&host=Vsy.samancenter.com.&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#4Sarina-5982
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.17.80.220:443?security=tls&sni=ARM64-V8A.pages.DEV&type=ws&host=ARM64-V8A.pages.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#4Sarina-5983
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=who-cares.BacheBiaPain.IR&path=%2F&security=tls&sni=who-cares.BacheBiaPain.IR&type=ws#4Sarina-5984
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?encryption=none&security=tls&sni=who-cares.BacheBiaPain.IR&alpn=http%2F1.1&type=ws&host=who-cares.BacheBiaPain.IR&path=%2F#4Sarina-5985
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#4Sarina-5986
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#4Sarina-5987
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?security=tls&sni=who-cares.BacheBiaPain.IR&type=ws&host=who-cares.BacheBiaPain.IR&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#4Sarina-5988
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#4Sarina-5989
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#4Sarina-5990
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&encryption=none&type=ws&host=who-cares.BacheBiaPain.IR&path=/TELEGRAM-MARAMBASHI/?ed&sni=who-cares.BacheBiaPain.IR&fp=randomized&alpn=http/1.1#4Sarina-5991
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&sni=who-cares.BacheBiaPain.IR&type=ws&host=who-cares.BacheBiaPain.IR#4Sarina-5992

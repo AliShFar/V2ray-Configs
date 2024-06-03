@@ -3,36 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://01f03da3-22fe-4800-be3d-5b409221a426@188.114.96.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=telegram-vpnhttpinjectorfree-6.wilburt.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
-vless://f01e6cfc-fa16-4008-a164-7623fb5fb3e8@188.114.96.3:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=telegram-vpnhttpinjectorfree-7.kaimana.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
-vless://9289a73e-cb72-432d-ad0d-b480041b3a80@moos.minusober.com:443?encryption=none&security=tls&sni=moos.minusober.com&type=ws&host=moos.minusober.com&path=%2Fmoos#US_%E5%88%86%E4%BA%AB%E6%97%A5%E8%AE%B0
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t140-api-token.gobo.life:443?encryption=none&security=tls&sni=test20.pages.dev&type=ws&host=test20.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://089f4e2e-2167-4e4c-a050-91b9997ba0b9@ilm.minusober.com:443?encryption=none&security=tls&sni=ilm.minusober.com&type=ws&host=ilm.minusober.com&path=%2Film#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_290
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t47.gobo.life:443?encryption=none&security=tls&sni=test004.pages.dev&type=ws&host=test004.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t154.gobo.life:443?encryption=none&security=tls&sni=test12-6tb.pages.dev&type=ws&host=test12-6tb.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t140-api-token.gobo.life:443?encryption=none&security=tls&sni=test20.pages.dev&type=ws&host=test20.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://089f4e2e-2167-4e4c-a050-91b9997ba0b9@ilm.minusober.com:443?encryption=none&security=tls&sni=ilm.minusober.com&type=ws&host=ilm.minusober.com&path=%2Film#US_%E5%88%86%E4%BA%AB%E6%97%A5%E8%AE%B0
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.171.182:11659?encryption=none&security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2%20%2F%3Fed%3D2048#KR_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_270
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t154.gobo.life:443?encryption=none&security=tls&sni=test51.pages.dev&type=ws&host=test51.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t10.gobo.life:443?encryption=none&security=tls&sni=test53.pages.dev&type=ws&host=test53.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t10.gobo.life:443?encryption=none&security=tls&sni=test29-5mv.pages.dev&type=ws&host=test29-5mv.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t154.gobo.life:443?encryption=none&security=tls&sni=test51.pages.dev&type=ws&host=test51.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t154.gobo.life:443?encryption=none&security=tls&sni=test45-45f.pages.dev&type=ws&host=test45-45f.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t154.gobo.life:443?encryption=none&security=tls&sni=test12-6tb.pages.dev&type=ws&host=test12-6tb.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t10.gobo.life:443?encryption=none&security=tls&sni=test53.pages.dev&type=ws&host=test53.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.44.221:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_24
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_64
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.177.67:61153?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#KR_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_195
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t10.gobo.life:443?encryption=none&security=tls&sni=test29-5mv.pages.dev&type=ws&host=test29-5mv.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t140-api-token.gobo.life:443?encryption=none&security=tls&sni=test24.pages.dev&type=ws&host=test24.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t47.gobo.life:443?encryption=none&security=tls&sni=test100x.pages.dev&type=ws&host=test100x.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t47.gobo.life:443?encryption=none&security=tls&sni=test98x.pages.dev&type=ws&host=test98x.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t47.gobo.life:443?encryption=none&security=tls&sni=test004.pages.dev&type=ws&host=test004.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t47.gobo.life:443?encryption=none&security=tls&sni=test100x.pages.dev&type=ws&host=test100x.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@t154.gobo.life:443?encryption=none&security=tls&sni=test54.pages.dev&type=ws&host=test54.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.17.99:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_34
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.23.11:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_5
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.201.60:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_27
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.18.93.35:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_41
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@t154.gobo.life:443?encryption=none&security=tls&sni=test45-45f.pages.dev&type=ws&host=test45-45f.pages.dev&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0%7C%E6%B7%B1%E6%B8%AF%E9%9A%A7%E9%81%93%7C%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.23.9:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#US_youtube%40%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E5%B8%88_214
@@ -603,3 +573,33 @@ vless://1f61d666-59d2-42cb-b390-3ebaf6c51839@www.syphilisisback.ca:2096/?type=ws
       },
       {
         "tag": "dns-trick-direct",
+        "address": "https://sky.rethinkdns.com/",
+        "detour": "direct-fragment"
+      },
+      {
+        "tag": "dns-direct",
+        "address": "https://d.adguard-dns.com/dns-query/fd2b1527",
+        "address_resolver": "dns-local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-local",
+        "address": "local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-block",
+        "address": "rcode://success"
+      }
+    ],
+    "rules": [
+      {
+        "domain": "engage.cloudflareclient.com",
+        "server": "dns-direct"
+      },
+      {
+        "domain_suffix": ".ir",
+        "geosite": "ir",
+        "server": "dns-direct"
+      },
+      {
