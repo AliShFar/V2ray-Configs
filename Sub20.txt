@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://4a921dbe-8985-4f2e-a0ad-47d3d8f0114a@178.79.176.97:443?#%E6%9C%AA%E7%9F%A5184
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@172.67.161.99:80#%E6%9C%AA%E7%9F%A5185
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&type=ws&sni=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&host=missyousir.segaro.tech#%E6%9C%AA%E7%9F%A5186
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.181:5600#%E6%9C%AA%E7%9F%A5187%202.0MB%2Fs
 ss://ZDVhYWUyMGMtYTdiZS00MTZlLTgwNmItNzBhMjFhZDIwZjUyOg==@172.67.159.193:443#%E6%9C%AA%E7%9F%A5188
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#%E6%9C%AA%E7%9F%
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.43:7306#US251%202.0MB%2Fs
 trojan://lrdxw@104.21.68.185:443?security=tls&type=ws&sni=trojan-lrdxw.ala1-f11.workers.dev&path=/?ed=2560&host=trojan-lrdxw.ala1-f11.workers.dev#%E6%9C%AA%E7%9F%A5576
 ss://MTA2OTk2MjItMWIyNS00OTljLWE0MjQtNThmOGY0ZGZiN2Y3Og==@104.17.246.203:2083#%E6%9C%AA%E7%9F%A5577
+ss://OGEwNTJjNjUtYmRmNi00ODVhLWMxZDctY2IyYjIzZjE1ZGZhOg==@104.16.6.65:443#%E6%9C%AA%E7%9F%A5578
+trojan://ExPreSEToo582b993d16e522@172.67.197.65:8443?security=tls&type=ws&sni=random.expreset479927393.workers.dev&host=random.expreset479927393.workers.dev#%E6%9C%AA%E7%9F%A5579
