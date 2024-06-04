@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔗 Vauth - 2014
+vless://f9ced920-3dd6-3db6-0f13-2e6fa1807ff1@62.60.212.133:1471?security=none&type=tcp&host=fararu.com&headerType=http#🔗 Vauth - 2015
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.246.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 2016
 vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=/&fp=chrome&alpn=http/1.1#🔗 Vauth - 2017
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.12:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔗 Vauth - 2018
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.238.232:443?security=tls&sni
 vless://4e8aa209-4ee3-4774-8bfc-97f8d8dd8310@185.146.173.1:8080?security=none&type=ws&host=El.V2ray.Community.&path=%2FJoin--ELiV2Ray.El.V2ray.community#🔗 Vauth - 2611
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.222.214.231:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔗 Vauth - 2612
 vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@104.21.13.159:2086?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 2613
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔗 Vauth - 2614
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.64.153.211:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#🔗 Vauth - 2615

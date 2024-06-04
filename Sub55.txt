@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.221.148:443?security=tls&sni=zdy331.kpcloud.eu.org&type=ws&path=%2Fblue#🔗 Vauth - 1414
+vless://9e5a3345-b259-4f9a-a0ed-4c00cfa82c86@104.19.173.68:443?security=tls&sni=ryIL5amKjCeA.nabestan.com&type=grpc&serviceName=93581813&fp=firefox&alpn=h3,h2,http/1.1#🔗 Vauth - 1415
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.107.223:443?security=tls&sni=hk116.ylks.link&type=ws&path=%2Fproxyip#🔗 Vauth - 1416
 vless://10716279-b1ee-41d8-b63e-87782088305b@185.148.106.125:443?security=tls&sni=MaMANE-FIltERCHI.PAgeS.deV&type=ws&path=%2F&fp=chrome#🔗 Vauth - 1417
 vless://0c94ca98-3643-4cb4-de75-6167815af665@104.21.45.99:8443?security=tls&sni=admin.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔗 Vauth - 1418
@@ -601,5 +603,3 @@ vless://65beaa04-2abb-4734-8318-592e160e45d7@135.181.200.208:80?type=ws&host=vkv
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.153.0.22:443?security=tls&sni=mRARsHa-sHAItAANm0Th3rS-iNStincT-ChaLl3nGeRs.PAGES.DEV&type=ws&path=%2Fxp1jaightp2hpopv%3Fed#🔗 Vauth - 2011
 vless://b08240fd-72a7-48ce-97cf-905c499a3fda@104.17.145.25:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔗 Vauth - 2012
 vless://eb20ac7b-1462-4209-ab0d-c0e7d7a8bf69@104.26.14.85:2053?security=tls&sni=telegram-falcunargo-emirates.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emirates.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔗 Vauth - 2013
-vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔗 Vauth - 2014
-vless://f9ced920-3dd6-3db6-0f13-2e6fa1807ff1@62.60.212.133:1471?security=none&type=tcp&host=fararu.com&headerType=http#🔗 Vauth - 2015
