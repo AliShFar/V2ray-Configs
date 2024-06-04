@@ -282,6 +282,7 @@ def main():
         "https://raw.githubusercontent.com/shabane/kamaji/master/hub/ss.txt",
         "https://raw.githubusercontent.com/tristan-deng/v2rayNodesSelected/main/MyNodes.txt",
         "https://raw.githubusercontent.com/wudongdefeng/free/main/freevm/list_raw.txt",
+        "https://igdux.top/~Nekobox",
     ]
 
     decoded_links = decode_links(links)
