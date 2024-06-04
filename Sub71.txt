@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://your_password@43.206.127.212:443/?type=tcp&security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_003
+trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_004
 trojan://share.mjj-home.com@185.212.56.168:443/?type=tcp&security=tls&sni=share.softbank.mjj-home.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_005
 trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@qmyuj-1087-tr-0.d-kcd.tuil.xyz:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_006
 trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.35:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29_007
@@ -601,5 +603,3 @@ trojan://your_password@aws-jp-tokyo-1.f1cflinea.com:443/?type=tcp&security=tls&s
 trojan://your_password@aws-it-milan-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-it-milan-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_294
 trojan://your_password@aws-in-mumbai-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-in-mumbai-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_295
 trojan://your_password@aws-id-jakarta-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_296
-trojan://your_password@aws-id-jakarta-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_297
-trojan://your_password@aws-hk-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-hk-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_298
