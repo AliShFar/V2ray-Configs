@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://b00ac480-3e34-4ca9-8b3b-0b4515e4b75d@pt.mjt001.com:443?security=tls&sni=pt.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-20.249.8.245-9042%20github.com%2Fzengfr%2Ffree-vpn-subscribe
+trojan://b00ac480-3e34-4ca9-8b3b-0b4515e4b75d@il.mjt001.com:443?security=tls&sni=il.mjt001.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-20.27.65.141-9043%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sa.mjt001.com:443?security=tls&sni=sa.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.184.172-9045%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 vless://878b159d-7993-4f6c-ad4f-bf13ce18a993@itconet.ddns.net:443?encryption=none&security=tls&type=grpc&serviceName=Telegram%3A%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS&mode=gun#%40rayvps%7C%F0%9F%9A%A9%7C76.31%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@k-r01.xingyunwu.top:50020?sni=xingyunwu.top&type=tcp&headerType=none#8DKJ%7C%40Zyw_Channel%20github.com%2Fzengfr%2Ffree-vpn-subscribe
@@ -601,5 +603,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@154.197.75.80:8080/?type=ws&encrypt
 vless://8233b555-97f1-45e8-852e-19c03b9b7549@185.146.173.24:8880/?type=ws&encryption=none&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs&security=tls&sni=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_001
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@v2raygodvip--allh1.v2raygod.site:80/?type=ws&encryption=none&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=tls&sni=V2rayGodVip--free.azaronline.Org.&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_002
 vless://697d21e8-bf16-4fd4-bbdf-feb9c3e4b0e7@185.146.173.59:8080/?type=ws&encryption=none&path=%2F&security=tls&sni=hahaha.servernet.fun.&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_003
-vless://51701e0e-a004-4f2c-9466-9cd2670465b3@185.146.173.20:8080/?type=ws&encryption=none&path=%2Fbackup&security=tls&sni=uzA2KMsNyBLrRoJomW5L.NIgc-ar.nET&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_004
-vless://513f74b0-ada2-4360-b3ff-9bf4d22fd242@185.146.173.32:8080/?type=ws&encryption=none&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=tls&sni=xn--047h.v2raxx6.shop.&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_005

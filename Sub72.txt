@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://51701e0e-a004-4f2c-9466-9cd2670465b3@185.146.173.20:8080/?type=ws&encryption=none&path=%2Fbackup&security=tls&sni=uzA2KMsNyBLrRoJomW5L.NIgc-ar.nET&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_004
+vless://513f74b0-ada2-4360-b3ff-9bf4d22fd242@185.146.173.32:8080/?type=ws&encryption=none&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=tls&sni=xn--047h.v2raxx6.shop.&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_005
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443/?type=ws&encryption=none&path=Telegram-FreeVirGoolNet%2F%3Fed%3D2560&security=tls&sni=bIA-paiN-BaCHE.pAGES.Dev&fp=randomized&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_006
 trojan://your_password@aws-se-stockholm-1.f1rocketnode.com:443/?type=tcp&security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_007
 trojan://your_password@16.171.12.136:443/?type=tcp&security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AASE%28AzadNet.t.me%29_008
@@ -601,5 +603,3 @@ trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.208:443/?type=tcp&secu
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.206:443/?type=tcp&security=tls&sni=jp61.pqjc.buzz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_384
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443/?type=tcp&security=tls&sni=sg1.pqjc.buzz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_385
 trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.215:443/?type=tcp&security=tls&sni=sg1.pqjc.buzz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_386
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.195:443/?type=tcp&security=tls&sni=jp6.pqjc.buzz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_387
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.134.69:443/?type=tcp&security=tls&sni=jp5.pqjc.buzz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_388
