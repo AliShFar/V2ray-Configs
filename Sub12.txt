@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://9b524948-1212-4f43-8b5d-9c5ebcc8ea6c@172.67.148.32:2087?security=tls&sni=devil.xuii.sbs&type=grpc&fp=chrome#%E7%BE%8E%E5%9B%BD_0604183027
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.3.242:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0604183028
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@209.209.59.112:14050?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#%E7%BE%8E%E5%9B%BD_0604183029
 vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@108.162.192.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#%E7%BE%8E%E5%9B%BD_0604183030
 vless://7d140167-614e-47d8-8f05-8cf434ebc3d4@172.67.134.153:443?security=tls&sni=one.butterfly-galaxy.com&type=ws&path=%2Fone&fp=chrome#%E7%BE%8E%E5%9B%BD_0604183031
@@ -601,5 +603,3 @@ vless://919ed879-a2ae-4425-cd17-80ab84cdd7d7@203.32.121.53:2087?security=tls&sni
 vless://a175cf3b-772d-44ba-d079-7bab59087f54@203.32.121.53:443?security=tls&sni=vipnl.pablovpn.pw&type=grpc#%E8%8B%B1%E5%B1%9E%E7%BB%B4%E5%B0%94%E4%BA%AC%E7%BE%A4%E5%B2%9B_060418006
 vless://cd585c16-f36a-49b3-80b8-a18c496cdbea@203.32.121.53:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#%E8%8B%B1%E5%B1%9E%E7%BB%B4%E5%B0%94%E4%BA%AC%E7%BE%A4%E5%B2%9B_060418007
 vless://e0120bc7-3823-45f3-834b-0936c9520780@join.eliv2ray.io:80?encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&path=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY%2CV2ray.motorcycles.Elmahstyle.ir%3Fed%3D2048&security=none&type=ws#%E8%8D%B7%E5%85%B0_060418012
-vless://--Join-Telegram-ELiV2ray--@188.114.98.224:8080?host=El.V2ray.Community.&path=%2FJoin--ELiV2Ray.El.V2ray.community&security=none&type=ws#%E8%8D%B7%E5%85%B0_060418013
-vless://--Join--ELiV2ray--@188.114.98.224:8080?host=El.V2ray.Community.&path=%2FJoin--ELiV2Ray.El.V2ray.community&security=none&type=ws#%E8%8D%B7%E5%85%B0_060418014
