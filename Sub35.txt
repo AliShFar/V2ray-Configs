@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7015
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7016
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7017
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7018
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7019
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.180:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7020
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.65:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7021
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.66.128.216:2000?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4Kian-7022
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.66.128.216:2000?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#4Kian-7023
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.78.16.178:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4Kian-7024
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7025
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#4Kian-7026
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.229:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#4Kian-7027
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.27:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#4Kian-7028
@@ -603,3 +592,14 @@ vless://41632df1-92bc-40af-8382-5d46f7725a9a@sg-full.privateip.net:2003?type=grp
 vless://41632df1-92bc-40af-8382-5d46f7725a9a@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#4Kian-7612
 vless://41632df1-92bc-40af-8382-5d46f7725a9a@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#4Kian-7613
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2087?security=tls&sni=s1.darroborobinim.com&type=grpc&fp=chrome#4Kian-7614
+vless://4174db66-4688-410b-b847-90ee8e570831@104.168.107.230:6067?security=reality&flow=xtls-rprx-vision&sni=themeforest.net&type=tcp&fp=chrome&pbk=5JlDUnqfJV4tNLiIn1ctcPRaGVxGdNrjfF5QMD0lLFM&sid=7a922f4091d33d43#4Kian-7615
+vless://417c54fa-78c7-492f-bbc9-66f61be02ced@104.20.80.89:2083?security=tls&sni=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&type=ws&host=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#4Kian-7616
+vless://417c54fa-78c7-492f-bbc9-66f61be02ced@162.159.40.113:2083?security=tls&sni=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&type=ws&host=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=http/1.1#4Kian-7617
+vless://418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?security=reality&flow=xtls-rprx-vision&sni=www.openoffice.org&type=tcp&fp=chrome&pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&sid=4c9dbb0cb1f36dab#4Kian-7618
+vless://41a7bbee-fc27-48ec-ce69-cf4214e9b93b@fi2.iranbax.cfd:8443?security=reality&sni=greenpepper.ir&fp=chrome&pbk=d_PryPoPxwX_0FUh7Eulm7Fzf73MeoTHRHvxK-pWaBI&sid=9825&spx=/&type=grpc&serviceName=TelegramID:@iranbaxvpn&encryption=none#4Kian-7619
+vless://41aad71a-7455-4ad2-85f7-a9f1fec48e19@melonmusic.ir:8880?encryption=none&host=kiava.aws.amazon.com.fx2.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun&path=%2Fkiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%3Fed%3D2048&security=none&type=ws#4Kian-7620
+vless://41e6771d-a96e-487a-bdae-bf1356ce8809@104.21.62.65:2083?security=tls&sni=X2ray-Team.bigbang87.sbs&type=ws&path=%2F&fp=chrome#4Kian-7621
+vless://41e6771d-a96e-487a-bdae-bf1356ce8809@172.67.221.11:2083?security=tls&sni=X2ray-Team.bigbang87.sbs&type=ws&path=%2F&fp=chrome#4Kian-7622
+vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&sid=cb590e6fe1b987bc#4Kian-7623
+vless://420cdff4-40fa-4b49-a078-008c5475bce1@188.212.97.62:2023?security=none&type=tcp&host=playstation.com&headerType=http#4Kian-7624
+vless://420cdff4-40fa-4b49-a078-008c5475bce1@85.133.201.13:2023?security=none&type=tcp&host=playstation.com&headerType=http#4Kian-7625

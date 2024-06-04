@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2&encryption=none#%F0%9F%94%97%20Vauth%20-%202391
-vless://48201c60-6fbc-4cef-a59f-435eff793c70@168.100.6.236:443?security=tls&sni=freetls.951314.xyz&alpn=h2&type=ws&path=/?ed%3D2560&host=freetls.951314.xyz&encryption=none#%F0%9F%94%97%20Vauth%20-%202398
-vless://fb9ca098-c0a3-4f13-9b4a-ea31975d69a7@172.66.44.73:443?security=tls&sni=pardazeshvpn-tg2.pages.dev&type=ws&path=/?ed%3D2048&host=pardazeshvpn-tg2.pages.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%202399
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.123.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=/?ed%3D2048&host=mmdv2.pages.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%202404
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.57.240:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws&path=/&encryption=none#%F0%9F%94%97%20Vauth%20-%202408
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&sni=3k.pureboy.eu.org&type=ws&path=/&host=3k.pureboy.eu.org&encryption=none#%F0%9F%94%97%20Vauth%20-%202415
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2&encryption=none#%F0%9F%94%97%20Vauth%20-%202417
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.25.255.254:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1&type=ws&path=/&host=cf-wkrs-pages-vless-aoy.pages.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%202419
 vless://be920353-91a0-4d35-be2d-48dc2d4ed8dd@172.64.146.80:443?security=tls&sni=de1.v2vless.xyz&type=ws&path=@FRAv2ray,@FRAv2ray,@FRAv2ray/&host=de1.v2vless.xyz&encryption=none#%F0%9F%94%97%20Vauth%20-%202420
@@ -603,3 +597,9 @@ vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@cdn-all.xn--b6gac.eu.org:443?securi
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@node.vauth.workers.dev:443?security=tls&sni=node.vauth.workers.dev&type=ws&path=/?ed%3D2048&host=node.vauth.workers.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%2037
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@workers.cloudflare.cyou:443?security=tls&sni=node.vauth.workers.dev&type=ws&path=/?ed%3D2048&host=node.vauth.workers.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%2038
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&path=Tel-@V2ray_Alpha/?ed%3D2560&host=e10c0e4b.oodaeq2.pages.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%204379
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&sni=miumiUMadReKoSE.pAgES.dEv&type=ws&path=Telegram@SiNABiGO/?ed%3D2048&host=miumiUMadReKoSE.pAgES.dEv&encryption=none#%F0%9F%94%97%20Vauth%20-%204402
+vless://5bdf790f-0af2-4481-a624-41b66e7e3489@188.114.99.99:443?security=tls&sni=cdn.ircp.online&alpn=h2,http/1.1&type=ws&path=/@ln2ray?ed%3D2048&host=cdn.ircp.online&encryption=none#%F0%9F%94%97%20Vauth%20-%204404
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&path=/SiNABiGO-SiNABiGO?ed%3D2560&host=e10c0e4b.oodaeq2.pages.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%204405
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&path=Telegram@SiNABiGO/?ed%3D2560&host=e10c0e4b.oodaeq2.pages.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%204406
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&alpn=h2,http/1.1&type=ws&path=/&host=HovEYda-arIamehr-KINg.pAgES.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%204442
+vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&alpn=h2,http/1.1&type=ws&path=/&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&encryption=none#%F0%9F%94%97%20Vauth%20-%204444
