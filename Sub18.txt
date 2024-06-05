@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
@@ -603,3 +601,5 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?encryption=none&t
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed&host=turkmenistan.armanibash.Shop.&security=tls&alpn=http%2F1.1&fp=firefox&fragment=tlshello%2C50-100%2C10-20&sni=turkmenistan.armanibash.Shop.#200-%F0%9F%87%A8%F0%9F%87%A6CA_207_%40Surfboardv2ray
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?encryption=none&type=ws&path=%2FSiNABiGO-SiNABiGO%3Fed%3D2048&host=jd.wxgqlfx.top&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-20%2C10-20&sni=jd.wxgqlfx.top#201-%F0%9F%87%A8%F0%9F%87%A6CA_148_%40Surfboardv2ray
 vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:443?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=ffffrwewrg3.af3025eb2e.workers.dev&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=ffffrwewrg3.af3025eb2e.workers.dev#202-%F0%9F%87%A8%F0%9F%87%A6CA_352_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyMDMt8J+HqPCfh6ZDQV8xMl9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiI4NTUub3V0bGluZS12cG4uY2xvdWQiLCJwb3J0Ijo0NDMsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiZmlyZWZveCJ9
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@172.67.135.195:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed&host=who-doesnt-care.BacheBiaPain.IR&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=who-doesnt-care.BacheBiaPain.IR#204-%F0%9F%87%A8%F0%9F%87%A6CA_105_%40Surfboardv2ray
