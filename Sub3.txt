@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://3016208c-99d9-47c2-b543-3aa10079b04c@77.91.73.60:2087?security=reality&sni=www.cloudflare.com&type=grpc&serviceName=xyz&fp=chrome&pbk=Wox7ezFSL4hvAucHpEIIwk6xYH7abl-VykaG8QKyYRQ&sid=7e29a96a296d3fe1#%E5%BE%B7%E5%9B%BD_060604133
-vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#%E5%BE%B7%E5%9B%BD_060604134
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.13.10.226:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#%E5%BE%B7%E5%9B%BD_060604135
 vless://0aec0e6f-5a12-4405-a742-b8e2f26a381f@164.90.162.16:6969?security=reality&sni=cdn.discordapp.com&type=h2&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#%E5%BE%B7%E5%9B%BD_060604136
 vless://33043f58-e966-43d0-d4ea-b929627b44f8@49.13.73.9:443?security=reality&sni=help.mega.io&type=grpc&serviceName=@Hatunnel_vpn,@Hatunnel_vpn,@Hatunnel_vpn&fp=firefox&pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&sid=15ed3de4#%E5%BE%B7%E5%9B%BD_060604137
@@ -603,3 +601,5 @@ vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?alpn=h2%2Chttp%2F1
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.206.92:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#%E6%9C%AA%E7%9F%A5_0606041370
 vless://f21bd1f1-e293-40a0-974b-8825eaf89e66@104.17.42.10:2083?security=tls&sni=dlqz.meysaam.com&type=grpc&fp=chrome#%E6%9C%AA%E7%9F%A5_0606041371
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.14.166:443?security=tls&sni=mAMane-fIlTerChI.Pages.dEv&type=ws&host=MAMANe-FIltErcHI.PagEs.DeV&path=%2FV0RuL10t23MfbzOt%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0606041372
+vless://ffcb16ff-bb76-48b3-a44c-06bdf35e8482@104.21.45.136:443?security=tls&sni=free.itsvpns.app&type=ws&host=free.itsvpns.app&path=/wsfree&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0606041373
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.62.208:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0606041374

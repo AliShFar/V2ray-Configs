@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.42:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0606043538
-vless://ca510fb3-9a46-4b3c-a2a6-4c80a6431bd9@172.66.47.158:2052?security=none&type=ws&host=KCAGlE.eiTAa.biO&path=%2F#%E7%BE%8E%E5%9B%BD_0606043539
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.231:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0606043540
 vless://fbdf202a-02b0-486e-a8f7-3fde4398ffec@172.67.190.127:2095?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0606043541
 vless://01ab9337-f478-4765-9534-88f009f83ddb@129.146.7.98:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#%E7%BE%8E%E5%9B%BD_0606043542
@@ -603,3 +601,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.87:443?security=tls&sni
 vless://a8cf6935-bf38-4bb6-a9a2-ebb02e340de1@31.41.33.105:8080?security=none&type=tcp#%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_060604001
 vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#%E9%98%BF%E6%A0%B9%E5%BB%B7_060604002
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.190:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E9%98%BF%E8%81%94%E9%85%8B_060604001
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E9%98%BF%E8%81%94%E9%85%8B_060604002
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F#%E9%98%BF%E8%81%94%E9%85%8B_060604003

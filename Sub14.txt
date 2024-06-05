@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E9%98%BF%E8%81%94%E9%85%8B_060604002
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F#%E9%98%BF%E8%81%94%E9%85%8B_060604003
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.242:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E9%98%BF%E8%81%94%E9%85%8B_060604006
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.234:2087?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%E9%98%BF%E8%81%94%E9%85%8B_060604007
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@181.214.1.244:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#%E9%98%BF%E8%81%94%E9%85%8B_060604008
@@ -603,3 +601,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@118.163.128.81:12559?encryption=non
 vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@8.222.129.32:2087?encryption=none&security=tls&sni=cf.xujiang.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#%E6%96%B0%E5%8A%A0%E5%9D%A1%28t.me%2Fvvkj11%29%0D_79_135
 vless://ce526092-81c1-42be-8354-88e58946c1f3@monardas.aurorainiceland.com:443?encryption=none&security=tls&sni=monardas.aurorainiceland.com&type=ws&path=%2Fnimws#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_26_136
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.79.77:2083?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_27_137
+vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@8.222.175.78:8443?encryption=none&security=tls&sni=cf.xujiang.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#%E6%96%B0%E5%8A%A0%E5%9D%A1%28t.me%2Fvvkj11%29%0D_80_138
+vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@8.222.150.197:2087?encryption=none&security=tls&sni=cf.xujiang.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#%E6%96%B0%E5%8A%A0%E5%9D%A1%28t.me%2Fvvkj11%29%0D_81_139

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.16.219.243:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0606042547
-vless://10716279-b1ee-41d8-b63e-87782088305b@104.21.42.237:443?security=tls&sni=HEY.bAcHebiaPAiN.ir&type=ws&host=heY.baChEBiaPAIn.IR&path=/mF860rs7nsQwdqJk?ed%3D2560&fp=randomized&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0606042548
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.1.33:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#%E6%9C%AA%E7%9F%A5_0606042549
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.230.114:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#%E6%9C%AA%E7%9F%A5_0606042550
 vless://31192093-c3c9-442e-b9f3-4b9a7eec04d6@104.21.64.138:443?security=tls&sni=puRPLe.meHdIzRg88.WOrkErS.DEV&type=ws&host=puRple.mEHdIzRg88.wOrkerS.dEv&path=%2F_3_3pBaQsW-r5T-s%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#%E6%9C%AA%E7%9F%A5_0606042551
@@ -603,3 +601,5 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.152.239:443?security=tls&sn
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&sni=BIa-PAiN-BAChe.PAGeS.dev&type=ws&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=chrome#%E6%9C%AA%E7%9F%A5_0606043132
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.237.5:80?type=ws&host=us3.rtacg.com&path=%2F#%E6%9C%AA%E7%9F%A5_0606043133
 vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_0606043134
+vless://fe1281aa-5b5f-405c-cb72-b34e2c923f90@104.20.154.201:443?security=tls&sni=max-allnet.mpyana.ir&type=grpc&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_0606043135
+vless://119f959d-2fef-4fa6-8f86-698e760b6e01@104.17.231.29:8443?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=h2#%E6%9C%AA%E7%9F%A5_0606043136
