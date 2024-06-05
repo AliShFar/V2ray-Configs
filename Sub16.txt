@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIndlYi5jb20iLCAicG9ydCI6ICIyMDUyIiwgInR5cGUiOiAiYXV0byIsICJpZCI6ICJhMWVjMzIxMS1iMWZmLTRlNTMtYTcyOS1lNWI3YjU1NTY3ZWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImFsaXl1bl9oazEuY24yLmZyZWUuaHIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2375#%E5%8A%A0%E6%8B%BF%E5%A4%A7%2B%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%A4%9A%E4%BC%A6%E5%A4%9ABunnyCDN%E8%8A%82%E7%82%B9
+trojan://telegram-id-directvpn@3.77.51.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#美国+Amazon+EC2服务器
 trojan://telegram-id-privatevpns@54.217.214.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#爱尔兰+都柏林Amazon数据中心
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42Ny4yMDQuODQiLCAicG9ydCI6IDIwOTUsICJpZCI6ICJlZGYyYmM4NC04NzIzLTRjOTgtODJkMy01MmEzYTU5ODc1YTQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogIkFzZGZnaGprbDEwLnVuaXF1ZTY5LmNvbS4iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#%E6%B3%95%E5%9B%BD%2BOVH
@@ -600,6 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@wxwctxxx.arvancode.eu.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@zhuanfayyds.xn--pssq69d.xyz:64156#%E6%96%B0%E5%8A%A0%E5%9D%A1%2002
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:8443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ac%f0%9f%87%a7+GB+%e8%8b%b1%e5%9b%bd+76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#TG%E9%A2%91%E9%81%93%3A%40hkaa0%E2%96%93%E8%8B%B1%E5%9B%BD%0D_1
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsfCfh7pfTFVf5Y2i5qOu5aChIiwiYWRkIjoiNDUuODIuMzEuMTY0IiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidGxzIjoiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzcuNjUiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsICJob3N0IjogImEucHJhcHQ0LmlyIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEBXYW5nQ2FpXzgifQ==
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@112.168.91.60:18888?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-HK-Hong%20Kong12

@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
 			"server" : "nk6.boom.skin",
 			"server_port" : 16000,
 			"server_udp_port" : 0,
@@ -600,6 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?encryption=none&ty
 vmess://eyJ0eXBlIjoiIiwicHMiOiIyMjgt8J+HqPCfh6ZDQV8yMF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxMDQuMjEuMTUuMjEyIiwicG9ydCI6NDQzLCJpZCI6Ijc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnbHdlaWRmLnNicyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSJ9
 vmess://eyJ0eXBlIjoiIiwicHMiOiIyMjkt8J+HqPCfh6ZDQV82MV9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiJ1cGxvYWQuaXIiLCJwb3J0Ijo0NDMsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNuaSI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsImhvc3QiOiJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoicmFuZG9taXplZCJ9
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.167.154:443?encryption=none&type=ws&path=%2F07n1q4ys4Pwba7qM&host=sANDWOrm.pAGEs.DeV&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C10-50%2C20-50&sni=sandWorm.PaGES.DEv#230-%F0%9F%87%BA%F0%9F%87%B8US_396_%40Surfboardv2ray
-vless://9f5b4bbf-a758-4801-875c-0d6903bb9efd@104.21.24.40:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=esetsecuritylicense.modezdlg.workers.dev&security=tls&alpn=http%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C20-50&sni=esetsecuritylicense.modezdlg.workers.dev#231-%F0%9F%87%A8%F0%9F%87%A6CA_250_%40Surfboardv2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?encryption=none&type=ws&path=%2FOyaFdNKpGFcX0BjG%3Fed%3D2048&host=MIumIumADrEkOsE.pAGeS.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=miumiUMadReKoSE.pAgES.dEv#232-%F0%9F%87%A8%F0%9F%87%A6CA_229_%40Surfboardv2ray
-vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F&host=turkmenistan.armanibash.Shop.&security=tls&alpn=http%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C20-50&sni=turkmenistan.armanibash.Shop.#233-%F0%9F%87%A8%F0%9F%87%A6CA_204_%40Surfboardv2ray
