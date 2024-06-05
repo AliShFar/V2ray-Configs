@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@104.21.84.180:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&path=LOCKEY_VPN/?ed%3D2048&host=edtunnel-b6t.pages.dev&encryption=none#@Vip_Security%20join%20us%20-%202113
 vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@104.21.84.180:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&path=/&host=edtunnel-b6t.pages.dev&encryption=none#@Vip_Security%20join%20us%20-%202112
 vless://c52ad91d-0854-4094-9ad1-9b18491505fc@zula.ir:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&alpn=http/1.1&type=ws&path=/Telegram%20Join:%20@DisVpn,Telegram%20Join:%20@DisVpn&host=join-telegraam-channel-disvpn.pages.dev&encryption=none#@Vip_Security%20join%20us%20-%202102
 vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@tere.minusober.com:443?security=tls&sni=tere.minusober.com&type=ws&path=/tere&host=tere.minusober.com&encryption=none#@Vip_Security%20join%20us%20-%202099
@@ -603,3 +602,4 @@ vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@185.146.173.94:443?security=tls&sni
 vless://66ddc77f-e9c2-49cf-87bc-b92ee809cfcc@104.18.27.94:443?security=tls&sni=esetsecuritylicense.vowexa5791.workers.dev&type=ws&path=/?ed%3D2560&host=esetsecuritylicense.vowexa5791.workers.dev&encryption=none#@Hope_Net-join-us-on-Telegram
 vless://db03001c-2a38-443d-e3bb-1f96ad12b282@104.21.62.105:443?security=tls&sni=v11.rayvenstorm.com&alpn=h2,http/1.1&type=ws&path=/zz&encryption=none#@Hope_Net-join-us-on-Telegram
 vless://9d4c313e-02ed-42ee-be9a-7fe3eebe81a0@172.67.204.84:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&alpn=http/1.1&type=ws&path=/TelegramJoin:@DisVpn,TelegramJoin:@DisVpn&host=join-telegraam-channel-disvpn.pages.dev&encryption=none#@Hope_Net-join-us-on-Telegram
+vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@tere.minusober.com:443?security=tls&sni=tere.minusober.com&type=ws&path=/tere&encryption=none#%E2%99%8B11@oneclickvpnkeys

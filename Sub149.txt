@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#TelegramID%28%40Outline_Vpn%29+235
 vless://Parsashonam-78@190.93.247.155:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mail.offch.blog&fp=chrome&type=ws&sni=mail.offch.blog#%40Parsashonam+%F0%9F%87%A9%F0%9F%87%AA%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D9%88+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
 vless://SVNTEAMz@discord.gg:8080/?type=ws&path=%2F&host=SvnTeamPO.xn--fhq0la447aac5504dea701axr1g.com.&security=none#@ASATeam
 vless://7988ab8b-3fac-4de5-c670-8b1bc69e0987@85.133.237.145:36579?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%A8V2RAY_PORT%E2%9C%A8
@@ -603,3 +602,4 @@ vless://%54%65%6c%65%67%72%61%6d%2d%4d%73%56%32%72%61%79%2d%4d%73%56%32%72%61%79
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#%40Ammar_Taraz
 vless://ea2361b1-d4a9-46c8-8193-a8bc9575be0a@www.dota2.com:2083/?type=grpc&serviceName=Channel---Telegram---IHPARK---IHPARK---Telegram---IHPARK---IHPARK---Telegram---IHPARK---IHPARK---Telegram---IHPARK---IHPARK---Telegram---IHPARK---IHPARK---Telegram---IHPARK---IHPARK---Telegram---IHPARK---IHPARK&security=tls&fp=chrome&alpn=h2&sni=Cloud.zed-zoon.tech#%40IHPARK%20%F0%9F%87%AB%F0%9F%87%AE-9n70n8a1
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?encryption=none&security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=%2F#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40U_CONFINGVPN
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.147:443?path=%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=ZTV2RAY.pages.dev&fp=chrome&type=ws&sni=ZTV2RAY.pages.dev#%40v2naptv+%F0%9F%87%BA%F0%9F%87%B2

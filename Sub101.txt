@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://Telegram-ipV2Ray-uie@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&type=ws#%40IR_ProxyV2ray+%7C+All++%F0%9F%87%A9%F0%9F%87%AA+%D8%A8%D8%B1%D8%A7%DB%8C+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%DA%A9%D8%A7%D9%86%D8%A7%D9%84
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?security=reality&sni=greenpepper.ir&type=grpc&fp=chrome&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&sid=a62fe261#🔒VL-GRPC-RLT🇩🇪DE-91.107.179.99:443
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.41.138:8443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&type=ws&sni=pardazesh-tgws.pages.dev#@V2rayi_net
 vless://Parsashonam-72@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#%E2%9C%85+%40V2RAYVlP++36
@@ -603,3 +602,4 @@ vless://ac3f7b7b-e6ee-4bb4-b9d4-e725c4466aba@185.146.173.82:2082?path=%2FFree+V2
 vless://ef720846-60a1-41ec-98cf-bf85e4d797a8@185.146.173.122:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇩🇪@V2ray_official|All
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#%40NPV_V2RAY
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?encryption=none&security=tls&sni=Bia.alLhub.Ltd&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=biA.ALlhub.LTD&path=%2F%3Fed%3D2048#%40TeiknoVPN%20%F0%9F%98%81%2016
+vless://952f3e3c-84cb-4d00-aae3-f677d8dac0a0@91.107.130.94:57927?security=none&encryption=none&headerType=none&type=tcp#1

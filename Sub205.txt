@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.61.8:2082?encryption=none&security=none&type=ws&host=us2.rtacg.com&path=%2F#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.61.8%3A2082
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:2086?encryption=none&security=none&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fahmedquran19.xyz%2Fcurrent_time#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.61.8%3A2086
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@104.21.232.77:443?encryption=none&security=tls&sni=drug195.nimserver.top&type=ws&host=drug195.nimserver.top&path=%2Fparadise#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.232.77%3A443
 trojan://qj1Dz1CJmFQRhWr1SP80aA@104.21.69.44:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&authority=&serviceName=443trojan&mode=gun#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_322
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#%E6%B3%A2%E5%85%B0_%
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%E7%BE%8E%E5%9B%BD_%E9%81%94%E6%8B%89%E6%96%AF
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1MmEwXHU2MmZmXHU1OTI3X1x1NTkxYVx1NGYyNlx1NTkxYSIsICJhZGQiOiAicnVzc2lhLmNvbSIsICJwb3J0IjogODg4MCwgImlkIjogIjY0YTU3YjVmLTQ1ZTAtNDBjMy04MzE2LTk3ZDBmZjUzZmQ5NiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAic3NzdWIudjIuMDAxLnNzcnN1Yi5jb20iLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1MmEwXHU2MmZmXHU1OTI3X1x1NTkxYVx1NGYyNlx1NTkxYSIsICJhZGQiOiAiMTcyLjY3LjE2NC43OCIsICJwb3J0IjogMjA1MiwgImlkIjogImMyODZkYWEyLTU5ZGUtNDU1Yy04ZGU4LWVjMDMyYjZjZTJlOCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiaW4zLndpc2gubWwiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=cdn-21.gsmxreality.com&allowInsecure=1&serviceName=443trojan#%E5%8A%A0%E6%8B%BF%E5%A4%A7_%E5%A4%9A%E4%BC%A6%E5%A4%9A

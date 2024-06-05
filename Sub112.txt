@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://e1c3ece5-c66c-497a-8230-ffea12989688@mci.join-pov2ray.sbs:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@PoV2ray&sni=ChanelMa.PoV2ray.cfd#-ChanelMa%3A%40PoV2ray
 vless://2880d739-64ef-4d82-b6fe-a96c3a053bd7@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?type=ws&security=tls&host=bIa-pAiN-bAChe.pages.DeV&path=/dOqNXiL2NuCZE5hn?ed%3D2560&fp=randomized&sni=bia-pAIN-bachE.pAGES.DEv&alpn=h2,http/1.1#@VPN_VIP_NOR(ALL)57
 vless://9e12bd42-0f65-4467-b9fb-b9bca2b9013b@104.20.116.133:443?path=%2FLnXosxOzRSEuGg9y%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tODdsaNTOS.paGEs.dEV&fp=chrome&type=ws&sni=TODdsaNtOS.PAGes.dev#%40V2ray1_Ng+ALL
@@ -603,3 +602,4 @@ vless://5918eb34-eee9-4848-9a5e-8bfd162aa0c8@webshecan.mywire.org:2087?security=
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2FTelegram-MARAMBASHI%2F%3Fed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#%40Clubvpn443++%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%AA%D9%88%D8%B1%D8%A7
 vless://af6db950-cc84-467b-a68f-dfa06352a074@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#%40Express_freevpn%5B%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%5D%F0%9F%8D%93
 vless://Telegram-ipV2Ray-toq@185.146.173.58:80?type=ws&path=/Telegram-ipV2Ray?ed%3D2048&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#WS1-m_vipv2ray@m_vipv2ray
+vless://fb225724-1ce8-463f-8d9b-239b67d64d80@104.19.54.50:443?path=%2F&security=tls&encryption=none&host=SHHPROXY.snaapfood.org&type=ws&sni=SHHPROXY.snaapfood.org#meli_v2rayng

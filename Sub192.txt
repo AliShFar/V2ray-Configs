@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxNzIuNjcuMjI5LjEwIiwiYWlkIjoiMCIsImhvc3QiOiJmcjQudjItdGVoLmZ1biIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL0pudjhWaVpPVVZnaWpqT2gwcDV1R2pIblhJaVkiLCJwb3J0IjoiMjA5NSIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDQuMTcuNDIuMTAiLCJhaWQiOiIwIiwiaG9zdCI6IlRyZWUuQmxhbmt1Lk1lIiwiaWQiOiJjNzY3NjJmNy1hZTNkLTRmZDgtOThiMi05YzNmOTc2N2M4YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNDk0MDYiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IlJvY2twLkJsYW5rdS5NZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -603,3 +602,4 @@ vless://2402c54c-1008-4cd0-c7fa-abfea8ffe8ab@77.91.84.236:33701/?type=http&encry
 vless://b971ab42-5a1f-42bb-9b49-fe3924fb9106@104.16.104.11:2087/?type=grpc&encryption=none&security=tls&sni=mlgmjgkjkughgvhmvghjjmvmv.mic-mokhaderat-irancell-shatel-irancel.shop#t.me%2FConfig_Station
 vmess://eyJhZGQiOiJzaGV5c29uLm1vbnN0ZXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImUzOWEzOGI4LTc3OTAtNDc2NC05Nzk0LTViYThiMGRmZWE2NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODEiLCJwcyI6InQubWUvQ29uZmlnX1N0YXRpb24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJzaGV5c29uLm1vbnN0ZXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImUzOWEzOGI4LTc3OTAtNDc2NC05Nzk0LTViYThiMGRmZWE2NiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoidC5tZS9Db25maWdfU3RhdGlvbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://329d5421-31d5-4631-a4f8-1e04aa0c06b9@sheyson.monster:8443/?type=tcp&encryption=none&sni=discordapp.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#t.me%2FConfig_Station
