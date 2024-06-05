@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.171.182:11659?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E9%9F%A9%E5%9B%BD_060523013
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.122.16:40377?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E9%9F%A9%E5%9B%BD_060523022
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.130.201:8443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#%E9%9F%A9%E5%9B%BD_060523024
 vless://d7dd3a35b68b4992b319a85b8a1fc8e5@3.35.139.150:8443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#%E9%9F%A9%E5%9B%BD_060523025
@@ -603,3 +602,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@128.22.132.227:443?encryption=none&
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@47.236.97.254:8443?encryption=none&security=tls&sni=dns68.shift.cloudns.org&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_31_152
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@47.236.123.133:2083?encryption=none&security=tls&sni=dns68.shift.cloudns.org&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_32_153
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.75.113:8443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_33_154
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.130.95:8443?encryption=none&security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD%28t.me%2Fvvkj11%29%0D_34_155

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.7:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_060523024
 vless://f3c511ab-dc15-4147-ae80-6c892d6f9ad0@185.162.228.36:443?security=tls&sni=j1us3.jsjc.sbs&type=ws&path=/jsjc/us3#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_060523025
 vless://28585055-e1e3-4edd-be4d-92c779981139@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com.&path=%2F%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER&security=none&type=ws#%E4%BC%8A%E6%9C%97_060523001
 vless://68c421f0-278b-4fa4-9115-d86ee41d8798@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?encryption=none&host=V2ray-_-_-_-_-_-CUSTOMVPNSERVER.oNlineDoWnloaderFIle.com.&path=%2FCUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER&security=none&type=ws#%E4%BC%8A%E6%9C%97_060523002
@@ -603,3 +602,4 @@ vless://0aec0e6f-5a12-4405-a742-b8e2f26a381f@164.90.162.16:6969?security=reality
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?security=reality&sni=greenpepper.ir&type=grpc&fp=chrome&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&sid=a62fe261#%E5%BE%B7%E5%9B%BD_060523153
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.13.10.226:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#%E5%BE%B7%E5%9B%BD_060523154
 vless://731b6dc7-d0d8-4cc5-a0fb-058250ca94df@91.107.199.96:443?security=reality&sni=*.hetzner.com&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=lCzFlKDzMEcuz4bD0Dxj-Bx6qoZZoTU7f-OLZbP42CQ&sid=c7be06f8#%E5%BE%B7%E5%9B%BD_060523155
+vless://73ad1661-b2da-4844-8427-890a9a8995b1@104.248.42.77:443?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=WSoK4aff6cLPU2GrkECLOgqX3_XxLGry3aNn7b12MSw&sid=73da32ed#%E5%BE%B7%E5%9B%BD_060523156
