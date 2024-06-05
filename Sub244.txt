@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://cec345db-3d0f-4b59-8499-f9780491b717@104.18.14.118:80?security=tls&sni=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20@vmessorg%20%7C%200
 vless://42b4677d-0557-4a8d-a3a5-7cb928a31e54@104.18.14.118:80?security=tls&sni=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20@vmessorg%20%7C%202
 vless://ad0c0280-dee4-4b30-a603-204078f6341f@104.17.242.82:80?security=tls&sni=vmessorg1.xn--54qv00ez5ar77g.co.&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20@vmessorg%20%7C%203
 vless://ad0c0280-dee4-4b30-a603-204078f6341f@104.18.14.118:80?security=tls&type=ws&path=/Telegram:&encryption=none#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20@vmessorg%20%7C%204
@@ -603,3 +602,4 @@ vless://cb211e44-7725-4ddc-b52e-6a0059162fde@discord.gg:443?security=tls&sni=moZ
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@190.93.246.241:443?security=tls&sni=moZ.soft98.deDYn.io&type=ws&path=/?ed%3D2048&host=MoZ.SOFt98.dEdyn.Io&encryption=none#@Vip_Security%20join%20us%20-%202136
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?security=tls&sni=root.configforvpn.fun&alpn=h2,http/1.1&type=ws&path=/cdn&host=root.configforvpn.fun&encryption=none#@Vip_Security%20join%20us%20-%202131
 vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@104.21.84.180:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&path=LOCKEY_VPN/?ed%3D2048&host=edtunnel-b6t.pages.dev&encryption=none#@Vip_Security%20join%20us%20-%202113
+vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@104.21.84.180:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&path=/&host=edtunnel-b6t.pages.dev&encryption=none#@Vip_Security%20join%20us%20-%202112

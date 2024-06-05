@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@node.vauth.workers.dev:8080?security=&type=ws&path=/?ed%3D2048&host=node.vauth.workers.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%201
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@workers.cloudflare.cyou:8080?security=&type=ws&path=/?ed%3D2048&host=node.vauth.workers.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%202
 vless://13c6d5fe-2d9f-41dd-8a33-618ec0843a2f@www.speedtest.net:8080?security=&type=ws&path=/&host=xn--047h.iman-v2ray.sbs.&encryption=none#%F0%9F%94%97%20Vauth%20-%204397
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.144.48:8080?security=&sni=hk112.ylks.link&type=ws&path=/youtube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B&host=hk112.ylks.link&encryption=none#%E6%96%B0%E5%8A%A0%E5%9D%A1_%E6%96%B0%E5%8A%A0%E5%9D%A1
@@ -603,3 +602,4 @@ vless://118584c9-858f-4689-9243-a808bde1437b@www.speedtest.net:443?security=tls&
 vless://cf3e4686-643f-4ae9-8248-44cfa246e6b5@172.64.34.237:443?security=tls&sni=v2rayfree1.botv2rayfree1.site&alpn=h2,http/1.1&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&encryption=none#@Hope_Net-join-us-on-Telegram
 vless://5d0245cd-8412-4a32-b52c-ef810651e65b@103.184.44.173:443?security=tls&sni=digi--v2raycncfs.RadioTeHran.oRG.&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&encryption=none#@Hope_Net-join-us-on-Telegram
 vless://6f44a09e-d728-45ca-8d31-a033cfdbcaf2@all.vipxali.cfd:443?security=tls&sni=mx.XsV2ray.cfd&type=grpc&serviceName=@XsV2ray,@XsV2ray&encryption=none#[%F0%9F%9B%B8]+%E2%9E%A0+@V2ray_official
+vless://5d0245cd-8412-4a32-b52c-ef810651e651@185.146.173.59:443?security=tls&sni=digi--v2raycncfs.RadioTeHran.oRG&alpn=@bored_vpn,@bored_vpn&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&encryption=none#@Hope_Net-join-us-on-Telegram

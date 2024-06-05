@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://5d0245cd-8412-4a32-b52c-ef810651e651@185.146.173.59:443?security=tls&sni=digi--v2raycncfs.RadioTeHran.oRG&alpn=@bored_vpn,@bored_vpn&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&encryption=none#@Hope_Net-join-us-on-Telegram
 vless://7f2281d3-0a4d-4dc0-915c-a67a4f43cfd0@104.22.16.171:443?security=tls&sni=go...&type=grpc&encryption=none
 vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@193.134.100.225:443?security=tls&sni=zac1.striside.com&type=grpc&encryption=none#@NETMelliAnti
 vless://BugFreeNet2@yourlasthost.com:443?security=tls&type=grpc&serviceName=@BugFreeNet&encryption=none#@Hope_Net-join-us-on-Telegram
@@ -603,3 +602,4 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.141.99:2087?security=tls&sni
 vless://21c67716-e8cb-452d-a36c-a6ca41e17d1a@104.21.79.143:2087?security=tls&sni=re3.v2logy.xyz&alpn=http/1.1&type=grpc&encryption=none#%F0%9F%94%97%20Vauth%20-%203000
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.15.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&encryption=none#%F0%9F%94%97%20Vauth%20-%203029
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.24.32.188:2087?security=tls&sni=melody.howareu.xyz&type=grpc&encryption=none#%F0%9F%94%97%20Vauth%20-%203050
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.26.6.65:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&encryption=none#%F0%9F%94%97%20Vauth%20-%203086
