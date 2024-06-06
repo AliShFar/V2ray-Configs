@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
@@ -603,3 +596,10 @@ vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@172.67.135.195:443?encryption=none&
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F%3Fed&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C10-20%2C10-50&sni=turkmenistan.armanibash.Shop.#227-%F0%9F%87%A8%F0%9F%87%A6CA_196_%40Surfboardv2ray
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed&host=who-cares.BacheBiaPain.IR&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-50&sni=who-cares.BacheBiaPain.IR#228-%F0%9F%87%A8%F0%9F%87%A6CA_83_%40Surfboardv2ray
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?encryption=none&type=ws&path=%2F%40bypass_filter%2F%3Fed%3D2048&host=bypass.dd-6b2.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C20-50%2C10-50&sni=bypass.dd-6b2.workers.dev#229-%F0%9F%87%A8%F0%9F%87%A6CA_311_%40Surfboardv2ray
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?encryption=none&type=ws&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed&host=who-cares.BacheBiaPain.IR&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C50-100%2C10-20&sni=who-cares.BacheBiaPain.IR#230-%F0%9F%87%A8%F0%9F%87%A6CA_84_%40Surfboardv2ray
+vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=turkmenistan.armanibash.Shop.#231-%F0%9F%87%A8%F0%9F%87%A6CA_188_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyMzIt8J+HqPCfh6ZDQV81OF9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiJ6dWxhLmlyIiwicG9ydCI6NDQzLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqYWhma2poYS5jZmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6ImphaGZramhhLmNmZCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoic2FmYXJpIn0=
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=mmdv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=mmdv2.pages.dev#233-%F0%9F%87%A8%F0%9F%87%A6CA_373_%40Surfboardv2ray
+vmess://eyJ0eXBlIjoiIiwicHMiOiIyMzQt8J+HuvCfh7hVU180OV9AU3VyZmJvYXJkdjJyYXkiLCJhZGQiOiIxODguMTE0Ljk5LjE4MyIsInBvcnQiOjQ0MywiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiYW5kcm9pZCJ9
+vless://9c682edf-7e17-41d6-83e1-d7f6996a9542@speed.cloudflare.com:443?encryption=none&type=ws&path=%2FTELEGRAM-GH_V2RAYNG%3Fed%3D2560&host=vip1.yomato7390.workers.Dev&security=tls&alpn=h3%2Ch2&fp=android&fragment=tlshello%2C30-80%2C20-50&sni=vip1.yomato7390.workers.Dev#235-%F0%9F%87%A8%F0%9F%87%A6CA_234_%40Surfboardv2ray
+vless://f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@188.114.97.3:443?encryption=none&type=ws&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2560&host=MarGbAr3FasEd.PAgEs.Dev&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=MARGbaR3fasEd.PAGes.DEv#236-%F0%9F%87%A8%F0%9F%87%A6CA_419_%40Surfboardv2ray
