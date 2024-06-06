@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-privatevpns@13.36.24.53:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.36.24.53-351
 vmess://ewogICAgImFkZCI6ICIxMjguMTk5LjE2MS4yMzAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImJlZmQwODVhLTkxZjctNDYwOC1iYzQ1LWY0MGMxYWMyZjRiNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA5OSwKICAgICJwcyI6ICLwn4e48J+HrFNHLTEyOC4xOTkuMTYxLjIzMC0yNTkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://telegram-id-privatevpns@18.184.95.81:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.184.95.81-353
 trojan://telegram-id-privatevpns@16.170.150.39:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-16.170.150.39-354
@@ -603,3 +602,4 @@ vless://eb20ac7b-1462-4209-ab0d-c0e7d7a8bf69@172.67.73.163:2053?encryption=none&
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NjcyQVx1NzdFNV8wNTI4MTM0MzUiLA0KICAiYWRkIjogIjEwNC4xNi40NS4xMDIiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJjMDQ1M2ExNi02N2U5LTRlYWItYmRjOS1iOTYyNGFkNmJkMjkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFraGsueGxiOC5ldS5vcmciLA0KICAicGF0aCI6ICIvP2VkPTIwNDhcdTAwMjZUZWxlZ3JhbVx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGMyBAV2FuZ0NhaV84IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 trojan://70eb38a6-673c-4877-bceb-dbe6369fa210@it-full.privateip.net:443?security=tls&type=tcp&headerType=none#Italy
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.120.227:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.120.227%3A443
+vless://097e2594-dbbb-4a36-a5c7-6b8c8893c611@104.18.26.94:80?encryption=none&security=none&type=ws&host=esetsecuritylicense.wixel67553.workers.dev&path=%2F#4Mohsen-6043
