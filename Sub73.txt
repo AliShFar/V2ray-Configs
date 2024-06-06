@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@8h2k03.abzoones.xyz:36611?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_614%20github.com%2Fzengfr%2Ffree-vpn-subscribe
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4emIDEwfPCfh6jwn4em5Yqg5ou/5aSnMDQgZ2l0aHViLmNvbS96ZW5nZnIvZnJlZS12cG4tc3Vic2NyaWJlIiwNCiAgImFkZCI6ICI1YzFhMDQuYWJ6b29uZXMueHl6IiwNCiAgInBvcnQiOiAiMzY3MDEiLA0KICAiaWQiOiAiOTNlNWQyNGYtYzk5OS00ZWE4LTg0MjctY2Y1NDQ3ZDQ5Y2Q1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiNWMxYTA0LmFiem9vbmVzLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIDEwfPCfh7nwn4e85Y+w5rm+MDQgZ2l0aHViLmNvbS96ZW5nZnIvZnJlZS12cG4tc3Vic2NyaWJlIiwNCiAgImFkZCI6ICI4dDZ3MDQuYWJ6b29uZXMueHl6IiwNCiAgInBvcnQiOiAiMzYzMDEiLA0KICAiaWQiOiAiOTNlNWQyNGYtYzk5OS00ZWE4LTg0MjctY2Y1NDQ3ZDQ5Y2Q1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiOHQ2dzA0LmFiem9vbmVzLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4IDE3fOe+juWbvSAwNSB8IDF4IFVTIGdpdGh1Yi5jb20vemVuZ2ZyL2ZyZWUtdnBuLXN1YnNjcmliZSIsDQogICJhZGQiOiAiNGEydTBhMDUubWNmcm9udC54eXoiLA0KICAicG9ydCI6ICIzMTUwNiIsDQogICJpZCI6ICI2MjVhZjFjNy00YzRmLTRhYTktYmQ3ZS1kNTdjYTU2MTU4ZGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICI0YTJ1MGEwNS5tY2Zyb250Lnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-20.27.73.77-6838%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://d2eb7266-b912-4fc0-bcfb-47277251b506@tr.mjt001.com:443?security=tls&sni=tr.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-4.193.87.21-8702%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sg.mjt001.com:443?security=tls&sni=sg.mjt001.com&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-20.249.8.245-8707%20github.com%2Fzengfr%2Ffree-vpn-subscribe
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@103.172.116.103:9008#%F0%9F%87%B8%F0
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@103.172.116.94:9060#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_015
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@103.172.116.90:9060#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_016
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@103.172.116.103:9060#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_017
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.94:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_018
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.90:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_019
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.79:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_020
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@103.172.116.103:9057#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_021

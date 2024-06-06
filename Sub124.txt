@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://0db72b75-e1d3-4066-a2c4-c4cc58689efb@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Phoenix_Ti
+vless://f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@188.114.97.3:443?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MarGbAr3FasEd.PAgEs.Dev&fp=randomized&type=ws&sni=MARGbaR3fasEd.PAGes.DEv#%40v2ray_napster_vpn+%D8%B3%D8%B1%D9%88%D8%B1+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%92%9B
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=%2F%3Fed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#%40Vpnfree85
+vless://79473718-0451-41c3-a0a2-9f6d21c99f75@9052b030.joinmahdiserver-90p.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=9052b030.joinmahdiserver-90p.pages.dev&fp=randomized&type=ws&sni=9052b030.joinmahdiserver-90p.pages.dev#%40azad_intrnet
 vless://d398da39-efdb-42a3-baad-e974cd018ff2@185.218.20.178:2087?path=%2F%40DarkTeam_VPN+%7C+%40DarkTeam_VPN+%7C+%40DarkTeam_VPN+%7C+%40DarkTeam_VPN&security=none&encryption=none&host=speedtest.net&type=ws#%F0%9F%87%AB%F0%9F%87%AE
 vless://6af069ac-1c22-442e-9bda-adeb74923954@chanel.v2raystore.sbs:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=chanel.v2raystore.sbs#V2ray_store
 vless://62bb01bd-0ab0-4b19-8fe8-39d8dff3b806@discord.org.:8080?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&type=ws#%40Maznet-47130-%28MCI%29
@@ -599,7 +603,3 @@ vless://4422fd33-6f0b-4010-9ace-4904bd826123@35.220.185.18:23333/?type=tcp&encry
 vless://3fa6ad85-97c5-4cb3-b758-f49e9f2be872@104.31.16.242:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=bolbolvpn-join-us-1.rising-from-ashes.sbs&fp=chrome&type=ws&sni=bolbolvpn-join-us-1.rising-from-ashes.sbs#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Azarinargo%40%E2%9C%85
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.4.115:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒VL-GRPC-TLS🏴‍☠️NA-104.21.4.115:2087
 vless://9022898c-b615-43cf-8947-b144c48a2a9e@116.203.10.165:46541/?encryption=none&host=speedtest.net&type=tcp&headerType=http#@Capital_NET|MTN
-vless://ad3650a6-3f56-48d9-8a60-c1d2588a33d5@78.157.59.89:33820?path=%2FZarin3&security=none&encryption=none&type=ws#%40bored_vpn
-vless://128c4aaf-3ed1-4e38-a52d-878952ca19c9@188.114.98.224:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40igrsdet+%7C+Mkh
-vless://409f106a-b2f2-4416-b186-5429c9979cd9@54.38.144.4:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#%F0%9F%8C%BB%40proxy48+%F0%9F%87%B1%F0%9F%87%B7
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐈‍⬛️

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://211d102d-3ce7-4041-a7a5-595fed2ec147@new-fr-cd.shoponetop.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=safari&type=grpc&serviceName=xyz&sni=new-fr-cd.shoponetop.com#🔗 Vauth - 775
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.150.200:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔗 Vauth - 776
+vless://4fa68163-392c-4fbd-bdc2-a7da1ca241eb@190.93.244.170:8080?path=JoinToChannel______vistav2ray%2F%3Fed%3D2048&security=none&encryption=none&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun.&type=ws#🔗 Vauth - 777
+vless://7c0f232a-6ba3-4cbb-8491-bba6add92b68@217.60.252.121:6710?security=none&encryption=none&headerType=http&type=tcp#🔗 Vauth - 778
 vless://f8e5817e-8487-4239-be14-c1ea3284719c@62.60.210.143:29098?security=none&encryption=none&headerType=http&type=tcp#🔗 Vauth - 779
 vless://4fa68163-392c-4fbd-bdc2-a7da1ca241eb@zula.ir:8080?path=JoinToChannel______vistav2ray%2F%3Fed%3D2048&security=none&encryption=none&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun.&type=ws#🔗 Vauth - 780
 vless://3eda9399-5b7b-4317-9a92-21138164fa45@ch.ni-ham.info:2053?path=%2F%3Fed%3D2087&security=tls&encryption=none&alpn=h2&host=ajghg.f-vipo.ir&fp=chrome&type=ws&sni=ajghg.f-vipo.ir#🔗 Vauth - 781
@@ -599,7 +603,3 @@ vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@104.18.244.192:443?security=tls&sni
 vless://186c6afe-7234-4911-839f-77086e9b7278@141.101.120.237:2086?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 1372
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?security=tls&sni=sALAm-wOrD.pagEs.deV&type=ws&host=saLaM-Word.PaGeS.Dev#🔗 Vauth - 1373
 vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.95:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2,http/1.1#🔗 Vauth - 1374
-vless://8d06ea66-2372-48cd-848f-c48af4814690@104.18.61.189:2052?security=none&type=ws&host=穆罕默德侯赛因freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.#🔗 Vauth - 1375
-vless://c3114b07-95a6-4cb0-8bbd-b3f0931233b2@104.21.5.226:443?security=tls&sni=ir1.v-mizban.info&type=ws&path=/vqkubV5xX0Tulg7tx5HRa&fp=chrome#🔗 Vauth - 1376
-vless://146d4de0-ae98-411b-940c-03937947e1ef@172.66.47.190:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&path=%2FVIP&fp=randomized#🔗 Vauth - 1377
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.106.241:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 1378

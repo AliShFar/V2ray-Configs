@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://telegram-id-directvpn@3.136.16.17:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-3.136.16.17-0504
+trojan://telegram-id-directvpn@15.157.153.47:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-15.157.153.47-0505
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.186:2096?security=tls&sni=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.53.186-0506
+trojan://QbyLbiy1qb6J@13.124.213.75:14444?security=tls&sni=appsvs.shop#%F0%9F%87%B0%F0%9F%87%B7KR-13.124.213.75-0507
 trojan://telegram-id-directvpn@3.73.110.210:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.73.110.210-0508
 trojan://iwrfflNURpHQ@13.230.60.200:14472?security=tls&sni=appsvs.shop#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.60.200-0509
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.103:8443?security=tls&sni=tjjd.yzyx1.v6.army#%F0%9F%8F%81RELAY-104.19.53.103-0510
@@ -599,7 +603,3 @@ vmess://ewogICAgImFkZCI6ICIxNzIuNjcuODMuMjE5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICJpbi1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbi1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImlkIjogIjdhYzMzZDE1LWQ0YTMtNGNhZC04YzgzLWZlOTE2ZjBlYWYzYyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9SQUNFVlBOIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh67wn4ezSU4tMTM5LjE0NC41LjIxNC0wMTkxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 trojan://7FwCA6Z9SyIagBDz0OaY3ep88z0OaY3ep88lKn343pFjE3SyORcRlZqDxAuxXC3SyORcR@terture.meijireform.com:28332?security=tls&sni=terture.meijireform.com#%F0%9F%87%AF%F0%9F%87%B5JP-54.168.215.125-0189
 trojan://telegram-id-privatevpns@54.76.32.237:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.76.32.237-0187
-vmess://ewogICAgImFkZCI6ICIxNTIuNjkuMTk3Ljc0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiOGE2YmY1OC00ODVhLTQwNDYtYjM4Ni1iMzY2MWJmNjVlZmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTIzNDUsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xNTIuNjkuMTk3Ljc0LTAxODMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICJmcjItZnVsbC5wcml2YXRlaXAubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZnIyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsCiAgICAiaWQiOiAiZGJhYTI4Y2ItMDBhNy00MzZiLWIzM2MtMjUwMDA5N2MwMDllIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL1JBQ0VWUE4iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNzIuMjMyLjQzLjExMS0wMTcyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://SREqCp9nAFy38S4xK03YYRzOlxK03YYRzOlcBlDea3OXD5pgZyaZ2eN8j6CITw5pgZyaZ@154.17.24.163:28333?security=tls&sni=gobchang.koreanbbq.link#%F0%9F%87%BA%F0%9F%87%B8US-154.17.24.163-0171
-vmess://ewogICAgImFkZCI6ICJpZC1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpZC1mdWxsLnByaXZhdGVpcC5uZXQiLAogICAgImlkIjogIjBiYWMxYzA3LWNmNGMtNGYzNS1hOGQxLTFlOWI2MGE2OGE5ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9SQUNFVlBOIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh67wn4epSUQtMTcyLjIzMi4yNTAuMTYwLTAxNzAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
