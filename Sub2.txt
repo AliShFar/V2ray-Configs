@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://dba8f4ae-3b89-457b-b7e8-3361811efca4@79.133.108.4:443?security=tls&sni=vipclassc2.serveminecraft.net&type=ws&host=vipclassc2.serveminecraft.net&path=%2FVIPCLASSC&fp=chrome&alpn=http/1.1#%E4%B9%8C%E5%85%8B%E5%85%B0_060704009
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%B9%8C%E5%85%8B%E5%85%B0_060704010
-vless://61e4fe55-cecf-4094-8dd1-3f009924b757@45.94.169.231:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#%E4%B9%8C%E5%85%8B%E5%85%B0_060704011
 vless://e92f94a8-8a5c-4733-a8f0-6780f699d2d7@92.246.76.130:80?security=none&type=ws&host=speedtest.net&path=/@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-#%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6_060704001
 vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@minecraft.gamenetsaeed.monoplay.gamerme.ir:80?encryption=none&host=IRON.man.policeoficer-45.GAMERme.IR&path=%2F%3Fed%3D2048&security=none&type=ws#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_060704001
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.162.228.142:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_060704012
@@ -603,3 +600,6 @@ vless://790adf74-4e4d-4ae2-9fc4-121b95f77297@94.130.106.50:8443?security=reality
 vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?security=reality&sni=*.danishshakeel.me&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&sid=45796768#%E5%BE%B7%E5%9B%BD_060704131
 vless://6f9850ed-dcf3-4a9b-d2a8-a4d652e0dcca@49.13.20.56:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#%E5%BE%B7%E5%9B%BD_060704132
 vless://418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?security=reality&flow=xtls-rprx-vision&sni=www.openoffice.org&type=tcp&fp=chrome&pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&sid=4c9dbb0cb1f36dab#%E5%BE%B7%E5%9B%BD_060704133
+vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@157.90.145.163:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#%E5%BE%B7%E5%9B%BD_060704134
+vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#%E5%BE%B7%E5%9B%BD_060704135
+vless://d44b0cfe-b263-4366-b607-d702f285d275@49.13.239.9:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%E5%BE%B7%E5%9B%BD_060704136
