@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10819?allowInsecure=1#%e7%be%8e%e5%9b%bd12
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10826?allowInsecure=1#%e7%be%8e%e5%9b%bd13
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10822?allowInsecure=1#%e7%be%8e%e5%9b%bd14
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10823?allowInsecure=1#%e7%be%8e%e5%9b%bd15
@@ -602,4 +603,3 @@ trojan://906f1aec-2d77-4401-a848-9fb9f458a0fa@198.244.190.189:443?security=tls&s
 trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&type=ws&sni=t005.ylks.link&path=/&host=t005.ylks.link#US29
 ss://ZTZhMDQ3ZjAtNzM0Yi00YmQ3LTgyYWEtMzY3ZjJkODhmNGE0Og==@104.21.94.125:443#%E6%9C%AA%E7%9F%A552
 trojan://telegram-id-privatevpns@176.34.90.202:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A553%206.9MB%2Fs
-ss://M2FmM2EwZjMtMjhlYS00MDdjLWEzZGYtMmFlM2IzM2ZjMTc0Og==@50.7.85.221:443#%E6%9C%AA%E7%9F%A554

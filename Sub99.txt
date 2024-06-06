@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://telegram-id-directvpn@15.223.18.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://b3d27d09-77fe-431d-9829-6eba7dce20b0@207.46.158.23:443?sni=42.earths.team#
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40v2naptv+%F0%9F%87%AC%F0%9F%87%A7vless://c0362332-3034-4349-a6bc-5af616b0879e@217.60.249.87:2095?path=%2F&security=none&encryption=none&type=ws#%40v2naptv+%F0%9F%87%B3%F0%9F%87%B1vless://2f7f2980-72a3-4ba1-8576-c82c8b860e01@104.17.169.114:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#%40v2naptv+%F0%9F%87%AB%F0%9F%87%AEvless://e8a6ab24-ac50-457c-9053-de6836401191@23.227.60.130:80?path=%40HAJIMAMADVPN%3Fed%3D2048&security=none&encryption=none&host=bia-channel-hajimamadvpn.timeclassic.ir&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AAvless://MsV2ray-MsV2ray-MsV2ray@back.msv2ray.online:80?path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=www.zula.ir.www.cafebazaar.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&type=ws#%40v2naptv+%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-directvpn@54.72.217.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇮🇪Ireland-کانالتلگرام:@V2rayweb
 trojan://telegram-id-directvpn@35.180.206.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷France-کانالتلگرام:@V2rayweb
@@ -601,5 +603,3 @@ trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443?peer=ebank.bmi.i
 trojan://9af8332a-18ed-4a45-8610-0d0a392aa920@bacmlwrkoph.559xp5.cn:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC_Tel%3A%40v_p_lv
 trojan://cdaacb3e-00c4-4d6f-a63c-298cfb36e113@ovozhaws.ovonice.com:60006#%F0%9F%87%AF%F0%9F%87%B5JP_83
 trojan://98bae868-4f00-40e0-9603-8d848644ec44@1gzdx2.156786.xyz:37905?security=tls&sni=hkmax06.170203.xyz&type=tcp&headerType=none#%40disconnectedconfig
-trojan://a3bce210-eacc-11ee-be58-1239d0255272@zula.ir:443/?sni=de2.test3.net&type=ws&host=de2.test3.net&path=%2Fhowdy#Tel+Channel%F0%9F%91%89+configsCenter
-trojan://e9cbf46d-b166-4325-9d83-b197c2072e17@jp2.520748.xyz:10001?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_Tel%3A%40v_p_lv
