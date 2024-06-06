@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
 		},
@@ -601,5 +603,3 @@ vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&t
 vless://f0604697-d602-11ee-aaa8-00505603e70d@104.16.61.8:443?encryption=none&type=ws&path=%2Fwebsocket&host=st-fr-1.brocdn.com&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C10-50%2C20-50&sni=st-fr-1.brocdn.com#206-%F0%9F%87%A8%F0%9F%87%A6CA_414_%40Surfboardv2ray
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?encryption=none&type=ws&path=%2F&host=turkmenistan.armanibash.Shop.&security=tls&alpn=h2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C10-20&sni=turkmenistan.armanibash.Shop.#207-%F0%9F%87%A8%F0%9F%87%A6CA_205_%40Surfboardv2ray
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?encryption=none&type=ws&path=%2F%3Fed&host=mmdv2.pages.dev&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=mmdv2.pages.dev#208-%F0%9F%87%A8%F0%9F%87%A6CA_381_%40Surfboardv2ray
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=mmdv2.pages.dev#209-%F0%9F%87%A8%F0%9F%87%A6CA_382_%40Surfboardv2ray
-vless://1021bab6-5777-4ab2-b72c-f10e6391f72f@188.114.96.6:443?encryption=none&type=ws&path=%2FTelegram%20Join%3A%20%40DisVpn%2CTelegram%20Join%3A%20%40DisVpn&host=disvpn-channel.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-20%2C20-50&sni=disvpn-channel.pages.dev#210-%F0%9F%87%A8%F0%9F%87%A6CA_96_%40Surfboardv2ray

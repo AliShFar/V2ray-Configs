@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://ba34bf8f-e046-5934-a81e-b1612fb2d9b7@172.66.46.252:2095?security=none&type=ws&host=sugar.sugarbreakervpn.WorKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD_0606183507
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.102.179:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD_0606183508
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0606183509
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.75.178.96:443?security=tls&sni=zdy222.kpcloud.eu.org&type=ws&path=%2Fproxyip#%E7%BE%8E%E5%9B%BD_0606183510
 vless://2b383735-3c00-4cbd-8f7f-6e4e2a5e8ab6@172.67.189.222:443?security=tls&sni=cixoo.cixoo.store&type=ws&path=/ws&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%E7%BE%8E%E5%9B%BD_0606183511
@@ -601,5 +603,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.96:8443?security=tls&sni=j
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.21:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/@azarbayjab1/https://octohide.com/routertabrizm137.com/diamond_tm/t.me/azarbayjab1#%E8%8D%B7%E5%85%B0_060618335
 vless://80ce8c17-f249-471b-b78a-17a60f17b1be@188.114.96.0:80?security=none&type=ws&host=www.moji1372.buzz&path=/telegram/id/ov2ray#%E8%8D%B7%E5%85%B0_060618336
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.3:8880?path=/@ZEDMODEON+TEL#%E8%8D%B7%E5%85%B0_060618337
-vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:443?security=tls&sni=afjdh053dda.72386902d6.workers.dev&type=ws&host=afjdh053dda.72386902d6.workers.dev&fp=chrome#%E8%8D%B7%E5%85%B0_060618338
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#%E8%8D%B7%E5%85%B0_060618339
