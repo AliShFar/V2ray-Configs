@@ -3,54 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-      "mtu": 1280,
-      "fake_packets": "1-10"
-    },
-    {
-      "type": "wireguard",
-      "tag": "Warp-🇩🇪",
-      "detour": "Warp-🇮🇷",
-      "local_address": [
-        "172.16.0.2/32",
-        "2606:4700:110:8778:1c26:f6cc:cc7d:6082/128"
-      ],
-      "private_key": "0ESn2Lh8vCl9e8kPnvwr5ZO6gQr84jGy9jVNSo8BlGU=",
-      "server": "engage.cloudflareclient.com",
-      "server_port": 2506,
-      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "g9jx",
-      "mtu": 1280,
-      "fake_packets": "1-10"
-    },
-    {
-      "type": "dns",
-      "tag": "dns-out"
-    },
-    {
-      "type": "direct",
-      "tag": "direct"
-    },
-    {
-      "type": "direct",
-      "tag": "direct-fragment",
-      "tls_fragment": {
-        "enabled": true,
-        "size": "50-200",
-        "sleep": "5-15"
-      }
-    },
-    {
-      "type": "direct",
-      "tag": "bypass"
-    },
-    {
-      "type": "block",
-      "tag": "block"
-    }
-  ],
-  "route": {
-    "geoip": {
-      "path": "geo-assets/sagernet-sing-geoip-geoip.db"
     },
     "geosite": {
       "path": "geo-assets/sagernet-sing-geosite-geosite.db"
@@ -603,3 +555,51 @@ ss://ZDQ4MDM3MmYtNjU5Ni00MTc3LWFlODUtMjhhZjA3YWRmMWNiOg==@172.67.206.221:2053#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🇸🇪SE | 🟢 | ss | @DeamNet_Proxy | 17
 vmess://eyJhZGQiOiIxMDQuMjEuODMuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMwMi5meGlhb21pLnNicyIsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJobXMwMi5meGlhb21pLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWE5Q0YgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBvbmVjbGlja3ZwbmtleXMgfCAwIn0=
 vmess://eyJhZGQiOiIyMTcuMTYwLjQ1LjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRlMTg2Njc4LWZjY2EtNDMyNS1lNGJjLWIyOTE2YmRmNjcwOCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4ODgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3R0IgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBvbmVjbGlja3ZwbmtleXMgfCAxIn0=
+vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNTYiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG9uZWNsaWNrdnBua2V5cyB8IDIifQ==
+trojan://NISHIKUITAN222@125.139.249.241:17057?type=ws&host=t600.ylks.link&path=/&security=tls&sni=t600.ylks.link#🇰🇷KR | 🔴 | trojan | @oneclickvpnkeys | 3
+vmess://eyJhZGQiOiIyMDUuMjM0LjIzMS4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MGU4MjU4MS1iZDE0LTQ1MjctZjdkNi1lNzgyNGNkMjZmNTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMxNDMzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAb25lY2xpY2t2cG5rZXlzIHwgNCJ9
+vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJQbDIudm1lc3Muc2l0ZS4iLCJpZCI6IjE4ODZjNGE3LWMzOTUtNGFlZS1hMWEyLWE4MTY3MjJmNWQyOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBvbmVjbGlja3ZwbmtleXMgfCA1In0=
+vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG9uZWNsaWNrdnBua2V5cyB8IDYifQ==
+vmess://eyJhZGQiOiJjYXJldGFrZXIuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsImlkIjoiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9pdmlkZW9zLnNic1wvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBvbmVjbGlja3ZwbmtleXMgfCA3In0=
+vless://519f642b-29d4-453b-a9c6-21405b5d3640@185.146.173.58:80?path=/&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @Outline_Vpn | 1
+vless://9b86e0b6-7820-4e17-a70e-22cd2a0d8ec9@185.146.173.58:8080?path=/&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @Outline_Vpn | 2
+vless://81a2a36a-faf4-4547-879d-e2d4a839966b@185.146.173.58:8080?path=/&security=none&encryption=none&host=redc.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @Outline_Vpn | 3
+vless://2d836c1c-77bd-43dc-8e8d-a35bbc02c9c4@188.114.96.3:443?path=/VIP&security=tls&encryption=none&alpn=h2,http/1.1&host=v2ray1ng.pages.dev&fp=randomized&type=ws&sni=v2ray1ng.pages.dev#🚩CF | 🔴 | vless | @Outline_Vpn | 5
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @Outline_Vpn | 6
+vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#🇺🇸US | 🔴 | vless | @Outline_Vpn | 9
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#🚩CF | 🔴 | vless | @Outline_Vpn | 12
+vless://af6db950-cc84-467b-a68f-dfa06352a074@www.speedtest.net:8080?path=/&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#🇺🇸US | 🔴 | vless | @Outline_Vpn | 13
+vless://553f9a37-8966-40f8-b7f8-0e9d8e467aa0@80.75.213.62:5016?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @Outline_Vpn | 15
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/&security=tls&encryption=none&host=ton.apple&type=ws&sni=www.arizona.edu#🇺🇸US | 🔴 | vless | @Outline_Vpn | 16
+vless://e2175616-20c2-46a7-a1ea-c7e044bedad3@141.105.130.192:53397?security=none&encryption=none&headerType=none&type=tcp#🇺🇦UA | 🔴 | vless | @Outline_Vpn | 17
+vless://6b99dce7-99b0-4e80-97a6-2f517b048409@162.55.188.244:29947?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/TELEGRAM-PROXY_MTM/?ed=2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 145
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=/OyaFdNKpGFcX0BjG?ed&security=tls&encryption=none&host=MIumIumADrEkOsE.pAGeS.dev&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#🚩CF | 🔴 | vless | @prrofile_purple | 146
+vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYWhma2poYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgMTQ3In0=
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=/?ed=2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&fp=random&type=ws&sni=t-netplus-4vx.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 148
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.119.3:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 149
+vless://Telegram-ipV2Ray-ito@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 150
+vless://55797df0-89fd-4bd6-a3d4-348664783f90@chat.openai.com:8080?path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&encryption=none&host=de.过滤器.store.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 151
+vless://--UnlimitedDev--@185.146.173.18:8080?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.community.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 152
+vless://--UnlimitedDev--@join-unlimiteddev-vpn.unlimiteddev.site:8080?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.community.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 153
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/TELEGRAM-PROXY_MTM?ed=2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 154
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 155
+vless://84ddd05a-0e2a-4b7e-a0d2-f214bff4243b@gama.ir:443?mode=gun&security=tls&encryption=none&authority=xn--mgbUg7c2Am63G.joBfiNex.ir.&type=grpc&serviceName=/@custom_config?ed=2056&sni=xn--mgbUg7c2aM63g.jObfineX.ir.#🇺🇸US | 🔴 | vless | @prrofile_purple | 156
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 157
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#🚩CF | 🔴 | vless | @prrofile_purple | 158
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.18.202.232:2053?path=/vless-ws/?ed=2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=folani.iiipok.WOrKErS.DEv&fp=random&type=ws&sni=folani.iiipok.WOrKErS.DEv#🚩CF | 🔴 | vless | @prrofile_purple | 160
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/SiNABiGO-SiNABiGO?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#🚩CF | 🔴 | vless | @prrofile_purple | 161
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/?ed=2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 162
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/?ed&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 163
+vless://76d43f2c-6f0c-4c58-8358-37d9fe56352a@212.33.206.95:8099?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @prrofile_purple | 164
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/Telegram-@V2ray_Alpha/?ed=2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 165
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@xs.wxtv.cc:443?path=/?ed&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#🇺🇸US | 🔴 | vless | @prrofile_purple | 166
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?path=/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#🇺🇸US | 🔴 | vless | @prrofile_purple | 167
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/TELEGRAM-vpnAndroid2/?ed=2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 169
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=Tel-proxy_mtm/?ed=2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 171
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 172
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=/?ed=2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws&sni=t-netplus-4vx.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 173
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 174
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.36.210:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 175
+vless://03d04737-bb0e-4cd5-9139-f40b72a43fe9@185.146.173.187:80?path=@HAJIMAMADVPN,@HAJIMAMADVPN,@HAJIMAMADVPN?ed=2056&security=none&encryption=none&host=bia-channel-hajimamad-join-bede.golden-ping.ir&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 176
+vless://3fd6b8ec-5adf-4e55-87ca-ccef63a86ba7@185.146.173.134:8080?path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&encryption=none&host=ch2.dontbow.store.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 177
