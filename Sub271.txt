@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.103:9080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20102
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@46.137.236.48:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2015
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.79:9008#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2052
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.121.87.147:989#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%28the%20Republic%20of%29%201
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%201
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.103:9000#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20106
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.139.225.183:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20116
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.95.163.121:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%201
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@45.89.52.66:9014#%F0%9F%87%B9%F0%9F%87%B7%20Turkiye%203
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.59.156:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2037
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@103.172.116.103:9037#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2095
@@ -595,11 +603,3 @@ vless://f137cf75-6804-409d-8abd-fe6add2287a1@91.107.131.92:8443?security=reality
 vless://5c5f112c-1519-46a2-920f-4bf0f15c81b1@[::ffff:91.107.144.194]:27951?security=reality&sni=ftp.debian.org&fp=chrome&pbk=OP9rvwa3iCl6xeH-2gwqIKHylDFgXlANm96cgE3rcHw&sid=e7759d93&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-TCP-RLT%206%E2%83%A3
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:80?security=&fp=chrome&type=ws&path=/vYoLL0j3yXajA2rNVYyVkeSUkkM&host=viber.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NA%204%E2%83%A3
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:80?security=&fp=chrome&type=ws&path=/vYoLL0j3yXajA2rNVYyVkeSUkkM&host=internet.life.com.by&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NA%204%E2%83%A3
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.198:443?security=tls&sni=cfed.tgzdyz2.top&fp=chrome&type=ws&path=tg@zdyz2&host=cfed.tgzdyz2.top&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@45.80.111.49:443?security=tls&sni=toujiediansigema.5112233.xyz&fp=chrome&type=ws&path=TG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&host=toujiediansigema.5112233.xyz&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:443?security=tls&sni=admin2.pythonic-ai.com&fp=chrome&type=ws&path=/vYoLL0j3yXajA2rNVYyVkeSUkkM&host=admin2.pythonic-ai.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:443?security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=ws&path=/vYoLL0j3yXajA2rNVYyVkeSUkkM&host=vk.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@51.75.90.198:2096?security=tls&sni=telegram.org&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/moon&host=moon.norwaylovers.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@5.182.34.8:443?security=tls&sni=cfed.tgzdyz2.top&fp=chrome&type=ws&path=tg@zdyz2&host=cfed.tgzdyz2.top&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:443?security=tls&sni=admin2.pythonic-ai.com&fp=chrome&type=ws&path=/vYoLL0j3yXajA2rNVYyVkeSUkkM&host=5.75.236.28&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@51.75.90.198:2096?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/moon&host=moon.norwaylovers.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3

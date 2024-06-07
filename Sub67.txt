@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://f7724417-bdb4-4034-ea9c-869d3ab56305@104.21.48.86:443?security=tls&sni=zerov2shop.zershop.ir&type=ws&host=zerov2shop.zershop.ir&path=%2F&fp=randomized&alpn=h2,http/1.1#🔗 Vauth - 7209
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.186.28:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔗 Vauth - 7210
 vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?security=tls&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&type=ws&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&path=%2F#🔗 Vauth - 7211
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.38.206:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 7212
 vless://db055023-cbec-4e18-a6af-d10259933b01@104.21.25.86:443?security=tls&sni=uk1-vless.sshmax.xyz&type=ws&host=uk1-vless.sshmax.xyz&path=%2Fvless#🔗 Vauth - 7213
@@ -603,3 +601,5 @@ vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@23.227.39.179:2053?security=tls&sni
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.24.34:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=TELEGRAM...PROXY_MTM%3Fed%3D2048#🔗 Vauth - 7806
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@154.83.2.77:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔗 Vauth - 7807
 vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@103.184.45.60:2083?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔗 Vauth - 7808
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.9.129:80?security=none&type=ws&path=/blue#🔗 Vauth - 7809
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.19.244:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔗 Vauth - 7810

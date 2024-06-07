@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.238.19.131:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔗 Vauth - 4809
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.107.13:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔗 Vauth - 4810
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F%3Fed%3D2048#🔗 Vauth - 4811
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔗 Vauth - 4812
 vless://d0729562-0f87-4bf6-989f-c8406f3895cc@104.31.16.0:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔗 Vauth - 4813
@@ -603,3 +601,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.7.37:2083?security=tls&sni=j
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.47.197:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev#🔗 Vauth - 5406
 vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@104.21.5.179:8880?security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#🔗 Vauth - 5407
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?security=tls&sni=ooao14004.74gwenneth.workers.dev&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔗 Vauth - 5408
+vless://1ddb0898-5311-4b95-fd56-219ba7a7c6d8@172.67.182.46:2083?security=tls&sni=7gaaaaaaaaaaaaaaaaaaaab0z2p1lm9yzw.beinlifenow.website.&type=grpc&serviceName=Tel-irov2rayN-Tel-irov2rayN-Tel-irov2rayN-Tel-irov2rayN-Tel-irov2rayNTel-irov2rayN-&fp=chrome&allowInsecure=1#🔗 Vauth - 5409
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.7.161:443?security=tls&sni=yRE2-JUD7-Nn-72-oueHgA6-UEBAfx-23kl.PageS.dev&type=ws&path=%2FfoHXvgOiQE3S1zbF%2FdWFlMS5veG5ldHdvcmtzLmxpbms&fp=randomized#🔗 Vauth - 5410

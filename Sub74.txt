@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.189:4444#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29_030
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.189:443#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29_031
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.162.200.189:5499#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29_032
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.239:5004#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29_033
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.130:5004#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29_034
@@ -603,3 +601,5 @@ vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:443/?type=ws&encrypt
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@104.21.66.93:80/?type=ws&encryption=none&path=%2F%40vano_ganzzz&security=tls&sni=v2fly.milik-fukada.eu.org&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_053
 vless://f07b3068-6f32-4641-b191-7dc9efeeeab2@172.67.194.57:80/?type=ws&encryption=none&path=%2Fvless&security=tls&sni=nl1-vless.vpnhack.xyz&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_055
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@162.159.152.2:443/?type=ws&encryption=none&path=%40VPNHTTPInjectorfree&security=tls&sni=AzAdnET-semEj.PaGes.Dev&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_056
+vless://ee9164e2-4a05-4552-92bc-c0e05d2cf825@172.67.132.6:2096/?type=grpc&encryption=none&security=tls&sni=channel.v2bamdad.tech&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_057
+vless://ee9164e2-4a05-4552-92bc-c0e05d2cf825@104.21.4.113:2096/?type=grpc&encryption=none&security=tls&sni=channel.v2bamdad.tech&fp=chrome&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_058
