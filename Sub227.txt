@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+ss://aes-256-cfb:EXN3S3eQpjE7EJu8@103.172.116.94:9027#%F0%9F%9A%AB%F0%9F%87%B8%F0%9F%87%AC%20SG%20103.172.116.94%20%E2%97%88%20tcp%3A9027%20%E2%97%88%20Melbikomas%20UAB%20%2F%20Melbicom%20%E2%97%88%205ecba
 ss://aes-256-cfb:GeregetR8cvQHzYr@103.172.116.79:9030#%F0%9F%9A%AB%F0%9F%87%B8%F0%9F%87%AC%20SG%20103.172.116.79%20%E2%97%88%20tcp%3A9030%20%E2%97%88%20Melbikomas%20UAB%20%2F%20Melbicom%20%E2%97%88%20d3483
 ss://aes-256-cfb:GeregetR8cvQHzYr@103.172.116.103:9030#%F0%9F%9A%AB%F0%9F%87%B8%F0%9F%87%AC%20SG%20103.172.116.103%20%E2%97%88%20tcp%3A9030%20%E2%97%88%20Melbikomas%20UAB%20%2F%20Melbicom%20%E2%97%88%208c16a
 ss://aes-256-cfb:BwcAUZk8hUFAkDGN@103.172.116.79:9031#%F0%9F%9A%AB%F0%9F%87%B8%F0%9F%87%AC%20SG%20103.172.116.79%20%E2%97%88%20tcp%3A9031%20%E2%97%88%20Melbikomas%20UAB%20%2F%20Melbicom%20%E2%97%88%2014410
@@ -602,4 +603,3 @@ vless://8c63d8e1-a33d-48d9-9fa6-98dc2951d262@176.120.73.104:2095?type=ws&host=tr
 vless://3f4b7946-c800-4070-ba7a-f704c443f146@speed.cloudflare.com:2095?type=ws&host=tr2.vless.site&path=%2F-------------------------------------%40M_buy-------------------------------------%40M_buy-------------------------------------&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%2095.164.34.105%20%E2%97%88%20ws%3A2095%20%E2%97%88%20Stark%20Industries%20%E2%97%88%20ed44a
 vless://53015649-30e6-4f79-83cf-f457fb33f71e@speed.cloudflare.com:2095?type=ws&host=tr1.vless.site&path=%2Ftelegram_%40vlees_v2rayng&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20176.120.73.104%20%E2%97%88%20ws%3A2095%20%E2%97%88%20Stark%20Industries%20%E2%97%88%205b901
 vless://8c63d8e1-a33d-48d9-9fa6-98dc2951d262@speed.cloudflare.com:2095?type=ws&host=tr1.vless.site&path=%2FJoin-Telegram-Channel-%40AstroVPN_official&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20176.120.73.104%20%E2%97%88%20ws%3A2095%20%E2%97%88%20Stark%20Industries%20%E2%97%88%2052c06
-vless://8c63d8e1-a33d-48d9-9fa6-98dc2951d262@tr1.vless.site:2095?type=ws&path=%2FJoin-Telegram-Channel-%40AstroVPN_official&ed=2048&eh=Sec-Websocket-Protocol&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20TR%20176.120.73.104%20%E2%97%88%20ws%3A2095%20%E2%97%88%20Stark%20Industries%20%E2%97%88%2012c21
