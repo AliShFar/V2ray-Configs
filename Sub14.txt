@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.1:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048#%E8%8D%B7%E5%85%B0_060723204
+vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:443?security=tls&sni=zaq11000d.b835a8094d.workers.dev&type=ws&host=zaq11000d.b835a8094d.workers.dev&fp=chrome#%E8%8D%B7%E5%85%B0_060723205
+vless://80ae12c7-fb99-439b-95ee-94442dbc6b14@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&fp=chrome&alpn=http/1.1#%E8%8D%B7%E5%85%B0_060723206
 vless://edffff01-df77-42f3-9d02-359a449ab98e@188.114.98.54:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#%E8%8D%B7%E5%85%B0_060723207
 vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&sni=zamimm.e59b57f84c.workers.dev&type=ws&host=zamimm.e59b57f84c.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#%E8%8D%B7%E5%85%B0_060723208
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.94:2087?security=tls&sni=f43-OA8bTD-ud73-dh-Su38-d-2Jd9-nxhay2-I33-dce33-IbzY26.paGEs.DEV&type=ws&host=f43-Oa8btD-UD73-dH-SU38-D-2jD9-NXhAY2-I33-dCe33-iBzY26.paGes.DeV&path=%2F----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%E8%8D%B7%E5%85%B0_060723209
@@ -600,6 +603,3 @@ trojan://85ba209b-54d1-4aad-871e-98df4eb224bf@frontend.yijianlian.app:54530?allo
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40005?allowInsecure=1&sni=frontend.kuangbiaoyun.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320022
 trojan://cf82acfc-7b90-445e-ac4a-56ce0a48305a@frontend.yijianlian.app:54530?allowInsecure=1&sni=#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320024
 trojan://1468eae4-eb01-4b9f-ae8f-ce55c372d1af@frontend.yijianlian.app:54530?allowInsecure=1&sni=#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320025
-trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54570?allowInsecure=1&sni=frontend.yijianlian.app#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320036
-trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54000?allowInsecure=1&sni=frontend.yijianlian.app#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320037
-trojan://c75da6ec-2151-4191-bcde-1778a5c12cf7@frontend.yijianlian.app:54420?allowInsecure=1&sni=frontend.yijianlian.app#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320038
