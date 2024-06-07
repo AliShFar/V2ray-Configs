@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.211:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2Ftg%40zdyz2#%E4%B9%8C%E5%85%8B%E5%85%B0_060723001
 vless://dba8f4ae-3b89-457b-b7e8-3361811efca4@79.133.108.4:443?security=tls&sni=vipclassc2.serveminecraft.net&type=ws&host=vipclassc2.serveminecraft.net&path=%2FVIPCLASSC&fp=chrome&alpn=http/1.1#%E4%B9%8C%E5%85%8B%E5%85%B0_060723005
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@45.94.169.134:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#%E4%B9%8C%E5%85%8B%E5%85%B0_060723006
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E4%B9%8C%E5%85%8B%E5%85%B0_060723007
@@ -602,4 +603,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.56.168:22222?path=/telegram-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.235.187:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%E5%BE%B7%E5%9B%BD_060723115
 vless://-_VPNCUSTOMIZE_-@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%E5%BE%B7%E5%9B%BD_060723116
 vless://4c10355d-4269-43c1-96cb-e7a794d102fc@3.76.7.64:443?security=reality&encryption=none&pbk=mgL6BgbmKbzsngIMqe_PTsFdFBVuYJVkGoTDgIn3O2M&headerType=none&fp=firefox&spx=/powered-by-helpdesk/?utm_source=ticket-footer-lc&utm_medium=email&utm_campaign=www.tgju.org&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=39a26a2ba3b26562#%E5%BE%B7%E5%9B%BD_060723117
-vless://d23d58db-db92-45e1-be42-c4afa25c51f5@89.116.46.1:80?path=/&security=none&encryption=none&host=rcrc.numallas.sbs.&type=ws#%E5%BE%B7%E5%9B%BD_060723118
