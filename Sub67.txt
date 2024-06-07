@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:443?security=tls&sni=esetsecuritylicense.ujlqwtae.WOrkeRS.DeV&type=ws&host=esetsecuritylicense.ujlqwtae.WOrkeRS.DeV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔗 Vauth - 7281
-vless://b9855ce6-9aba-460e-bf45-e6b72be25cff@104.21.63.156:443?security=tls&sni=recvpn-recnew-itworld.rivasmed.com&type=ws&host=recvpn-recnew-itworld.rivasmed.com&path=%2Fitworld%2F12250#🔗 Vauth - 7282
-vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.12.49:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔗 Vauth - 7283
-vless://82489b7a-3176-49c5-a13c-c160e1270479@104.31.16.65:80?security=none&type=ws&host=farbod.farbod.farbod.themiddlemarket.store&path=%2Ftetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctelegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2CV2ray%2Ctetegram-%40notcoin_byr%2Ctelegram-%40notcoin_byr%2Ctelegram-%40notcoin_byr%3Fed%3D2048#🔗 Vauth - 7284
 vless://bae7c5b1-f203-4b88-ee67-70312508f5e6@185.146.173.82:2096?security=tls&sni=Tehran.Auiyf.com&type=grpc&serviceName=TEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config&fp=edge&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 7285
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.70.82:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 7286
 vless://719a68f9-d888-44ec-8ec6-6907ac8ee8d1@172.67.218.120:2083?security=tls&sni=parmo.wewosac651.workers.dev&type=ws&host=parmo.wewosac651.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔗 Vauth - 7287
@@ -603,3 +599,7 @@ vless://053988d9-01a5-4fa3-8284-d3bdf36f9c7e@45.159.218.107:8880?security=none&t
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.222.234:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 7878
 vless://af512043-6352-445e-ae8b-a453ca821703@104.19.54.50:8443?security=tls&sni=reza.yoxba.sbs&type=grpc&fp=chrome#🔗 Vauth - 7879
 vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&type=ws&path=%2F#🔗 Vauth - 7880
+vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:2095?security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 7881
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:443?security=tls&sni=T-neTPlus.pAgEs.DEv&type=ws&host=t-NETplUS.paGES.deV&path=%2F3az8RcYcqoxUULfw%2FNDcuMjQ1Ljg2LjIzMA%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔗 Vauth - 7882
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.197.64:8443?security=tls&sni=folani.iiipok.WoRKERS.deV&type=ws&host=folani.iiipok.WoRKERS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔗 Vauth - 7883
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.21.3.52:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔗 Vauth - 7884

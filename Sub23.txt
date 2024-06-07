@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://telegram-id-privatevpns@15.236.136.88:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5734
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A5735
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@13.75.91.209:443?#HK15
 trojan://auto@172.67.205.219:443?security=tls&type=ws&sni=esetsecuritylicense.nzuwcx.workers.dev&path=/?ed=2560&host=esetsecuritylicense.nzuwcx.workers.dev#%E6%9C%AA%E7%9F%A5736
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#%E6%9C%AA%E7%9F%
 ss://YTczYTdjM2YtZGUwNi00NTdhLTk3OWQtMzBhN2U3YTE5YjBiOg==@172.67.2.238:80#%E6%9C%AA%E7%9F%A51124
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&type=ws&sni=jobsapplyworld.com&path=6b777a91&host=jobsapplyworld.com#%E6%9C%AA%E7%9F%A51125
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#US518%20361.2KB%2Fs
+trojan://telegram-id-directvpn@51.21.65.113:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A51126

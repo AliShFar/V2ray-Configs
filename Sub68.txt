@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:2095?security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 7881
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:443?security=tls&sni=T-neTPlus.pAgEs.DEv&type=ws&host=t-NETplUS.paGES.deV&path=%2F3az8RcYcqoxUULfw%2FNDcuMjQ1Ljg2LjIzMA%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔗 Vauth - 7882
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.197.64:8443?security=tls&sni=folani.iiipok.WoRKERS.deV&type=ws&host=folani.iiipok.WoRKERS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔗 Vauth - 7883
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.21.3.52:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔗 Vauth - 7884
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.80.85:2096?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔗 Vauth - 7885
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔗 Vauth - 7886
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:80?security=none&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔗 Vauth - 7887
@@ -603,3 +599,7 @@ vless://a8e49ec8-3ea2-4d86-806c-6eb9951f439b@104.168.107.230:2053?encryption=non
 vless://03441c8a-a1ea-482e-9aa1-fa5760cabc3b@104.168.107.230:2058?encryption=none&flow=xtls-rprx-vision&security=reality&sni=theverge.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#🔗 Vauth - 8478
 vless://0e96666c-d51f-4f36-8b84-681ec603dceb@104.168.107.230:2082?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#🔗 Vauth - 8479
 vless://1a159aa3-67f1-4899-b510-57c4aa4c6d8b@104.168.107.230:2085?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#🔗 Vauth - 8480
+vless://8577979c-4681-4fef-8db2-349097a19cd8@104.168.107.230:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=proxmox.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#🔗 Vauth - 8481
+vless://0c340ed1-fcbb-4537-9d68-28678b510321@104.168.107.230:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=flightradar24.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#🔗 Vauth - 8482
+vless://04130a6d-ee3e-4b5a-a002-61c26f70ae1f@104.168.107.230:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sovrn.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#🔗 Vauth - 8483
+vless://033c0b7b-6286-4846-bac2-3ba4d35b66b9@104.168.107.230:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cj.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#🔗 Vauth - 8484
