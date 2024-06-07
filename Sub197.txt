@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@80.240.113.6:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@37.236.95.2:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@89.223.90.4:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@80.15.252.1:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.107.57:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:807#%F0%9F%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.111.114.133:8008#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A8008
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.111.114.133:9102#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A9102
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.133:8119#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A8119
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B5%F0%9F%87%AA%20PE-190.120.229.28%3A989
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.111.114.133:5498#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A5498

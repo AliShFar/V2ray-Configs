@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2b7b1c14-2dc4-4a23-ab6c-9fd3c52c1a59@188.114.96.3:443?path=%2F%40TLS_v2ray%2C%40TLS_v2ray%2C%40TLS_v2ray&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#%F0%9F%AB%80%E2%9D%A4%EF%B8%8F
-vless://b8bc34b3-cfd4-4a68-954d-67a8e38b6d49@bia-to2.unlimiteddev.site:8880?type=ws&security=none&host=UnlimitedDev.xn--oor01rm8hfr4c.site&path=/Telegram:@UnlimitedDev#@SHADOWROCKETV2RAY-1
 vless://98798168-20fa-4609-8b69-39ab86311bf2@104.20.11.224:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#vmessorg%20mci
 vless://c488b850-bdcc-431f-9453-e4b7d9dc0982@cdn.persianhub.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&alpn=h2&fp=chrome&security=reality&pbk=vturBwnX8_yWFKVonwTaElC3UyPlGFaIbeeic-ztmQ4&sid=a080#@Capital_NET|MTN
 vless://122742bc-dd5d-44bf-94ed-5ab6a0ed7ecb@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link1
@@ -603,3 +601,5 @@ vless://b0a5ff54-bbe6-4a06-acaf-b1dbb1d1d993@188.114.98.224:8080?path=%2F&securi
 vless://e8523818-8378-4597-801f-af62c97ae554@149.28.148.23:45953?type=tcp&path=%2F&host=whatsapp.net&headerType=http&security=none#free-x6p25xus
 vless://ed053a16-ee4b-4d0e-ad83-2e4266e7d974@104.31.16.92:80?security=none&encryption=none&type=ws&host=poland.heydasip.com&path=/#@v2ray03+جانننننن🎃
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.60.8:80?path=%2Fusers%3Fed%3D2048&security=none&encryption=none&host=ada3.qowch.com&type=ws#%F0%9F%A9%B5%40v2reyHiddify%F0%9F%92%93%F0%9F%92%93
+vless://10ff8d28-7556-4bfc-97e8-ca1194875801@mci.vpnprosec.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.SvnBuy.online#%F0%9F%87%A9%F0%9F%87%AA+%40REZADEHQAN_IR+%7C+FREE
+vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@172.67.143.102:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws#@Hope_Net-join-us-on-Telegram
