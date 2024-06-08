@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@public.bamarambash.monster:443?path=%40bypass_filter%2F&security=tls&encryption=none&host=bypass-filter.jnqauel.workers.dev&type=ws&sni=bypass-filter.jnqauel.workers.dev#telegram+%F0%9F%91%89%40bypass_filter%F0%9F%91%88
 vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@65.20.96.60:999?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ghbi.ir#%40IP_Ramzi+%7C+%D8%A8%D9%87+%D8%B3%D9%88%DB%8C+%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C
 vless://VPNCUSTOMIZE--VPNCUSTOMIZE@188.114.98.224:443?path=%2FRgE159%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=cdn.kellekcollection.com&fp=chrome&type=ws&sni=cdn.kellekcollection.com#%F0%9F%9A%80Join%3A%40V2rayng_anti
 vless://8b231fab-9669-4c46-8126-65e1ea527699@pishmania.outlineiran.online:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Outlinev2rayNG,@Outlinev2rayNG&sni=pishmabia.outlineiran.online#%F0%9D%95%86%F0%9D%95%A6%F0%9D%95%A3+%F0%9D%95%94%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9F%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%9D%3A%40v2rayngconfings
@@ -603,3 +602,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?type=ws&host=b458
 vless://Join--CUSTOMIZEV2ray@discord.gg:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=TMCUSTOMIZE.xn--79-pv2cvta065cac9302fea377a148g.tech.&type=ws#%F0%9F%9A%80Join%3A%40V2rayng_anti
 vless://78047fd6-2df5-43fd-8b9b-bfa804fe7441@All-ShhProxy.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy&sni=dl.PlV2ray.cfd#%40V2RRAY_NG
 vless://Telegram-ipV2Ray-opd@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&type=ws#%40sorenaa_vpn+%7C+%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C%D9%87+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%E2%98%91%EF%B8%8F
+vless://5dd71111-f477-4775-beed-2dea7ea60525@185.146.173.94:2095?security=none&encryption=none&type=ws&headerType=none&path=%252F&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.#🇩🇪@vpncostumer

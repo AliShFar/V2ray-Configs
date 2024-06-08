@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@94.176.183.12:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@80.240.124.4:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@87.120.106.5:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
-vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.61.24:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@87.120.106.10:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@79.133.108.26:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@5.188.133.11:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -603,3 +599,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989#%F0%9F%87%A8%F0%
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.134.94.175-2168
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-3691
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.152.53:9101#%F0%9F%87%BA%F0%9F%87%B8US-23.150.152.53-2305
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.72-2592
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.86.150:9102#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.150-2400
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@67.220.86.148:8000#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.148-2298
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-0633

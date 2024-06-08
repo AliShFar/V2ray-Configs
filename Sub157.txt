@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://d27e541c-d35a-4a64-a07f-72c25b3ac96d@5.161.145.51:2087?security=reality&encryption=none&pbk=tlF_plEDm3i3TJ-r89-ULhkPZJol25qijjg_B72TwBE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=a07f.com&sid=a59a328dab#telegram_@MPProxy
 vless://fa9be3bc-fcc3-44ea-bc23-3ff2311aba76@46.36.100.238:57357?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2rayngvpn
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.3:443?type=ws&security=tls&host=cf-wkrs-pages-vless-aoy.pages.dev&path=/?ed%3D2048&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%8C%8F+%7C+tm%7C%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA@V2rayZa
 vless://94ea53ae-f653-4385-989c-1a63368ff12d@188.114.96.2:2053?mode=gun&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=suping2.snapppfood.sbs#%40vipv2rey
@@ -603,3 +602,4 @@ vless://Telegram-ipV2Ray-pyt@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2
 vless://223f1312-9c24-4334-a1b9-7574087f5b7f@185.146.173.94:2095/?type=ws&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#%F0%9F%86%934%40oneclickvpnkeys
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=MaNsor427-pANeL2.PAGeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=maNSor427-pANel2.PAgES.DeV&path=%2FjU7p2gAXOkxbk0Lr%3Fed%3D2560#Telegram%3A%40config_proxy
 vless://23c5c88d-4a89-4947-9e21-0fe923b478f1@mci.mynor.ir:2052?path=%2F%40internet_nor&security=none&encryption=none&host=spa.internetnoor.cfd&type=ws#T.me/InterNet_Nor
+vless://302d2574-8365-4104-f49c-47698affa467@cdn-sw.independenttherapeutics.com:8443?path=%2F&security=tls&encryption=none&host=cdn-sw.independenttherapeutics.com&type=ws&sni=cdn-sw.independenttherapeutics.com#jt21076
