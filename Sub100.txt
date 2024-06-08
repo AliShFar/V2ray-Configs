@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-trojan://1ZTbMoSRnm@[2a04:52c0:122:f8a7::1]:2083?mode=multi&security=tls&alpn=h3,h2,http/1.1&fp=firefox&type=grpc&serviceName=/Telegram:@MikasaVPN&sni=mIkAsa.mEgAfAiR.sToRe#Join+Us%3A+@MikasaVPN
 trojan://NISHIKUITAN222@8.219.198.139:2053?path=%2F&security=tls&host=t226.ylks.link&type=ws&sni=t226.ylks.link#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://7IT3UWMz6O@207.148.77.215:4?mode=gun&security=tls&type=grpc&serviceName=&sni=static.whatsapp.com#Gg
 trojan://telegram-id-directvpn@13.38.226.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
@@ -603,3 +602,4 @@ trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobs
 trojan://telegram-id-directvpn@51.20.28.241:22222?security=tls&alpn=http/1.1&headerType=none&fp=safari&type=tcp&sni=trojan.burgerip.co.uk#%40Iran_v2ray_shop
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#Telegram%3A%40config_proxy
 trojan://Eh2xxT8MOMIkVwI9g11oOA@159.65.8.60:443?security=tls&type=ws&sni=store.steampowered.com#%F0%9F%9A%80+%28TMS_PUBLIC%29
+trojan://EQEaONr43j@xkalindu.xconfigz.win:29286?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=static.whatsapp.net#Mobitel%20WhatsApp-fe4mfadz

@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@hinet.mjt001.com:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%ACSG-4.193.87.21-9046%20github.com%2Fzengfr%2Ffree-vpn-subscribe
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@t-wn03.xingyunwu.top:50056?sni=xingyunwu.top&type=tcp&headerType=none#CF%7CTG%E9%A2%91%E9%81%93%E5%86%85%E9%9A%8F%E6%9C%BA%E6%97%B6%E9%97%B4%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80%20github.com%2Fzengfr%2Ffree-vpn-subscribe
+trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@1j8p01.abzoones.xyz:36821?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_624%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@1j8p01.abzoones.xyz:36801?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_622%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://9215d689-a562-43e4-b6ae-7b0d08026794@1j8p01.abzoones.xyz:36841?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_588%20github.com%2Fzengfr%2Ffree-vpn-subscribe
 trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@1j8p01.abzoones.xyz:36611?type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_619%20github.com%2Fzengfr%2Ffree-vpn-subscribe
@@ -600,6 +603,3 @@ vless://11e852ab-0d0f-4f11-b861-1883b1e55332@5.42.107.242:13428/?type=ws&encrypt
 vless://09284371-09ee-4ad7-a3f6-3b7bcd583999@89.221.224.13:80/?type=ws&encryption=none&path=%2Fvless&security=tls&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_005
 trojan://a87ee640-c059-11ee-ae64-1239d0255272@sg-4.test3.net:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_006
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_007
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNEk0YXBWZ0gxT1B6cWl4MmlDZjM4@195.2.76.71:60422#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg@213.183.44.17:8388#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_009
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29_010

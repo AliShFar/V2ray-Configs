@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.223.228.213:443#%F0%9F%87%BA%F0%9F%87%B8US-34.223.228.213-8265
 trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-34.219.52.119-8266
 trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-34.219.52.119-8268
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.40.74:443#%F0%9F%87%BA%F0%9F%87%B8US-34.219.40.74-8270
@@ -603,3 +602,4 @@ vmess://ewogICAgImFkZCI6ICIwODFkMWFhZC1yd2NzZzAtMW43anEuYm4ucDVwdi5jb20iLAogICAg
 
 
 vless://d07e0e50-0a47-44df-a98d-95ae9447e892@unlocked_worlld:1080/?type=tcp&encryption=none&security=tls#https%3A%2F%2Ft.me%2Funlocked_worlld
+vless://2f02034c-11cb-47de-8aee-4e868e9704d1@download.osgrid.org:443/?type=ws&encryption=none&host=yelan.yaemiko.cloudns.biz&path=%2FVLESS%2Fes-full.privateip.net&security=tls&sni=yelhhjan.yaemiko.cloudns.biz&alpn=http%2F1.1&fp=random#%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%AA%F0%9F%87%B8%20

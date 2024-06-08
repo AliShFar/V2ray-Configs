@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://257e8441-a1bf-49ed-917a-fc139a98deee@tel-xsv2ray.xalixv2ray.space:443?mode=multi&security=reality&encryption=none&pbk=3izA2Tb7f-9coLYseNqtFSe3zL2a9Q4N7SJE3DhE9gk&fp=chrome&spx=%2F&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=a2789275#%40XsV2ray-%
 vless://87a8eb41-01e0-4be3-88d9-1ddbc381cf28@185.146.173.59:80?type=ws&path=%2FTelegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&host=de4.cephalon.onflashdrive.app&security=none#Cephalon_VPN%20%F0%9F%87%A9%F0%9F%87%AA-%5B812%5D
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.132.75:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev&fp=randomized#%F0%9F%86%8E7%40oneclickvpnkeys
 vless://42ef4b34-7106-49ea-a874-ebbe03ec8e10@188.114.96.2:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=Maznet.maZmaZnet.store.#%40Maznet-47020-%28ALL%29
@@ -603,3 +602,4 @@ vless://6dc3d935-59ed-46de-8868-7b31f218ccd3@185.146.173.169:8880?path=%2FTelegr
 vless://335d72d5-5e83-4328-8915-8e5c6d0f69b9@162.159.134.234:8080?path=%2F&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#%40noori_93
 vless://528b52ae-1739-4087-8c60-16d71cc24833@maz.maznet.cfd:2083?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join20.maznet.cfd&fp=chrome&type=ws&sni=join20.maznet.cfd#%40Maznet-44830-%28MTN%29
 vless://1a7add6e-29fd-4155-8b54-2535f5ac1f5d@v2rayvpnalfa.yoxba.sbs:55684?security=reality&encryption=none&pbk=nxrrMpdk2PgB4u0B-c_SGVu7fnXKsXwod7bXsl3mdGs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudflare.com&sid=26c38572#Telegram%3A-+%40v2ray_vpnalfa
+vless://73b5f718-3a40-4090-8456-32bd7bf4e324@www.soft98.ir.wn.zula.ir.eksun.ir.speedtest.net.parspack.com.pcn.ir.wedbazforlife.cfd:41495?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#MTN+v2ray_youtube
