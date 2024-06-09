@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://4025e61e-b744-43fb-a97f-eea323c88a2b@185.146.173.9:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E7%91%9E%E5%85%B8_060913069
-vless://b5c71bcd-4f80-41e5-af95-efdf102ca8e8@185.146.173.94:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E7%91%9E%E5%85%B8_060913070
-vless://4afe9faa-26f4-4905-a399-dbbfbdcee402@185.146.173.9:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E7%91%9E%E5%85%B8_060913071
 vless://be590164-2b8f-4af5-982d-1f095fade122@185.146.173.94:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E7%91%9E%E5%85%B8_060913072
 vless://50d9244f-ed13-42c9-90c5-2ef4b48db3d1@185.146.173.9:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E7%91%9E%E5%85%B8_060913073
 vless://de112e30-8dc6-477b-919e-5787ecf03653@185.146.173.94:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%E7%91%9E%E5%85%B8_060913074
@@ -603,3 +600,6 @@ vless://9f0d517d-45d5-5596-b235-7dc981821997@172.67.187.38:2087?security=tls&sni
 vless://a99ab406-6967-47c4-b700-2ec169edceb1@172.67.173.10:2087?security=tls&sni=b.liopiol.ir&type=ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#%E7%BE%8E%E5%9B%BD_0609131497
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.64.81:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#%E7%BE%8E%E5%9B%BD_0609131498
 vless://1c11222d-1aca-4ef9-8872-bf0b8a55228d@172.66.47.104:443?security=tls&sni=pardazeshvpn-tg94.pages.dev&type=ws&host=pardazeshvpn-tg94.pages.dev&fp=chrome#%E7%BE%8E%E5%9B%BD_0609131499
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.16:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0609131500
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.30.171:2053?security=tls&sni=kk070.ylks.link&type=ws&path=%2Fblue#%E7%BE%8E%E5%9B%BD_0609131501
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E7%BE%8E%E5%9B%BD_0609131502

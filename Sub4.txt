@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://496475c7-bb33-4515-8b45-d5fd1ae423bb@104.16.60.8:2096?security=tls&sni=p.amniat.monster&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0609131547
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.42.35:8443?security=tls&sni=zdy800.kpcloud.eu.org&type=ws&path=/?ed#%E6%9C%AA%E7%9F%A5_0609131548
-vless://9f5b4bbf-a758-4801-875c-0d6903bb9efd@104.21.24.40:443?security=tls&sni=esetsecuritylicense.modezdlg.workers.dev&type=ws&host=esetsecuritylicense.modezdlg.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#%E6%9C%AA%E7%9F%A5_0609131549
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.62.208:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#%E6%9C%AA%E7%9F%A5_0609131550
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.8.35:443?security=tls&sni=BiA-paiN-BacHe.PAGeS.DEV&type=ws&host=bIA-PaiN-bacHe.PageS.DeV&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0609131551
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.4.237:8443?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=/blue#%E6%9C%AA%E7%9F%A5_0609131552
@@ -603,3 +600,6 @@ vless://3e796272-8a5f-4ac1-b1e5-dc78dbc7eeea@162.159.152.2:2052?security=none&ty
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@104.17.148.22:443?security=tls&sni=ppal03.mRs-otHO-rOLfsON.WOrkErS.DEv&type=ws&host=PpAL03.MRS-OTho-RoLFson.worKErS.dev#%E6%9C%AA%E7%9F%A5_0609132144
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.149.244:443?security=tls&sni=B458ab02.caa-chANel-WoRkER-PAge-freE-jhUihNUjhPHjkl-nIhgKjn.paGeS.DeV&type=ws&host=b458aB02.cAa-cHaneL-woRKeR-PAGe-fReE-jhUiHnuJhPhjKl-nIHgkJN.PAges.Dev&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0609132145
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.137.23:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#%E6%9C%AA%E7%9F%A5_0609132146
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.88.18:80?type=ws&host=us3.rtacg.com&path=#%E6%9C%AA%E7%9F%A5_0609132147
+vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@104.21.79.184:2096?security=tls&sni=esetsecuritylicense.shsxucu.woRKeRs.DeV&type=ws&host=esetsecuritylicense.shsxucu.woRKeRs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#%E6%9C%AA%E7%9F%A5_0609132148
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.99.245:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#%E6%9C%AA%E7%9F%A5_0609132149

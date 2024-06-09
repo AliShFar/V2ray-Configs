@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-0728
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@157.254.21.62:20000#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A55.26%20GB
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzUuNTciLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCAiaG9zdCI6ICJhLnByYXB0NC5pciIsICJwYXRoIjogIi8/ZWQ9MjA0OCZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBAV2FuZ0NhaTA4In0=
 vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1NTM3MFx1NWVhNiAgMyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMjQuMjQwIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJhLnByYXB0MS5pciIsICJwYXRoIjogIi8/ZWQ9MjA0OCZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyJ9
@@ -603,3 +601,5 @@ trojan://0896373c-7cd9-4221-b50d-9634990d6751@sg.v2yyds.cc:35212?allowInsecure=1
 trojan://0896373c-7cd9-4221-b50d-9634990d6751@sg.v2yyds.cc:35213?allowInsecure=1&sni=sg.v2yyds.cc#%e6%96%b0%e5%8a%a0%e5%9d%a13-1000M%e5%b8%a6%e5%ae%bd-%e8%a7%a3%e9%94%81%e6%b5%81%e5%aa%92%e4%bd%93
 ss://YWVzLTEyOC1nY206MTgyNjk2NzYtNzFhZS00NzZkLWI2ZDMtMjZjYTM5MTQyNGI5@ftp.cn.debian.cdnet.in:8070#US1(IEPL)%2b-%2b%e8%b4%9f%e8%bd%bd%e5%9d%87%e8%a1%a1%e4%b8%93%e7%ba%bf
 trojan://ce433528-39fa-4711-bc0d-25a5b1579574@us-05.licom.ml:12501?allowInsecure=1#%e5%ba%8f%e5%8f%b7+35683+3.76Mb%2fs+US+02%3a53%3a09
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@rn.v2yyds.com:31911?allowInsecure=1&sni=rn.v2yyds.com#%e4%bf%84%e7%bd%97%e6%96%af-100M
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38513?allowInsecure=1&sni=tw.suntory.lol#%e5%8f%b0%e6%b9%be3-600M%e5%b8%a6%e5%ae%bd-%e8%a7%a3%e9%94%81%e6%b5%81%e5%aa%92%e4%bd%93
