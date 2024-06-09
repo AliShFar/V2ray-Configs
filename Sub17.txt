@@ -3,6 +3,25 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+trojan://b84d16a244460e09@5.44.249.44:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=%2Fgateway%2Fconnect#%E8%8B%B1%E5%9B%BD%2BV2CROSS.COM
+trojan://TNDSJfNv@36.151.195.48:29841?security=tls&type=tcp&headerType=none#%E6%B1%9F%E8%8B%8F%E7%9C%81%2B%E7%A7%BB%E5%8A%A8
+trojan://telegram-id-directvpn@3.136.16.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAmazon%2BEC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+trojan://telegram-id-directvpn@15.157.153.47:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2B%E6%83%A0%E6%99%AEHP
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.186:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD%2BCloudFlare%E8%8A%82%E7%82%B9
+trojan://QbyLbiy1qb6J@13.124.213.75:14444?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E9%9F%A9%E5%9B%BD%2B%E9%A6%96%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-directvpn@3.73.110.210:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAmazon%2BEC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+trojan://iwrfflNURpHQ@13.230.60.200:14472?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%2B%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.103:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%E7%BE%8E%E5%9B%BD%2BCloudFlare%E8%8A%82%E7%82%B9
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&alpn=http%2F1.1&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI&mode=gun#%E7%BE%8E%E5%9B%BD%2BCloudFlare%E8%8A%82%E7%82%B9
+trojan://T8VyzpdmOiT9@3.148.117.229:14469?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAmazon%2BEC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+trojan://50404548-1d4d-4463-8b41-09694d2771bf@172.232.43.111:443?security=tls&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAkamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9
+trojan://85ESGc12V4zg@35.159.109.50:14449?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E5%BE%B7%E5%9B%BD%2B%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://gvbtKZOGiZMc@51.44.14.47:14462?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD%2B%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
+trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?security=tls&sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=%2Fwebsocket#%E4%B9%8C%E5%85%8B%E5%85%B0%2BV2CROSS.COM
+trojan://telegram-id-privatevpns@18.130.175.120:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD%2B%E4%BC%A6%E6%95%A6Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://h4mzFHfy2g0M@35.182.224.74:14441?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7%2B%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://E0002134H@104.21.43.145:2096?security=tls&sni=6504e90a.xpxroject.pages.dev&type=ws&host=6504e90a.xpxroject.pages.dev&path=%2F#%E7%BE%8E%E5%9B%BD%2BCloudFlare%E8%8A%82%E7%82%B9
+trojan://telegram-id-privatevpns@35.180.154.120:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%E6%B3%95%E5%9B%BD%2B%E5%B7%B4%E9%BB%8EAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://OE1IBsAueh@13.250.38.199:443?security=tls&sni=aka.ms&alpn=http%2F1.1&type=ws&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%2BAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-privatevpns@52.16.109.182:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%E7%88%B1%E5%B0%94%E5%85%B0%2B%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://VvfQOHxPLWG0@3.99.142.64:14450?security=tls&sni=appsvs.shop&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%2BAmazon%2BEC2%E6%9C%8D%E5%8A%A1%E5%99%A8
@@ -584,22 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?encryption=none&s
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#TG%40ZDYZ2%20-KR2
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+71
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#%F0%9F%87%BF%F0%9F%87%A6ZA-41.203.4.34-0751
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.79:9007#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0124
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+21
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.103:9084#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-3716
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7911
-à“`ñ!¶ia¶iejx
-vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZM6QGhrYWEw4paT576O5Zu9XzYiLCJhZGQiOiIxMDQuMjEuNjkuNDQiLCJwb3J0Ijo4MCwiaWQiOiI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJhLnByYXB0NC5pciIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#w.%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA.com
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzAuNTEiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsICJzbmkiOiAiIiwgImhvc3QiOiAiYS5wcmFwdDEuaXIiLCAicGF0aCI6ICIvP2VkPTIwNDgmVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS4yMzEuNTkiLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MDIyOTgyZi1kYTRjLTQ4YzktYzY2MC1iMjMxNWFiZGNmN2UiLCAic25pIjogIiIsICJob3N0IjogImEucHJhcHQ0LmlyIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZM6QGhrYWEw4paT576O5Zu9XzMiLCJhZGQiOiJ3d3cudmVsdmV0bW91bnRhaW4uc2hvcCIsInBvcnQiOjgwODAsImlkIjoiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3d3LnZlbHZldG1vdW50YWluLnNob3AiLCJwYXRoIjoiLyIsInRscyI6IiJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:5600#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-0829
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@zhuanfayyds.xn--pssq69d.xyz:64160#%E9%A6%99%E6%B8%AF%2002
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoibWFoaWx1LnNpdGUiLCJwb3J0IjoyMDUyLCJpZCI6IjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Im1haGlsdS5zaXRlIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.181-0736
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.65.165.75:8443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%A6%F0%9F%87%B9AT-212.113.106.243-0804
-hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#%E4%BD%BF%E7%94%A8%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%BD%AF%E4%BB%B6
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4er8J+Ht19GUl/ms5Xlm70iLCJhZGQiOiIxMDQuMjEuOC4xNTciLCJwb3J0IjoyMDgyLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InMxYy52Mi52MDAxc3NzLnh5eiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTY2LjE5MiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVhMS12bWVzcy5zc2htYXgueHl6IiwKICAgICJpZCI6ICJjZDFkYjgwOS0yZGUwLTQwOWMtYWVmNS04NjFlOTVlZmY1M2UiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE2Ni4xOTItMzcyNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
