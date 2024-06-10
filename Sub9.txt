@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:20001?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2Ftg%40zdyz2#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004003
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004004
-vless://c07fef7d-e8d2-42fe-b977-50e368f18293@1.0.0.0:443?flow=xtls-rprx-direct-udp443&encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004031
-vless://09d4b837-72f6-4f9f-a0fe-db52aea19564@194.195.125.6:2003?security=tls&sni=au-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004049
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.175:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004050
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004051
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.9.177.204:443?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004052
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@192.65.217.241:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_061004053
@@ -603,3 +598,8 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=/?ed=2560&se
 vless://ed55a560-b290-47b6-834a-1713e3a8d9f8@172.67.173.10:2087?Telegram=@V2RayTz,@V2RayTz&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=1024&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws#%E7%BE%8E%E5%9B%BD_0610041345
 vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?encryption=none&security=tls&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&alpn=h2,http/1.1&fp=randomized&type=ws&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&path=/telegram-proxy_mtm?ed=2560#%E7%BE%8E%E5%9B%BD_0610041346
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@Ld8.malimani.com:80?path=/DSDaswd22!11*fdfm55247.COM.&security=none&encryption=none&type=ws#%E7%BE%8E%E5%9B%BD_0610041347
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@b2n.ir:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=who-doesnt-care.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-doesnt-care.BacheBiaPain.IR#%E7%BE%8E%E5%9B%BD_0610041348
+vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?path=/websocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#%E7%BE%8E%E5%9B%BD_0610041349
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=vpnmarket-8bm.pages.dev&fp=chrome&type=ws&sni=vpnmarket-8bm.pages.dev#%E7%BE%8E%E5%9B%BD_0610041350
+vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?encryption=none&security=tls&sni=figr1.blackflag.blog&alpn=h2&fp=chrome&type=grpc&serviceName=jkrv2ry&mode=gun#%E7%BE%8E%E5%9B%BD_0610041351
+vless://6aeba177-ee11-41c0-9d51-5136a3032deb@66.235.200.51:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=capitalnet.buffalochest.cfd&fp=chrome&type=ws&sni=joinchannel.buffalochest.cfd#%E7%BE%8E%E5%9B%BD_0610041352
