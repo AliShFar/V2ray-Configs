@@ -3,6 +3,63 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+      "detour": "Warp-🇮🇷",
+      "local_address": [
+        "172.16.0.2/32",
+        "2606:4700:110:8778:1c26:f6cc:cc7d:6082/128"
+      ],
+      "private_key": "0ESn2Lh8vCl9e8kPnvwr5ZO6gQr84jGy9jVNSo8BlGU=",
+      "server": "engage.cloudflareclient.com",
+      "server_port": 2506,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "g9jx",
+      "mtu": 1280,
+      "fake_packets": "1-10"
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "50-200",
+        "sleep": "5-15"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "geoip": {
+      "path": "geo-assets/sagernet-sing-geoip-geoip.db"
+    },
+    "geosite": {
+      "path": "geo-assets/sagernet-sing-geosite-geosite.db"
+    },
+    "rules": [
+      {
+        "inbound": "dns-in",
+        "outbound": "dns-out"
+      },
+      {
+        "port": 53,
+        "outbound": "dns-out"
+      },
+      {
+        "clash_mode": "Direct",
         "outbound": "direct"
       },
       {
@@ -546,60 +603,3 @@ vless://378ac207-38d3-4401-ba96-3a7931968bc5@104.16.61.8:80?path=/http&security=
 vless://519f642b-29d4-453b-a9c6-21405b5d3640@185.146.173.58:80?path=/&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @Outline_Vpn | 6
 vless://9b86e0b6-7820-4e17-a70e-22cd2a0d8ec9@185.146.173.58:8080?path=/&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @Outline_Vpn | 7
 vless://81a2a36a-faf4-4547-879d-e2d4a839966b@185.146.173.58:8080?path=/&security=none&encryption=none&host=redc.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @Outline_Vpn | 8
-vless://2d836c1c-77bd-43dc-8e8d-a35bbc02c9c4@188.114.96.3:443?path=/VIP&security=tls&encryption=none&alpn=h2,http/1.1&host=v2ray1ng.pages.dev&fp=randomized&type=ws&sni=v2ray1ng.pages.dev#🚩CF | 🔴 | vless | @Outline_Vpn | 10
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @Outline_Vpn | 11
-vless://7718d474-fc86-43fc-b2b6-cb417d50f583@185.58.241.12:200?security=none&encryption=none&headerType=none&type=tcp#🇮🇷IR | 🔴 | vless | @Outline_Vpn | 12
-vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?path=/eOwMtmADY6cWup8R?ed=2560&security=tls&encryption=none&host=VPnerOr.sajAdHaDaDI.WEbSITe&type=ws&sni=vpNeRor.SAjadHADadi.WEbsiTe#🇺🇸US | 🔴 | vless | @Outline_Vpn | 14
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#🚩CF | 🔴 | vless | @Outline_Vpn | 17
-vless://af6db950-cc84-467b-a68f-dfa06352a074@www.speedtest.net:8080?path=/&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#🇺🇸US | 🔴 | vless | @Outline_Vpn | 18
-vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@clubofsocial.com:8880?path=/?ed=2048&security=none&encryption=none&host=channel-falcunargo.efa180b5d7.workers.Dev&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 144
-vless://6d9b7075-120f-4b11-a2d2-94070d841881@185.146.173.58:2095?path=/telegram-@ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420?ed=2048&security=none&encryption=none&host=V2ray-_-_-_-_-_-M9hoOSbgAU-lpAshK92.81Mv78Aq-0jS.ArviNbalUch.IR.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 145
-vmess://eyJhZGQiOiJXd3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQXNkZmdoamtsMTAudW5pcXVlNjkuY29tIiwiaWQiOiJjOGMxZTY1Mi1mZTM0LTRlMDQtODc5Zi1mZWE4OTQwZDc5ODAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBwcnJvZmlsZV9wdXJwbGUgfCAxNDcifQ==
-vmess://eyJhZGQiOiJUZ2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQXNkZmdoamtsMTAudW5pcXVlNjkuY29tIiwiaWQiOiJjOGMxZTY1Mi1mZTM0LTRlMDQtODc5Zi1mZWE4OTQwZDc5ODAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBwcnJvZmlsZV9wdXJwbGUgfCAxNDgifQ==
-vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?path=/@custom_config?ed=2056&security=none&encryption=none&host=92322070.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.&type=ws#🇮🇷IR | 🔴 | vless | @prrofile_purple | 149
-vless://f8dfb8df-075f-465a-b7c0-e12c02739878@185.146.173.9:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 150
-vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@discord.com:8080?path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&encryption=none&host=de2.过滤器.store.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 153
-vless://b78a744f-bd8a-4ff4-971a-985efb3ec6a5@185.146.173.94:8880?path=/Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray,Telegram-mainv2ray?ed&security=none&encryption=none&host=942.V2ray.debian.org.fxp.debian.org.speedtest.nEt.مین-ویتوری.らわなさらわ.mraLpha-vpn.COM.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 154
-vless://f1173a90-96e7-47c5-b3f2-bbd2edbeb296@185.146.173.58:2052?path=/@V2kingfree-@V2kingfree-@V2kingfree-@V2kingfree-@V2kingfree-@V2kingfree-@V2kingfree?ed=2048&security=none&encryption=none&host=2.ftp.debian.org.www.speedtest.net.人人人人人人人人人人.shop.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 155
-vless://65beaa04-2abb-4734-8318-592e160e45d7@185.146.173.20:80?path=/Telgram:@Client_Proo_Telgram:@Client_Proo_Telgram:@Client_Proo&security=none&encryption=none&host=client_pro0.列出男人的屁股他妈的哈梅内伊78.website.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 157
-vless://6e8526be-9875-416a-a04d-aa142fddaafe@[2607:5300:60:964a::34]:17784?security=none&encryption=none&headerType=none&type=tcp#❔XX | 🔴 | vless | @prrofile_purple | 158
-vless://15541f39-2a7b-4617-a22f-d800d1742d52@[2a0c:b641:6f0:55::2]:49364?security=none&encryption=none&headerType=none&type=tcp#❔XX | 🔴 | vless | @prrofile_purple | 159
-vless://6932b882-699d-46c2-b3a0-f89c9d44da52@[2a0d:5940:102:2::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=NlKirrhDevWZCWrrmo1Ob9mYgwNiukr8YiBYXzh9jVU&fp=chrome&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=710ebcfe#❔XX | 🔴 | vless | @prrofile_purple | 160
-vless://telegram-id-ArV2ray@185.146.173.94:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=9.V2ray.mihanyas.ir.kil.farsroid.com.的9.创优舍创优舍.Store.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 161
-vless://Parsashonam-84@www.visa.com:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 162
-vless://5e1579d3-f93c-4bdf-9eff-65445e90b9af@185.146.173.58:2082?path=VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM-VMESSKHODAM/VMESSKHODAM?ed=1024&security=none&encryption=none&host=V2ray-_-_-_-_beauvpn.lars1.nl.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 163
-vless://----DIGIv2ray----@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.iranseda.ir.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 164
-vless://c364a4e4-efcd-4730-b5d9-4d5ead59833f@185.146.173.94:8080?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 165
-vless://1021bab6-5777-4ab2-b72c-f10e6391f72f@188.114.96.6:443?path=/Telegram Join: @DisVpn,Telegram Join: @DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=disvpn-channel.pages.dev&fp=randomized&type=ws&sni=disvpn-channel.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 166
-vless://af6db950-cc84-467b-a68f-dfa06352a074@185.146.173.58:8080?path=/&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 167
-vless://UnlimitedDev-----------1@185.146.173.18:8080?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 169
-vless://526272f9-047d-44dc-8e62-afa29d84bcb8@81.12.93.83:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=http&type=tcp&sni=sha1.noobdog.shop#🇮🇷IR | 🟢 | vless | @prrofile_purple | 170
-vless://b8754da6-24e2-46fd-bf3d-ea8c050c5c6b@185.211.58.86:80?security=none&encryption=none&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @prrofile_purple | 171
-vless://4dd45d15-59b5-48ee-b81f-37e6ae1a5276@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=ymlZt4QJK8CcSzjnQMTTlt4gxp6dhPzgJXl1uRSJWk8&fp=chrome&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=1f240620#❔XX | 🔴 | vless | @prrofile_purple | 172
-vless://27b6e259-9c75-488a-ac60-9fcf520cadd2@141.105.130.195:29345?security=none&encryption=none&headerType=none&type=tcp#🇺🇦UA | 🔴 | vless | @prrofile_purple | 173
-vless://dc476965-a0a0-4602-bd0a-f0d53083a863@188.114.96.3:443?path=/Telegram Join: @DisVpn,Telegram Join: @DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=disvpn-channel.pages.dev&fp=randomized&type=ws&sni=disvpn-channel.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 174
-vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=jAviDSHAH-ArIamEhR.PageS.deV&fp=randomized&type=ws&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV#🚩CF | 🔴 | vless | @prrofile_purple | 175
-vless://b93949f5-97b9-41be-94fa-e8bec5083297@185.146.173.94:8080?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 176
-vless://5c402efa-95ff-49fd-a55c-fbc7770f9c06@94.182.131.230:58930?security=none&encryption=none&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @prrofile_purple | 177
-vmess://eyJhZGQiOiJUZ2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQXNkZmdoamtsMTAudW5pcXVlNjkuY29tIiwiaWQiOiI1ZjEyYjJlMC0xMWIwLTRiMWUtODYzYy0xNjRlNDYwNjAyOGMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmEiLCJwb3J0IjoiMjA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgMTc4In0=
-vmess://eyJhZGQiOiJXd3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQXNkZmdoamtsMTAudW5pcXVlNjkuY29tIiwiaWQiOiI1ZjEyYjJlMC0xMWIwLTRiMWUtODYzYy0xNjRlNDYwNjAyOGMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmFcL0BIb3NzZWluU3RvcmVfWmEiLCJwb3J0IjoiMjA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgMTc5In0=
-vless://----DIGIV2Ray----@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.iranseda.ir.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 181
-vless://Telegram-ipV2Ray-ftr@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.免费上网68.Site.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 182
-vless://67ac2966-c633-4fbe-92dd-8c666881c6de@162.159.254.222:8080?path=/?ed=2048&security=none&encryption=none&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 183
-vless://928d5b9a-8491-41ba-95fe-ae6d3b39579e@104.18.228.32:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🚩CF | 🔴 | vless | @customv2ray | 0
-vless://a47f2adb-7170-403c-96ae-0e879ffc2b8d@217.60.252.121:6710?security=none&encryption=none&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @customv2ray | 1
-vless://2cfa4f4d-1b67-4f54-aa7a-0181715be301@185.146.173.146:2095?path=/telegram-@Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Academi_vpn,telegram-Lookivpn,telegram-Academi_vpn,Mmdv2rayng-V2rayngmmd-telegram-mehran-v2ray?ed=22900&security=none&encryption=none&host=Mahdi.net.346ewfsgv2ray.Comxn--Adge2535.g1ewkjd.kajdWoek2qop.laVazem456di.GamermEcfz.IR.&type=ws#🇸🇪SE | 🔴 | vless | @customv2ray | 2
-vless://6e435f9f-25df-4101-9a5c-736a6858b8cb@94.182.222.29:12061?security=none&encryption=none&host=4x0iy8g7.soft98.ir&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @customv2ray | 3
-vless://7b5a7775-4006-49af-96c4-b2506a794f99@104.31.16.95:443?path=/9KsgRW1AnYtwZOVz&security=tls&encryption=none&alpn=h2&host=laj.iranianmobail.ir&fp=chrome&type=ws&sni=laj.iranianmobail.ir#🇺🇸US | 🔴 | vless | @customv2ray | 4
-vless://b87810d3-ec36-4a6b-b168-98637fdef66c@94.182.222.11:277?security=none&encryption=none&host=ezZboX5F.divarcdn.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @customv2ray | 6
-vless://3a4b13e3-5f1a-44e9-9feb-3578a76acb4c@www.speedtest.net:80?path=/vless&security=none&encryption=none&host=Be1.vless.site.&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 7
-vless://f650dbb3-d244-4a71-a8a2-2ee67d43a865@zula.ir:80?path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&encryption=none&host=ch2.dontbow.store.&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 8
-vless://SVNTEAM@zula.ir:80?path=/iran.ir?ed=2048&security=none&encryption=none&host=g1s.sportxshop.site.&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 9
-vless://c246daba-2caa-4364-8840-70117ee5cd80@joinbede3.vmessorg.community.:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 10
-vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.64.87.176:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&host=cfdy.yueuzi.dynv6.net&fp=random&type=ws&sni=cfdy.yueuzi.dynv6.net#🚩CF | 🔴 | vless | @customv2ray | 11
-vless://c246daba-2caa-4364-8840-70117ee5cd80@joinbede1.vmessorg.community.:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 14
-vless://5549ed2d-90a7-4ef3-8863-4ba490b3ee80@104.21.0.130:443?path=/?ed=2048&security=tls&encryption=none&host=v2rayfast.parsabhramabady615.workers.dev&fp=randomized&type=ws&sni=v2rayfast.parsabhramabady615.workers.dev#🚩CF | 🔴 | vless | @customv2ray | 15
-vless://fd08a503-a466-4bed-935a-8f1f573b0043@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 2
-vless://fd08a503-a466-4bed-935a-8f1f573b0043@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇸🇪SE | 🔴 | vless | @UnlimitedDev | 3
-vless://ecb24b35-eeac-4bc0-9d6c-fdba928a0023@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 4
-vless://ecb24b35-eeac-4bc0-9d6c-fdba928a0023@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇸🇪SE | 🔴 | vless | @UnlimitedDev | 5
