@@ -3,6 +3,28 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "148477AE146D474DFF2EA001FFF8DF35",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
 		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
@@ -581,25 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.181:8443?encryption=none&
 vless://f20c8c1e-af2f-41bd-a2e9-ded981302391@151.101.128.84:443?encryption=none&type=ws&path=%2Fws%2F&host=veloznet322.com.global.prod.fastly.net&security=tls&alpn=h3%2Ch2&fp=ios&fragment=tlshello%2C10-20%2C10-20&sni=pinterest.com#280-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-151.101.128.84%3A443
 vless://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.44.131:443?encryption=none&type=ws&host=9052b030.joinmahdiserver-90p.pages.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C10-50&sni=9052b030.joinmahdiserver-90p.pages.dev#281-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.44.131%3A443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.23.72:2096?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h3%2Ch2&fp=edge&fragment=tlshello%2C30-80%2C10-20&sni=jp009.ylks01.eu.org#282-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.23.72%3A2096
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.120.148:443?encryption=none&type=ws&host=mmdv2.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C20-50&sni=mmdv2.pages.dev#283-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.120.148%3A443
-vless://cf05ac74-1e65-46f8-bf9e-39375fb7fbb6@162.159.137.232:2086?encryption=none&type=ws&path=%2F%2FJdv2rayng-V2rayngjd-telegram-jd_vpn%3Fed%3D80&host=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.#284-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-162.159.137.232%3A2086
-vless://07631ca0-01f9-42fe-b8ad-bea5f8bb79e8@104.25.255.156:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=cc1.kosnanatfilterchi.eu.org&security=tls&alpn=h2&fp=edge&fragment=tlshello%2C30-80%2C10-20&sni=cc1.kosnanatfilterchi.eu.org#285-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.25.255.156%3A443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@172.67.75.194:8443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-50%2C20-50&sni=xin300.ylks.link#286-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.75.194%3A8443
-vless://de0a955c-dd4a-4e30-94f2-084f3b26a88c@104.21.19.241:8080?encryption=none&type=ws&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&security=none&alpn=h2&fp=edge&sni=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.#287-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.19.241%3A8080
-vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.20.151.9:8880?encryption=none&type=ws&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048&host=sinadfa.dugjup.workers.dev&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&sni=sinadfa.dugjup.workers.dev#288-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.20.151.9%3A8880
-vless://8028c698-7958-4c18-e7e9-869a3926d7ee@104.21.28.27:443?encryption=none&type=ws&path=%2Fdownloader%2F46072&host=ledzeppelin.ripita4433.workers.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C20-50&sni=ledzeppelin.ripita4433.workers.dev#289-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.28.27%3A443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:8443?encryption=none&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C20-50&sni=a.ssll.gay#290-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.81.247.19%3A8443
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.66.206:2082?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=malaysiadj.card-937.workers.dev&security=none&alpn=h2&fp=edge&sni=malaysiadj.card-937.workers.dev#291-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.66.206%3A2082
-vless://8bc555fb-010c-4856-9f59-cea5ad42784c@104.21.48.86:2083?encryption=none&type=ws&path=%2F&host=v2ray.kowlim.com%3A2053&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C10-20&sni=Jrslrsuksukrstjlddyk.kowlim.com#292-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.48.86%3A2083
-vless://6b99dce7-99b0-4e80-97a6-2f517b048409@162.55.188.244:29947?encryption=none&type=tcp&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=162.55.188.244#293-%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%A9%F0%9F%87%AA%20DE-162.55.188.244%3A29947
-vless://cbf5dd21-8313-4e04-a676-03ad0e9425c1@104.24.185.137:80?encryption=none&type=ws&host=v2kingfree.4.5.4.5.ir.speedtest.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.&security=none&alpn=http%2F1.1&fp=android&sni=v2kingfree.4.5.4.5.ir.speedtest.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.#294-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.24.185.137%3A80
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.42.88.53:443?encryption=none&type=ws&path=%2Fproxyip&security=tls&alpn=http%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-50&sni=xin002.ylks.link#295-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B1%F0%9F%87%BA%20LU-188.42.88.53%3A443
-vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?encryption=none&type=ws&path=%2FTelegram%20Channel%20%3A%20%40freeiranweb&host=workerr.hashdiler.workers.dev&security=none&alpn=h2&fp=chrome&sni=workerr.hashdiler.workers.dev#296-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.60.79%3A2052
-vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.203:2087?encryption=none&type=ws&host=LiV2rayd.yoyoyo.ir.&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C20-50%2C10-50&sni=LiV2rayd.yoyoyo.ir#297-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B1%F0%9F%87%B9%20LT-86.38.214.203%3A2087
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.45.3:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=ab-841-vpn.pages.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=ab-841-vpn.pages.dev#298-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.45.3%3A443
-vless://fa58c7c1-d042-46a1-be46-d15b384ca9e3@185.146.173.32:2086?encryption=none&type=ws&path=%2Findex.php%2FSeYeDMT&host=v2ray-_-_-_-_-_-seyyedmt.yahazrtabbassblogfamooshakbalestik.blog&security=none&alpn=h2&fp=ios&sni=v2ray-_-_-_-_-_-seyyedmt.yahazrtabbassblogfamooshakbalestik.blog#299-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%B8%F0%9F%87%AA%20SE-185.146.173.32%3A2086
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.69.109:80?encryption=none&type=ws&path=%2F&host=us1.rtacg.com&security=none&alpn=h3%2Ch2&fp=randomized&sni=us1.rtacg.com#300-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.69.109%3A80
-vless://5bad0d35-6fab-4044-d161-6d7633d639ae@18.238.192.3:443?encryption=none&type=ws&path=%2Fvless1&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C20-50&sni=app3-noizji4r.b4a.run#301-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-18.238.192.3%3A443
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.4.250:443?encryption=none&type=ws&host=bIA-paIn-baChe.pagES.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=biA-pAiN-BachE.PagEs.DEv#302-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.4.250%3A443
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?encryption=none&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=cf-wkrs-pages-vless-aoy.pages.dev#303-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.44.172%3A443
-vless://b48ee0fe-db2c-4e32-9d57-ac70c88ffa8d@104.21.95.147:2053?encryption=none&type=grpc&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=t5.funlifea.shop#304-%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.95.147%3A2053
