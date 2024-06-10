@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
-			"server" : "aiavnd1.vip.conectinnode.info",
-			"server_port" : 1611,
-			"server_udp_port" : 0,
-			"password" : "mtbv8n",
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "135238:ekBYebTKgsF",
 			"obfs" : "plain",
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
@@ -603,3 +589,17 @@ vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.203:2087?encryption=none&
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.45.3:443?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=ab-841-vpn.pages.dev&security=tls&alpn=h2&fp=randomized&fragment=tlshello%2C10-20%2C20-50&sni=ab-841-vpn.pages.dev#298-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.45.3%3A443
 vless://fa58c7c1-d042-46a1-be46-d15b384ca9e3@185.146.173.32:2086?encryption=none&type=ws&path=%2Findex.php%2FSeYeDMT&host=v2ray-_-_-_-_-_-seyyedmt.yahazrtabbassblogfamooshakbalestik.blog&security=none&alpn=h2&fp=ios&sni=v2ray-_-_-_-_-_-seyyedmt.yahazrtabbassblogfamooshakbalestik.blog#299-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%B8%F0%9F%87%AA%20SE-185.146.173.32%3A2086
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.69.109:80?encryption=none&type=ws&path=%2F&host=us1.rtacg.com&security=none&alpn=h3%2Ch2&fp=randomized&sni=us1.rtacg.com#300-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.69.109%3A80
+vless://5bad0d35-6fab-4044-d161-6d7633d639ae@18.238.192.3:443?encryption=none&type=ws&path=%2Fvless1&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&fragment=tlshello%2C10-20%2C20-50&sni=app3-noizji4r.b4a.run#301-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-18.238.192.3%3A443
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.4.250:443?encryption=none&type=ws&host=bIA-paIn-baChe.pagES.dev&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C20-50%2C10-20&sni=biA-pAiN-BachE.PagEs.DEv#302-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.4.250%3A443
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?encryption=none&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C20-50%2C10-20&sni=cf-wkrs-pages-vless-aoy.pages.dev#303-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.44.172%3A443
+vless://b48ee0fe-db2c-4e32-9d57-ac70c88ffa8d@104.21.95.147:2053?encryption=none&type=grpc&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C10-50%2C10-20&sni=t5.funlifea.shop#304-%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.95.147%3A2053
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.58.142:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=safari&sni=us3.rtacg.com#305-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.58.142%3A80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.39.77:80?encryption=none&type=ws&path=%2F&host=us3.rtacg.com&security=none&alpn=http%2F1.1&fp=ios&sni=us3.rtacg.com#306-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.39.77%3A80
+vless://ca1109ad-1841-4f5f-8560-87068615d595@104.21.74.214:8880?encryption=none&type=ws&path=%2Ftelegram-%40vipvpn%2Ctelegram-vipvpn%2Ctelegram-Maghzkade%2Ctelegram-vipvpn%2Ctelegram-maghzkadeh%2Ctelegram-vipvpn%2Ctelegram-maghzkadeh%2Ctelegram-v2ray%3Fed%3D2056&host=vip1cloudmaaghzkaadev2ray.v2rayng6.6.6.6.ir.com.vpn.nvp.chOoktaShaKoraBi.COM.&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=vip1cloudmaaghzkaadev2ray.v2rayng6.6.6.6.ir.com.vpn.nvp.chOoktaShaKoraBi.COM.#307-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.74.214%3A8880
+vless://ffc7d160-691c-4779-be0f-2ba5975edda7@5.181.23.38:80?encryption=none&type=ws&path=%252Fvless&security=none&flow=none&alpn=h3%2Ch2&fp=edge&sni=5.181.23.38#308-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%AA%F0%9F%87%AA%20EE-5.181.23.38%3A80
+vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@14.102.228.218:2095?encryption=none&type=ws&path=%2F&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&security=none&alpn=h3%2Ch2&fp=randomized&sni=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com#309-%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-14.102.228.218%3A2095
+vless://ec2e8ff7-e794-4ac4-9585-7ad28f188269@216.205.52.186:2053?encryption=none&type=ws&path=%2F%3Fed%3D2048&host=btoche.pages.dev&security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-20%2C10-50&sni=ec2e8ffV2ray7-e794-4ac4-9585-7ad28f188269btoche.pages.dev#310-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-216.205.52.186%3A2053
+vless://ba7611bd-90af-4c0f-aad2-190b873b3caf@172.67.188.156:443?encryption=none&type=grpc&security=tls&alpn=h2&fp=chrome&fragment=tlshello%2C10-20%2C10-50&sni=de1.v2vless.xyz#311-%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.188.156%3A443
+vless://88363077-79d2-441e-b96b-cd8e4346794d@172.67.211.180:8443?encryption=none&type=grpc&security=tls&alpn=h2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C10-50%2C20-50&sni=wed-vip-de-cdall.highposhako.ir#312-%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.211.180%3A8443
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.27.96.7:2053?encryption=none&type=grpc&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C20-50%2C10-20&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm#313-%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.27.96.7%3A2053
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:47580?encryption=none&type=ws&path=tg%40zdyz2&security=tls&alpn=http%2F1.1&fp=randomized&fragment=tlshello%2C30-80%2C20-50&sni=cfed.tgzdyz2.top#314-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%A6%F0%9F%87%BA%20AU-192.9.165.253%3A47580
