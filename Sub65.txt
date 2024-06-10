@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Configs
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Configs
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.19.215:443?security=tls&sni=bypassfilter.wrevdav.workers.dev&type=ws&host=bypassfilter.wrevdav.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#🔗 Vauth - 4645
-vless://82f69a1d-168b-41b1-994a-1e634b9338a9@104.21.48.29:443?security=tls&sni=frEe4AlL.KosnaNaTFIlterCHi.eu.Org&type=ws&host=fREe4aLl.KOSNaNatFilterCHI.Eu.ORG&path=%2F#🔗 Vauth - 4646
-vless://57e15194-5fca-43bf-9672-9a51578ece6e@162.159.15.252:2053?security=tls&sni=fix.ahwaz14.ir&type=grpc&serviceName=fix.ahwaz14.ir&fp=firefox&alpn=h2,http/1.1#🔗 Vauth - 4647
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.233.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔗 Vauth - 4648
 vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.86:443?security=tls&flow=xtls-rprx-vision&sni=guixgnu.com&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 4649
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.115.243:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 4650
@@ -603,3 +600,6 @@ vless://de039db6-1669-4f44-ad99-c2652094c2a3@85.133.178.195:25462?security=none&
 vless://e4600b59-5e4f-47ae-97ea-33a144fda802@104.21.92.122:2083?security=tls&sni=favorm.khorm.ir&type=ws&host=favorm.khorm.ir&path=%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%3Fed%3D2560#🔗 Vauth - 5242
 vless://3536ce67-8df1-445f-b9c2-66e55873fc88@[::ffff:6819:735]:443?security=tls&sni=denew1.atgolden.monster&type=grpc&serviceName=Hamid&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 5243
 vless://076ecea9-2c80-4b7f-ab81-c238d257a37b@104.21.64.104:2096?security=tls&sni=iraniyan.ahmadrezanpv.ir&type=grpc&serviceName=2087vless#🔗 Vauth - 5244
+vless://f5a23562-b67e-48fb-b474-09251bc1a339@104.21.46.172:2096?security=tls&sni=fv2ray.freedomfv2ray.lol&type=grpc&serviceName=@Fv2ray@Fv2ray@fv2ray@fv2ray@Fv2ray#🔗 Vauth - 5245
+vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.24.0.233:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔗 Vauth - 5246
+vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@104.21.28.188:8880?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.a.cloudfront.net.kiava.fun&path=%2F#🔗 Vauth - 5247
